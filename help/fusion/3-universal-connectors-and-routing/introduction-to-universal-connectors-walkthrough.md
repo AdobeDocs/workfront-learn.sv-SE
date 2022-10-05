@@ -1,0 +1,43 @@
+---
+title: Introduktion till Universal Connectors Walkthrough
+description: Lär dig hur du anropar Poke API via en HTTP-anslutning för att samla in och publicera information om en Pokemon-karaktär, allt i [!DNL Adobe Workfront Fusion].
+activity: use
+doc-type: feature video
+team: Technical Marketing
+kt: 9011
+exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
+source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+workflow-type: tm+mt
+source-wordcount: '146'
+ht-degree: 0%
+
+---
+
+# Genomgång av universella anslutningar
+
+## Översikt
+
+Om du använder ett Pokemon-tecken i ett kalkylblad kan du anropa Poke API via en HTTP-anslutning för att samla in och publicera mer information om det tecknet.
+
+![En bild av Fusion-scenariot](assets/universal-connectors-and-routing-1.png)
+
+## Introduktion till genomgång av universella anslutningar
+
+Workfront rekommenderar att du tittar på genomgången av videon innan du försöker återskapa övningen i din egen miljö.
+
+>[!VIDEO](https://video.tv.adobe.com/v/335270/?quality=12)
+
+### URL för övning
+
+Pokemon API-webbplats: https://pokeapi.co/
+
+URL för övning: https://pokeapi.co/api/v2/pokemon/{Character}
+
+>[!TIP]
+>
+>Om du vill ha stegvisa instruktioner för hur du slutför genomgången går du till [Introduktion till genomgång av universella anslutningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=en) träna.
+
+
+## Vill du veta mer? Vi rekommenderar följande:
+
+[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

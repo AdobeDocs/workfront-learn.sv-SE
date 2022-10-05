@@ -1,0 +1,48 @@
+---
+title: Lär dig mer om resurskapaciteten
+description: Resurskapaciteten visar antalet planerade timmar som tilldelats ett hemteam inom den filtrerade tidsperioden jämfört med teamets totala tillgängliga timmar.
+feature: Reports and Dashboards
+thumbnail: understand-the-resource-capacity-chart.png
+type: Tutorial
+role: User
+level: Beginner
+kt: 10046
+exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
+source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+workflow-type: tm+mt
+source-wordcount: '361'
+ht-degree: 0%
+
+---
+
+# Lär dig mer om resurskapaciteten
+
+Resurskapaciteten visar antalet planerade timmar som tilldelats ett hemteam inom den filtrerade tidsperioden jämfört med teamets totala tillgängliga timmar.
+
+Den här jämförelsen kan hjälpa dig att avgöra om du inte tilldelar tillräckligt med arbete till teamet eller om de kan drabbas av problem på grund av en hög arbetsbelastning. Klicka på ett teamnamn så visas ett Team-kapacitetsdiagram med mer information om teamets kapacitet för den filtrerade tidsperioden.
+
+Om du ser den här informationen blir det lättare att avgöra:
+
+* Om ett hemteam var övertilldelat eller undertilldelat.
+* Vilka hemteam som finns tillgängliga för jobbet.
+
+![En bild som visar en resurskapacitet med siffror i områden som beskrivs i punkterna nedan](assets/section-3-2.png)
+
+I diagrammet visas följande nyckelinformation:
+
+1. Hemmagruppernas namn är till vänster.
+1. Timmar är längst ned. Det här är x-axeln i diagrammet och beräknar till det timintervall som visas i team ovan.
+1. Cirkeln visar antalet planerade timmar som tilldelats hemteamet.
+1. Den lodräta raden visar det totala antalet timmar som är tillgängliga för hemteamet.
+
+## Använda diagrammet
+
+Du måste lägga till filter och välja ett datumintervall för att visa data i diagrammen i [!UICONTROL Förbättrad analys] Workfront. Om du har lagt till filter tidigare är de aktiva tills du tar bort dem.
+
+![En bild som visar ett diagram över resurskapacitet](assets/section-3-3.png)
+
+I resurskapaciteten kan du:
+
+* Håll muspekaren över teamlinjen för att se hur många timmar som fortfarande är tillgängliga för schemaläggning, hur många timmar som hemteamet ska klara av och det totala antalet arbetade timmar (märkt som över, under eller som kapacitet).
+* Exportera diagramdata med exportknappen i diagrammets övre högra hörn.
+* Klicka på hemteamets namn för att öppna teamets kapacitetstabell. Om du zoomar in till en kortare tidsram i teamkapacitetstabellen uppdateras de data som visas i resurskapaciteten.

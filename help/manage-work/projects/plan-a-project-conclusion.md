@@ -1,0 +1,40 @@
+---
+title: Planera ett projekt - granskning
+description: Granska de fem fälten i ett projekt som du ska fokusera på när du planerar ett projekt - uppgifter, varaktighet, planerade timmar, föregående aktiviteter och uppdrag.
+feature: Work Management
+type: Tutorial
+role: User
+level: Intermediate
+kt: 10152
+exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
+source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 0%
+
+---
+
+# Planera ett projekt - granskning
+
+Skaffa [!DNL  Workfront] projekt snabbt kommer igång med hjälp av en projektmall. Planera sedan projektet genom att först fokusera på följande fem områden:
+
+1. Uppgifter
+1. Varaktighet
+1. Planerade timmar
+1. Föregående
+1. Uppdrag
+
+När allt är klart ändrar du projektstatus till Aktuell för att göra projektet tillgängligt. I takt med att projektet fortskrider vill du hålla reda på hur arbetet går till, vilka problem som uppstår, vilka frågor som behöver besvaras och mycket mer. Kom ihåg... kan du hitta och hantera all den informationen i [!DNL Workfront]!
+
+<!---
+footer urls for the LP
+Plan a project 
+Edit projects
+Overview of the project planned start date
+Overview of the project planned completion date
+Tasks overview
+Task duration and duration types 
+Use task predecessors 
+Modify multiple user assignments in a task list
+Notifications: Information about work assigned to me 
+--->

@@ -1,0 +1,47 @@
+---
+title: När och hur användare inaktiveras eller tas bort
+description: Lär dig skillnaden mellan att inaktivera och ta bort användare. Hantera sedan användarprofiler efter organisationens behov.
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
+role: Admin
+level: Beginner
+thumbnail: 10037.jpeg
+kt: 10037
+exl-id: 89b7d083-97d3-4783-a61d-35226d6582c0
+source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+workflow-type: tm+mt
+source-wordcount: '280'
+ht-degree: 0%
+
+---
+
+# När och hur användare inaktiveras eller tas bort
+
+När en användare lämnar organisationen eller inte längre använder [!DNL Workfront]vill du inaktivera inloggningen. Du bör bara ta bort en användarprofil i vissa situationer.
+
+## Inaktivera
+
+När du inaktiverar en användare tas licensen bort från användarens profil, så att användaren inte längre kan logga in eller ha åtkomst till [!DNL Workfront]. Deras licens kan tilldelas en annan användare.
+
+En inaktiverad användare kan inte tilldelas nytt arbete, men de förblir tilldelade till allt befintligt arbete.
+
+En frilansares arbete är till exempel färdigt för ett visst projekt, så du vill inaktivera inloggningen tills nästa gång den behövs.
+
+## Ta bort
+
+I sällsynta fall - som en oavsiktlig inmatning eller en testanvändare - kan en användarinloggning behöva tas bort från [!DNL Workfront]. Om du tar bort en användare tas användarens association med objekt i bort [!DNL Workfront]— arbetsuppgifter, anteckningar, timmar, dokument, objekt som de har skapat osv.
+
+The **endast** tid [!DNL Workfront] rekommenderar att du tar bort en användare om användaren aldrig har tilldelats till jobbet eller inte har någon historik med Workfront-objekt.
+
+[!DNL Workfront] **starkt** rekommenderar att du inaktiverar en användare i stället för att ta bort en användare. När du inaktiverar behålls användarinformationen i [!DNL Workfront]som kan behövas för korrekt rapportering, projektledning osv. Om du har frågor om huruvida du ska inaktivera eller ta bort en användare kan du kontakta din [!DNL Workfront] konsult eller [!DNL Workfront] kundsupport.
+
+![Fler menyer med alternativ på [!DNL Users] page](assets/admin-fund-adding-users-11.png)
+
+### Inaktivera eller ta bort en användare
+
+1. Välj **[!UICONTROL Användare]** från [!UICONTROL Huvudmeny].
+1. Markera användaren genom att markera rutan bredvid namnet.
+1. Klicka på **[!UICONTROL Mer]** nedrullningsbar meny.
+1. Välj **[!UICONTROL Inaktivera]** eller **[!UICONTROL Ta bort]**.
