@@ -3,9 +3,9 @@ user-guide-description: Workfront självstudiekurser
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5caa6c2ae6e6791fdcb621bf13f46164ead1277c
+source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
 workflow-type: tm+mt
-source-wordcount: '2206'
+source-wordcount: '2212'
 ht-degree: 0%
 
 ---
@@ -573,6 +573,7 @@ ht-degree: 0%
       + [Lägga till och hantera teammedlemmar för en styrelse](boards/add-and-manage-team-members-for-a-board.md)
       + [Lägga till kort på en anslagstavla](boards/add-cards-to-a-board.md)
       + [Söka efter och skapa en anslagstavla](boards/find-and-create-a-basic-board.md)
+      + [Sök och sök på en anslagstavla](boards/find-and-search-in-a-board.md)
       + [Hantera kortkolumner](boards/manage-board-columns.md)
       + [Hantera kort på en anslagstavla](boards/manage-cards-on-a-board.md)
 
