@@ -3,9 +3,9 @@ user-guide-description: Workfront självstudiekurser
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
+source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
 workflow-type: tm+mt
-source-wordcount: '2212'
+source-wordcount: '2218'
 ht-degree: 0%
 
 ---
@@ -92,39 +92,39 @@ ht-degree: 0%
 
 + Hantera arbete {#manage-work}
    + Projekt {#projects}
-      + [Förstå grundläggande projektskapande](manage-work/projects/understand-basic-project-creation.md)
-      + [Förstå andra sätt att skapa projekt](manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [Hitta projekt](manage-work/projects/find-projects.md)
-      + [Dela ett projekt](manage-work/projects/share-a-project.md)
-      + [Navigera på projektsidan](manage-work/projects/navigate-the-project-page.md)
-      + [Kom igång med att planera ett projekt](manage-work/projects/getting-started-plan-a-project.md)
+      + [Ändra projektstatus](manage-work/projects/change-the-project-status.md)
       + [Fyll i projektinformationen](manage-work/projects/fill-in-the-project-details.md)
-      + [Ta ett projekt live](manage-work/projects/take-a-project-live.md)
+      + [Hitta projekt](manage-work/projects/find-projects.md)
       + [Kom igång med att hantera ett projekt](manage-work/projects/getting-started-manage-a-project.md)
+      + [Kom igång med att planera ett projekt](manage-work/projects/getting-started-plan-a-project.md)
+      + [Navigera på projektsidan](manage-work/projects/navigate-the-project-page.md)
+      + [Dela ett projekt](manage-work/projects/share-a-project.md)
+      + [Ta ett projekt live](manage-work/projects/take-a-project-live.md)
       + [Spåra projektets övergripande förlopp](manage-work/projects/track-overall-project-progress.md)
       + [Spåra arbetets förlopp med projektstatistik](manage-work/projects/track-work-progress-with-project-metrics.md)
+      + [Förstå grundläggande projektskapande](manage-work/projects/understand-basic-project-creation.md)
+      + [Förstå andra sätt att skapa projekt](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [Förstå projektkommunikation](manage-work/projects/understand-project-communication.md)
       + [Förstå [!UICONTROL Gantt] visa](manage-work/projects/understand-the-gantt-view.md)
       + [Visa projektinformation](manage-work/projects/view-project-information.md)
-      + [Ändra projektstatus](manage-work/projects/change-the-project-status.md)
    + Uppgifter {#tasks}
+      + [Tilldela uppgifter från projektplanen](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [Så här skapar du uppgifter](manage-work/tasks/how-to-create-tasks.md)
       + [Lär dig att sekvensera uppgifter](manage-work/tasks/learn-to-sequence-tasks.md)
       + [Förstå [!UICONTROL Arbetsinsats]](manage-work/tasks/understand-work-effort.md)
       + [Förstå överordnade-underordnade uppgifter](manage-work/tasks/understand-parent-child-tasks.md)
       + [Förstå planerade timmar](manage-work/tasks/understand-planned-hours.md)
       + [Förstå varaktigheter för uppgifter](manage-work/tasks/understand-task-durations.md)
-      + [Tilldela uppgifter från projektplanen](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [Arbeta med uppgifter](manage-work/tasks/work-with-tasks.md)
    + Problem/förfrågningar {#issues-requests}
+      + [Konvertera ärenden till andra arbetsuppgifter](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Skapa ett projekt från en begäran](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [Sök efter förfrågningar](manage-work/issues-requests/find-requests.md)
       + [Hantera oplanerade arbeten](manage-work/issues-requests/handle-unplanned-work.md)
       + [Gör en förfrågan](manage-work/issues-requests/make-a-request.md)
-      + [Sök efter förfrågningar](manage-work/issues-requests/find-requests.md)
       + [Hantera förfrågningar](manage-work/issues-requests/manage-incoming-requests.md)
-      + [Uppdatera en begäran](manage-work/issues-requests/update-a-request.md)
-      + [Skapa ett projekt från en begäran](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Konvertera ärenden till andra arbetsuppgifter](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Granska digitalt arbete](manage-work/issues-requests/review-and-approve-digital-work.md)
+      + [Uppdatera en begäran](manage-work/issues-requests/update-a-request.md)
       + [Hantera ärenden](manage-work/issues-requests/manage-issue-assignments.md)
       + [Rapportera problem](manage-work/issues-requests/report-on-issues.md)
    + Portfolio {#portfolios}
@@ -153,22 +153,22 @@ ht-degree: 0%
       + [Förstå datumtyper och förloppsstatus](manage-work/project-timelines/understand-task-dates-and-progress-status.md)
       + [Förstå projekttidslinjer](manage-work/project-timelines/understand-project-timelines.md)
    + Stänga ett projekt {#close-a-project}
+      + [Stänga ett projekt](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [Stäng aktiviteter och ärenden](manage-work/close-a-project/close-tasks-and-issues.md)
       + [Fullständiga godkännanden](manage-work/close-a-project/complete-approvals.md)
       + [Spela in lektioner](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [Logga och granska timmar](manage-work/close-a-project/log-and-review-hours.md)
       + [Överför resurser](manage-work/close-a-project/upload-assets.md)
-      + [Stänga ett projekt](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [Stänga en projektaktivitet](manage-work/close-a-project/close-a-project-activity.md)
    + Projektets ekonomi {#project-finances}
-      + [Förstå prestandamått](manage-work/project-finances/understand-performance-metrics.md)
-      + [Ställ in standardvärden för intäkter och kostnader för uppgifter](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [Hitta ekonomisk information](manage-work/project-finances/find-financial-information.md)
       + [Ställ in valutakurser](manage-work/project-finances/set-up-exchange-rates.md)
       + [Ställ in utgiftstyper](manage-work/project-finances/set-up-expense-types.md)
+      + [Ställ in standardvärden för intäkter och kostnader för uppgifter](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [Förstå finansiell åtkomst](manage-work/project-finances/understand-financial-access.md)
-      + [Uppdatera och granska ekonomi](manage-work/project-finances/update-and-review-finances.md)
-      + [Hitta ekonomisk information](manage-work/project-finances/find-financial-information.md)
       + [Förstå flera faktureringsräntor](manage-work/project-finances/multiple-billing-rates.md)
+      + [Förstå prestandamått](manage-work/project-finances/understand-performance-metrics.md)
+      + [Uppdatera och granska ekonomi](manage-work/project-finances/update-and-review-finances.md)
 
 
 
@@ -210,6 +210,8 @@ ht-degree: 0%
       + [Förstå inbyggda uppgiftsfilter](reporting/intermediate-reporting/open-built-in-task-filters.md)
       + [Förstå inbyggda problemfilter](reporting/intermediate-reporting/open-built-in-issue-filters.md)
       + [Grundläggande textläge för filter](reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [Förstå det grundläggande textläget för vyer](reporting/intermediate-reporting/basic-text-mode-for-views.md)
+      + [Grundläggande textläge för grupperingar](reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [Skapa egna uppmaningar](reporting/intermediate-reporting/custom-prompts.md)
    + Avancerad rapportering {#advanced-reporting}
       + [Välkommen till avancerad rapportering](reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -573,7 +575,6 @@ ht-degree: 0%
       + [Lägga till och hantera teammedlemmar för en styrelse](boards/add-and-manage-team-members-for-a-board.md)
       + [Lägga till kort på en anslagstavla](boards/add-cards-to-a-board.md)
       + [Söka efter och skapa en anslagstavla](boards/find-and-create-a-basic-board.md)
-      + [Sök och sök på en anslagstavla](boards/find-and-search-in-a-board.md)
       + [Hantera kortkolumner](boards/manage-board-columns.md)
       + [Hantera kort på en anslagstavla](boards/manage-cards-on-a-board.md)
 
