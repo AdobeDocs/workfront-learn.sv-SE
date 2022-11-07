@@ -1,14 +1,14 @@
 ---
 title: Avancerad aggregering
-description: Lär dig hur du använder grupperingar vid sammanställning. (Ska innehålla mellan 60 och 160 tecken, men är 49 tecken)
+description: Ring en webbtjänst för att returnera information om flera länder och identifiera populationen, grupperad efter underregion.
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Ring en webbtjänst om du vill returnera information om flera länder och identi
 
 1. Skapa ett nytt scenario och ge det namnet&quot;Avancerad aggregering&quot;.
 1. Ställ in utlösarmodulen på en HTTP - Gör en begärandemodul.
-1. Använd den här URL:en https://restcountries.eu/rest/v2/ lang/es, som ger dig en lista över alla länder där spanska talas.
+1. Använd den här URL:en https://restcountries.com/v2/lang/es, som innehåller en lista över alla länder där spanska talas.
 1. Låt metoden vara Get.
 1. Klicka i kryssrutan Tolka svar.
 1. Byt namn på den här modulen till Hämta länder.
@@ -44,12 +44,12 @@ Ring en webbtjänst om du vill returnera information om flera länder och identi
 
    **Du måste samla in information om underregioner för varje land, så du måste göra en extra HTTP-begäran.**
 
-1. Lägg till ytterligare en begäran om att få information om underregioner. Det kommer bara att återlämna det första landet, men det är okej för tillfället. Lägg till ytterligare en HTTP Gör en begäran-modul och använd URL:en https://restcountries.eu/rest/v2/name/.
+1. Lägg till ytterligare en begäran om att få information om underregioner. Det kommer bara att återlämna det första landet, men det är okej för tillfället. Lägg till ytterligare en HTTP Gör en begäran-modul och använd URL:en https://restcountries.com/v2/name/.
 1. Om du vill hämta namnet på det första landet går du till mappningspanelen och klickar på Data och sedan på Namn i arrayen. The [1] i datafältet betyder att det returnerar det första objektet i arrayen.
 
    + Klicka på numret och ändra indexet om det behövs, men i det här fallet vill du bara ha det första objektet.
 
-   ![Avancerad aggregeringsbild 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
+![Avancerad aggregeringsbild 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
 
 1. Markera Analysera svar på mappningspanelen och klicka sedan på OK.
 1. Byt namn på&quot;Hämta landsuppgifter&quot;.
