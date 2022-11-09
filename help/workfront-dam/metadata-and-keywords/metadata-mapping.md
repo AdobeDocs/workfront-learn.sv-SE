@@ -7,9 +7,9 @@ role: Admin
 level: Intermediate
 kt: 10088
 exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 2e0555a45d753a56628cf748537a6007ed548206
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ När den här anslutningen är upprättad kan du börja mappa metadata mellan de
 1. I fältet Workfront anger du fältkällan för [!DNL Workfront] fält att mappa.
 1. Välj sedan motsvarande mål eller mål **[!UICONTROL Workfront DAM]** metadatafält.
 1. Klicka på **[!UICONTROL Lägg till mappning]** -knappen.
-1. Du ser [!UICONTROL Workfront Field Source] och [!UICONTROL Workfront DAM-målfält] i diagrammet längst ned i fönstret.
+1. Du kommer att se [!UICONTROL Workfront Field Source] och [!UICONTROL Workfront DAM-målfält] i diagrammet längst ned i fönstret.
 1. Upprepa för alla metadatafält du vill använda.
 
 ![En skärmbild av [!UICONTROL Metadatamappning] skärm in [!DNL Workfront]](assets/01-metadata-mapping.png)
