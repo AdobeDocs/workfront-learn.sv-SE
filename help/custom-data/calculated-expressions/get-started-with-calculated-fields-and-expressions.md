@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: gs-calc-fields-expressions.png
 exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: f81d156b4058bec70bc3256efda6f85746f0f625
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 <!-- **Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.-->
 
-[!DNL Workfront] innehåller en mängd olika områden som är gemensamma för flera olika affärsområden och som ofta används för arbetshantering. Fält som planerat slutförandedatum, projektbudget, namn på tilldelad uppgift osv.
+Workfront har ett antal områden som är gemensamma för flera olika affärsområden och som ofta används för att hantera arbetet. Fält som planerat slutförandedatum, projektbudget, namn på tilldelad uppgift osv.
 
 Men varje organisation har data som är specifika för dess bransch och företag som behöver samlas in för att förstå om företagets mål uppfylls. Din organisation vill till exempel hålla reda på:
 
@@ -33,10 +33,6 @@ Men varje organisation har data som är specifika för dess bransch och företag
 Denna inlärningsväg fokuserar på beräkningsfältet. Du får lära dig vad ett beräkningsfält är, de olika typer av information som du kan hämta in i beräkningsfältet med hjälp av datauttryck och hur du skapar dessa beräkningsfält för att förbättra din datainsamling och rapportering.
 
 ![Resurshantering - konfigurera en sökare](assets/GS01.png)
-
-**Påminnelse om anpassat formulär**
-
-Fält är objektspecifika. Om du till exempel skapar ett beräkningsfält i ett anpassat formulär för en uppgift kan du använda det fältet i alla uppgiftsrapporter.
 
 ## Vad är ett beräknat fält?
 
@@ -55,7 +51,7 @@ Med hjälp av uttryck i ett beräkningsfält kan du ta med all information som r
 
 ![Arbetsbelastningsutjämnare med utnyttjanderapport](assets/GS03.png)
 
-Beroende på vilka data som behövs kan beräkningsfält vara enkla, använda ett eller två uttryck, eller mer komplicerade, med flera inbäddade uttryck. Kom ihåg att [!DNL Workfront] kan bara använda data som redan är lagrade eller hämtade till systemet för beräkningsfält.
+Beroende på vilka data som behövs kan beräkningsfält vara enkla, använda ett eller två uttryck, eller mer komplicerade, med flera inbäddade uttryck. Kom ihåg att Workfront bara kan använda data som redan är lagrade eller hämtade i systemet för beräkningsfält.
 
 ## Textuttryck
 
@@ -69,8 +65,9 @@ Textuttryck kan till exempel användas för att:
 
 * Skapa en rapport som visar alla projekt som inte har tilldelats en portfölj och/eller ett program så att du kan använda den i dina chefsmöten.
 
-Textuttryck kan användas i ett anpassat fält för att göra den här typen av sökningar och kombinationer i [!DNL Workfront].
-TE När du tittar på möjliga textuttryck finns det flera alternativ.
+Textuttryck kan användas i ett anpassat fält för att göra den här typen av sökningar och kombinationer i Workfront.
+
+När du tittar på möjliga textuttryck finns det flera alternativ.
 
 ![Resurshantering - konfigurera en sökare](assets/TE01.png)
 
