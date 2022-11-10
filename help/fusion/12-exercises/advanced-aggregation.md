@@ -6,13 +6,13 @@ role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
+exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
+source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
-
 
 # Avancerad aggregering
 
@@ -32,7 +32,7 @@ Ring en webbtjänst om du vill returnera information om flera länder och identi
 
 1. Skapa ett nytt scenario och ge det namnet&quot;Avancerad aggregering&quot;.
 1. Ställ in utlösarmodulen på en HTTP - Gör en begärandemodul.
-1. Använd den här URL:en https://restcountries.com/v2/lang/es, som innehåller en lista över alla länder där spanska talas.
+1. Använd denna URL, `https://restcountries.com/v2/lang/es`, som ger er en lista över alla länder där spanska talas.
 1. Låt metoden vara Get.
 1. Klicka i kryssrutan Tolka svar.
 1. Byt namn på den här modulen till Hämta länder.
@@ -44,7 +44,7 @@ Ring en webbtjänst om du vill returnera information om flera länder och identi
 
    **Du måste samla in information om underregioner för varje land, så du måste göra en extra HTTP-begäran.**
 
-1. Lägg till ytterligare en begäran om att få information om underregioner. Det kommer bara att återlämna det första landet, men det är okej för tillfället. Lägg till ytterligare en HTTP Gör en begäran-modul och använd URL:en https://restcountries.com/v2/name/.
+1. Lägg till ytterligare en begäran om att få information om underregioner. Det kommer bara att återlämna det första landet, men det är okej för tillfället. Lägg till ytterligare en HTTP Gör en begärandemodul och använd URL `https://restcountries.com/v2/name/{country name}`.
 1. Om du vill hämta namnet på det första landet går du till mappningspanelen och klickar på Data och sedan på Namn i arrayen. The [1] i datafältet betyder att det returnerar det första objektet i arrayen.
 
    + Klicka på numret och ändra indexet om det behövs, men i det här fallet vill du bara ha det första objektet.
