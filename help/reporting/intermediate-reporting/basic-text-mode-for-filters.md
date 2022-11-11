@@ -10,7 +10,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -87,14 +87,42 @@ EXISTS:1:assignedByID=$$USER.ID
 
 Då visas alla uppgifter där den inloggade användaren har tilldelat minst en av de aktuella tilldelningarna. Om flera personer har tilldelat tilldelningar visas endast namnet på den första personen som tilldelade någon som&quot;Begärd av&quot; på startsidan för uppgiften.
 
-## Aktivitet: Frågor om textläge
+### Aktivitet - Visa alla uppgifter som är slutförda - väntar på godkännande
 
-1. Hur skriver du kamerans skiftläge för fältet med namnet&quot;Angivet av ID&quot;?
-1. I en problemrapport skapar du ett filter som visar problem som har markerats som stängda men som väntar på godkännande.
+```
+status=CPL:A
+status_Mod=in
+```
 
-### Svar
 
-1. Kamerafodralet för fältet&quot;Anges med ID&quot; ska skrivas så här - enteredByID
-1. Textläget bör se ut så här i utgivningsrapportfiltret:
+### Problem - Visa alla problem som är slutförda - väntar på godkännande
 
-   ![En bild av skärmen för att skapa ett nytt filter i textläge](assets/btm-answer.png)
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Projekt - Visa alla projekt som har slutförts - väntar på godkännande
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Obs! Visa alla kommentarer som jag är taggad i
+
+```
+tags:userID=$$USER.ID
+tags:userID_Mod=in
+```
+
+
+### Parameterrapport/rapport för anpassat fält - Visa anpassade fält som inte är kopplade till ett anpassat formulär (mycket användbart vid rensning)
+
+```
+EXISTS:A:$$EXISTSMOD=NOTEXISTS
+EXISTS:A:$$OBJCODE=CTGYPA
+EXISTS:A:parameterID=FIELD:ID
+```

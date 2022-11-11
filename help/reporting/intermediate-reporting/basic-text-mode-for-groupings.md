@@ -9,13 +9,13 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11369
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
-
 
 # Grundläggande textläge för grupperingar
 
@@ -36,7 +36,7 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12)
 
-## 4 överordnade grupperingar
+## Aktivitet - 4 överordnade grupperingar
 
 I följande textläge grupperas uppgifter baserat på upp till fyra nivåer med överordnade och överordnade som inte finns tomma lämnas.
 
@@ -53,7 +53,7 @@ group.0.valueformat=string
 ![En skärmbild som visar projektuppgifter grupperade av fyra överordnade](assets/4-parents-grouping.png)
 
 
-## Procent komplett gruppering
+## Aktivitet - Procent slutförd gruppering
 
 I följande textläge grupperas uppgifter baserat på hur många procent de har slutförts. Aktiviteter hamnar i någon av följande kategorier när de grupperas:
 
@@ -74,7 +74,7 @@ textmode=true
 
 ![En skärmbild som visar projektuppgifter grupperade efter procent färdigt](assets/percent-complete-grouping.png)
 
-## statusEquatesWith, sedan status
+## Aktivitet - statusEquatesWith, sedan status
 
 I följande textläge grupperas uppgifter efter statusEquatesWith och sedan efter status.
 
@@ -98,4 +98,14 @@ textmode=true
 
 ![En skärmbild som visar projektuppgifter grupperade efter statusEquatesWith](assets/status-equates-with.png)
 
+
+## Godkännandebevis - gruppera efter projektnamn
+
+```
+group.0.valueformat=HTML
+group.0.valuefield=documentVersion:document:project:name
+group.0.displayname=Project Name
+```
+
+![En skärmbild som visar Korrektur för godkännanden grupperade efter projektnamn](assets/proof-approvals-grouped-by-project-name.png)
 
