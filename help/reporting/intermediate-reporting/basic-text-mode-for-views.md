@@ -9,9 +9,10 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11367
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
+source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -26,6 +27,12 @@ ht-degree: 0%
 >* Förstå rapportelement
 >* Förstå rapporteringskomponenter
 >* Skapa en grundvy
+
+
+>[!TIP]
+>
+>* Vi rekommenderar att du tittar på det inspelade webbinariet för att få en bättre förståelse för textläget [Fråga experten - Introduktion till rapportering i textläge](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), som är en timme lång.
+>* Vi rekommenderar att du tittar på [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) självstudiekurser, som tillsammans är fem och en halv timme långa.
 
 
 I den här videon får du lära dig:
@@ -521,4 +528,3 @@ valueformat=HTML
 ```
 
 ![En skärmbild som visar projektet och uppgiften med ett korrekturgodkännande](assets/proof-approval-project-and-task.png)
-

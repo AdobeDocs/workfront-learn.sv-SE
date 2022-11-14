@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
-source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
+source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,12 @@ ht-degree: 0%
 >* Förstå rapportelement
 >* Förstå rapporteringskomponenter
 >* Skapa en grundläggande gruppering
+
+
+>[!TIP]
+>
+>* Vi rekommenderar att du tittar på det inspelade webbinariet för att få en bättre förståelse för textläget [Fråga experten - Introduktion till rapportering i textläge](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), som är en timme lång.
+>* Vi rekommenderar att du tittar på [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) självstudiekurser, som tillsammans är fem och en halv timme långa.
 
 
 I den här videon får du lära dig:
