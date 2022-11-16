@@ -1,6 +1,6 @@
 ---
-title: Förstå ett KPI-jämförelseexempel
-description: Lär dig hur du jämför KPI:er från det aktuella datumintervallet med ett tidigare datumintervall och hur du jämför KPI:er med två olika filter i [!DNL  Workfront].
+title: Förstå KPI-jämförelser - använd exempel i [!UICONTROL Förbättrad analys]
+description: Lär dig hur du jämför KPI:er från det aktuella datumintervallet med ett tidigare datumintervall och hur du jämför KPI:er med två olika filter.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8739
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Förstå ett KPI-jämförelseexempel
+# Förstå KPI-jämförelser - använd exempel i [!UICONTROL Förbättrad analys]
 
 I den här videon får du lära dig:
 

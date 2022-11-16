@@ -1,6 +1,6 @@
 ---
-title: Förstå nyckeltal
-description: I den här videon får du lära dig hur du får ut värde från KPI-data i [!DNL  Workfront].
+title: Förstå nyckeltal i [!UICONTROL Förbättrad analys]
+description: Lär dig hur ni får ut värde av KPI-data om vad som händer i nuläget och om trender från det förflutna.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335046.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8728
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Förstå nyckeltal
+# Förstå nyckeltal i [!UICONTROL Förbättrad analys]
 
 I den här videon får du lära dig:
 

@@ -1,6 +1,8 @@
 ---
 title: Förstå datumintervall och tidsramar
-description: Datumintervall anges med hjälp av kalenderwidgeten. Tidsramar skapas i ett diagram.
+description: I [!UICONTROL Förbättrad analys], anges datumintervall med hjälp av kalenderwidgeten. Tidsramar skapas i ett diagram.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-date-ranges-and-timeframes.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
 
-# Förstå datumintervall och tidsramar
+# Förstå datumintervall och tidsramar i [!UICONTROL Förbättrad analys]
 
 När du visar [!DNL Enhanced analytics] diagram, datumintervall anges med hjälp av kalenderwidgeten. Tidsramar skapas i ett diagram när du klickar och drar för att definiera ett visst område, så att du kan zooma in och få en mer detaljerad bild av informationen under tidsramen.
 

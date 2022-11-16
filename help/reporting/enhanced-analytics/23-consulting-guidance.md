@@ -1,6 +1,6 @@
 ---
-title: Förstå rådgivning
-description: I den här videon får du lära dig hur du kan ge rekommendationer som hjälper din organisation att arbeta effektivare i [!DNL  Workfront].
+title: Förstå rådgivning i [!UICONTROL Förbättrad analys]
+description: Lär dig hur du kan ge rekommendationer som hjälper din organisation att arbeta effektivare i Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8723
 exl-id: 304fad15-1ffd-4282-b90f-0be31b2a08c6
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# Förstå rådgivning
+# Förstå rådgivning i [!UICONTROL Förbättrad analys]
 
 I den här videon får du lära dig:
 

@@ -1,6 +1,6 @@
 ---
 title: Lägg till [!UICONTROL Analyser] till layoutmallar
-description: Läs om hur system- och gruppadministratörer ger åtkomst till Analytics i nya Workfront Experience, och i [!DNL  Workfront] Klassiskt.
+description: Lär dig hur system- och gruppadministratörer ger åtkomst till Analytics.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335045.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8726
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-# Lägg till [!UICONTROL Analyser] till layoutmallar
+# Lägg till [!UICONTROL Förbättrad analys] till layoutmallar
 
 I den här videon får du lära dig:
 

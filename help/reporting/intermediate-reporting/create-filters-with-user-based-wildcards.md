@@ -1,6 +1,6 @@
 ---
 title: Skapa filter med användarbaserade jokertecken
-description: Lär dig använda jokertecken och skapa ett filter med ett användarbaserat jokertecken i [!DNL  Workfront].
+description: Lär dig hur du använder användarbaserade jokertecken och hur du skapar ett filter baserat på den inloggade användaren.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336810.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---

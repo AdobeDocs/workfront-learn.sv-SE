@@ -1,6 +1,6 @@
 ---
 title: Skapa en enkel rapport
-description: I den här videon får du lära dig att skapa en enkel rapport med hjälp av ett befintligt filter, en befintlig vy och en befintlig gruppering i [!DNL  Workfront].
+description: Lär dig hur du skapar en enkel rapport med ett befintligt filter, en befintlig vy och en befintlig gruppering i Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---

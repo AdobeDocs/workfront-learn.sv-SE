@@ -1,6 +1,6 @@
 ---
-title: Gräv djupare in i navigeringen
-description: I den här videon får du lära dig att snabbt se hur mycket tid arbetare tillbringar varje projekt i [!DNL  Workfront].
+title: Gräv djupare navigering i [!UICONTROL Förbättrad analys]
+description: Lär dig hur snabbt du kan se hur mycket tid arbetarna lägger på varje projekt i Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8733
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
-# Gräv djupare in i navigeringen
+# Gräv djupare navigering i [!UICONTROL Förbättrad analys]
 
 I den här videon får du lära dig:
 

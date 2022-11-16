@@ -1,6 +1,6 @@
 ---
-title: Förstå navigering och granskning av projektaktivitet
-description: I den här videon får du lära dig att jämföra projekt baserat på inloggade användare, ändringar av uppgiftsstatus och uppgifter som har slutförts i [!DNL  Workfront].
+title: Förstå navigering och granskning av projektaktiviteter i [!UICONTROL Förbättrad analys]
+description: Lär dig hur du jämför projekt baserat på användare som är inloggade, ändringar av uppgiftsstatus och uppgifter som har slutförts i Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
-# Förstå navigering och granskning av projektaktivitet
+# Förstå navigering och granskning av projektaktiviteter i [!UICONTROL Förbättrad analys]
 
 I den här videon får du lära dig:
 

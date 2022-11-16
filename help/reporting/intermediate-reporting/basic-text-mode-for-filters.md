@@ -1,6 +1,6 @@
 ---
 title: Grundläggande textläge för filter
-description: Lär dig vilket textläge som är, vilket kameraläge som är och lite grundläggande textläge som du kan använda i rapportfilter i [!DNL  Workfront].
+description: Lär dig vilket textläge som är, vilket kameraläge som är och lite grundläggande textläge för"plug and play" som du kan använda i rapportfiltren i Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---

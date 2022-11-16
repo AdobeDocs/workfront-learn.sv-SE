@@ -1,6 +1,6 @@
 ---
 title: Förstå funktionsmakron - hovra, klicka och dra, och klicka i
-description: Lär dig hur du får mer information genom att hovra över ett diagram, skapa en tidsram i ett diagram och hur du gör så att ytterligare diagram visas, allt i [!DNL  Workfront].
+description: Lär dig hur du får mer information genom att hovra över ett diagram, skapa en tidsram i ett diagram och hur du gör så att ytterligare diagram visas, allt i [!UICONTROL Förbättrad analys].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-# Förstå funktionsmakron - hovra, klicka och dra, och klicka i
+# Förstå åtgärder i [!UICONTROL Förbättrad analys] - hovra, klicka och dra och klicka i
 
 I den här videon får du lära dig:
 

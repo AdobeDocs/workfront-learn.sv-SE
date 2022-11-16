@@ -1,6 +1,8 @@
 ---
 title: Förstå arbets- och persondiagram
-description: Arbetskartor visar din aktivitet ur projekt- och uppgiftsperspektiv, medan personscheman visar din aktivitet från ett hemarbetsteams perspektiv.
+description: I [!UICONTROL Förbättrad analys], visar arbetskartor din aktivitet ur projekt- och uppgiftsperspektiv, medan personscheman visar din aktivitet från ett hemarbetsteams perspektiv.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-work-and-people-charts.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10028
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
-# Förstå arbets- och persondiagram
+# Förstå arbete och diagram i [!UICONTROL Förbättrad analys]
 
 Arbetskartor visar din aktivitet ur projekt- och uppgiftsperspektiv, medan personscheman visar din aktivitet från ett hemarbetsteams perspektiv.
 

@@ -1,6 +1,8 @@
 ---
-title: Förstå aktiviteten per team-diagram
+title: Förstå aktiviteten per team-diagram i [!UICONTROL Förbättrad analys]
 description: Med Activity by team-diagram kan ni förstå hur organisationens hemteam tillbringar sin tid i Workfront.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-the-activity-by-team-chart.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-# Förstå aktiviteten per team-diagram
+# Förstå aktiviteten per team-diagram i [!UICONTROL Förbättrad analys]
 
 Med Activity by team-diagram kan ni förstå hur organisationens hemteam tillbringar sin tid i Workfront. Workfront-användare kan befinna sig i flera team, men de kan bara befinna sig i ett hemteam. Teamen som används i personschemat består endast av de användare som har det teamet utsett som sitt hemteam.
 

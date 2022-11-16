@@ -1,6 +1,8 @@
 ---
 title: Kom igång med [!UICONTROL Förbättrad analys]
-description: Lär dig de viktigaste fälten att uppdatera för att få ut så mycket som möjligt av den förbättrade analysen.
+description: Lär dig de viktigaste fälten att uppdatera i Workfront så att de förbättrade analysfunktionerna visar hur era team och projekt utvecklas i Workfront.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: analytics-prerequisites.png
 type: Tutorial
@@ -8,14 +10,16 @@ role: User
 level: Beginner
 kt: 10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
-# Kom igång med [!UICONTROL Förbättrad analys]
+# Kom igång med Adobe Workfront [!UICONTROL Förbättrad analys]
+
+Förbättrade analyser kan visa er hur era team och projekt utvecklas i Workfront, och vad som har hänt i tidigare projekt som ni kanske kan lära er av för att planera framtida projekt.
 
 ## Förutsättningar för analyser
 

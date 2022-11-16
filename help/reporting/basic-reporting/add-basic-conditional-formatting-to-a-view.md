@@ -1,6 +1,6 @@
 ---
 title: Lägga till grundläggande villkorsstyrd formatering
-description: I den här videon får du lära dig vad villkorsstyrd formatering är i en vy och hur du skapar och ändrar villkorsstyrd formatering i [!DNL  Workfront].
+description: Lär dig hur du använder kolumnregler för att ändra textfärg, formatering och bakgrundsfärger i en rapport eller vy, baserat på villkor som du anger.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -10,14 +10,16 @@ level: Beginner
 team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
 # Lägga till grundläggande villkorsstyrd formatering i en vy
+
+Villkorsstyrd formatering görs genom att kolumnregler skapas. Med kolumnregler kan du formatera en kolumn på ett specifikt sätt baserat på villkor som du anger.
 
 I den här videon får du lära dig:
 
