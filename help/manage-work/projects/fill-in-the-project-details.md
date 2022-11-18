@@ -1,6 +1,8 @@
 ---
 title: Fyll i projektinformationen
 description: Lär dig vilka 12 projektinformationsfält som ska visas [!DNL  Workfront] rekommenderar att du fyller i när du skapar ett projekt.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '1226'
 ht-degree: 0%
@@ -85,7 +87,7 @@ Du behöver inte fylla i alla fält och kryssrutor i projektinformationen för v
 
 1. **Resurshanteraren**
 
-   De Workfront-användare som visas i det här fältet kan använda verktygen för resursplanering och resurshantering i Workfront för de specifika projekt de listas i. Upp till 30 namn kan listas i fältet Resurshanterare och varje namn måste ha en planlicens.
+   Workfront-användare som listas i det här fältet kan använda verktygen för resursplanering och resurshantering i Workfront för de specifika projekt de listas i. Upp till 30 namn kan listas i fältet Resurshanterare och varje namn måste ha en planlicens.
 
    Fältet Resurshanterare kan anges i mallen.
 

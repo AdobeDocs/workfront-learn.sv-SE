@@ -1,18 +1,21 @@
 ---
 title: Routrar
 description: Förstå vikten av routrar och hur de kan användas för att bearbeta olika moduler på ett villkor.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11043
 thumbnail: KT11043.png
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
-
 
 # Routrar
 
@@ -55,8 +58,8 @@ Använd en router för att skicka Pokemon kontra superhjältar i paket längs r�
    >
    >Om du har problem med att komma åt din egen superhjälte-token kan du använda den här delade token: 10110256647253588. Tänk på hur många gånger du anropar superhjälte-API:t så att denna delade token fortsätter att fungera för alla.
 
-1. Öppna inställningarna för superhjälteutseendet Get och ändra URL:en till https://www.superheroapi.com/api/[access-token]/332/appearance. Inkludera din åtkomsttoken i URL:en. Klicka på OK.
-1. Öppna inställningarna för superhjälpen Get och ändra URL:en till https://www.superheroapi.com/api/[access-token]/332/powerstats. Inkludera din åtkomsttoken i URL:en. Klicka på OK.
+1. Öppna inställningarna för superhjälteutseendet Get och ändra URL:en till `https://www.superheroapi.com/api/[access- token]/332/appearance`. Inkludera din åtkomsttoken i URL:en. Klicka på OK.
+1. Öppna inställningarna för superhjälpen Get och ändra URL:en till `https://www.superheroapi.com/api/[access- token]/332/powerstats`. Inkludera din åtkomsttoken i URL:en. Klicka på OK.
 1. Högerklicka på varje superhjältemodul och välj Kör endast den här modulen. Detta genererar den datastruktur som du behöver se för mappning.
 1. När du har kört båda ändrar du talet &quot;332&quot; i varje URL-fält till Column 4 som mappats från CSV-modulen Parse.
 

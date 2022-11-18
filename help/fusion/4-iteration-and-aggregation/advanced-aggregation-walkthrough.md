@@ -2,13 +2,16 @@
 title: Genomgång av avancerad aggregering
 description: Lär dig hur du anropar en webbtjänst för att returnera information om flera länder och identifiera populationer, grupperade efter underregion, allt i [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
-source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -45,6 +48,10 @@ Du kan förhindra detta genom att lägga till en aggregator efter en modul som k
 Du ser en skugga runt ett segment i ditt scenario från en **begynnelseiterator** till **slutaggregator**. Detta gör det enklare att hitta dessa segment i ditt Workfront Fusion-scenario.
 
 ## Din tur
+
+>[!NOTE]
+>
+>Praktiska övningar är frivilliga och är inte nödvändiga för att slutföra Fusion-utbildningen.
 
 Denna övning bygger på vad du lärde dig under genomgången, men lösningen tillhandahålls inte.
 

@@ -1,14 +1,17 @@
 ---
 title: Ställ in den och hämta den
-description: I den här videon får du lära dig att dela data mellan olika banor och använda variablerna Set och Get i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du delar data mellan olika banor och använder variablerna Set och Get i [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9016
 exl-id: 18781714-af56-4bde-84c5-bf445186e43a
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---

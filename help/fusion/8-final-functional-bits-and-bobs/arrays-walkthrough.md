@@ -1,14 +1,17 @@
 ---
-title: Arrayer, genomgång
-description: I den här videon går vi igenom tidigare genomgångar där enkla och komplexa arrayer användes i [!DNL Adobe Workfront Fusion].
+title: Genomgång av matriser
+description: Granska tidigare genomgångar där enkla och komplexa arrayer användes i [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---

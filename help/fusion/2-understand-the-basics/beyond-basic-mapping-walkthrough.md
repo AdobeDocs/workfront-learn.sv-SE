@@ -1,14 +1,17 @@
 ---
-title: Bortom grundläggande mappningsgenomgång
-description: I den här videon kommer du att ändra vissa projektfält i scenariot som du skapade tidigare med mappningspanelens formler i [!DNL Adobe Workfront Fusion].
+title: Bortom grundläggande genomgång av mappningar
+description: Ändra vissa projektfält i scenariot som du skapade tidigare med mappningspanelens formler i [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -32,6 +35,10 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 >Om du vill ha stegvisa instruktioner för hur du slutför genomgången går du till [Bortom grundläggande genomgång av mappningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) träna.
 
 ## Din tur
+
+>[!NOTE]
+>
+>Praktiska övningar är frivilliga och är inte nödvändiga för att slutföra Fusion-utbildningen.
 
 Denna övning bygger på vad du lärde dig under genomgången, men lösningen tillhandahålls inte.
 

@@ -1,14 +1,17 @@
 ---
-title: Ange/hämta genomgång av variabler
-description: I den här videon får du lära dig att söka efter information om ett projekt i Workfront och skicka ett e-postmeddelande med relaterad information i [!DNL Adobe Workfront Fusion].
+title: Genomgång av variabler för att ange/hämta
+description: Lär dig hur du söker efter information om ett projekt i Workfront och skickar ett e-postmeddelande med relaterad information i [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -32,6 +35,10 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 >Om du vill ha stegvisa instruktioner för hur du slutför genomgången går du till [Genomgång av variabler för att ange/hämta](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=en) träna.
 
 ## Din tur
+
+>[!NOTE]
+>
+>Praktiska övningar är frivilliga och är inte nödvändiga för att slutföra Fusion-utbildningen.
 
 Denna övning bygger på vad du lärde dig under genomgången, men lösningen tillhandahålls inte.
 

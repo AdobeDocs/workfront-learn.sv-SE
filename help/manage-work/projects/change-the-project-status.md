@@ -1,6 +1,8 @@
 ---
 title: Ändra projektstatus
-description: Lär dig hur du ändrar status för ett projekt i [!UICONTROL  ] för att ange att arbetet är klart.
+description: Lär dig hur du ändrar status för ett projekt för att ange att arbetet är slutfört.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: change-the-project-status.jpeg
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---

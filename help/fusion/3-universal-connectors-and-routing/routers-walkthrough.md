@@ -2,13 +2,16 @@
 title: Genomgång av routrar
 description: Lär dig hur du använder en router för att skicka Pokemon jämfört med superhjältar i paket längs rätt väg i [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
@@ -29,9 +32,9 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 
 ## URL för övning
 
-* Superhero API-webbplats: https://www.superheroapi.com/
-* Första URL för övning: https://www.superheroapi.com/api/{access-token}/{character-id}/appearance
-* Andra URL för övning: https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats
+* Superhero API-webbplats: `https://www.superheroapi.com/`
+* Första URL för övning: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
+* Andra URL för övning: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 Om du har problem med att komma åt din egen superhjälte-token kan du använda den här delade token: 10110256647253588. Tänk på hur många gånger du anropar superhjälte-API:t så att denna delade token fortsätter att fungera för alla.
 
@@ -86,6 +89,10 @@ Läs mer om Workfront Fusion Universal Connectors och hur du konfigurerar dem f�
 Du kan kontrollera hela listan med våra förbyggda appanslutningar i Experience League. Om du vill föreslå en ny appanslutning till Workfront Fusion-produktteamet skickar du din idé till Innovation Lab. Om du inte har lämnat in någon ansökan tidigare, lär dig mer om Innovation Lab, plus hur du kan rösta på idéer och delta i den årliga prioriteringen av Ledarpanelen. Om du redan har tillgång till innovationslabb loggar du in och skickar in dina idéer.
 
 ## Din tur
+
+>[!NOTE]
+>
+>Praktiska övningar är frivilliga och är inte nödvändiga för att slutföra Fusion-utbildningen.
 
 Denna övning bygger på vad du lärde dig under genomgången, men lösningen tillhandahålls inte.
 

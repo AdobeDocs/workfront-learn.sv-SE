@@ -1,6 +1,6 @@
 ---
-title: Integreringar för Microsoft Outlook
-description: Lär dig hur du installerar Microsoft Outlook-tillägget
+title: Installera [!UICONTROL Microsoft Outlook-tillägg]
+description: Lär dig hur du installerar [!UICONTROL Microsoft Outlook-tillägg]
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# Integreringar för [!DNL Microsoft Outlook]
+# Installera Microsoft Outlook-tillägget
 
 I den här videon får du lära dig att:
 

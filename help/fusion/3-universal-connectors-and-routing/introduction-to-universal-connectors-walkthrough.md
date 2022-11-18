@@ -1,19 +1,22 @@
 ---
-title: Introduktion till Universal Connectors Walkthrough
+title: Introduktion till genomgång av universella anslutningar
 description: Lär dig hur du anropar Poke API via en HTTP-anslutning för att samla in och publicera information om en Pokemon-karaktär, allt i [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# Genomgång av universella anslutningar
+# Introduktion till genomgång av universella anslutningar
 
 ## Översikt
 
@@ -29,9 +32,9 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 
 ### URL för övning
 
-Pokemon API-webbplats: https://pokeapi.co/
+Pokemon API-webbplats: `https://pokeapi.co/`
 
-URL för övning: https://pokeapi.co/api/v2/pokemon/{Character}
+URL för övning: `https://pokeapi.co/api/v2/pokemon/{Character}`
 
 >[!TIP]
 >

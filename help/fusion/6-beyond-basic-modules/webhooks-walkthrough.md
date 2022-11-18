@@ -1,14 +1,17 @@
 ---
-title: Webhooks Walkthrough
+title: Genomgång av webbhooks
 description: Lär dig hur du använder en webkrok för att skapa en app för att avgöra om en kund är gammal nog att köpa alkohol, allt i [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -46,6 +49,10 @@ Om du vill följa med i genomgången måste du ladda ned den kostnadsfria Postma
 ![En bild som använder modulen Byt](assets/beyond-basic-modules-6.png)
 
 ## Din tur
+
+>[!NOTE]
+>
+>Praktiska övningar är frivilliga och är inte nödvändiga för att slutföra Fusion-utbildningen.
 
 Denna övning bygger på vad du lärde dig under genomgången, men lösningen tillhandahålls inte.
 

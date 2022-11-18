@@ -10,14 +10,14 @@ team: Technical Marketing
 thumbnail: review-approve-digital-work.png
 kt: 8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '683'
 ht-degree: 0%
 
 ---
 
-# Granska och godkänn ett digitalt korrektur
+# Granska och godkänna ett korrektur
 
 Innan du börjar granska ett bevis måste du veta vad som förväntas av dig. Vilken roll har du i korrekturarbetsflödet? Vill du granska beviset, godkänna det eller båda?
 

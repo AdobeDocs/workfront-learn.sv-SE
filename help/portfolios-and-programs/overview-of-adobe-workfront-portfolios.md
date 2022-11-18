@@ -1,15 +1,17 @@
 ---
 title: Översikt över portföljer
-description: Läs om vad portfolior innehåller [!DNL Workfront] och hur de kan hjälpa er att prioritera projekt och jämföra projekt med varandra.
+description: Läs vad portfolior är i [!DNL Workfront] och hur de kan hjälpa er att prioritera projekt och jämföra projekt med varandra.
+activity: use
+team: Technical Marketing
 feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
 level: Intermediate
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: 3398b789630fa67b8a592c82f6fcf0b6d87e4ead
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---

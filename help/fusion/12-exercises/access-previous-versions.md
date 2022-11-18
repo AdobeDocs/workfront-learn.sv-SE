@@ -1,18 +1,21 @@
 ---
 title: Åtkomst till tidigare versioner
 description: Lär dig hur du återgår till en tidigare version av ett scenario. (Ska innehålla mellan 60 och 160 tecken, men är 56 tecken)
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11041
 thumbnail: KT1101.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
-
 
 # Åtkomst till tidigare versioner
 

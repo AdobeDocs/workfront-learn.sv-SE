@@ -3,9 +3,9 @@ user-guide-description: Workfront självstudiekurser
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '2218'
+source-wordcount: '2219'
 ht-degree: 0%
 
 ---
@@ -342,7 +342,7 @@ ht-degree: 0%
       + [Godkänn genom [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
       + [Sök i Workfront via [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
       + [Förstå Workfront för [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
-      + [Visa senaste arbete genom [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+      + [Visa senaste arbeten via [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
 
 
 
@@ -460,7 +460,7 @@ ht-degree: 0%
    + Administration och konfiguration {#administration-and-setup-for-proof}
       + [Anpassa korrekturkommentarsåtgärder](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
       + [Anpassa beslutsalternativ för korrektur](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
-      + [E-postavisering kontra korrekturmeddelanden](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
+      + [Förstå e-postaviseringar och korrekturmeddelanden](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
       + [Bevis på roller och e-postaviseringar](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [Rapport om korrektur](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [Ange standardvärde för risksäkra inställningar](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)

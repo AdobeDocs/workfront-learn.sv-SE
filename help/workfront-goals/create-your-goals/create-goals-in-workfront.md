@@ -1,5 +1,5 @@
 ---
-title: Skapa mål i Workfront
+title: Skapa mål i [!DNL Workfront Goals]
 description: Lär dig skapa mål i [!DNL Workfront Goals] med tre olika alternativ.
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 10122
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '921'
 ht-degree: 0%
 
 ---
 
-# Skapa mål i Workfront
+# Skapa mål i [!DNL Workfront Goals]
 
 I [!DNL Workfront Goals], chefer och företagsledare kan se hur hela organisationen utvecklas på varje nivå, ända ned till individen. [!DNL Workfront Goals] ger synlighet så att ni får viktiga åtgärdbara insikter för att lyfta fram de högsta prioriteringarna, identifiera riskmål, diagnostisera problem i realtid och proaktivt kurskorrigera.
 

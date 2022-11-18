@@ -1,6 +1,8 @@
 ---
-title: Vad är en version av ett korrektur?
+title: Vad är en korrekturversion?
 description: Upptäck hur versioner kan hjälpa dig att hantera gransknings- och godkännandeprocessen i flera versioner av en fil med hjälp av korrekturfunktionerna i [!DNL's].
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,14 +10,14 @@ level: Beginner
 thumbnail: what-is-a-proof-version.png
 kt: 10161
 exl-id: 3a3c6315-d032-4f78-bdbc-e1070c7fb1e1
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# Vad är en version av ett bevis?
+# Vad är en korrekturversion?
 
 [!DNL Workfront’s] korrekturfunktioner hjälper er att hantera gransknings- och godkännandeprocessen i olika versioner av en fil med hjälp av versioner.
 

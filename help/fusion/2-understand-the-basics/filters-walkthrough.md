@@ -1,14 +1,17 @@
 ---
 title: Genomgång av filter
-description: I den här videon får du lära dig hur du lägger till ett filter mellan de två modulerna i modulerna i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du lägger till ett filter mellan de två modulerna i modulerna i [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -36,6 +39,10 @@ I den här videon får du lära dig att:
 >Om du vill ha stegvisa instruktioner för hur du slutför genomgången går du till [Genomgång av filter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=en) träna.
 
 ## Din tur
+
+>[!NOTE]
+>
+>Praktiska övningar är frivilliga och är inte nödvändiga för att slutföra Fusion-utbildningen.
 
 Denna övning bygger på vad du lärde dig under genomgången, men lösningen tillhandahålls inte.
 

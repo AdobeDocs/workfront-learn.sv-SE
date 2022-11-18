@@ -1,5 +1,5 @@
 ---
-title: Var [!DNL Workfront Goals] passar in i min arbetscykel?
+title: Förstå hur [!UICONTROL Workfront-mål] passar in i arbetscykeln
 description: Lär dig mer om de 6 stegen i en typisk arbetslivscykel och grundstenarna i"strategifasen" i arbetscykeln.
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# Var [!DNL Workfront Goals] passar in i min arbetscykel?
+# Förstå hur [!UICONTROL Workfront-mål] passar in i arbetscykeln
 
 I den här videon får du lära dig mer om:
 
