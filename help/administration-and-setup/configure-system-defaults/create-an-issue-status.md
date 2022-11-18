@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 kt: 10019
 exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 5fe0cbb9797ceaac0c402d912be6ed6665ac48ae
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 1. Välj **[!UICONTROL Status]**.
 1. Välj **[!UICONTROL Problem]** -fliken.
 1. Kontrollera att fältet i det övre högra hörnet är inställt på [!UICONTROL Systemstatus]. Detta garanterar att den nya statusen är tillgänglig globalt i din [!DNL Workfront] -instans.
-1. Välj **[!UICONTROL Överordnad lista ]**för att se alla status för utgåvor. Här skapar eller ändrar du en status.
+1. Välj **[!UICONTROL Överordnad lista]** för att se alla status för utgåvor. Här skapar eller ändrar du en status.
 1. Klicka **[!UICONTROL Lägg till en ny status]**.
 1. Fyll i fälten efter behov för din organisation - namn, beskrivning, färg, motsvarar, nyckel osv.
 1. Markera rutorna för den typ av problem som den här statusen kan användas med.
