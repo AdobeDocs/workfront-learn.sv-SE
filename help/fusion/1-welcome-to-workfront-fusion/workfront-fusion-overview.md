@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 Varje avsnitt i Workfront Fusion innehåller flera självstudiekurser, där varje självstudiekurs beskriver koncept som du måste förstå innan du går vidare till nästa självstudiekurs. En genomgång hjälper dig att överordnad de flesta koncept.
 
-Videorna visar hur du utför varje övning steg för steg, vilket resulterar i att du skapar ett nytt Workfront Fusion-scenario. Sedan kan du slutföra övningen i din egen Workfront Fusion-miljö och lägga till fler scenarier. The **Adobe Workfront Fusion - aktivitetsbok** innehåller stegvisa instruktioner för genomgången.
+Videorna visar hur du slutför varje genomgång, vilket vanligtvis leder till att du skapar ett nytt Workfront Fusion-scenario. Sedan kan du slutföra övningen i din egen Workfront Fusion-miljö och lägga till fler scenarier.
 
-I vissa självstudiekurser skapar du ett nytt scenario från grunden. I andra avsnitt börjar du med att skapa en kopia av ett scenario som du skapat tidigare.
+I vissa självstudiekurser skapar du ett nytt scenario från grunden. I andra självstudiekurser börjar du med att skapa en kopia av ett scenario som du skapat tidigare.
 
 >[!IMPORTANT]
 >
@@ -38,7 +38,7 @@ Begär en övningsmiljö genom att fylla i [det här formuläret](https://forms.
 
 ### Använd Workfront Fusion för övningar
 
-Workfront erbjuder inga testenheter för Workfront Fusion. Om du vill öva medan du slutför utbildningsvägarna begär du åtkomst till Workfront Fusion från din organisations Workfront Fusion-administratör.
+Workfront erbjuder inga testenheter för Workfront Fusion. Om du vill öva medan du slutför självstudiekurserna kan du begära åtkomst till Workfront Fusion från din organisations Workfront Fusion-administratör.
 
 ### Stegvisa instruktioner för att genomföra genomgången
 

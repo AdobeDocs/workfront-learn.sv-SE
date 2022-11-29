@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ I den här videon får du lära dig:
 
 Många av Workfront Fusion-användarna kommer till en punkt där de tänker på alla system de använder och frågar slutligen:&quot;Har Workfront Fusion kopplingar till ____?&quot; (Fyll i blanketten för de system du använder.)
 
-Det enklaste sättet att avgöra om Workfront Fusion har en färdig anslutning är att använda funktionen Lägg till app och söka efter en app efter namn. Du kan även kontrollera **Program och deras moduler** artikel på Experience League med en lista över de program som Workfront Fusion kan ansluta till.
+Det enklaste sättet att avgöra om Workfront Fusion har en färdig anslutning är att använda funktionen Lägg till app och söka efter en app efter namn. Du kan även kontrollera [Program och deras moduler](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) artikel på Experience League med en lista över de program som Workfront Fusion kan ansluta till.
 
 Kopplingar begränsas inte bara till programmen i den här artikeln. Om appen du vill arbeta med inte har någon fördefinierad anslutning kan du använda dessa moduler för att ansluta direkt till webbtjänsten:
 
