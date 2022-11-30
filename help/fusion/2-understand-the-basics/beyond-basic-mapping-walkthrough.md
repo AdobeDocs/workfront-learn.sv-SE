@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 
 >[!NOTE]
 >
->Praktiska övningar är frivilliga och är inte nödvändiga för att slutföra Fusion-utbildningen.
+>Praktiska övningar och utmaningar är frivilliga och behövs inte för att slutföra Fusion-utbildningen.
 
 Denna övning bygger på vad du lärde dig under genomgången, men lösningen tillhandahålls inte.
 

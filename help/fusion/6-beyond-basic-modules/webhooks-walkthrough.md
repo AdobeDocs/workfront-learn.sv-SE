@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
-source-git-commit: 96f963bf5a44eac234cbf9215f19f6dddbe23143
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Om du vill följa med i genomgången måste du ladda ned den kostnadsfria Postma
 
 >[!NOTE]
 >
->Praktiska övningar är frivilliga och är inte nödvändiga för att slutföra Fusion-utbildningen.
+>Praktiska övningar och utmaningar är frivilliga och behövs inte för att slutföra Fusion-utbildningen.
 
 Denna övning bygger på vad du lärde dig under genomgången, men lösningen tillhandahålls inte.
 

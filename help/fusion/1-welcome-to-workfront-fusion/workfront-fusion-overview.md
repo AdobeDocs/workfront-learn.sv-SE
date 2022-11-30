@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -44,3 +44,18 @@ Workfront erbjuder inga testenheter för Workfront Fusion. Om du vill öva medan
 
 Det finns stegvisa instruktioner för hur du slutför genomgången. Du kan komma åt dessa från det vänstra navigeringsfältet under Fusion > Exercises, eller använda länken längst ned i en genomgång.
 
+### Valfria övningar
+
+Praktiska övningar och utmaningar tillhandahålls efter vissa genomgången övningar.
+
+Det finns ett antal olika sätt att lösa övningarna. Avsikten är att utmana er att försöka uppnå ett scenario utan att behöva följa några steg eller det&quot;rätta svaret&quot;, eftersom det är vad ni måste göra när ni skapar ett scenario på ert företag.
+
+Övningen har samband med genomgången.
+
+Utmaningarna är för dem som vill prova något som innehåller andra koncept som de har lärt sig.
+
+### Få hjälp
+
+Du får stegvisa instruktioner som hjälper dig igenom genomgången.
+
+Det finns också en [Workfront Fusion 2.0-community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) där du kan ställa frågor.
