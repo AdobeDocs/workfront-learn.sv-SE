@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: 336095.png
 kt: 8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
-source-git-commit: 2ee758f7cb3e8d08cc4ec953486be187a59850e7
+source-git-commit: 9e68a35e9803543934ae9ba3db7497395d2f9c31
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -37,6 +37,3 @@ Innan du dykar upp i korrekturinställningar i [!DNL  Workfront], bekanta dig me
 * **E-postavisering —** Meddelande om när det finns aktivitet på korrekturet.
 * **Korrekturanvändare —** Någon med en [!DNL Workfront] Planera eller arbeta med licenser som kan ladda upp, granska, godkänna, hantera osv., digitala korrektur.
 
-<!--
-For a complete list of [!DNL Workfront] proof terms, download this guide.
--->
