@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 37a222dd921c0c3ffe72a8e091f6dbf1f18cee68
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -32,31 +32,31 @@ Om du vill söka efter ett specifikt värde i beskrivningen, t.ex.&quot;välgör
 
 Textuttrycket ISBLANK innehåller namnet på uttrycket och en datapunkt.
 
-**ISBLANK (datapunkt)**
+**ISBLANK({datapunkt})**
 
 ![Arbetsbelastningsutjämnare med utnyttjanderapport](assets/isblank03.png)
 
 I exemplet ovan, där du vill veta om projektet har en beskrivning, skulle uttrycket vara:
 
-ISBLANK(beskrivning)
+ISBLANK({description})
 
 ## INNEHÅLLER
 
 I CONTAINS-textuttrycket ingår namnet på uttrycket, ordet eller frasen som du söker efter och fältet som ska sökas in.
 
-**CONTAINS(&quot;fras&quot;,fält)**
+**CONTAINS(&quot;phrase&quot;,{fields})**
 
 Var noga med att sätta citattecken runt ordet eller frasen du söker efter, annars är uttrycket inte giltigt.
 
 I exemplet ovan (söker efter&quot;välgörenhetshändelse&quot; i projektbeskrivningen) skulle uttrycket vara:
 
-**CONTAINS(&quot;välgörenhetshändelse&quot;,Beskrivning)**
+**CONTAINS(&quot;välgörenhetshändelse&quot;,{description})**
 
 ![Arbetsbelastningsutjämnare med utnyttjanderapport](assets/isblank04.png)
 
 **Anteckning**: CONTAINS-uttrycket är skiftlägeskänsligt. Om&quot;välgörenhetshändelse&quot; till exempel har inledande versal i beskrivningsfältet, ska frasen ha inledande versal i uttrycket.
 
-**CONTAINS(&quot;välgörenhetshändelse&quot;,beskrivning)**
+**CONTAINS(&quot;välgörenhetshändelse&quot;,{description})**
 
 Uttrycken ISBLANK och CONTAINS är bra att använda om du vill se om det finns ett värde. Det kan dock vara mer användbart att veta vad värdet är, att faktiskt se det eller att ha någon typ av beskrivning för att få bättre insikt.
 
