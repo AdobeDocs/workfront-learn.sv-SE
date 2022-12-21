@@ -9,58 +9,69 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
 workflow-type: tm+mt
-source-wordcount: '883'
+source-wordcount: '959'
 ht-degree: 0%
 
 ---
 
 # Saker att känna till om beräknade fältuttryck
 
-Här är en lista med koncept som är bra att känna till när du arbetar med anpassade beräkningsfält i [!DNL Workfront].
+Här är en lista med koncept som är bra att känna till när du arbetar med anpassade beräkningsfält i Workfront.
 
-## Casing spelar ingen roll i uttrycksnamn
+## Områden i uttrycksnamn botas
 
-När det gäller uttrycksnamnen spelar det ingen roll om det finns ett skiftläge. Du kan använda versaler, gemener eller en blandning av båda. Med uttrycket ISBLANK(Description) kan &quot;ISBLANK&quot; skrivas ut på följande sätt:
+När det gäller uttrycksnamn är det viktigt med bockning. När du skriver ett uttrycksnamn kan du använda versaler, gemener eller en blandning av båda.
 
-* ISBLANK
-* Isblank
-* ÄrTom
-* isBLANK
+![Felmeddelande utan skiftläge i uttrycksnamnet](assets/ttk-casingmatters01.png)
 
-Alla kommer att fungera.
+Uttrycket måste dock skrivas som versaler för att uttrycket ska identifieras och fältet sparas.
+
+
 
 ## Timmar sparas i minuter
 
-Timmar in [!DNL Workfront’s] -databasen lagras på några minuter. Om du refererar till fält som Planerade timmar eller Faktiska timmar, dividerar du med 60 för att visa tiden i timmar och inte minuter.
+Timmar i Workfront databas lagras på några minuter. Om du refererar till fält som Planerade timmar eller Faktiska timmar, dividerar du med 60 för att visa tiden i timmar och inte minuter.
 
 ## Mellanrum påverkar inte uttryck
 
 Det rekommenderade sättet att skriva uttryck är att ha lite eller inget mellanrum mellan varje uttryck.
 
-* IF(ISBLANK(Description),&quot;No Description&quot;,&quot;Has Description&quot;)
+* IF(ISBLANK({description}),&quot;Ingen beskrivning&quot;,&quot;Har beskrivning&quot;)
+
+![Uttryck utan mellanrum mellan fält](assets/spacing01.png)
 
 Om du vill se vad som pågår med mellanrum kan vissa mellanrum läggas till i uttrycken. De extra mellanrummen ska inte hindra uttrycket från att samla in eller beräkna ett värde i [!DNL Workfront].
 
-* IF (ÄRBLANK (beskrivning),&quot;Ingen beskrivning&quot;,&quot;Har beskrivning&quot; )
+* IF (ISBLANK ({description}), &quot;No Description&quot;, &quot;Has Description&quot; )
+
+![Uttryck med mellanrum mellan fält](assets/spacing02.png)
+
+Det enda som inte kan ha blanksteg mellan dem är fälten och klamrarna. Annars får du ett felmeddelande och kan inte spara fältet eller det anpassade formuläret.
+
+![Fel med mellanrum mellan fältnamn och klammerparentes](assets/spacing03.png)
 
 ## Citattecken måste vara raka
 
 När du använder citattecken i ett uttryck måste du se till att citattecknen är raka (&quot;). Om citattecknen är böjda (&quot;) visas [!DNL Workfront] systemet kommer att fortsätta visa meddelandet&quot;Ogiltigt anpassat uttryck&quot;.
 
+![Fel med böjda citattecken](assets/curvedquotes01.png)
+
 ## Beräkningar uppdateras när formulär sparas och objekt redigeras
 
 Detta är en viktig aspekt av beräkningsfält som ska tolkas.
 
-Information som visas i ett beräkningsfält förblir densamma och blir gammal om inte det anpassade formuläret beräknas om. Uttryck kan uppdateras med alternativet Beräkna om uttryck på menyn Mer på ett objekt.
+Information som visas i ett beräkningsfält förblir densamma och blir gammal om inte det anpassade formuläret beräknas om.
+
+Uttryck kan uppdateras med alternativet Beräkna om uttryck på menyn Mer på ett objekt.
 
 Du vill se hur många dagar ett problem har varit öppet. Skapa ett beräkningsfält med namnet&quot;Days Open&quot; med uttrycket DATEDIFF.
 
 * Fältnamn = Öppnade dagar
-* Uttryck = DATEDIFF(anmälningsdatum,$$TODAY)
+* Uttryck = DATEDIFF({entryDate},$$TODAY)
 
-Antal dagar mellan när utgåvan skapades eller skrevs in [!DNL Workfront]och dagens datum kan visas på informationssidan för ett objekt eller i en rapportvy.
+När du har sparat dokumentet kan du se antalet dagar mellan när utgåvan skapades eller skrevs in i Workfront och dagens datum på informationssidan för ett objekt eller i en rapportvy.
 
 När du visar samma informationssida eller rapportvy nästa dag förväntar du att det numret ska ökas med ett. Om siffran är 5 idag, borde den vara 6 imorgon. Nästa dag ska vara 7, 8 osv.
 
@@ -72,6 +83,8 @@ Så här uppdaterar du ett fält med alternativet Beräkna om uttryck:
 * Klicka på menyn Mer.
 * Välj Beräkna om uttryck i listan.
 
+![Alternativet Beräkna om uttryck i objekt](assets/recalculate01.png)
+
 Du kan också beräkna om flera uttryck samtidigt genom att använda funktionen&quot;massredigering&quot; i en lista eller rapport. Anta att du har skapat en rapport som visar en lista med problem med beräkningen Öppna dagar i en kolumn. Om du vill beräkna om alla utgåvor samtidigt:
 
 * Markera alla problem i rapporten.
@@ -79,6 +92,8 @@ Du kan också beräkna om flera uttryck samtidigt genom att använda funktionen&
 * Klicka på etiketten Anpassad Forms till vänster för att rulla ned till avsnittet Anpassade formulär.
 * Markera rutan Beräkna om anpassade uttryck längst ned i avsnittet Anpassad Forms.
 * Klicka på Spara ändringar.
+
+![Alternativet Beräkna om uttryck för flera objekt](assets/recalculate02.png)
 
 Skärmen uppdateras för att visa uppdaterad information i beräkningsfältet.
 
@@ -94,7 +109,7 @@ När ett beräknat anpassat fält väljs från fältbiblioteket och läggs till 
 
 Du har till exempel skapat ett beräkningsfält,&quot;Dagar att slutföra&quot;, som avgör hur lång tid det tog att slutföra en uppgift i ett projekt.
 
-* VECKODAYDIFF (faktiskt startdatum, faktiskt slutförandedatum)
+* WEEKDAYDIFF({actualStartDate},{actualCompletionDate})
 
 Du vill göra samma sak för en iteration. Du kan använda samma uttryck; De tillgängliga fälten för ett åtgärdsobjekt är dock inte alltid tillgängliga för ett upprepningsobjekt. Så [!DNL Workfront] ger dig möjlighet att skapa beräkningen med rätt objektfält.
 

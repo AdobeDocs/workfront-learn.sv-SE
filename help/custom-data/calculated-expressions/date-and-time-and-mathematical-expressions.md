@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Med datum- och tidsuttryck kan du placera viktiga datum längst fram i dina rapp
 
 När du tittar på tillgängliga datum- och tidsuttryck hittar du flera alternativ.
 
-![Resurshantering - konfigurera en sökare](assets/DTM01.png)
+![Exempeluttryck för datum och tid](assets/datetimeexpressions01.png)
 
 Det finns två datum- och tidsuttrycksuppsättningar som används oftast av [!DNL Workfront] kunder:
 
@@ -37,9 +37,11 @@ Matematiska uttryck tillåter [!DNL Workfront] att automatiskt utföra beräknin
 
 När du tittar på tillgängliga datum- och tidsuttryck kommer du att se att det finns flera tillgängliga alternativ.
 
-![Resurshantering - konfigurera en sökare](assets/math01.png)
+![Exempel på matematiska uttryck](assets/datetimeexpressions02.png)
 
-[!DNL Workfront] används vanligtvis dessa två matematiska uttrycksuppsättningar:
+Workfront-kunder använder vanligtvis dessa två matematiska uttrycksuppsättningar:
 
 * SUB, SUM, DIV, PROD
 * ROUND
+
+<b>ANMÄRKNING</b>: En fullständig lista över uttryck och mer information om vart och ett finns på dokumentationssidan &quot;Calculated data expressions&quot;.
