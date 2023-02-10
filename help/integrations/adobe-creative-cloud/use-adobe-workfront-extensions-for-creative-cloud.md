@@ -8,16 +8,23 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: null
-source-git-commit: 2676209549c4805d372eacaf62daef2cd2481c11
+source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # Använd Adobe Workfront-tillägg för Creative Cloud
 
-Hitta och uppdatera det material du tilldelats i Adobe Workfront utan att behöva lämna följande Adobe Creative Cloud-program - Photoshop, XD, InDesign, Illustrator, Premiere Pro och After Effects.
+Hitta och uppdatera det material du tilldelats i Adobe Workfront utan att behöva lämna följande Adobe Creative Cloud-program:
+
+* Photoshop
+* XD
+* InDesign
+* Illustrator
+* Premiere Pro
+* After Effects
 
 Du måste installera rätt plugin-program för det Adobe Creative Cloud-program du använder:
 
@@ -27,7 +34,7 @@ Du måste installera rätt plugin-program för det Adobe Creative Cloud-program 
 
 >[!NOTE]
 >
->Observera att för **Premiere Pro** och **After Effects** för närvarande går det inte att ladda upp, granska och godkänna video i Workfront via plugin-programmet.
+>**Premiere Pro** och **After Effects** för närvarande går det inte att ladda upp video, granska och godkänna i Workfront via plugin-programmet.
 
 
 I den här videon får du lära dig att göra följande inifrån ditt Creative Cloud-program:
