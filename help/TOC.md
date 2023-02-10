@@ -1,17 +1,17 @@
 ---
-user-guide-description: Workfront självstudiekurser
+user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8715647a8b2088260b4cd01a6410d08712126b5a
+source-git-commit: 5665cdab87bf09dc9fde94137481fba4d9764cf4
 workflow-type: tm+mt
-source-wordcount: '2385'
+source-wordcount: '2378'
 ht-degree: 0%
 
 ---
 
 
-# Workfront självstudiekurser {#tutorials-workfront}
+# Självstudiekurser om Workfront {#tutorials-workfront}
 
 + [Workfront Tutorials](home.md)
 + Administration och installation {#administration-and-setup}
@@ -330,8 +330,7 @@ ht-degree: 0%
 
 + Integreringar {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [Använd Workfront för Adobe Creative Cloud](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
-      + [Ladda upp korrektur med Workfront för Adobe Creative Cloud](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
+      + [Använd Adobe Workfront-tillägg för Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [Konfigurerar](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [Mappa metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
