@@ -1,5 +1,5 @@
 ---
-title: Använd Adobe Workfront-tillägg för Creative Cloud
+title: Använd Adobe Workfront-plugin-program för Creative Cloud
 description: Hitta och uppdatera det material du tilldelats i Adobe Workfront utan att behöva lämna följande Adobe Creative Cloud-program - Photoshop, XD, InDesign, Illustrator, Premiere Pro och After Effects
 activity: use
 feature: Workfront Integrations and Apps
@@ -7,15 +7,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
-source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
+kt: 8811
+source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Använd Adobe Workfront-tillägg för Creative Cloud
+# Använd Adobe Workfront-plugin-program för Creative Cloud
 
 Hitta och uppdatera det material du tilldelats i Adobe Workfront utan att behöva lämna följande Adobe Creative Cloud-program:
 
@@ -30,7 +30,7 @@ Du måste installera rätt plugin-program för det Adobe Creative Cloud-program 
 
 * För Photoshop, se [Installera och öppna Adobe Workfront för Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
 * XD finns på [Installera och öppna Adobe Workfront för XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
-* För InDesign, Illustrator, Premiere Pro och After Effects finns [Installera och öppna Adobe Workfront för design och video](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
+* För InDesign, Illustrator, Premiere Pro och After Effects, se [Installera och öppna Adobe Workfront för design och video](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
 
 >[!NOTE]
 >
@@ -41,8 +41,10 @@ I den här videon får du lära dig att göra följande inifrån ditt Creative C
 
 * Hitta dina Workfront-uppdrag
 * Överför filer till Workfront
+* Lägga till kommentarer och tagga teammedlemmar
 * Begär dokumentgodkännanden
 * Ladda upp korrektur och tilldela ett korrekturarbetsflöde
+* Loggtid
 * Markera ditt arbete som slutfört
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12)
