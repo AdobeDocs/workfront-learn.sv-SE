@@ -1,6 +1,6 @@
 ---
 title: Skapa en uppgiftsrapport
-description: Lär dig hur du skapar en uppgiftsrapport med ett komplext filter och hittar de rapporter du skapar i Workfront. Aktivitet - skapa en anteckningsrapport med uppmaningar.
+description: Lär dig hur du skapar en uppgiftsrapport med ett komplext filter och hittar de rapporter du skapar i Workfront. Aktivitet – skapa en anteckningsrapport med uppmaningar.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,7 +12,7 @@ kt: 8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
