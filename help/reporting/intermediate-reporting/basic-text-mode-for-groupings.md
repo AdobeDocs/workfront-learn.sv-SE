@@ -10,7 +10,8 @@ level: Intermediate
 team: Technical Marketing
 kt: 11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
-source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
@@ -63,12 +64,12 @@ group.0.valueformat=string
 
 I följande textläge grupperas uppgifter baserat på hur många procent de har slutförts. Aktiviteter hamnar i någon av följande kategorier när de grupperas:
 
-* 0 %
+* 0%
 * 1 till 25 %
 * 26 till 50 %
 * 51 till 75 %
 * 76 % till 99 %
-* 100 %
+* 100%
 
 ```
 group.0.linkedname=direct
