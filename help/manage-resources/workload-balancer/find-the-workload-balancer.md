@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: find-wlb.png
 kt: 10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
-source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
+source-git-commit: 5be1b743256cbabbf7e44bea0437e96b6094d170
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,13 @@ Att veta vilka resurser som är tillgängliga och hur de ska distribueras kan va
 
 Syftet är att ge er bättre insikt i och hantering av den dagliga och veckovisa arbetsbördan för de personer ni hanterar. Detta hjälper er att göra bättre uppdrag baserat på roll och tillgänglighet i flera projekt.
 
-![alternativ på huvudmenyn](assets/Find_01.png)
+![resurser på huvudmenyn](assets/Find_01.png)
 
 * Klicka [!UICONTROL Resurser] i [!UICONTROL Huvudmeny].
 * Gå till [!UICONTROL Schemaläggning] i området Resurshantering.
-* Klicka på [!UICONTROL &quot;Växla till arbetsbelastningsutjämnare&quot;] länk.
+* Klicka på [!UICONTROL &quot;Utjämning av arbetsbelastning&quot;] som visas.
 
-![växla till arbetsbelastningsutjämnare](assets/Find_02.png)
-
-The [!DNL Workload Balancer] är standardalternativet när du går till resurshanteringsområdet för Workfront-verktyget.
+![arbetsbelastningsutjämningssektion](assets/Find_02.png)
 
 ## Områden i arbetsbelastningsutjämnaren
 
