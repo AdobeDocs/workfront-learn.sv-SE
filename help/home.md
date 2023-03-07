@@ -2,7 +2,7 @@
 title: Workfront Tutorials
 description: Ett bibliotek med utbildningsvideor och artiklar som hjälper dig att förstå Workfront funktioner och inställningar bättre.  Här finns en samling bästa praxis, kurser och andra resurser som hjälper både dig och din organisation att lyckas med Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
+source-git-commit: f31f45b9f020e761a09fdd9adbb407f440505538
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -22,6 +22,8 @@ See other user landing pages to get ideas.
 
 -->
 
+<div id="whats-new-section">
+
 ## Vad är nytt?
 
 Upptäck de senaste uppdateringarna av självstudiekurserna för varje produktrelease från Workfront. Det här är vad som uppdaterades i den senaste versionen:
@@ -30,6 +32,16 @@ Upptäck de senaste uppdateringarna av självstudiekurserna för varje produktre
 
 * Konfigurera ett anpassat formulär så att det fungerar med flera objekttyper. Se hur i <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">skapa och dela ett eget formulär</a> självstudiekurs.
 
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Personalval
 
@@ -76,3 +88,5 @@ Upptäck de senaste uppdateringarna av självstudiekurserna för varje produktre
     </td>
   </tr>
 </table>
+
+</div>
