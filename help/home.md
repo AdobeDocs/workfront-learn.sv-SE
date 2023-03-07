@@ -2,7 +2,7 @@
 title: Workfront Tutorials
 description: Ett bibliotek med utbildningsvideor och artiklar som hjälper dig att förstå Workfront funktioner och inställningar bättre.  Här finns en samling bästa praxis, kurser och andra resurser som hjälper både dig och din organisation att lyckas med Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: f31f45b9f020e761a09fdd9adbb407f440505538
+source-git-commit: 59074bd3a448ad6d564f59599b8f57efc28982d1
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Upptäck de senaste uppdateringarna av självstudiekurserna för varje produktre
 
 ## Personalval
 
-<table>
+<table style="margin-top: 0 !important">
   <tr>
    <td>
       <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md">
@@ -53,11 +53,9 @@ Upptäck de senaste uppdateringarna av självstudiekurserna för varje produktre
       </a>
       <div>
          <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Söka efter och skapa layoutmallar</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         Lär dig hur du skapar en grundläggande layoutmall.
+         <em>Lär dig hur du skapar en grundläggande layoutmall.</em>
       </p>
     </td>
    <td>
@@ -66,11 +64,9 @@ Upptäck de senaste uppdateringarna av självstudiekurserna för varje produktre
       </a>
       <div>
          <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Gör en förfrågan</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-      <br/>
-         Lär dig hur du gör, visar och redigerar begäranden.
+         <em>Lär dig hur du gör, visar och redigerar begäranden.</em>
       </p>
 
 <td>
@@ -79,11 +75,9 @@ Upptäck de senaste uppdateringarna av självstudiekurserna för varje produktre
       </a>
       <div>
          <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Skapa en enkel rapport</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         Lär dig hur du skapar en enkel anpassad rapport.
+         <em>Lär dig hur du skapar en enkel anpassad rapport.</em>
       </p>
     </td>
   </tr>
