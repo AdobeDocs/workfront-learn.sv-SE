@@ -1,6 +1,7 @@
 ---
 title: Hantera händelsemeddelanden i appar och e-post
-description: Lär dig hur användarna kan styra vilka meddelanden de får i appen och e-posten så att de får relevanta och användbara e-postmeddelanden om sitt arbete.
+description: Lär dig hur användarna kan styra vilka meddelanden i appen och e-postmeddelanden de får så att de får relevanta, användbara e-postmeddelanden om sitt arbete.
+short-description: Learn how users can control which in-app and email notifications they receive.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,9 +11,9 @@ level: Beginner
 thumbnail: 10095.jpeg
 kt: 10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '616'
 ht-degree: 0%
 
 ---
@@ -69,11 +70,11 @@ Det sista alternativet är att inaktivera e-postmeddelanden helt.
 
 ![Markerat meddelande inaktiverat [!UICONTROL Redigera person] window](assets/admin-fund-user-notifications-09.png)
 
-Om du bestämmer dig för att göra detta bör du vara medveten om att även om du inte får e-post så tilldelas, kommenteras och uppdateras arbetet fortfarande inom [!DNL Workfront]. Genom att stänga av alla meddelanden kan du sakna viktig information som du måste känna till.
+Om du bestämmer dig för att göra detta, tänk på att även om du inte får e-post, så tilldelas arbetet fortfarande, kommenteras och uppdateras inom [!DNL Workfront]. Genom att stänga av alla meddelanden kan du sakna viktig information som du måste känna till.
 
 Det finns några tillfällen när [!DNL Workfront] har sett användare stänga av e-postmeddelanden. Om du till exempel gör mer av ditt arbete via [!DNL Workfront] mobilappen kan du inaktivera e-postmeddelanden och få meddelanden endast via appen.
 
-Oavsett [!UICONTROL Händelsemeddelanden] om du bestämmer dig för att få meddelanden är det viktigt att ditt arbete med organisationens mål är lyckat.
+Oavsett [!UICONTROL Händelsemeddelanden] om du bestämmer dig för att få meddelanden är viktiga för att arbetet med organisationens mål ska lyckas.
 
 
 ## Recommendations
