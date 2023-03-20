@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
+source-git-commit: 7f582fd33dea98d768182e2ab99506145c1712b6
 workflow-type: tm+mt
-source-wordcount: '2378'
+source-wordcount: '2380'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,8 @@ ht-degree: 0%
       + [Skapa grupper och undergrupper](administration-and-setup/organizational-setup/user-organization-groups.md)
       + [Förstå behovet av gruppadministration](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
       + [Skapa företag](administration-and-setup/organizational-setup/user-organization-companies.md)
-      + [Ställ in användare med licenser, åtkomstnivåer och jobbroller](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Konfigurera användare med licenser och åtkomstnivåer](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Skapa och hantera jobbroller](administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [Logga in som en annan användare](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
    + Hantera borttagna objekt {#manage-deleted-items}
       + [Återställ objekt från papperskorgen](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
