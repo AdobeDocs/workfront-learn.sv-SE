@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 7f582fd33dea98d768182e2ab99506145c1712b6
+source-git-commit: 8c00be25fc5ce3d7d8a25476e6f52cb40c758673
 workflow-type: tm+mt
-source-wordcount: '2380'
+source-wordcount: '2345'
 ht-degree: 0%
 
 ---
@@ -297,7 +297,7 @@ ht-degree: 0%
       + [Samarbeta kring mål för företag och organisationer](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
       + [Justera grupper och team efter er strategi](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
    + Skapa dina mål {#create-goals}
-      + [Förstå hur man använder [!UICONTROL Workfront-mål]](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
+      + [[!UICONTROL Workfront-mål] Översikt](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
       + [Konfigurera [!UICONTROL Workfront-mål] för din organisation](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
       + [Bevilja målåtkomst för valda användare](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [Skapa en layoutmall för [!UICONTROL Workfront-mål] användare](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
@@ -311,18 +311,12 @@ ht-degree: 0%
    + Hantera era mål {#manage-goals}
       + [Justera dina mål](workfront-goals/manage-your-goals/align-your-goals.md)
       + [Ta bort måljustering](workfront-goals/manage-your-goals/remove-goal-alignment.md)
-      + [Konvertera en aktivitet till ett justerat mål](workfront-goals/manage-your-goals/convert-an-activity-to-an-aligned-goal.md)
-      + [Göra en kvalitativ uppdatering](workfront-goals/manage-your-goals/make-a-qualitative-update.md)
       + [Göra en kvantitativ uppdatering](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
-      + [Koppla samman mål manuellt](workfront-goals/manage-your-goals/manually-connect-goals-to-one-another.md)
-      + [Spåra och uppdatera mål med [!UICONTROL Checka in]](workfront-goals/manage-your-goals/track-and-update-goals-using-check-ins.md)
       + [Stäng ett mål när det är klart](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
    + Övervaka era mål {#monitor-goals}
       + [Förstå diagramavsnittet](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
-      + [Visa individuella måluppdateringar](workfront-goals/monitor-your-goals/view-individual-goal-updates.md)
       + [Beräkna målförlopp](workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [Kommunicera målstatus](workfront-goals/monitor-your-goals/communicate-goal-status.md)
-      + [Navigera i [!UICONTROL Puls] uppdateringsström](workfront-goals/monitor-your-goals/navigate-the-pulse-update-stream.md)
 
 
 
