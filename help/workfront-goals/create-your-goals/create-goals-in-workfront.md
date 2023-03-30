@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: cc1c18f700dc688351dbf3ba3ede9faf5bfc45bb
 workflow-type: tm+mt
-source-wordcount: '921'
+source-wordcount: '881'
 ht-degree: 0%
 
 ---
@@ -29,10 +29,8 @@ Det finns tre sätt att skapa mål med [!DNL Workfront]:
 
 Här är några saker att tänka på när du skapar mål från grunden:
 
-* Du kan inte skapa mål med tidigare slutdatum.
 * Alla i organisationen bör välja samma tidsramar när de skapar liknande mål som är justerade.
-* Anpassade datum begränsas av det första datum du valde. Det innebär att om du väljer&quot;kvartal&quot; och ett anpassat datum, kan det anpassade datumet inte ligga efter kvarteret.
-* Det nya målets status är alltid i utkastläge tills du aktiverar det genom att lägga till en aktivitet eller ett resultat.
+* Det nya målets status är alltid Utkast tills du aktiverar det genom att lägga till en aktivitet, ett projekt eller ett resultat.
 
 I den här videon får du lära dig att:
 
@@ -48,7 +46,7 @@ Att kopiera ett befintligt mål är också användbart om flera teammedlemmar ha
 
 Här är några saker att tänka på innan du kopierar mål:
 
-* All information från det ursprungliga målet kopieras, med undantag för målperioden (eftersom den redan finns).
+* All information från det ursprungliga målet kopieras, med undantag för målperioden.
 * Du kan kopiera resultat från ett befintligt mål och de överförs till det nya målet.
 * Kopierade resultat tilldelas som standard till samma ägare.
 * Du kan inte kopiera förloppet för det befintliga målet till ett nytt mål.
@@ -57,28 +55,26 @@ Här är några saker att tänka på innan du kopierar mål:
 ### Så här kopierar du ett mål
 
 1. Klicka på ett målnamn för att öppna **[!UICONTROL Målinformation]** -panelen.
-1. Klicka på ikonen med tre punkter och välj sedan **[!UICONTROL Kopiera]**.
+1. Klicka på ikonen med tre punkter bredvid målnamnet och välj sedan **[!UICONTROL Kopiera]**.
 1. Uppdatera någon av följande information för det kopierade målet:
-   * **Nytt mål**- Det här är namnet på det nya målet. Standardvärdet är namnet på det ursprungliga målet.
+   * **Målnamn**- Det här är namnet på det nya målet. Standardvärdet är&quot;kopia av&quot; följt av namnet på det ursprungliga målet.
    * **Period**- Den tidsperiod under vilken du vill uppnå målet. Välj en tidsperiod i listrutan eller klicka på Definiera anpassade datum för att ange en anpassad tidsperiod. Standardperioden är alltid aktuellt kvartal.
    * **Ägare**- Målets ägare. Detta kan vara en användare, ett team, en grupp eller ett företag. Standardvärdet är ägaren till det ursprungliga målet.
    * **Beskrivning**—Ytterligare information om målet.
 
 1. Kontrollera **[!UICONTROL Kopiera resultat]** om det ursprungliga målet hade lagt till resultat och du vill kopiera dem till det nya målet. Resultatet av det kopierade målet har samma ägare, namn och uppmätta värden som det ursprungliga målets resultat.
 
-1. Klicka **[!UICONTROL Spara]**. Det kopierade målet sparas med statusen Utkast.
+1. Klicka **[!UICONTROL Kopiera mål]**. Det kopierade målet sparas med statusen Utkast.
 
    ![En bild av [!UICONTROL Målinformation] panel i [!DNL Workfront Goals] med [!UICONTROL Kopiera] option](assets/03-workfront-goals-copy-a-goal.png)
 
 1. Klicka **[!UICONTROL Aktivera]**, som uppdaterar målstatusen till Aktiv. Målet måste ha en associerad aktivitet eller ett associerat resultat för att&quot;aktivera&quot;.
 
-1. Klicka på **X** i det övre högra hörnet av [!UICONTROL Målinformation] för att stänga den.
-
 Om du har kopierat ett mål som inte har slutförts under en tidigare tidsperiod och vill fortsätta arbeta med det under följande tidsperiod gör du följande:
 
-1. Gå till det ursprungliga målet i **[!UICONTROL Mållista]**, **[!UICONTROL Checka in]** eller **[!UICONTROL Puls]** -avsnitt.
-1. Kommentera målet för att ange att det kopierades och att ett mer aktuellt mål skapades.
-1. Stäng det ursprungliga målet om du vill behålla de framsteg som gjordes under den ursprungliga tidsperioden. Klicka på ikonen med tre punkter i dialogrutan **[!UICONTROL Målinformation]** panel och markera **[!UICONTROL Stäng]** på menyn.
+1. Gå till det ursprungliga målet i **[!UICONTROL Mållista]**.
+1. Lägg till en uppdatering till målet för att ange att det kopierades och att ett mer aktuellt mål skapades.
+1. Stäng det ursprungliga målet om du vill behålla de framsteg som gjordes under den ursprungliga tidsperioden. Klicka på ikonen med tre punkter bredvid målnamnet och välj **[!UICONTROL Stäng]** på menyn.
 1. Uppdatera [!UICONTROL Inledande] värdet för det nya resultatet så att det matchar **[!UICONTROL Mål]** värdet på föregående resultat, så ditt nya målförlopp börjar beräkna från den punkt som uppnåddes under föregående period.
 
 ## Konvertera ett resultat eller en aktivitet till ett mål
@@ -89,14 +85,13 @@ Du kan göra detta när ett resultat/en aktivitet är större än förväntat oc
 
 Tänk på följande innan du konverterar ett resultat eller en aktivitet till ett mål:
 
-* Det konverterade resultatet eller aktiviteten kan bli det underordnade målet för det ursprungliga målet. De två målen blir anpassade.
-* Det konverterade resultatet eller den konverterade aktiviteten kan tas bort från det ursprungliga målet och läggas till som ett resultat eller en aktivitet i det nya målet.
-* Det nya målet blir en enda förloppsindikator för det ursprungliga målet, om det inte finns några ytterligare resultat eller aktiviteter i det ursprungliga målet.
+* Det konverterade resultatet eller aktiviteten blir det underordnade målet för det ursprungliga målet, och de två målen justeras.
+* Det nya målet blir en enda förloppsindikator för det ursprungliga målet, om det inte finns några ytterligare resultat eller aktiviteter i det ursprungliga målet. Du måste lägga till resultat och aktiviteter i det underordnade målet för att kunna spåra förloppet.
+* Det går inte att ångra konverteringen av ett resultat eller en aktivitet till ett mål. När det konverterats kan det nya underordnade målet aldrig igen bli ett resultat eller en aktivitet för det överordnade målet.
 
 I den här videon får du lära dig att:
 
-* Konvertera en aktivitet till ett justerat mål
+* Lägg till en aktivitet och konvertera den till ett justerat mål
 
 >[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12)
 
-Nu när du har utforskat de tre sätten att skapa mål i [!DNL Workfront Goals], vi arbetar med att aktivera de målen.
