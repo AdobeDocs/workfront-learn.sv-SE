@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: cc1c18f700dc688351dbf3ba3ede9faf5bfc45bb
+source-git-commit: f6990cd0fb0c4eb848828fb40f132b320ab8f37d
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Här är några saker att tänka på innan du kopierar mål:
 
    ![En bild av [!UICONTROL Målinformation] panel i [!DNL Workfront Goals] med [!UICONTROL Kopiera] option](assets/03-workfront-goals-copy-a-goal.png)
 
-1. Klicka **[!UICONTROL Aktivera]**, som uppdaterar målstatusen till Aktiv. Målet måste ha en associerad aktivitet eller ett associerat resultat för att&quot;aktivera&quot;.
+1. Klicka på ikonen med tre punkter och välj sedan  **[!UICONTROL Aktivera]**, som uppdaterar målstatusen till Aktiv. Målet måste ha en associerad aktivitet eller ett associerat resultat för att&quot;aktivera&quot;.
 
 Om du har kopierat ett mål som inte har slutförts under en tidigare tidsperiod och vill fortsätta arbeta med det under följande tidsperiod gör du följande:
 
