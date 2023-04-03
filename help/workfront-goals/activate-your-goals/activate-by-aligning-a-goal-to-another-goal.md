@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,10 @@ När du justerar två mål blir det ena det överordnade målet och det andra et
 1. Klicka [!UICONTROL Spara ändringar].
 
 Om du justerar ett mål mot ett annat mål skapas ett underordnat mål. Tänk på underordnade mål som individuella mål som bidrar till utvecklingen av organisationens eller teamets överordnade mål. Underordnade mål kan aktivera och påverka förloppet för det överordnade målet.
+
+## Aktivera nu det överordnade målet
+
+Nu när du har skapat ett underordnat mål blir det en förloppsindikator för ditt överordnade mål. Alternativet Aktivera visas när du klickar på menyn med tre punkter bredvid det överordnade målnamnet.
+
+![En skärmbild som visar hur du aktiverar det överordnade målet.](assets/activate-the-parent-goal.png)
+
