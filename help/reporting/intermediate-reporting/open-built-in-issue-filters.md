@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ I den här videon kommer du att:
 * Läs mer om några användbara element för problemrapportering
 * Lär dig hur du skapar ett eget problemfilter
 
->[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
 ## Aktivitet: Skapa en problemrapport
 

@@ -11,7 +11,7 @@ thumbnail: 335131.png
 kt: 8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Varje steg i ett automatiserat arbetsflöde har ett eget avsnitt där du kan än
 
 I den här videon visas några av de ändringar du kan göra i [!UICONTROL Arbetsflöde] område. Se punktlistan under den här videon som visar dessa inställningar. Det finns inget ljud i den här videon.
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on)
 
 Här är korrekturmallsändringarna som du kan göra i [!UICONTROL Arbetsflöde] avsnitt:
 

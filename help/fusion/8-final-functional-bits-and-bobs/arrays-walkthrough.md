@@ -10,9 +10,9 @@ level: Beginner
 kt: 9058
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Granska tidigare genomgångar där enkla och komplexa arrayer användes. Vi ska 
 
 Workfront rekommenderar att du tittar på genomgången av videon innan du försöker återskapa övningen i din egen miljö.
 
->[!VIDEO](https://video.tv.adobe.com/v/335299/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335299/?quality=12&learn=on)
 
 
 ## Vill du veta mer? Vi rekommenderar följande:

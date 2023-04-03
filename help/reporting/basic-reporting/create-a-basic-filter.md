@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8857
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -26,4 +26,4 @@ I den här videon får du lära dig:
 * Skapa och ändra ett filter
 * Dela ett filter med andra Workfront-användare
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on)

@@ -10,7 +10,7 @@ level: Beginner
 kt: 9068
 exl-id: d7b08769-aeca-4b4e-b04c-96472c8ae476
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
@@ -23,4 +23,4 @@ I den här videon får du lära dig:
 
 * Använda, skapa och navigera mellan organisationer, team och användare
 
->[!VIDEO](https://video.tv.adobe.com/v/335309/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335309/?quality=12&learn=on)

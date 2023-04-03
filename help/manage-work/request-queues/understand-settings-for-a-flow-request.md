@@ -11,9 +11,9 @@ thumbnail: 335222.jpeg
 kt: 8959
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ I den här videon får du lära dig:
 * Arbetsflödet som är specifikt för köhantering
 * Skapa och använda routningsregler, ämnesgrupper och köämnen
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on)

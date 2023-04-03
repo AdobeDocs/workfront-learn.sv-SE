@@ -5,9 +5,9 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 2ac96361d0cc90b62dfd5378b5a487f889d07199
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ I den här videon får du lära dig att:
 * Kopiera ett befintligt projekt
 * Importera en Microsoft Project-fil
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)

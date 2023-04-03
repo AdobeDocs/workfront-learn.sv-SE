@@ -6,9 +6,9 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 371ded50162e2122d276e5c3a7d5865c6f62207c
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ I den här videon får du lära dig att:
 * Markera arbete som prioriteringstilldelningar
 * Filtrera arbetslistan så att endast prioriterat arbete visas
 
->[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on)

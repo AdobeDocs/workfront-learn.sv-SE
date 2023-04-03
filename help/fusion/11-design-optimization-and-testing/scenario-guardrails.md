@@ -10,7 +10,7 @@ level: Beginner
 kt: 9072
 exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -28,7 +28,7 @@ I den här videon får du lära dig mer om:
 * Skyddsfiler
 * Webkrokskyddsräcken
 
->[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on)
 
 ## Vill du veta mer? Vi rekommenderar följande:
 

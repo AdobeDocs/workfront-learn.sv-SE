@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8985
 exl-id: 67bc9228-f16e-4cba-bae2-d223e9d79d39
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -24,4 +24,4 @@ I den här videon får du lära dig att:
 * Visa resurser i Brand Connect
 * Visa data om en resurs, inklusive metadata och nyckelord
 
->[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12&learn=on)

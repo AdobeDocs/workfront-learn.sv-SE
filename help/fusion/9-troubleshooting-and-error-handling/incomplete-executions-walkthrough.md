@@ -10,7 +10,7 @@ level: Beginner
 kt: 9067
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Lär dig de praktiska vanorna med att lagra ofullständiga körningar och först
 
 Workfront rekommenderar att du tittar på genomgången av videon innan du försöker återskapa övningen i din egen miljö.
 
->[!VIDEO](https://video.tv.adobe.com/v/335308/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335308/?quality=12&learn=on)
 
 ## Vill du veta mer? Vi rekommenderar följande:
 

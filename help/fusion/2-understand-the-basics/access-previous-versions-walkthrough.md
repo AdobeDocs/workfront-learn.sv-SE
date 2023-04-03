@@ -10,7 +10,7 @@ level: Beginner
 kt: 9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 0%
@@ -27,7 +27,7 @@ I den här videon kommer du att:
 
 Workfront rekommenderar att du tittar på genomgången av videon innan du försöker återskapa övningen i din egen miljö.
 
->[!VIDEO](https://video.tv.adobe.com/v/335268/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335268/?quality=12&learn=on)
 
 >[!NOTE]
 >

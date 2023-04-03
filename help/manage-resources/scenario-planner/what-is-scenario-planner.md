@@ -11,9 +11,9 @@ thumbnail: 335317.jpeg
 kt: 9075
 exl-id: 8df4cf3b-c6fc-4515-b475-efb8442b5962
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ I den här videon får du lära dig:
 * Scenarioplanering i organisationen
 * Åtkomstinställningar som behövs för att använda [!DNL Scenario Planner]
 
->[!VIDEO](https://video.tv.adobe.com/v/335317/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335317/?quality=12&learn=on)

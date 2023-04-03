@@ -11,7 +11,7 @@ thumbnail: 335176.png
 kt: 8913
 exl-id: 7ef77612-d490-4dc5-82e1-5c36acad761e
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -25,6 +25,6 @@ I den här videon får du lära dig:
 * Vad DATEDIFF- och WEEKDAYDIFF-uttrycken beräknar
 * Så här skapar du ett WEEKDAYDIFF-datauttryck i ett beräkningsfält
 
->[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12&learn=on)
 
 **Anteckning**: WEEKDAYDIFF-datauttrycket tar INTE hänsyn till helgdagar som anges av din organisation.

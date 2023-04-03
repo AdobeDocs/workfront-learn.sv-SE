@@ -11,9 +11,9 @@ thumbnail: 335081.jpeg
 kt: 8767
 exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,4 @@ I den här videon får du lära dig att:
 * Ta bort objekt från [!UICONTROL Startsida]
 * Lägg till objekt i [!UICONTROL Startsida]
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on)

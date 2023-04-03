@@ -5,7 +5,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 2ac96361d0cc90b62dfd5378b5a487f889d07199
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -20,4 +20,4 @@ I den här videon får du lära dig:
 * Olika sätt att lägga till och ta bort uppgifter
 * Så här ändrar du uppgiftsordningen
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on)

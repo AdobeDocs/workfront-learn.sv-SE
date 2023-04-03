@@ -10,7 +10,7 @@ level: Beginner
 kt: 9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Detta är en del av en enkelriktad synkronisering av företag i Workfront och an
 
 Workfront rekommenderar att du tittar på genomgången av videon innan du försöker återskapa övningen i din egen miljö.
 
->[!VIDEO](https://video.tv.adobe.com/v/335296/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335296/?quality=12&learn=on)
 
 >[!TIP]
 >

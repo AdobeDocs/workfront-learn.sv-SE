@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ I den här videon får du lära dig att:
 * Anpassa navigeringsfältet och sidfoten
 * Anpassa startsidan och inloggningssidan
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on)
 
 ## Ytterligare [!UICONTROL Utseende] inställning
 

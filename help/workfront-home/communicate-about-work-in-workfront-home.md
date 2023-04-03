@@ -11,9 +11,9 @@ thumbnail: 335102.png
 kt: 8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ I den här videon får du lära dig att:
 * Tagga användare på [!DNL Workfront] uppdateringar
 * Svara på befintliga uppdateringar
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on)
 
 ## Tips för att uppdatera arbetet i [!UICONTROL Startsida]
 

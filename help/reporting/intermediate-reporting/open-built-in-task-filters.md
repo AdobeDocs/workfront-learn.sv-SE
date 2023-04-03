@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -26,7 +26,7 @@ I den här videon kommer du att:
 * Läs mer om några användbara element för uppgiftsrapportering
 * Lär dig hur du skapar ett eget uppgiftsfilter
 
->[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
 ## Aktivitet: Skapa en uppgiftsrapport
 

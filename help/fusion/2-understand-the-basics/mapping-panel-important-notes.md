@@ -10,9 +10,9 @@ level: Beginner
 kt: 9003
 exl-id: 2f5a2088-b32c-457f-baa1-913501d74b73
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ I den här videon får du lära dig:
 
 * Betydelsen av att använda de operatorer som finns på mappningspanelen
 
->[!VIDEO](https://video.tv.adobe.com/v/335263/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335263/?quality=12&learn=on)

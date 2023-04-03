@@ -10,9 +10,9 @@ level: Beginner
 kt: 9047
 exl-id: 99adafb4-a40d-4392-a2e6-cb698e77f436
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ I den här videon får du lära dig:
 * Vilka växlingsfunktioner och -moduler som finns och hur de skiljer sig åt
 * När en switch-funktion ska användas jämfört med en switch-modul
 
->[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on)

@@ -8,7 +8,7 @@ team: Technical Marketing
 kt: Jira ticket
 role: Admin
 thumbnail: 335073.jpeg
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
@@ -24,4 +24,4 @@ I den här videon får du lära dig att:
 * Lägg till objekt i [!UICONTROL Huvudmeny]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on)

@@ -10,7 +10,7 @@ level: Beginner
 kt: 9046
 exl-id: e078a9e9-69c8-40a1-9ad1-e9517acf3ee6
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -44,4 +44,4 @@ I den här videon får du lära dig:
 * Vilka utlösare, åtgärder och sökningar som finns och hur de skiljer sig åt
 * Typer av moduler som finns i olika appanslutningar och hur de fungerar
 
->[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12&learn=on)

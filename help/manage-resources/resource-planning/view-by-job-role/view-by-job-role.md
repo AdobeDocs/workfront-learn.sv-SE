@@ -11,7 +11,7 @@ thumbnail: 335169.jpeg
 kt: 8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -26,7 +26,7 @@ I den här videon kommer du att:
 * Lär dig hur resursinformation visas i den här vyn
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on)
 
 För alternativet Visa efter jobbroll är standardvärdet att visa kolumnen Budgeterad, som tar upp det beräknade antalet resurser som behövs för ett projekt från ett affärsärende, om det har fyllts i. Det innebär också att kolumnen Netto som standard använder siffrorna från kolumnen Budgeterad för att ange hur många resurser som finns kvar.
 

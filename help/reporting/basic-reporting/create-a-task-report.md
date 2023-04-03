@@ -11,7 +11,7 @@ thumbnail: 335154.png
 kt: 8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 6%
@@ -25,7 +25,7 @@ I den här videon får du lära dig:
 * Skapa en uppgiftsrapport med ett komplext filter
 * Hitta de rapporter du skapar
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
 ## Aktivitet: Skapa en anteckningsrapport med uppmaningar
 

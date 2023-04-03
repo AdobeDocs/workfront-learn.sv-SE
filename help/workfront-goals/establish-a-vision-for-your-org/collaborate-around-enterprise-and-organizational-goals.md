@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8893
 exl-id: 777cd503-96a3-4fc6-b0a8-429f72bc9bb0
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -25,7 +25,7 @@ I den här videon får du lära dig att:
 * Definiera vad du och ditt team måste göra för att uppnå toppnivåmålet
 * Förfina målhierarkin från Avsnitt 2: Upprätta en vision och strategi
 
->[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12&learn=on)
 
 <!--
 Pro-tips graphic

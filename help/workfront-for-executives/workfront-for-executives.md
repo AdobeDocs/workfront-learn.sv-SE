@@ -13,7 +13,7 @@ hidefromtoc: true
 kt: null
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
@@ -64,4 +64,4 @@ I den här videon får du lära dig att:
 * Gör en förfrågan
 * Visa dina skickade begäranden
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)

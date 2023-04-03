@@ -10,7 +10,7 @@ level: Beginner
 kt: 9045
 exl-id: 820f35af-a068-4a15-9322-98462964de61
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Använd olika scenariokonfigurationer för att utforska körningar och cykler.
 
 Workfront rekommenderar att du tittar på genomgången av videon innan du försöker återskapa övningen i din egen miljö.
 
->[!VIDEO](https://video.tv.adobe.com/v/335286/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335286/?quality=12&learn=on)
 
 >[!TIP]
 >

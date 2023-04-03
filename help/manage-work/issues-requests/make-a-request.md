@@ -11,7 +11,7 @@ thumbnail: 336092.png
 kt: 8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '477'
 ht-degree: 0%
@@ -29,7 +29,7 @@ I den här videon får du lära dig att:
 * Visa skickade begäranden
 * Hitta ett utkast till en begäran
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
 
 ## Hitta kösökvägarna snabbt och enkelt
 

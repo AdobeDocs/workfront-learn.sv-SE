@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8777
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -26,7 +26,7 @@ I den här videon får du lära dig att:
 * Varför planerade timmar är viktiga för ditt projekt
 * Så här lägger du till planerade timmar till aktiviteter
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)
 
 
 <!---

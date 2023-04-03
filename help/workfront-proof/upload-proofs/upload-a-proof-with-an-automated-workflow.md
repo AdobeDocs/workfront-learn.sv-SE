@@ -11,7 +11,7 @@ thumbnail: 335133.png
 kt: 8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '575'
 ht-degree: 0%
@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 * Tillämpa ett arbetsflöde med en korrekturmall
 * Skapa ett automatiskt arbetsflöde från grunden
 
->[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on)
 
 
 

@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -29,7 +29,7 @@ I den här videon får du lära dig att:
 * Ändra [!DNL Goals] terminologi som passar din organisation
 * Lägg till [!DNL Goals] till [!DNL Workfront] [!UICONTROL Huvudmeny]
 
->[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on)
 
 <!--
 Learn more graphic

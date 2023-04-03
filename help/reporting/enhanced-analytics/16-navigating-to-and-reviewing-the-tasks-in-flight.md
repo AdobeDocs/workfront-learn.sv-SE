@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ I den här videon får du lära dig:
 * Så här kommer du åt uppgifter i flightdiagram
 * Så här ser du snabbt vilka uppgifter som inte har slutförts i ett projekt
 
->[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on)
 
 ## Data på aktivitetsnivå
 

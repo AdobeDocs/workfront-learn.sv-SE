@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
@@ -41,7 +41,7 @@ I den här videon får du lära dig:
 * Vad kamelväska är
 * Vissa grundläggande textlägen för plug and play som du kan använda i dina grupperingar
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
 ## Aktivitet - 4 överordnade grupperingar
 

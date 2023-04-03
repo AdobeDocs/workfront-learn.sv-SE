@@ -11,7 +11,7 @@ thumbnail: 335100.png
 kt: 8799
 exl-id: 8879e812-75aa-43f2-9c0d-74a1f155ceb0
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -25,4 +25,4 @@ I den här videon får du lära dig att:
 * Markera arbete som prioriteringstilldelningar
 * Filtrera [!UICONTROL Arbetslista] för att bara se prioriterat arbete
 
->[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on)

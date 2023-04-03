@@ -11,7 +11,7 @@ kt: 8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -24,7 +24,7 @@ I den här videon får du lära dig att:
 
 * Skapa en enkel rapport med ett befintligt filter, en befintlig vy och en befintlig gruppering
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
 ## Aktivitet: Skapa en enkel uppgiftsrapport
 

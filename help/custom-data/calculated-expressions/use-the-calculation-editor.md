@@ -11,9 +11,9 @@ thumbnail: 339959.png
 kt: 9506
 exl-id: f569e8a7-f26d-4a11-b602-e51cdfe97350
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,4 +26,4 @@ I den här videon får du lära dig:
 * Beräkningsredigerarens funktioner
 * Skapa ett ADDWEEKDAYS-datumuttryck i ett beräkningsfält med beräkningsredigeraren
 
->[!VIDEO](https://video.tv.adobe.com/v/339959/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/339959/?quality=12&learn=on)

@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 18%
@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 * Definitionen av ett projekt i [!DNL Workfront]
 * De tre vanligaste sätten att skapa projekt
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
 Skaffa [!DNL  Workfront] projekt snabbt kommer igång med hjälp av en projektmall. Planera sedan projektet genom att först fokusera på följande fem områden:
 

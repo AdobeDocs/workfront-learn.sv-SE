@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -25,7 +25,7 @@ I den här videon får du lära dig att:
 * Välj en vy att jämföra [!DNL Workfront's] olika datumtyper
 * Använd förloppsstatus för att spåra arbetets förlopp
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
 
 <!---
 Task progress status overview
