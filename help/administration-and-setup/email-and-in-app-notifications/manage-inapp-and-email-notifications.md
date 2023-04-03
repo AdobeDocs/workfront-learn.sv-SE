@@ -1,6 +1,6 @@
 ---
 title: Hantera händelsemeddelanden i appar och e-post
-description: Lär dig hur användarna kan styra vilka meddelanden i appen och e-postmeddelanden de får så att de får relevanta, användbara e-postmeddelanden om sitt arbete.
+description: Lär dig hur användare kan styra vilka aviseringar i appar och e-postmeddelanden de får så att de får relevanta och användbara e-postmeddelanden om deras arbete.
 short-description: Learn how users can control which in-app and email notifications they receive.
 feature: System Setup and Administration
 activity: deploy
@@ -14,7 +14,7 @@ exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
 source-wordcount: '616'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
