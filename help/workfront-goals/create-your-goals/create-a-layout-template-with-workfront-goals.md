@@ -1,5 +1,5 @@
 ---
-title: Lägg till [!DNL Workfront Goals] till en layoutmall
+title: Skapa en layoutmall för [!DNL Workfront Goals] användare
 description: Lär dig hur du skapar en layoutmall med [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] terminologi som passar er organisation.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 kt: 8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-# Skapa en layoutmall med [!DNL Workfront Goals]
+# Skapa en layoutmall för [!DNL Workfront Goals] användare
 
 I **[!UICONTROL Inställningar]** kan du även skapa och tilldela en layoutmall som innehåller [!DNL Workfront Goals] så att du och dina användare kan komma åt den enklare.
 

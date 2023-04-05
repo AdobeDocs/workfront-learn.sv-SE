@@ -1,6 +1,6 @@
 ---
-title: Lägg till en aktivitet i ett mål
-description: Lär dig hur du aktiverar ett mål genom att lägga till en aktivitet i [!DNL Workfront Goals].
+title: Lägg till en aktivitet och ett projekt i ett mål
+description: Lär dig hur du aktiverar ett mål genom att lägga till en aktivitet eller ett projekt i [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,17 +10,17 @@ team: Technical Marketing
 kt: 8921
 exl-id: 5ef96f4e-8bdb-402b-89e2-2940774359cc
 doc-type: video
-source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
+source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-# Så här lägger du till en aktivitet i ett mål
+# Lägg till en aktivitet och ett projekt i ett mål
 
 I den här videon får du lära dig att:
 
-* Aktivera ett mål genom att lägga till en aktivitet
+* Lägg till en aktivitet och ett projekt i ett mål
 
 >[!VIDEO](https://video.tv.adobe.com/v/335193/?quality=12&learn=on)

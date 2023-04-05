@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
 workflow-type: tm+mt
-source-wordcount: '2341'
+source-wordcount: '2344'
 ht-degree: 0%
 
 ---
@@ -306,7 +306,7 @@ ht-degree: 0%
       + [Aktivera mål](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [Aktivera genom att justera ett mål mot ett annat](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [Lägg till ett resultat i ett mål](workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
-      + [Lägg till en aktivitet i ett mål](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
+      + [Lägg till en aktivitet och ett projekt i ett mål](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
    + Hantera era mål {#manage-goals}
       + [Justera dina mål](workfront-goals/manage-your-goals/align-your-goals.md)
       + [Ta bort måljustering](workfront-goals/manage-your-goals/remove-goal-alignment.md)
