@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10124
 exl-id: 3e5751b8-2547-42c5-bcb7-d312d31271d5
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -20,16 +20,11 @@ ht-degree: 0%
 
 Vad händer när det inte längre är vettigt att förena olika mål? Du kan ta bort måljusteringen.
 
-1. Gå till ett underordnat mål justerat mot ett överordnat mål.
-1. Klicka på målnamnet för att öppna [!UICONTROL Målinformation] -panelen.
-1. Klicka på kugghjulsikonen bredvid det överordnade målet och klicka sedan på [!UICONTROL Ta bort justering].
+1. Gå till ett överordnat mål justerat mot ett underordnat mål.
+1. Klicka för att öppna [!UICONTROL Förloppsindikatorer] -panelen.
+1. Klicka i kryssrutan bredvid det underordnade målet som du vill koppla från det överordnade målet.
+1. Klicka på ikonen X bredvid pennikonen.
 
 ![En skärmbild av [!UICONTROL Ta bort justering] alternativ i [!DNL Workfront Goals]](assets/08-workfront-goals-remove-goal-alignment.png)
 
 Målet blir ett fristående mål och dess framsteg påverkar inte längre förloppet för det ursprungliga överordnade målet. Glöm inte att lägga till aktiviteter eller resultat till målen för att mäta förloppet och flytta det till en aktiv status.
-
-<!-- Pro-tips graphic -->
-
-* Det överordnade målet måste ha ett annat mål, en annan aktivitet eller ett annat resultat för att förbli aktivt.
-* Du kan inte ta bort ett justerat underordnat mål från ett överordnat mål om det är den enda förloppsindikatorn för det överordnade målet.
-* Det underordnade målet blir ett fristående mål när du tar bort dess justering till det överordnade målet.

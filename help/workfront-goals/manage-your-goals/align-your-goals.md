@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Nu när du har skapat och aktiverat dina mål i [!DNL Workfront Goals], vi ska s
 
 <!--Insert link to LP 1, above -->
 
-Använd måljustering för att:
+Använd delen Måljustering för att:
 
 * Visa mål som tillhör dig eller din organisation.
 * Visa målhierarki och visa justerade underordnade mål.
-* Gå till panelen Målinformation och uppdatera målet, resultaten eller aktiviteterna.
+* Öppna målet för att se dess förloppsindikatorer.
 
 Att se till att målen är anpassade innebär att alla från början till slut kommer att utföra arbete som driver samma initiativ framåt. Visualisering är en viktig del av hur varje enskilt mål för respektive företag är direkt anpassat till avdelnings-, team- och individnivå. Silor minskas genom att team integreras på olika sätt. Justering skapar klarhet kring allas syfte och kopplar organisationen till det som verkligen betyder något.
 
@@ -49,6 +49,7 @@ Här är några saker att tänka på innan du justerar mål i [!DNL Workfront]:
 
 I den här videon får du lära dig att:
 
-* Navigera i [!UICONTROL Måljustering] page
+* Justera mål både nedifrån och upp och uppifrån och ned
+* Navigera i [!UICONTROL Måljustering] section
 
 >[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)

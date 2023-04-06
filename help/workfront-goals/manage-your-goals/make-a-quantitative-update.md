@@ -1,6 +1,6 @@
 ---
-title: Gör en kvantitativ uppdatering i [!DNL Workfront Goals]
-description: Lär dig hur du gör en kvantitativ uppdatering i [!DNL-mål].
+title: Uppdatera framsteg för resultat och aktiviteter som [!DNL Workfront Goals]
+description: Lär dig hur du uppdaterar framsteg för resultat och aktiviteter i [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,17 +10,17 @@ team: Technical Marketing
 kt: 8924
 exl-id: c535cb38-bc33-403c-a9a0-3333d715eb14
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---
 
-# Göra en kvantitativ uppdatering
+# Så här uppdaterar du framsteg för resultat och aktiviteter
 
 I den här videon får du lära dig att:
 
-* Göra en kvantitativ uppdatering eller en uppdatering av förloppsindikatorer (t.ex. resultat, aktiviteter, anpassade mål) för att öka målets utveckling
+* Så här uppdaterar du framsteg för resultat och aktiviteter
 
 >[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on)

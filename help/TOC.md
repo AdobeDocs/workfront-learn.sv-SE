@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '2344'
+source-wordcount: '2346'
 ht-degree: 0%
 
 ---
@@ -310,7 +310,7 @@ ht-degree: 0%
    + Hantera era mål {#manage-goals}
       + [Justera dina mål](workfront-goals/manage-your-goals/align-your-goals.md)
       + [Ta bort måljustering](workfront-goals/manage-your-goals/remove-goal-alignment.md)
-      + [Göra en kvantitativ uppdatering](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
+      + [Uppdatera förloppet för resultat och aktiviteter](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
       + [Stäng ett mål när det är klart](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
    + Övervaka era mål {#monitor-goals}
       + [Förstå diagramavsnittet](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
