@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10119
 exl-id: fa7aba9b-503e-4fad-93ee-9b709a839e11
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -34,11 +34,8 @@ Förloppet för ditt mål är ett bra sätt att få en uppfattning om var ditt m
 
 ![En bild som täcker de olika förloppsetiketterna i [!DNL Workfront Goals]](assets/15-workfront-goals-progress-bar-code.png)
 
-![En skärmbild av procentkolumnen för målförloppet i [!UICONTROL Checka in] avsnitt i [!DNL Workfront Goals]](assets/16-workfront-goals-progress-status-bar.png)
 
-<!-- Learn more graphic -->
+>[!TIP]
+>
+>Mer information om formlerna som används för att beräkna målförloppet finns i den här artikeln: [Översikt över målets förlopp och villkor i Adobe Workfront-mål](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=en#overview-of-goal-progress-and-threshold).
 
-* Mer information om formlerna som används för att beräkna målförloppet finns i artikeln Beräkna målförlopp i [!DNL   Goals].
-
-
-<!-- need link to documentation article, above -->

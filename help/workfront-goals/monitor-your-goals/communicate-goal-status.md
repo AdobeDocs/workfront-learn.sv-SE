@@ -9,21 +9,20 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
 
 # Kommunicera målstatus
 
-Nu när du har uppdaterat dina mål med [!UICONTROL Checka in], ta dig tid att backa och få en fågelperspektiv på de mål du arbetar med och hur de hänger ihop med teamet, gruppen och företagets mål. Att kommunicera med andra om hur era mål utvecklas och utvecklas är en viktig del av att hålla er uppdaterade.
+Nu när du har uppdaterat dina mål med hjälp av kan du ta ett ögonblick tillbaka och få en fågelperspektiv på de mål du arbetar med och hur de hänger ihop med teamet, gruppen och företagets mål. Att kommunicera med andra om hur era mål utvecklas och utvecklas är en viktig del av att hålla er uppdaterade.
 
 Det finns olika sätt att hålla rätt personer uppdaterade om era mål. Du kan börja med:
 
 * Dela och rapportera om era mål
-* Konfigurera din vy av [!UICONTROL Puls] strömma för att skapa och visa individuella måluppdateringar
 * Utnyttja [!UICONTROL Diagram] för att få en heltäckande bild av hur era mål fortskrider
 
 ## Dela ett mål
