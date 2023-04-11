@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
+source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
 workflow-type: tm+mt
-source-wordcount: '2353'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -141,6 +141,7 @@ ht-degree: 0%
       + [Förstå inställningarna för en flödesbegäran](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Skapa en begärandekö](manage-work/request-queues/create-a-request-queue.md)
       + [Skapa ett begärandeflöde](manage-work/request-queues/create-a-request-flow.md)
+      + [Svar på vanliga frågor om begärandeköer](manage-work/request-queues/request-queue-faq.md)
    + Godkännandeprocesser och milstolpar {#approval-processes-and-milestone-paths}
       + [Skapa en godkännandeprocess för enstaka användning](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Bifoga och redigera befintliga godkännandeprocesser](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
