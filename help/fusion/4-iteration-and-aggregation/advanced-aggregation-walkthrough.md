@@ -10,16 +10,14 @@ level: Beginner
 kt: 9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
 
 # Genomgång av avancerad aggregering
-
-## Översikt
 
 Ring en webbtjänst för att returnera information om flera länder och identifiera den totala befolkningen i alla länder, grupperade efter underregion.
 

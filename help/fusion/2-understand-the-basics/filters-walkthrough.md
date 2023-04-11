@@ -10,16 +10,14 @@ level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
 # Använda den kraftfulla filtergenomgången
-
-## Översikt
 
 Använd genomgången&quot;Bortom grundläggande mappning&quot; som du skapade tidigare och lägg till ett filter mellan de två modulerna i modulerna för att endast skapa projekt som har en&quot;röd&quot; projektfärg i projektlistan.
 

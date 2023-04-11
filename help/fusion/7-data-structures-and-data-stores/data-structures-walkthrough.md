@@ -10,16 +10,14 @@ level: Beginner
 kt: 9053
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 # Genomgång av datastrukturer
-
-## Översikt
 
 Öppna en CSV-fil som innehåller en lista med tidsposter. Dessa tidsposter är för minuter och loggas under vissa dagar av flera användare. Målet är att ta med den här informationen och skapa en ny CSV-fil som visar den totala tiden, i timmar, som loggas av varje användare varje dag.
 

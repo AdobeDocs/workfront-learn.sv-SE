@@ -10,18 +10,16 @@ level: Beginner
 kt: 9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
 
 # Genomgång av webbhooks
 
-## Översikt
-
-Det här scenariot skapar en bekväm butiksapp så att de enkelt kan avgöra om en kund är gammal nog att köpa alkohol eller inte. Kassören behöver bara bokföra kundens namn och födelsedatum OCH en verifierad klienttoken till en URL som har angetts. När detta anges utlöses vårt scenario för att beräkna det lämpliga svaret och returnera det till den som gjorde begäran.
+Det här scenariot skapar en bekväm butiksapp så att de enkelt kan avgöra om en kund är gammal nog att köpa alkohol eller inte. Kassören behöver bara bokföra kundens namn och födelsedatum OCH en verifierad klienttoken till en angiven URL. När detta anges utlöses vårt scenario för att beräkna det lämpliga svaret och returnera det till den som gjorde begäran.
 
 ![En bild som använder modulen Byt](assets/beyond-basic-modules-5.png)
 

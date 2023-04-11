@@ -10,16 +10,14 @@ level: Beginner
 kt: 9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
 
 # Genomgång av datalager
-
-## Översikt
 
 I den här övningen använder vi ett datalager för att synkronisera företagsnamn mellan en lista över företag och Workfront.
 
@@ -40,13 +38,13 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 
 ## Slutkommentar
 
-Nu när du har lärt dig mer om datastrukturer och datalager kan du fråga dig själv när du ska använda dem?
+Nu när du har lärt dig mer om datastrukturer och datalager kan du fråga dig själv: När ska du använda dem?
 
 Datastrukturer används oftast för serialisering eller tolkning av dataformat som JSON, XML, CSV med flera. Med datastrukturer kan ni styra datastrukturen och till och med validera data. Den vanligaste anledningen till att du använder en datastruktur är att skapa giltiga data som ska skickas till ett API som förväntar sig JSON eller XML. I dessa fall ska du använda JSON- eller XML-appen tillsammans med din datastruktur för att säkerställa att data har rätt format.
 
 Datalager bör bara användas för att lagra beständiga data som behöver vara tillgängliga för mer än en scenariokörning. Du kan t.ex. lagra metadata om den sista posten som bearbetats för avancerad användning, vilket kräver exakt kontroll över bearbetningen.
 
-Datalager är inte avsedda att användas som data warehouse eller loggning. Datalager är inte tillgängliga utanför Workfront Fusion och de flesta interaktioner med datalager sker via ett Workfront Fusion-scenario. Det är därför inte möjligt att ansluta ett datalager till ett analys- eller rapporteringsverktyg som förväntas för data warehouse och loggningsanvändning. Workfront Fusions roll i sådana här fall skulle vara att fylla i ett system som passar för att organisera och lagra data (t.ex. SQL, MariaDB).
+Datalager är inte avsedda att användas som data warehouse eller loggning. Datalager är inte tillgängliga utanför Workfront Fusion och de flesta interaktioner med datalager sker via ett Workfront Fusion-scenario. Det är därför inte möjligt att ansluta ett datalager till ett analys- eller rapporteringsverktyg som förväntas för data warehouse och loggningsanvändning. Workfront Fusions roll i användningsområden som dessa skulle vara att fylla i ett system som passar för att organisera och lagra data (t.ex. SQL, MariaDB).
 
 ## Vill du veta mer? Vi rekommenderar följande:
 

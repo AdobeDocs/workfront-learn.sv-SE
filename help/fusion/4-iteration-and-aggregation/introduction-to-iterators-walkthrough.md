@@ -10,18 +10,16 @@ level: Beginner
 kt: 9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
 # Introduktion till genomgång av iteratorer
 
-## Översikt
-
-Titta på ett specifikt projekt i Workfront och titta sedan på alla uppgifter i det projektet. Sedan använder du stegvisa modulen för att räkna antalet uppgifter i projektet. Slutligen använder du variabeln Set för att subtrahera antalet underordnade från Antal öppna ärenden för att skapa ett numeriskt värde för varje aktivitetspaket.
+Titta på ett specifikt projekt i Workfront och titta sedan på alla uppgifter i det projektet. Sedan använder du stegningsverktygets modul för att räkna antalet uppgifter i projektet. Slutligen använder du variabeln Set för att subtrahera antalet underordnade från Antal öppna ärenden för att skapa ett numeriskt värde för varje aktivitetspaket.
 
 ![En bild av Fusion-scenariot](assets/iteration-and-aggregation-1.png)
 

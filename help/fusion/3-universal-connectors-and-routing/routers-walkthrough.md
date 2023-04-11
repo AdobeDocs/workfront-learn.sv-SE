@@ -10,16 +10,14 @@ level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
 
 # Genomgång av routrar
-
-## Översikt
 
 Använd en router för att skicka Pokemon kontra superhjältar i paket längs rätt bana och skapa sedan en uppgift för varje tecken.
 
@@ -60,7 +58,7 @@ Fram tills nu har du arbetat med ett mycket enkelt API (Application Programming 
 
 Workfront och många programvarusystem byggs med en REST-API (Representational State Transfer), som är den enklaste och mest vanliga typen av API idag. Det finns dock några andra, till exempel:
 
-* SOAP (Simple Object Access Protocol) (Workfront korrektur-API är SOAP-baserat)
+* SOAP (Simple Object Access Protocol) (Workfront Proof API är SOAP-baserat)
 * FTP (File Transfer Protocol)
 * SFTP (Secure File Transfer Protocol)
 * Om du vill veta mer gör du en webbsökning efter API-typer och nyckelord av intresse.
@@ -81,7 +79,7 @@ Läs mer om de olika typer av autentisering som Workfront tillhandahåller i art
 
 När ett API interagerar med ett annat system betraktas kontaktytorna i det här meddelandet som slutpunkter. En slutpunkt är den plats där API:er skickar begäranden och där resursen finns.
 
-När du interagerar med ett API med en universell anslutning måste du förstå vilka slutpunkter API:t stöder och vilka data som krävs för varje begäran. API-dokumentationen bör beskriva en API:s slutpunkter och hur du utför vanliga åtgärder som att skapa, läsa, uppdatera eller ta bort. För att kunna utföra dessa anrop krävs viss övning, särskilt om du inte har använt API-anrop tidigare eller om du har arbetat med ett nytt API.
+När du interagerar med ett API med en universell anslutning måste du förstå vilka slutpunkter API:t stöder och vilka data som krävs för varje begäran. API-dokumentationen bör beskriva en API:s slutpunkter och hur du utför vanliga åtgärder som att skapa, läsa, uppdatera eller ta bort. För att kunna utföra dessa anrop krävs viss övning, särskilt om du inte har gjort några API-anrop eller om du har arbetat med ett nytt API.
 
 Läs mer om Workfront Fusion Universal Connectors och hur du konfigurerar dem för att ansluta till de API:er du behöver på Experience League.
 

@@ -10,16 +10,14 @@ level: Beginner
 kt: 9048
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
 # Genomgång av switchfunktion
-
-## Översikt
 
 För enkla dataändringar använder du funktionen Växla för att omforma ett värde till ett annat inom ett modulfält. I den här övningen ska du ändra nyckeln med två bokstäver till det faktiska namnet på den projektförloppsstatus som har skickats i ett e-postmeddelande.
 
