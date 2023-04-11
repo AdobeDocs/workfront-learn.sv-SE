@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2353'
 ht-degree: 0%
 
 ---
@@ -222,6 +222,7 @@ ht-degree: 0%
       + [Avancerad rapportering, del 2](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [Avancerad rapportering, del 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
    + Förbättrad analys {#enhanced-analytics}
+      + [Ett ögonblick med Product om [!UICONTROL Förbättrad analys]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Kom igång med [!UICONTROL Förbättrad analys]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Lägg till [!UICONTROL analys] till layoutmallar](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Förstå grundläggande navigering](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -274,7 +275,7 @@ ht-degree: 0%
       + [Visa ledig tid när du tilldelar uppgifter](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [Synlighet i resurshanteringsverktyg](manage-resources/pto/visibility-in-resource-management-tools.md)
    + Scenarioplan {#scenario-planner}
-      + [Ett ögonblick med produkten om Scenarioplanen](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
+      + [Ett ögonblick med Product om Scenario Planner](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [Vad är scenarioplaneraren?](manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [Åtkomst till en plan i scenarioplanen](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
       + [Skapa planer i scenarioplanen](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)

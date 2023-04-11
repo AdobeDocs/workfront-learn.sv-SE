@@ -9,16 +9,16 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Kommunicera målstatus
 
-Nu när du har uppdaterat dina mål med hjälp av kan du ta ett ögonblick tillbaka och få en fågelperspektiv på de mål du arbetar med och hur de hänger ihop med teamet, gruppen och företagets mål. Att kommunicera med andra om hur era mål utvecklas och utvecklas är en viktig del av att hålla er uppdaterade.
+Nu när du har uppdaterat dina mål kan du ta dig en stund tillbaka och få en fågelperspektiv på de mål du arbetar med och hur de hänger ihop med teamet, gruppen och företagets mål. Att kommunicera med andra om hur era mål utvecklas och utvecklas är en viktig del av att hålla er uppdaterade.
 
 Det finns olika sätt att hålla rätt personer uppdaterade om era mål. Du kan börja med:
 
@@ -33,7 +33,7 @@ Du kan dela ett mål som du har skapat eller ett mål som har skapats av någon 
 
 1. Klicka på ikonen med tre punkter bredvid målnamnet och klicka sedan på [!UICONTROL **Dela**]. The [!UICONTROL Målåtkomst] visas.
 
-   ![Resurser](assets/17-workfront-goals-share-a-goal.png)
+   ![Skärmbild som visar hur du delar ett mål](assets/17-workfront-goals-share-a-goal.png)
 
 1. Gör något av följande:
 
