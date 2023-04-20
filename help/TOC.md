@@ -3,7 +3,7 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
+source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -38,6 +38,7 @@ ht-degree: 0%
       + [Hitta layoutmallar](administration-and-setup/layout-templates/find-layout-templates.md)
       + [Anpassa terminologi med layoutmallar](administration-and-setup/layout-templates/customize-workfront-terminology.md)
       + [Anpassa [!UICONTROL Huvudmeny] med layoutmallar](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
+      + [Lägga till och hantera punkter via en layoutmall](administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
       + [Anpassa startsidan med layoutmallar](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [Tilldela och hantera åtkomst till layoutmallar](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [Anpassa objektområden med en layoutmall](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
@@ -64,6 +65,7 @@ ht-degree: 0%
       + [Skapa milstolpar](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
    + Systemprestanda och underhåll {#system-perfomance-and-maintenance}
       + [Ta hand om en befintlig Adobe Workfront-instans](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 
 
