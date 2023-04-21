@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '1226'
+source-wordcount: '1219'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,8 @@ Du behöver inte fylla i alla fält och kryssrutor i projektinformationen för v
 
 1. **Namn**
 
-   Ett beskrivande projektnamn hjälper alla att identifiera syftet med projektet. Följ organisationens regler för projektnamn, som kan kräva att viss information inkluderas i projektnamnet (t.ex. ett referensnummer, avdelningsnamn eller kategoriindikator).
+   Ett beskrivande projektnamn hjälper alla att identifiera syftet med projektet. Kom ihåg att följa organisationens regler för projektnamn, som kan kräva att viss information inkluderas i projektnamnet (t.ex. ett referensnummer, avdelningsnamn eller kategoriindikator).
+
 
 1. **Beskrivning**
 
@@ -37,15 +38,15 @@ Du behöver inte fylla i alla fält och kryssrutor i projektinformationen för v
 
    Status används i Workfront för att ange var, eller i vilket skede, i arbetsflödet ett projekt befinner sig. Status används i många Workfront-rapporter för att spåra hur arbetet fortskrider.
 
-   Workfront rekommenderar att du ställer in statusen till Planning medan du slutför projektplanen. Det viktigaste med planeringsstatusen är att Workfront-meddelanden inte går ut till aktivitetstilldelningar för projektet när det är i den här statusen.
+   Workfront rekommenderar att du ställer in statusen till Planning medan du slutför projektplanen. Det viktigaste med planeringsstatusen är att Workfront-meddelanden inte går ut till aktivitetstilldelningar om projektet när det är i den här statusen.
 
-   När projektet är klart att publiceras ändrar du statusen till Aktuell. Det här är när Workfront skickar meddelanden till rätt personer om de uppgifter som de har tilldelats.
+   När projektet är klart att publiceras ändrar du statusen till Aktuell. Detta gör att Workfront kan skicka meddelanden till personer om nya uppgifter som de har tilldelats, men det går inte att skicka meddelanden till användare för de uppgifter som de har tilldelats när projektet hade statusen Planering.
 
    >[!TIP]
    >
    >  När du gör ändringar i projektet, t.ex. ändrar förfallodatum, kan du återställa statusen till Planering eller inaktivera funktionen Spara automatiskt för att förhindra att meddelanden skickas tills ändringarna är klara.
 
-   Systemadministratören kan ange planeringsstatusen som global Workfront-standard.
+   Planeringsstatusen kan anges som global Workfront-standard för nya projekt av systemadministratören.
 
 1. **Schemaläge**
 
@@ -71,15 +72,15 @@ Du behöver inte fylla i alla fält och kryssrutor i projektinformationen för v
 
 1. **Projektägare**
 
-   Projektägaren är Workfront term for project manager. Detta är den person som ansvarar för planeringen och/eller ledningen av projektet.
+   Projektägaren är Workfront villkor för projektledare. Detta är den person som ansvarar för planeringen och/eller ledningen av projektet.
 
-   Projektägaren har fullständig behörighet att hantera projektet, så de måste ha en planlicens.
+   För att projektägaren ska ha fullständig behörighet att hantera projektet måste han/hon ha en planlicens.
 
    Normalt lämnas det här fältet tomt i mallen och fylls i automatiskt med namnet på den person som skapar projektet. Om ett namn anges i mallen är det standardägaren av projektet.
 
 1. **Projektsponsorer**
 
-   Projektsponsorn är vanligtvis den person som begärde projektet. Detta är ofta en intern aktör, till exempel en chef eller en chef, med övergripande ansvar för projektet.
+   Projektsponsorn krävs inte, men när den används är det i allmänhet den som begärde projektet. Detta är ofta en intern aktör, till exempel en chef eller en chef, med övergripande ansvar för projektet.
 
    Sponsorn får automatiskt visningsbehörighet för projektet och måste vara en Workfront-licensierad användare.
 
@@ -87,13 +88,13 @@ Du behöver inte fylla i alla fält och kryssrutor i projektinformationen för v
 
 1. **Resurshanteraren**
 
-   Workfront-användare som listas i det här fältet kan använda verktygen för resursplanering och resurshantering i Workfront för de specifika projekt de listas i. Upp till 30 namn kan listas i fältet Resurshanterare och varje namn måste ha en planlicens.
+   De Workfront-användare som visas i det här fältet kan använda verktygen för resursplanering och resurshantering i Workfront för de specifika projekt de listas i. Upp till 30 namn kan listas i fältet Resurshanterare och varje namn måste ha en planlicens.
 
    Fältet Resurshanterare kan anges i mallen.
 
 1. **Anpassad Forms**
 
-   Workfront innehåller inbyggda fält för exempelvis projektnamn och startdatum. Men det finns ytterligare information som du behöver som projektledare, eller som projektteamet behöver. Dina unika data är lika viktiga och kan enkelt lagras i dessa formulär. Information om publiceringsdatum, utskriftsmaterialstorlekar, leveranskanaler med mera.
+   Workfront innehåller inbyggda fält för exempelvis projektnamn och startdatum. Men det finns ytterligare information som du behöver som projektledare, eller som projektteamet behöver. Dina unika data är lika viktiga och kan enkelt lagras i dessa formulär. Information om publiceringsdatum, utskriftsmaterialstorlekar, leveranskanaler osv.
 
    Anpassade formulär kan hämta in den här informationen och kan inkluderas i listor och rapporter i Workfront, vilket gör informationen enkel att visa och redigera.
 
@@ -103,7 +104,7 @@ Du behöver inte fylla i alla fält och kryssrutor i projektinformationen för v
 
    Arbetet sker dygnet runt, eftersom många företag har anställda över hela världen.
 
-   Med Workfront kan du använda ett gemensamt schema för projekt. Dessa skapas av systemadministratören. Tidsplanerna återspeglar teamets arbetsdagar och timmar, plus dagar då de anställda inte arbetar (t.ex. helger).
+   Med Workfront kan du använda ett gemensamt schema för projekt. Dessa skapas av systemadministratören. Schemana återspeglar arbetsdagarna och arbetstiderna för era team, plus dagar då medarbetarna inte arbetar (t.ex. helger).
 
    Som planerare måste du se till att du använder rätt schema för rätt projekt. Schemainställningarna påverkar tidslinjeberäkningar, med hänsyn tagen till tid och tidszoner.
 
@@ -121,10 +122,8 @@ Du behöver inte fylla i alla fält och kryssrutor i projektinformationen för v
 
 1. **Åtkomst till projektet för tittare och medarbetare**
 
-   När någon får åtkomst till ett projekt finns det tre behörighetsnivåer som kan tilldelas först när ett projekt blir live - Visa, Contribute och Hantera. Varje behörighetsnivå tillåter användaren att se och göra vissa saker med projektet.
+   När någon får åtkomst till ett projekt via Dela finns det tre behörighetsnivåer som kan tilldelas: Visa, Contribute och Hantera. Varje behörighetsnivå tillåter användaren att se och göra vissa saker med projektet.
 
-   Det finns till exempel personer som kan ha tillgång till projektet men som inte ska se den ekonomiska informationen. Du kan alltså inaktivera alternativet Visa finansiering för visningsprogram och medarbetare.
-
-   Du kan när som helst finjustera de här behörighetsinställningarna för enskilda projekt. När ett projekt har gått från Planering till Aktuell status måste dock behörighetsbaserade justeringar göras via projektdelning.
+   Det finns till exempel personer som kan ha tillgång till projektet men som inte ska se den ekonomiska informationen. Du kan alltså inaktivera alternativet Visa finansiering för dem.
 
    Åtkomstinställningarna kan anges i mallen.
