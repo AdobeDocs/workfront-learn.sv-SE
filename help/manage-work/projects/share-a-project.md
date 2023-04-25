@@ -10,27 +10,21 @@ role: User
 level: Intermediate
 kt: 10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 518ede1e0a57a3075d8db122d48666c45dae8a4b
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 # Dela ett projekt
 
-Att ge intressenter och medarbetare insyn i projektet är en viktig del i hanteringen av ett projekt.
+I den här videon får du lära dig:
 
-Se till att alla kan se den information de behöver genom att dela projektet. I Workfront görs detta med [!UICONTROL Dela] alternativ. Du kan göra detta från det enskilda projektet, från [!UICONTROL Mer] i sidhuvudet.
+* Hur automatisk delning fungerar i Workfront
+* Dela ett projekt med en person
+* Dela ett projekt med ett team
+* Dela ett projekt genom att lägga in det i en portfolio
+* Vilken är den bästa metoden för att dela ett projekt?
 
-![Project Access-fönstret](assets/planner-fund-share-project-smaller.png)
-
-Du kan också dela flera projekt samtidigt från listan med projekt på [!UICONTROL Projekt] genom att markera projekten och klicka på [!UICONTROL Dela] -knappen.
-
-Genom att dela projektet kan alla inblandade se projektinformation när de behöver den.
-
-<!---
-Learn More Icon
-Share permissions on objects
-Share a project
---->
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on)
