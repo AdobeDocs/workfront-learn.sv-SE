@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: ab5203c8edc01c60386d9057e1d82c0e980ade02
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -37,3 +37,19 @@ Om du klickar i vissa delar av ett diagram visas ytterligare diagram eller en up
 * **Projekttreemap**—Klicka på en projektruta för att öppna listan för nedladdning och uppgifter.
 * **Aktivitet per team**—Klicka på teamnamnet för att expandera diagrammet så att du kan se aktivitet efter användare.
 * **Resurskapacitet**—Klicka på teamnamnet för att visa teamets kapacitetstabell.
+
+## Vad innebär en mörkare och ljusare ton när det gäller teamaktiviteter?
+
+**Användare som är inloggade:** Lila rutor visar att personer i hemteamet loggade in den dagen. En mörkare ton anger att fler personer loggar in.
+
+![En bild med lila skuggade rutor](assets/purple-shaded-boxes.png)
+
+**Aktivitetsstatusändring:** Rutor visar att personer i hemteamet ändrade status för en uppgift den dagen. En mörkare ton anger att ett högre antal uppgiftsstatusvärden ändras.
+
+![En bild av rosa skuggade rutor](assets/pink-shaded-boxes.png)
+
+**Slutförda uppgifter:** Blå rutor visar att folk i hemteamet slutförde en uppgift den dagen. En mörkare ton anger att fler uppgifter slutförs.
+
+![En bild med blå skuggade rutor](assets/blue-shaded-boxes.png)
+
+Mer information finns i [Förstå aktivitetsbaserad teamvisualisering](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en).
