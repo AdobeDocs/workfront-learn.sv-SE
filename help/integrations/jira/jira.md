@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 1402821a23ed67d46179e419aff18f7befc66620
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,10 @@ ht-degree: 0%
 
 [!DNL Jira]  är en produkt som skapats av [!DNL Atlassian] för att spåra projekt och problem för utvecklingsteam och supportteam. Många team använder [!DNL Jira]  för att spåra arbetsuppgifterna, men de använder också [!DNL Workfront] för att hantera projekt. Detta innebär att teamen fördubblar sina insatser genom att skapa uppgifter både i [!DNL Workfront] och [!DNL Jira] . Men med [!DNL Jira]  inbyggd integrering kan den typen av information automatiskt överföras mellan de två programmen.
 
+## Hur kan jag installera Adobe Workfront för Jira?
+
+Gå till [Adobe Workfront för Jira](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html?lang=en) för att lära dig hur du installerar och konfigurerar Adobe Workfront för Jira.
+
 ## Vad kan en [!DNL Jira]  vad ingår?
 
 Här har vi en spruta [!DNL Workfront] titled &quot;[!DNL Workfront] Story Spring.&quot;
@@ -32,7 +36,7 @@ Här har vi en spruta [!DNL Workfront] titled &quot;[!DNL Workfront] Story Sprin
 
 Joan Harris, ledaren för rådet Agile, för Dev-Jedi, använder styrbrädan och nedbränningsdiagram som ett sätt att mäta utvecklingen av den övergripande fjädringen. Det ger teamet en bra visuell representation av vad som pågår. Dessutom innehåller denna information en rapport som granskas varje kvartal. Men de flesta i teamet uppdaterar [!DNL Jira] , inte [!DNL Workfront].
 
-Joan har använt [!DNL Jira]  i flera år och tycker att det är ett bra sätt för dem att spåra enskilda uppgifter och/eller buggar som de har tilldelats att arbeta med. Men Joan behöver verkligen den informationen för att kunna ansluta till [!DNL Workfront] och i slutänden mata in rapporterna från cheferna.
+Joan&#39;s team har använt [!DNL Jira]  i flera år och tycker att det är ett bra sätt för dem att spåra enskilda uppgifter och/eller buggar som de har tilldelats att arbeta med. Men Joan behöver verkligen den informationen för att kunna ansluta till [!DNL Workfront] och i slutänden mata in rapporterna från cheferna.
 
 ![Jira Storyboard](assets/Jira02.png)
 
