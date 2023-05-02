@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
+source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ I diagrammet visas följande nyckelinformation:
 ## Navigera till diagrammet
 
 1. Klicka på [!UICONTROL Folk] i den vänstra panelen.
-1. Använd [!UICONTROL Filter] för att välja ett hemteam att undersöka.
+1. Använd [!UICONTROL Filter] för att välja ett eller flera hemteam att undersöka.
 1. Du kommer att se [!UICONTROL Resurskapacitet] visas under teamaktivitetsdiagrammet.
 
 ## Använda diagrammet

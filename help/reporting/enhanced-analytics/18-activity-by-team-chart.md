@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
+source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -42,5 +42,5 @@ I diagrammet ser du:
 ## Navigera till diagrammet
 
 1. Klicka på [!UICONTROL Folk] i den vänstra panelen.
-1. Använd [!UICONTROL Filter] för att välja ett hemteam att undersöka.
+1. Använd [!UICONTROL Filter] för att välja ett eller flera hemteam att undersöka.
 1. Aktivitets-för-team-diagrammet visas överst i personschemat.
