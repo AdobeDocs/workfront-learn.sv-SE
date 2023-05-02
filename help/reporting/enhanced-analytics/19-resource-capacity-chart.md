@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,12 @@ I diagrammet visas följande nyckelinformation:
 1. Timmar är längst ned. Det här är x-axeln i diagrammet och beräknar till det timintervall som visas i team ovan.
 1. Cirkeln visar antalet planerade timmar som tilldelats hemteamet.
 1. Den lodräta raden visar det totala antalet timmar som är tillgängliga för hemteamet.
+
+## Navigera till diagrammet
+
+1. Klicka på [!UICONTROL Folk] i den vänstra panelen.
+1. Använd [!UICONTROL Filter] för att välja ett hemteam att undersöka.
+1. Du kommer att se [!UICONTROL Resurskapacitet] visas under teamaktivitetsdiagrammet.
 
 ## Använda diagrammet
 
