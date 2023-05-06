@@ -1,6 +1,6 @@
 ---
 title: Förstå projektkommunikation
-description: Lär dig hur du kommunicerar om projektarbete med hjälp av uppdateringar om projekt, uppgifter, problem eller dokument. Granska sedan befintliga uppdateringar i [!DNL  Workfront].
+description: Lär dig hur du kommunicerar om projektarbete med bra projektplanering, uppdateringar, aktivitetsstatus, procent färdigt, problem och rapporter.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,32 +8,30 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-05T00:00:00Z
 kt: 10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 96e0a94ad39354765c171f762003c58feec5a4c8
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 # Förstå projektkommunikation
 
-Som talesättet säger är kommunikation 90 procent av allt. Kommunikation med projektteamet, chefer och projektintressenter.
+I den här videon får du lära dig att kommunicera med alla projektintressenter med:
 
-Men när projektteamen använder e-post, snabbmeddelanden, möten och anteckningar för projektkommunikation sprids informationen ... eller ännu värre, glöm. Håll kommunikationen om själva projektarbetet i [!DNL Workfront] med uppdateringar.
+* Bra projektplanering
+* Uppdateringar
+* Aktivitetsstatus och procent slutfört
+* Problem
+* Rapporter
 
-När projektmedlemmarna arbetar med uppdrag kan de göra uppdateringar från [!DNL Workfront] [!UICONTROL Startsida] på de uppgifter de tilldelats.
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on)
 
-![Uppdateringsavsnitt i ett projekt](assets/planner-fund-project-communication.png)
-
-Uppdateringar från uppgifter, utgåvor och dokument samlas på projektnivå [!UICONTROL Uppdateringar] -fliken, vilket gör informationen snabb och enkel att visa.
-
-Sedan kan du svara på uppdateringar genom att klicka på knappen. Detta håller alla samtal på ett ställe, så att du kan återkomma till det senare.
-
-<!---
-learn more urls
-Communicate about work in Home
-Subscribe to items in Workfront
-Update work
---->
+>[!TIP]
+>
+>Om du vill skapa anteckningssökrapporten som visas i videon läser du aktiviteten i [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) självstudiekurs.
+>
+>Om du vill lägga till rapporten Anteckningssökning på projektpanelen läser du aktiviteten i [Skapa instrumentpaneler](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) självstudiekurs.
