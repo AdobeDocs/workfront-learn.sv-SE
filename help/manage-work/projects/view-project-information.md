@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: d85820a7516bfde170ec1df8ce96b16dafab2cf1
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,16 @@ Du kan få en högnivåbild av hur alla dina projekt fortskrider i [!UICONTROL P
 
 Använd [!UICONTROL Filter] för att begränsa listan utifrån vissa kriterier. Välj sedan en [!UICONTROL Visa] för att visa kolumner med information som är relevant för dina projekt. Slutligen väljer du en [!UICONTROL Gruppering] att ordna projekten på ett sätt som passar dig.
 
-När du är på [!UICONTROL Uppgifter] del av ett projekt, använda [!UICONTROL Filter], [!UICONTROL Vyer]och [!UICONTROL Grupperingar] igen för att hjälpa dig att övervaka arbetet. Eftersom du tittar på uppgifter i stället för projekt har du en helt annan uppsättning alternativ.
+När du är på [!UICONTROL Uppgifter] del av ett projekt, använda [!UICONTROL Filter], [!UICONTROL Vyer]och [!UICONTROL Grupperingar] igen för att hjälpa dig att övervaka arbetet. Eftersom du tittar på uppgifter istället för projekt har du en helt annan uppsättning alternativ.
 
 ![Projektuppgiftslista med vyer](assets/planner-fund-task-list-fvg.png)
 
 Många [!DNL Workfront] kunderna skapar anpassade vyer som visar anpassad formulärinformation och andra fält som är relevanta för det arbete som utförs.
+
+## Lär dig hur du skapar egna filter, vyer och grupperingar
+
+[Skapa ett enkelt filter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)
+
+[Skapa en grundvy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
+
+[Skapa en grundläggande gruppering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
