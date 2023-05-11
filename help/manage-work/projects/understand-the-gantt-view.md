@@ -1,6 +1,6 @@
 ---
 title: Förstå [!UICONTROL Gantt] visa
-description: Lär dig hur du visar ett projekt med [!UICONTROL Gantt] diagram in [!DNL  Workfront].
+description: Lär dig använda Gantt-schemat för att snabbt se dina uppgifter och projekt på en hög nivå med en överraskande detaljrikedom.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,32 +8,23 @@ thumbnail: understand-the-gantt-view.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-11T00:00:00Z
 kt: 10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: e9bd9ad214189ff7077fa72fde00f9fbe8d632a9
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
 # Förstå [!UICONTROL Gantt] visa
 
-Ibland räcker det inte att bara titta på uppgiften för att få en uppfattning om hur allt är sammankopplat. Vissa projektledare måste se informationen i diagramformat. Om det är dina önskemål [!DNL Workfront] rekommenderar [!UICONTROL Gantt] för att ge dig en visuell uppfattning om hela tidslinjen i ditt projekt.
+I den här videon får du lära dig hur du använder:
 
-The [!UICONTROL Gantt] ger viktig information i en enkel visuell vy för att få en överblick över din plan. Visa snabbt föregångare, milstolpar och förloppsstatus. Experimentera med olika alternativ: av och på.
+* Projektets Gantt-schema
+* Gantt-schemat för aktiviteten
 
-![[!UICONTROL Gantt] diagram](assets/planner-fund-gantt.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on)
 
-Sedan kan du se om du har glömt att placera en föregångare på en ny uppgift. Du kontrollerar också varaktighet och start-/förfallodatum för att se till att inget är i fel ordning. Visa procentandelen slutförd så att du kan identifiera uppgifter som är i trubbel. Och [!UICONTROL Gantt] kan lyfta fram dina milstolpeuppgifter och tala om för dig om projektet har uppnått sina mål.
-
-<!---
-this paragraph needs an article URL
---->
-
-The [!UICONTROL Gantt] är enkelt att utforska och vara användbar vid olika tidpunkter under projektets livslängd. Prova det och se hur det fungerar för dig. Du kan läsa mer online med artikeln Kom igång med Gantt-schemat.
-
-<!---
-Getting started with the Gantt chart
-Overview of the project critical path
---->
+Du kan läsa mer online med artikeln [Kom igång med Gantt-schemat](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=en).
