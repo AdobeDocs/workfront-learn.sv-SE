@@ -1,43 +1,26 @@
 ---
-title: Så här skapar du uppgifter
-description: Lär dig andra metoder för att skapa uppgifter i ett projekt i [!DNL  Workfront].
+title: Skapa uppgifter
+description: Lär dig några metoder för att skapa uppgifter i ett projekt i Adobe Workfront.
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-15T00:00:00Z
 kt: 10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: c59055ce84ea42d7f7f20fa9e0e414fa50e73938
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---
 
-# Så här skapar du uppgifter
+# Skapa uppgifter
 
-Det finns flera sätt att skapa uppgifter i ett projekt i [!DNL Workfront]. The [!UICONTROL Infoga aktivitet ovan]/[!UICONTROL Infoga aktivitet nedan] kan du lägga till uppgifter precis där du behöver dem. Men du kanske tycker att en annan metod fungerar bättre för dig.
+I den här videon får du lära dig:
 
-1. Skapa en ny uppgift med [!DNL New Task] knappen öppnar ett förkortat formulär för att snabbt skapa uppgifter. Från [!UICONTROL Ny uppgift] kan du fylla i all viktig information - [!UICONTROL Aktivitetsnamn], [!UICONTROL Beskrivning], [!UICONTROL Uppdrag], [!UICONTROL Varaktighet]och [!UICONTROL Planerat slutförandedatum]. Om din organisation behöver ytterligare information klickar du på [!UICONTROL Fler alternativ] knappen för att starta [!UICONTROL Skapa uppgift] för ett omfattande formulär.
+* Det långa sättet att skapa en uppgift i ett Workfront-projekt
+* Några praktiska genvägar för att skapa uppgifter
 
-![[!UICONTROL Ny uppgift] window](assets/planner-fund-new-task-creation.png)
-
-Båda dessa alternativ placerar aktiviteten längst ned i planen på den överordnade aktivitetsnivån eller på den huvudsakliga aktivitetsnivån. Sedan kan du flytta uppgiften till rätt plats i planen.
-
-2.[!UICONTROL Lägg till fler aktiviteter] skapar en ny aktivitetsrad längst ned i projektet, så att du kan använda den infogade redigeringen för att fylla i informationen. Den här aktiviteten ärver placeringen av uppgiften direkt ovanför den.
-
-3.[!UICONTROL Kopiera till] och [!UICONTROL Flytta till] från [!UICONTROL Mer] kan du kopiera eller flytta uppgifter till ett annat projekt. Detta är praktiskt om du vet att det finns uppgifter i ett annat projekt som du vill duplicera i projektet.
-
-<!---
-should we add duplicate?
---->
-
-<!---
-learn more urls:
-Create tasks in a project
-Delete tasks
-Copy and duplicate tasks
-Edit tasks 
-Create subtasks
---->
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on)
