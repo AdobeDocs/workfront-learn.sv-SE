@@ -1,6 +1,6 @@
 ---
 title: Förstå behovet av gruppadministratörer
-description: Läs om hur systemadministratörer kan använda gruppadministratörer för att underhålla [!DNL Workfront] samtidigt som grupper får bättre kontroll över sitt arbete.
+description: Läs mer om hur systemadministratörer kan använda gruppadministratörer för att underhålla  [!DNL Workfront] -inställningar samtidigt som de ger grupperna mer kontroll över sitt arbete.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
 workflow-type: tm+mt
 source-wordcount: '335'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
