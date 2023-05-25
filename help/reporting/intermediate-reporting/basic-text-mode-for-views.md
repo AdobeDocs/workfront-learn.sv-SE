@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 18aa5b742c4ad6210893af6141aa0b2777ab3c2a
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -493,7 +493,7 @@ valueformat=HTML
 ## Dokument - datum för dokumentgodkännande
 
 ```
-displayname=Document Approval Dates
+displayname=Document approval dates
 valueformat=HTML
 listdelimiter=<br>
 linkedname=direct
@@ -506,7 +506,7 @@ shortview=false
 section=0
 ```
 
-![En skärmbild som visar vyn Godkännandedatum för dokument](assets/document-approval-dates.png)
+![En skärmbild som visar dokumentets datumvy för godkännande](assets/document-approval-dates.png)
 
 ## Godkännanden
 
