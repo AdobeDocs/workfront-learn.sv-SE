@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 0ee80dceb8208bd0360fd8c9ab68fb8a73677a9d
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,19 @@ I den här videon får du lära dig:
 * Skapa och ändra villkorsstyrd formatering
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+
+## Sammanfattning
+
+Så här skapar du villkorsstyrd formatering:
+
+1. Välj den kolumn där du vill att formateringen ska visas
+1. Bestäm vilka villkor du vill att formateringen ska ändras
+1. Bestäm vilken typ av formateringsändring som fungerar bäst
+
+   * bakgrundsfärg
+   * textfärg
+   * ersättningstext
+   * visa en ikon
 
 ## Aktivitet: Lägga till villkorsstyrd formatering i en vy
 
