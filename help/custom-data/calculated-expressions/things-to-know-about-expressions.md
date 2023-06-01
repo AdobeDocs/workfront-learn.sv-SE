@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
+source-git-commit: 71f9ec5fad80664cc1d1f12c6772b131ee46c59c
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Här är en lista med koncept som är bra att känna till när du arbetar med an
 
 När det gäller uttrycksnamn är det viktigt med bockning. När du skriver ett uttrycksnamn kan du använda versaler, gemener eller en blandning av båda.
 
-![Felmeddelande utan skiftläge i uttrycksnamnet](assets/ttk-casingmatters01.png)
+![Felmeddelande utan skiftläge i uttrycksnamnet](assets/T2K01.png)
 
 Uttrycket måste dock skrivas som versaler för att uttrycket ska identifieras och fältet sparas.
 
@@ -40,23 +40,23 @@ Det rekommenderade sättet att skriva uttryck är att ha lite eller inget mellan
 
 * IF(ISBLANK({description}),&quot;Ingen beskrivning&quot;,&quot;Har beskrivning&quot;)
 
-![Uttryck utan mellanrum mellan fält](assets/spacing01.png)
+![Uttryck utan mellanrum mellan fält](assets/T2K02.png)
 
 Om du vill se vad som pågår med mellanrum kan vissa mellanrum läggas till i uttrycken. De extra mellanrummen ska inte hindra uttrycket från att samla in eller beräkna ett värde i [!DNL Workfront].
 
 * IF (ISBLANK ({description}), &quot;No Description&quot;, &quot;Has Description&quot; )
 
-![Uttryck med mellanrum mellan fält](assets/spacing02.png)
+![Uttryck med mellanrum mellan fält](assets/T2K03.png)
 
 Det enda som inte kan ha blanksteg mellan dem är fälten och klamrarna. Annars får du ett felmeddelande och kan inte spara fältet eller det anpassade formuläret.
 
-![Fel med mellanrum mellan fältnamn och klammerparentes](assets/spacing03.png)
+![Fel med mellanrum mellan fältnamn och klammerparentes](assets/T2K04.png)
 
 ## Citattecken måste vara raka
 
 När du använder citattecken i ett uttryck måste du se till att citattecknen är raka (&quot;). Om citattecknen är böjda (&quot;) visas [!DNL Workfront] systemet kommer att fortsätta visa meddelandet&quot;Ogiltigt anpassat uttryck&quot;.
 
-![Fel med böjda citattecken](assets/curvedquotes01.png)
+![Fel med böjda citattecken](assets/T2K05.png)
 
 ## Beräkningar uppdateras när formulär sparas och objekt redigeras
 
@@ -83,7 +83,7 @@ Så här uppdaterar du ett fält med alternativet Beräkna om uttryck:
 * Klicka på menyn Mer.
 * Välj Beräkna om uttryck i listan.
 
-![Alternativet Beräkna om uttryck i objekt](assets/recalculate01.png)
+![Alternativet Beräkna om uttryck i objekt](assets/T2K06.png)
 
 Du kan också beräkna om flera uttryck samtidigt genom att använda funktionen&quot;massredigering&quot; i en lista eller rapport. Anta att du har skapat en rapport som visar en lista med problem med beräkningen Öppna dagar i en kolumn. Om du vill beräkna om alla utgåvor samtidigt:
 
@@ -93,7 +93,7 @@ Du kan också beräkna om flera uttryck samtidigt genom att använda funktionen&
 * Markera rutan Beräkna om anpassade uttryck längst ned i avsnittet Anpassad Forms.
 * Klicka på Spara ändringar.
 
-![Alternativet Beräkna om uttryck för flera objekt](assets/recalculate02.png)
+![Alternativet Beräkna om uttryck för flera objekt](assets/T2K07.png)
 
 Skärmen uppdateras för att visa uppdaterad information i beräkningsfältet.
 
