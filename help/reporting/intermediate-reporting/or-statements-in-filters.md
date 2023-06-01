@@ -10,16 +10,16 @@ role: User
 level: Intermediate
 kt: 9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '915'
 ht-degree: 0%
 
 ---
 
 # Skapa OR-programsatser i filter
 
-När du skapar ett filter med flera rader med villkor placeras som standard AND mellan varje rad. Det innebär att varje resultat i listan när du använder det här filtret uppfyller alla filterregler.
+När du skapar ett filter med flera rader med villkor placerar Workfront som standard en AND mellan varje rad. Det innebär att varje resultat i listan när du använder det här filtret uppfyller alla filterregler.
 
 I det här exemplet har vi tre kriterier, eller regler, för ett projektfilter:
 
@@ -33,7 +33,7 @@ Projekten i resultatlistan uppfyller alla tre kriterierna, vilket gör att du ka
 
 ![En bild av en filtrerad lista i [!DNL Workfront]](assets/or-statement-2.png)
 
-Det kan dock finnas tillfällen då du vill att filterresultaten ska uppfylla olika villkor, och det är då OR-programsatser kan vara till hjälp. Med en OR-programsats anger du för filtret att du vill se det här ELLER det.
+Det kan dock finnas tillfällen då du vill att filterresultaten ska uppfylla olika villkor, och det är då OR-programsatser kan vara till hjälp. Med en OR-programsats talar du om för filtret att du vill se saker som matchar någon av dina OR-programsatser i motsats till ALLA dina AND-programsatser.
 
 ## Använda OR-programsatser
 
@@ -95,7 +95,7 @@ Du vill söka efter ofullständiga uppgifter som har tilldelats dig eller som in
 
 ### Svar
 
-Nej, det här filtret ger inte de resultat du vill ha - aktiviteter som inte är färdiga och som antingen är tilldelade till dig eller tilldelade till ingen - eftersom filterregeln för aktivitetsstatusen bara finns på en sida av ELLER.
+Nej, det här filtret ger inte de resultat du vill ha - aktiviteter som inte är färdiga och som antingen är tilldelade till dig eller som inte är tilldelade någon - eftersom filterregeln för aktivitetsstatusen bara finns på en sida av ELLER.
 
 Filtret genererar i stället en lista som visar:
 

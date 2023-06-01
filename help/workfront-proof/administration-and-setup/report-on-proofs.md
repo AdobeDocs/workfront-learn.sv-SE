@@ -10,9 +10,9 @@ level: Intermediate
 thumbnail: report-on-proofs.png
 kt: 10233
 exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Den här rapporttypen hjälper dig att spåra utestående korrekturgodkännanden
 
 ![Välj [!UICONTROL Bevis godkännande] från [!UICONTROL Ny rapport] nedrullningsbar meny](assets/proof-system-setups-proof-approval-report.png)
 
-Visa och filtrera [!UICONTROL beslutsdag], [!UICONTROL godkännande av bevis], [!UICONTROL godkännarfas], [!UICONTROL arbetsflödesmall]och [!UICONTROL begärandeinformation]. Med textlägesrapportering kan du skapa en gruppering som ordnar listan efter dokumentnamn.
+Visa och filtrera [!UICONTROL beslutsdag], [!UICONTROL godkännande av bevis], [!UICONTROL godkännarfas], [!UICONTROL arbetsflödesmall]och [!UICONTROL begärandeinformation]. Med textlägesrapportering kan du skapa en gruppering som ordnar listan efter dokumentnamn. Se [Grundläggande textläge för grupperingar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en).
 
 När du skriver korrekturrapporter för godkännande ska du se till att du får information om den senaste versionen av korrektur. [!DNL Workfront] rekommenderar att du tar med fältkällan och fältnamnet i filtret:
 
@@ -39,7 +39,7 @@ När du skriver korrekturrapporter för godkännande ska du se till att du får 
 
 ![Fliken Filter i Report Builder](assets/proof-system-setups-proof-approval-report-is-current-version.png)
 
-Detta är användbart när du rapporterar korrektur som har flera versioner, så rapporten visar endast den aktuella versionen av varje korrektur som behöver godkännas. Det filtrerar bort tidigare versioner som du inte längre behöver arbeta med.
+Detta är användbart när du rapporterar korrektur som har flera versioner, så rapporten innehåller endast den aktuella versionen av varje korrektur som behöver godkännas. Det filtrerar bort tidigare versioner som du inte längre behöver arbeta med.
 
 ## [!UICONTROL Dokumentversion]
 

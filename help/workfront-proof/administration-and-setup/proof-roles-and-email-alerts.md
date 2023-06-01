@@ -10,9 +10,9 @@ level: Beginner
 thumbnail: proof-roles-and-email-alerts.png
 kt: 10177
 exl-id: 15bfb18a-5392-4a91-a6a2-223f7ac30dc5
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 Korrekturroller och e-postvarningar hjälper till att driva korrekturarbetsflödet framåt och se till att mottagarna har rätt åtkomst till korrektur och har insyn i det arbete som utförs.
 
-Vi ska titta på några grundläggande bevis:
+Låt oss titta på några grundläggande bevis:
 
 * **Korrekturroll —** Definierar vad en användare kan göra med ett korrektur (t.ex. kommentarer, markeringar, godkännanden osv.).
-* **E-postavisering —** E-postmeddelanden som skickas till personer i korrekturarbetsflödet när det finns en aktivitet på korrekturet.
+* **E-postavisering —** E-postmeddelanden skickas till personer i korrekturarbetsflödet när det finns en aktivitet på korrekturet.
 
 ![En bild av [!UICONTROL Nytt korrektur] fönster med [!UICONTROL Korrekturroll] och [!UICONTROL E-postaviseringar] kolumner markerade.](assets/proof-roles-and-email-alerts.png)
 
@@ -47,8 +47,8 @@ Det kan dock finnas tillfällen när du behöver ange den här informationen man
 ## Din tur
 
 1. Logga in på Workfront och skapa användare som ska använda korrektur som du inte har skapat tidigare. Ställ in korrekturbehörighetsprofilen i användarens inställningar utifrån den roll som personen ska spela i korrekturarbetsflöden.
-1. För användare som redan har skapats kan du redigera inställningarna för att justera profilvalet för behörighet och korrektur, om det behövs.
-1. Gå till området för korrekturinställningar och gå till fliken Användare. Kontrollera de personliga inställningarna för dina användare - språk, tidszon, datumformat, korrekturroll som standard och e-poststandardvarning. Detta är viktigt om dessa användare skapades innan standardinställningarna för det globala systemet fastställdes (dessa inställningar beskrivs i avsnitt 1 i denna inlärningsväg).
+1. För användare som redan har skapats kan du redigera inställningarna för att justera profilvalet för korrekturbehörigheter, om det behövs.
+1. Gå till området för korrekturinställningar och gå till fliken Användare. Kontrollera de personliga inställningarna för dina användare - språk, tidszon, datumformat, korrekturroll som standard och e-poststandardvarning. Detta är viktigt om dessa användare skapades innan standardinställningarna för det globala systemet etablerades.
 
 <!--
 Download the proof role and email alert guides to have on hand as you start uploading proofs and assigning proof recipients.

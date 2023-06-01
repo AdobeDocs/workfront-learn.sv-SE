@@ -1,5 +1,5 @@
 ---
-title: Konfigurera inställningar för globalt korrektur
+title: Ställ in globala korrekturinställningar
 description: Lär dig hur du ställer in standardkorrekturroller för användare. standardinställningar för korrekturkonton, och standardinställningar för korrektur.
 activity: use
 team: Technical Marketing
@@ -10,19 +10,19 @@ level: Intermediate
 thumbnail: setup-global-proof-settings.png
 kt: 10237
 exl-id: c10eb48d-2e05-4b82-8393-60c4b9196d40
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Konfigurera inställningar för globalt korrektur
+# Ställ in globala korrekturinställningar
 
-Starta systeminställningarna för korrektur i [!DNL Workfront] genom att upprätta globala standardinställningar som påverkar användare. Om du anger dessa standardvärden nu ser du till att de användare du skapar har de minimiinställningar som krävs för att börja använda funktionen för¥-korrektur..och sparar tid när du arbetar igenom korrekturinställningarna.
+Starta systeminställningarna för korrektur i [!DNL Workfront] genom att upprätta globala standardinställningar som påverkar användare. Om du anger dessa standardvärden nu ser du till att de användare du skapar har de minimiinställningar som krävs för att börja använda korrekturfunktioner..och sparar tid när du arbetar igenom korrekturinställningarna.
 
 * Tilldela standardkorrekturroller
 * Ange standardkontoinställningar
 * Ange standardinställningar för korrektur
 
-Om du redan har börjat skapa användare innan du upprättar dessa standardinställningar behöver du inte oroa dig. Du kan redigera all den här informationen för de enskilda användarprofilerna.
+Om du redan har börjat skapa användare innan du upprättar dessa standardinställningar, behöver du inte oroa dig. Du kan redigera all den här informationen för de enskilda användarprofilerna.

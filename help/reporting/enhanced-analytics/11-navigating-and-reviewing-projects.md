@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Workfront rekommenderar att du anger villkorstypen till Progress Status så att 
 
 ![En bild av möjliga förloppsstatusar](assets/section-2-3.png)
 
-I det här fallet kan projektvillkoret vara:
+Om du anger Status för projektet kan det vara:
 
 * **På mål**- När förloppsstatusen för den sista aktiviteten på den kritiska sökvägen är I tid, kommer villkoret för projektet att vara På mål. Projektet är på väg att avslutas enligt schemat.
 * **Risk**- När förloppsstatusen för den sista uppgiften på den kritiska vägen är Efter eller Vid risk är projektets skick Vid risk. Projektet är på väg att avslutas sent, men är inte sent ännu.
@@ -71,4 +71,4 @@ I det här fallet kan projektvillkoret vara:
 
 >[!NOTE]
 >
->Villkoren kan anpassas efter din miljö, så du kan hitta fler än tre alternativ eller så kan namnen skilja sig från de ovan. Mer information om hur du anpassar villkor finns i artikeln Skapa eller redigera ett anpassat villkor.
+>Villkoren kan anpassas efter din miljö, så du kan hitta fler än tre alternativ eller så kan namnen skilja sig från de ovan. Mer information om hur du anpassar villkor finns i artikeln [Skapa eller redigera ett anpassat villkor](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en).

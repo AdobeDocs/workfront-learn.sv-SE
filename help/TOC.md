@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c59055ce84ea42d7f7f20fa9e0e414fa50e73938
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '2366'
+source-wordcount: '2367'
 ht-degree: 0%
 
 ---
@@ -478,10 +478,10 @@ ht-degree: 0%
       + [Bevis på roller och e-postaviseringar](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [Rapport om korrektur](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [Ange standardvärde för risksäkra inställningar](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
+      + [Ställ in globala korrekturinställningar](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
       + [Ange standardkorrekturroller](workfront-proof/administration-and-setup/set-default-proof-roles.md)
       + [Ställ in standardinställningar för korrekturkonto](workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
       + [Inställningar för korrekturläsare](workfront-proof/administration-and-setup/settings-for-proof-users.md)
-      + [Konfigurera inställningar för globalt korrektur](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
    + Överför korrektur {#upload-proofs}
       + [Vad är en korrekturversion?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
       + [Vem överför korrekturversionerna?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
