@@ -11,9 +11,9 @@ thumbnail: 335099.png
 kt: 8798
 exl-id: fd941683-5866-453a-8e15-70b35f183730
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 3dc5d407ea6ad97b597b2bfba961f0b169643762
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ I den här videon får du lära dig att:
 
 * Sortera arbetstilldelningar
 * Filtrera arbetstilldelningar efter typ
-* Identifiera material som är klart att börja
+* Identifiera arbeten som är klara att starta
 * Acceptera arbetstilldelningar
 
 >[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on)
