@@ -1,6 +1,6 @@
 ---
-title: Granska och godkänn digitalt arbete
-description: Lär dig att hitta och godkänna projekt, uppgifter, ärenden, dokument och korrektur i [!DNL  Workfront].
+title: Granska och godkänn digitalt arbete med Workfront Home
+description: Lär dig att hitta och godkänna projekt, uppgifter, ärenden, dokument och korrektur i [!DNL Workfront Home].
 activity: use
 feature: Work Management
 thumbnail: 335108.jpeg
@@ -11,23 +11,30 @@ team: Technical Marketing
 kt: 8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: e8318b89bcf2fb3a6f27a9468495dac1d9084732
+source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# Granska och godkänn digitalt arbete
+# Granska och godkänn digitalt arbete med [!DNL Workfront Home]
 
 I den här videon får du lära dig att:
 
-* Sök godkännanden i [!DNL  Workfront]
+* Sök godkännanden i [!DNL Workfront Home]
 * Godkänna projekt, uppgifter och ärenden
 * Godkänn dokument
 * Godkänn korrektur
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on)
+
+
+>[!NOTE]
+>
+>Dokument, korrektur och arbetsobjekt (projekt, uppgifter och ärenden) som kräver godkännande finns i projekt och anpassade rapporter förutom [!DNL Workfront Home].
+
+
 
 <!---
 learn more URLS

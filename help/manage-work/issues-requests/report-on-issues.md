@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## Centralisera problemen genom att skapa en rapport
 
-Många trafik- och projektledare skapar en [!UICONTROL Workfront] anpassad rapport för att centralisera alla inkommande problem. Det gör det enkelt att spåra vad som är nytt och behöver åtgärdas.
+Många trafik- och projektledare skapar en [!UICONTROL Workfront] anpassad rapport för att centralisera alla inkommande problem. Detta gör det enkelt att spåra vad som är nytt och behöver åtgärdas.
 
 Rapporten kan sedan läggas in på en kontrollpanel och innehålla allt du behöver för att göra ditt arbete i en [!UICONTROL Workfront] -fönstret.
 
@@ -31,27 +31,17 @@ Om du vill visa namnet på den uppgift eller det projekt som problemet konverter
 
 ## Visa information om ursprungligt problem i rapporter
 
-Ibland konverteras ett problem till en uppgift eller ett projekt så att det arbete som behövs för att lösa det kan spåras och övervakas i enlighet med organisationens arbetsflöden.
+När ett problem konverteras till ett projekt eller en uppgift kan många av de ursprungliga problemen rapporteras i projekt- eller aktivitetsrapporter. Originalutgåvan kallas för[!UICONTROL Konverterat problem]&quot;.
 
-Ett projekt eller en uppgiftsrapport kan visa användbar information om det ursprungliga problemet. Dessa kolumner kan läggas till i en anpassad vy med textlägesrapportering:
+Ett projekt eller en aktivitetsrapport kan visa den här informationen med [!UICONTROL Originator för konverterat ärende] -objekt tillsammans med två dedikerade fält. Du kan lägga till de här kolumnerna i en anpassad vy utan att behöva använda textläge:
 
-* [!UICONTROL Ursprungligt utgivningsdatum]
-* [!UICONTROL Ursprungligt problemnamn]
-* [!UICONTROL Ursprungligt namn på utfärdaren]
+* [!UICONTROL Konverterat utgivningsdatum]
+* [!UICONTROL Namn på konverterat ärende]
+* [!UICONTROL Konverterad Issue Originator > Name]
 
 ![En bild på information om problemrapportering.](assets/19-text-mode-reporting-for-issues.png)
 
-<!-- Need wf one documentation article link below
+>[!NOTE]
+>
+>Instruktioner om hur du skapar en vy finns i [Skapa en grundvy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
 
-For the text mode used to create this report, see the article titled View: Display original issue information on task and project list.
-
--->
-
-
-<!--  Learn more graphic and documentation article links
-
-* Create and customize views
-* Overview of resolving and resolvable objects
-* Understanding resolving and resolvable objects
-
--->
