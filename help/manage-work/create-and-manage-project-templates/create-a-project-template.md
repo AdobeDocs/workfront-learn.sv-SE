@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,12 @@ I den här videon får du lära dig att:
 
 * Skapa en mall från grunden
 * Skapa en mall från ett befintligt projekt
-* Skapa en mall med utkast
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
 ## Skapa en mall med utkast
 
-systemadministratörer kan använda utkast för att skapa projektmallar. Med den här funktionen, som finns i huvudmenyn, får du tillgång till färdiga mallar som är anpassade efter en avdelning och en viss mognadsnivå. Mallarna gör det enkelt för användarna att komma igång med att skapa repeterbara projekt och samtidigt bibehålla en konsekvent design i projekt av liknande omfattning.
+Systemadministratörer kan använda utkast för att skapa projektmallar. Med den här funktionen, som finns i huvudmenyn, får du tillgång till färdiga mallar som är anpassade efter en avdelning och en viss mognadsnivå. Mallarna gör det enkelt för användarna att komma igång med att skapa repeterbara projekt och samtidigt bibehålla en konsekvent design i projekt av liknande omfattning.
 
 Även om projektmallar som skapats med utkast kan användas när du skapar projekt, kan du inte använda en plan direkt när du skapar ett nytt projekt (till exempel konverterar en uppgift eller en förfrågan till ett projekt). En viktig skillnad mellan en plan och en projektmall är att en plan används för att skapa en mall, medan en projektmall används för att skapa ett projekt.
 
