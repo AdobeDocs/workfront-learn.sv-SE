@@ -8,8 +8,9 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
-source-git-commit: e81ba47db087aa33510ddfa13ab8e5d4ef329d00
+jira: KT-null
+exl-id: ffbe2169-d475-4907-a78f-5c092b923900
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -33,5 +34,3 @@ Som projektledare kan det vara värdefullt att hålla&quot;lärda&quot; sessione
 
 * Fundera på några av de projekt ni har administrerat under det senaste året. Vilka typer av frågor vill du ställa eller information kan du samla in under en lektionssession?
 * Bestäm om du vill lägga in&quot;gjorda erfarenheter&quot; i projekten. Bestäm sedan hur. Du kan till exempel göra något informellt, till exempel en snabb vägledning med ditt team. Eller så kan den byggas in i din projektplan.
-
-

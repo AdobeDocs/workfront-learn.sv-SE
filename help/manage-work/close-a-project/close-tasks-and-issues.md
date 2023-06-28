@@ -8,9 +8,9 @@ thumbnail: close-tasks-and-issues.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: KT-10133
+jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Börja med uppgiftslistan och välj en [!UICONTROL Visa] som visar [!UICONTROL P
 
 ![Projektvisning [!UICONTROL Procent färdigt] kolumn](assets/planner-fund-close-tasks-and-issues.png)
 
-Inte alla organisationer använder [!DNL Workfront’s] skapar funktioner för att registrera eller lösa problem, ändringsorder osv. som uppstod under projektet. Men om du gör det, växla till [!UICONTROL Problem] och se till att alla problem har lösts.
+Inte alla organisationer använder [!DNL Workfront's] skapar funktioner för att registrera eller lösa problem, ändringsorder osv. som uppstod under projektet. Men om du gör det, växla till [!UICONTROL Problem] och se till att alla problem har lösts.
 
 <!---
 learn more

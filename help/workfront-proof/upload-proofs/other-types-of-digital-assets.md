@@ -8,9 +8,9 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: upload-a-proof-video.png
-kt: 10176
+jira: KT-10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Bland de videotyper som stöds finns MOV, MP4 och H.264. <!-- Check the supporte
 
 * Öppna projektet, aktiviteten eller utgåvan som videon ska överföras till.
 * Välj [!UICONTROL **Dokument**] från den vänstra panelmenyn.
-* Från [!UICONTROL **Lägg till ny** ]knapp, markera [!UICONTROL **Korrektur**].
+* Från [!UICONTROL **Lägg till ny**] knapp, markera [!UICONTROL **Korrektur**].
 * Dra och släpp videofilen till överföringsområdet eller använd bläddringsfunktionen.
 * Tilldela ett grundläggande eller automatiserat arbetsflöde.
 * Ange en deadline.

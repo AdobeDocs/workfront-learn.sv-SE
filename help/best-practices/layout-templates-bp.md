@@ -4,9 +4,9 @@ description: Utforska rekommendationer från Adobe Workfront experter om hur man
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
-kt: 10913
+jira: KT-10913
 exl-id: bfcea59d-7746-40aa-989d-6e2b7e312a2b
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 0%
@@ -85,7 +85,7 @@ Se till att användarna har tillgång till allt de behöver för att utföra sit
 
 Alternativ på huvudmenyn, med de vanligaste menyalternativen på en framträdande plats (eller ordna huvudmenyn i alfabetisk ordning) Panelmenyavsnitt på den vänstra panelen, i en ordning som underlättar arbetsflödet Standard och anpassade fält som visas i Home, så att användarna kan slutföra uppdrag utan att behöva gå in på uppgifter/problem för att få den information de behöver
 
-När du har skapat layoutmallen kan du använda funktionen&quot;logga in som&quot; i inställningsområdet för att testa mallen som någon som kommer att använda den. Gå igenom varje steg i den personens arbetsflöde för att säkerställa att de har det de behöver innan du tilldelar användare till mallen.
+När du har skapat layoutmallen använder du funktionen&quot;logga in som&quot; i inställningsområdet för att testa mallen som någon som kommer att använda den. Gå igenom varje steg i den personens arbetsflöde för att säkerställa att de har det de behöver innan du tilldelar användare till mallen.
 
 </br>
 </br>

@@ -5,10 +5,11 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
-kt: 10101
-source-git-commit: f111f198d3d7587bb9e2de4e19434131cbef9c93
+jira: KT-10101
+exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -44,4 +45,3 @@ Ja. Detta innebär att du skapar ett anpassat formulär och väljer båda [!UICO
 **Jag tittar på ett projekt eller en uppgiftsrapport. Hur tar jag reda på vilken begäran det här objektet kommer från?**
 
 Du kan använda **[!UICONTROL Originator för konverterat ärende]** fältkälla för att lägga till den informationen i dina projekt- och uppgiftsrapporter.
-

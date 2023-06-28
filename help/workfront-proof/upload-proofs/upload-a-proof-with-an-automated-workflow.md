@@ -8,10 +8,10 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335133.png
-kt: 8833
+jira: KT-8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '575'
 ht-degree: 0%
@@ -34,7 +34,7 @@ I den här videon får du lära dig:
 
 Inställningarna längst ned i fönstret för korrekturöverföring är valfria, så fråga din organisation om och hur du använder dem.
 
-![En bild av [!UICONTROL Nytt korrektur ]fönster med [!UICONTROL Sceninställningar] markerad.](assets/additional-proof-workflow-settings.png)
+![En bild av [!UICONTROL Nytt korrektur]fönster med [!UICONTROL Sceninställningar] markerad.](assets/additional-proof-workflow-settings.png)
 
 * **[!UICONTROL Lås scen] —** Detta förhindrar att personer i det här arbetsflödessteget kan kommentera eller ändra sina beslut när arbetsflödet är klart.
 * **[!UICONTROL Överför primära beslutsrättigheter till] —** Snabba upp korrekturläsningen genom att utse en primär beslutsfattare. När inställt [!DNL Workfront] identifierar den här personens bevisbeslut som beslutet. När personen väl har fattat sitt beslut är skedet över och inga andra beslut behövs.

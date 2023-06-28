@@ -8,10 +8,10 @@ level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
 thumbnail: 335172.png
-kt: 8909
+jira: KT-8909
 exl-id: b37334c7-67d0-4359-9537-dc26843582d1
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 4%
@@ -53,7 +53,7 @@ Det ger flexibilitet att ändra användartillvända etiketter så att de matchar
 
 **[!UICONTROL Textfält med formatering]**
 
-The [!UICONTROL Textfält med formatering ]innehåller grundläggande textmarkeringsverktyg som gör att användare kan lägga till fet, kursiv eller understrykning i text när de fyller i fältet i ett anpassat formulär.
+The [!UICONTROL Textfält med formatering]innehåller grundläggande textmarkeringsverktyg som gör att användare kan lägga till fet, kursiv eller understrykning i text när de fyller i fältet i ett anpassat formulär.
 
 ![Eget formulärfönster [!UICONTROL Textfält med formatering] option](assets/custom-forms-text-field-with-formatting.png)
 

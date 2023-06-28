@@ -8,10 +8,10 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: review-approve-digital-work.png
-kt: 8841
+jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Om du arbetar i [!DNL Workfront] och har ombetts att godkänna ett bevis hittar 
 
 ![En bild av [!DNL Workfront] [!UICONTROL Startsida] med [!UICONTROL Godkännanden] filtret är aktiverat och ett korrektur har valts i listan.](assets/open-proof-from-home.png)
 
-Observera att korrektur visas i [!DNL Workfront] [!UICONTROL Startsida] bara om du har tilldelats behörighet att godkänna det. Om du precis blivit ombedd att endast granska beviset visas det inte i [!DNL Workfront] [!UICONTROL Startsida] när du väljer [!UICONTROL Godkännanden ]i filterlistan.
+Observera att korrektur visas i [!DNL Workfront] [!UICONTROL Startsida] bara om du har tilldelats behörighet att godkänna det. Om du precis blivit ombedd att endast granska beviset visas det inte i [!DNL Workfront] [!UICONTROL Startsida] när du väljer [!UICONTROL Godkännanden]i filterlistan.
 
 Välj korrekturgodkännande i dialogrutan [!UICONTROL Arbetslista]klickar du på [!UICONTROL Gå till korrektur] för att öppna den i korrekturläsaren.
 
@@ -63,7 +63,7 @@ Du kan också hitta korrektur att granska på en [!DNL Workfront] Instrumentpane
 
 Om du vanligtvis arbetar med projekt, uppgifter eller problem i [!DNL Workfront]kanske du föredrar att öppna korrekturet direkt från [!DNL Documents] i det objektet.
 
-![En bild av [!UICONTROL Dokument] avsnitt i [!DNL  Workfront] med [!UICONTROL Öppna korrektur ]länk markerad.](assets/open-proof-from-documents.png)
+![En bild av [!UICONTROL Dokument] avsnitt i [!DNL  Workfront] med [!UICONTROL Öppna korrektur]länk markerad.](assets/open-proof-from-documents.png)
 
 1. Klicka på namnet på projektet, aktiviteten eller utgåvan.
 2. Klicka [!UICONTROL Dokument] på den vänstra panelmenyn på objektets sida.

@@ -4,9 +4,9 @@ description: Utforska rekommendationer från Adobe Workfront experter om hur man
 feature: Workfront Proof
 role: Admin, Leader, User
 level: Beginner
-kt: 10920
+jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '1179'
 ht-degree: 0%
@@ -212,7 +212,7 @@ Undvik att använda korrekturrollen för godkännare.
 
 **Här är varför**
 
-Godkännarens korrekturroll tillåter inte användaren att kommentera det här korrekturet. Detta kan leda till att en användare avvisar korrekturet, utan någon förklaring, eftersom han/hon inte kunde göra några kommentarer. Använd korrekturrollen Granskare och godkännare i stället så att användaren kan ge feedback.
+Godkännarens korrekturroll tillåter inte användaren att kommentera det här korrekturet. Detta kan leda till att en användare avvisar korrekturet utan någon förklaring eftersom han/hon inte kunde göra några kommentarer. Använd korrekturrollen Granskare och godkännare i stället så att användaren kan ge feedback.
 
 </br>
 </br>

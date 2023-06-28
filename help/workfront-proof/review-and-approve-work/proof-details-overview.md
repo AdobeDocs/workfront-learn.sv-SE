@@ -8,9 +8,9 @@ type: Tutorial
 role: User, Admin
 level: Beginner
 thumbnail: understand-proof-details.png
-kt: 10110
+jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '1029'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Med de här inställningarna kan du styra åtkomsten till själva korrekturet.
 
 * **[!UICONTROL Kräv inloggning. Det här korrekturet kan inte delas med gästanvändare] —** Beviset kan bara delas med personer som har en [!DNL Workfront] korrekturläsningslicens.
 * **[!UICONTROL Kräv att beslut signeras elektroniskt] —** När du delar ett korrektur måste mottagaren ha korrekturbehörighet i [!DNL Workfront] och gör det möjligt för dem att&quot;signera&quot; beviset elektroniskt genom att ange sitt korrekturlösenord när de fattar ett beslut. (Obs! Språklösenordet skiljer sig från [!DNL Workfront] lösenord. Språklösenordet är inte lätt att komma åt, så de flesta mottagare känner inte till lösenordet.) [!DNL Workfront] rekommenderar att du pratar med [!DNL Workfront] innan du använder den här funktionen.
-* **[!UICONTROL Lås korrektur när alla nödvändiga beslut har fattats ]—** Detta låser beviset till eventuella ytterligare kommentarer, svar, beslut osv. när varje beslut om beviset har fattats. Då låses hela korrekturversionen, inte bara ett visst steg i korrekturarbetsflödet.
+* **[!UICONTROL Lås korrektur när alla nödvändiga beslut har fattats]—** Detta låser beviset till eventuella ytterligare kommentarer, svar, beslut osv. när varje beslut om beviset har fattats. Då låses hela korrekturversionen, inte bara ett visst steg i korrekturarbetsflödet.
 * **[!UICONTROL Tillåt hämtning av originalfilen] —** Korrekturmottagare kan hämta den ursprungliga källfilen för korrekturläsaren (alternativet finns på den högra panelmenyn).
 * **[!UICONTROL Tillåt delning av korrektur via offentlig URL eller inbäddningskod] —** Korrekturmottagare kan dela en offentligt tillgänglig korrekturlänk med vem som helst.
 * **[!UICONTROL Tillåt prenumerationer på korrektur via offentlig URL eller inbäddningskod] —** Alla som får den offentliga URL:en kan lägga till sig själva till beviset med sin e-postadress och sitt namn (om det inte är en korrekturanvändare) eller sin e-postadress och sitt korrekturlösenord (om det är en korrekturanvändare). (Obs! Språklösenordet är inte detsamma som [!DNL Workfront] lösenord.)

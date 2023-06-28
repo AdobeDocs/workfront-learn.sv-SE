@@ -7,10 +7,10 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8928
+jira: KT-8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -46,4 +46,4 @@ Du kanske märker att du ibland får för mycket information i [!UICONTROL Puls]
 * [!UICONTROL Puls]
 * [!UICONTROL Måljustering]. I det här avsnittet kan du tillfälligt visa de mål som inte matchar det filter du tillämpade så att du kan få en fullständig bild av alla justerade mål. Klicka på [!UICONTROL **Visa/visa dem**] om det finns mål som döljs av det valda filtret.
 
-   ![](assets/19-workfront-goals-filter-show-it.png)
+  ![](assets/19-workfront-goals-filter-show-it.png)

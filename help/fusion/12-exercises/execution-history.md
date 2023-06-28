@@ -7,10 +7,10 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11049
+jira: KT-11049
 thumbnail: KT11049.png
 exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
@@ -52,6 +52,7 @@ Granska körningshistoriken för scenariot&quot;Använda det kraftfulla filtret&
    ![Bild 6 för körningshistorik](../12-exercises/assets/execution-history-walkthrough-6.png)
 
    + Klicka på ett loggobjekt för att öppna åtgärdspanelen i scenariopanelen. Loggarna listas i kronologisk ordning efter när de inträffade.
+
 
    ![Bild 7 för körningshistorik](../12-exercises/assets/execution-history-walkthrough-7.png)
 

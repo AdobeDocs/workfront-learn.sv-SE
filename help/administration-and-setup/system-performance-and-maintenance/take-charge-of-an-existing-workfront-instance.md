@@ -6,10 +6,11 @@ type: Tutorial
 role: Admin
 level: Beginner,Intermediate,Experienced
 activity: use
-kt: 11747
+jira: KT-11747
 team: Technical Marketing
 thumbnail: null
-source-git-commit: 48b6414f3128729436a4845f9654bd5fc8ee5353
+exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '645'
 ht-degree: 0%
@@ -58,7 +59,6 @@ I slutet av den här fasen bör du ha:
 * En allmän känsla för instansens hälsa, inklusive viktiga användningsfall
 
 * Ett dokument som beskriver vad som fungerar bra, samt utmaningar och/eller luckor mellan process- och användarbehov
-
 <br>
 </br>
 
@@ -73,7 +73,6 @@ I slutet av den här fasen bör du ha:
 * En djupare vy av instansens aktuella tillstånd
 
 * Identifierade ändringar eller förbättringar som du vill göra i instansen för att tillgodose företagets behov.
-
 <br>
 </br>
 
@@ -100,4 +99,4 @@ Genom att gå igenom varje fas, och med hjälp av checklistan för den ärvda in
 Ytterligare information finns nedan:
 * [Definiera mål för implementeringen av Workfront](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en)
 * [Blogginlägg: Ledarskap och värde för ledarskap](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
-* [Blogginlägg: Introduktion till Adobe Workfront KPI:er ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
+* [Blogginlägg: Introduktion till Adobe Workfront KPI:er](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)

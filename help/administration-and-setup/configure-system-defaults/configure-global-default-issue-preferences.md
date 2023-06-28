@@ -7,9 +7,9 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
-kt: 10018
+jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
-source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '885'
 ht-degree: 0%
@@ -43,29 +43,29 @@ Låt oss titta på alternativen i det här avsnittet så att du kan välja rätt
 
 * **[!UICONTROL Uppdatera automatiskt status för Lösning av problem när statusen för Lösning av objekt ändras]**
 
-   Med den här inställningen kan du korrelera upplösningen för den ursprungliga utgåvan med upplösningen för det nya objektet (uppgift eller projekt).
+  Med den här inställningen kan du korrelera upplösningen för den ursprungliga utgåvan med upplösningen för det nya objektet (uppgift eller projekt).
 
-   När den här inställningen är aktiverad (markerad) kan du skapa anpassade utgivningsstatusar som har samma statusnyckel som en aktivitet eller projektstatus. När aktiviteten eller projektet (det lösta objektet) är inställt på anpassad status visas ändringen även på problemstatusen.
+  När den här inställningen är aktiverad (markerad) kan du skapa anpassade utgivningsstatusar som har samma statusnyckel som en aktivitet eller projektstatus. När aktiviteten eller projektet (det lösta objektet) är inställt på anpassad status visas ändringen även på problemstatusen.
 
-   När det här alternativet är inaktiverat anges objektets status automatiskt till standardstatus i stället för anpassade.
+  När det här alternativet är inaktiverat anges objektets status automatiskt till standardstatus i stället för anpassade.
 
-   För att den här inställningen ska ha någon effekt måste du[!UICONTROL Behåll det ursprungliga problemet och knyt lösningen till uppgiften]Alternativet &quot; måste vara markerat.
+  För att den här inställningen ska ha någon effekt måste du[!UICONTROL Behåll det ursprungliga problemet och knyt lösningen till uppgiften]Alternativet &quot; måste vara markerat.
 
 * **[!UICONTROL Behåll det ursprungliga problemet och knyt tid till uppgiften/projektet]**
 
-   När problemet konverteras visas [!DNL Workfront] för att behålla originalutgåvorna. Status för utleverans ändras när status för aktiviteten eller projektet ändras. När aktiviteten eller projektet har markerats som slutfört markeras problemet som löst.
+  När problemet konverteras visas [!DNL Workfront] för att behålla originalutgåvorna. Status för utleverans ändras när status för aktiviteten eller projektet ändras. När aktiviteten eller projektet har markerats som slutfört markeras problemet som löst.
 
-   Om det här alternativet inte är markerat tas den ursprungliga utgåvan bort och endast den konverterade uppgiften eller det konverterade projektet återstår.
+  Om det här alternativet inte är markerat tas den ursprungliga utgåvan bort och endast den konverterade uppgiften eller det konverterade projektet återstår.
 
-   Den här inställningen påverkar rapportering om problem som ursprungligen loggades i ett projekt eller som uppstod i en [!DNL Workfront] begärandekö.
+  Den här inställningen påverkar rapportering om problem som ursprungligen loggades i ett projekt eller som uppstod i en [!DNL Workfront] begärandekö.
 
 * **[!UICONTROL Tillåt att primär kontakt har åtkomst till uppgiften/projektet]**
 
-   Detta ger den person som skapade den ursprungliga utgåvan åtkomst till uppgiften eller projektet som skapades under konverteringen. De kan granska materialet, göra uppdateringar och hålla sig informerade om hur det utvecklas.
+  Detta ger den person som skapade den ursprungliga utgåvan åtkomst till uppgiften eller projektet som skapades under konverteringen. De kan granska materialet, göra uppdateringar och hålla sig informerade om hur det utvecklas.
 
 * **[!UICONTROL Tillåt att de här inställningarna ändras under konverteringen]**
 
-   När du väljer det här alternativet används standardinställningarna för[!UICONTROL Behåll ursprungligt problem]&quot; och &quot;[!UICONTROL Tillåt primär kontakt]&quot; kan ändras av användaren som konverterar problemet. Om du vill att standardinställningarna ska vara oförändrade avmarkerar du det här alternativet.
+  När du väljer det här alternativet används standardinställningarna för[!UICONTROL Behåll ursprungligt problem]&quot; och &quot;[!UICONTROL Tillåt primär kontakt]&quot; kan ändras av användaren som konverterar problemet. Om du vill att standardinställningarna ska vara oförändrade avmarkerar du det här alternativet.
 
 <!---
 learn more URLs

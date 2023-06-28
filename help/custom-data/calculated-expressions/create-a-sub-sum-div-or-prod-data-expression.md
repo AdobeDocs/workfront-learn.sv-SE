@@ -8,10 +8,10 @@ level: Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335177.png
-kt: 8914
+jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 0%
@@ -57,7 +57,7 @@ ROUND-uttrycket innehåller namnet på uttrycket (ROUND) och vanligtvis två dat
 
 Ett uttryck skulle struktureras så här: ROUND(datapunkt, #)
 
-Använd det här uttrycket - DIV(SUB({workRequired},{actualWorkRequired}),60) - som första datapunkt i uttrycket som beräknar skillnaden mellan planerade och faktiska timmar. Kontrollera sedan att det tal som kommer från det uttrycket inte är längre än två decimaler till höger om decimaltalet.
+Använd det här uttrycket för att beräkna skillnaden mellan planerade och faktiska timmar —DIV(SUB({workRequired},{actualWorkRequired}),60) - som första datapunkt. Kontrollera sedan att det tal som kommer från det uttrycket inte är längre än två decimaler till höger om decimaltalet.
 
 ![Arbetsbelastningsutjämnare med utnyttjanderapport](assets/round03.png)
 

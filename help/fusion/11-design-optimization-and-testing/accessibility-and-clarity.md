@@ -7,9 +7,9 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11037
+jira: KT-11037
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 0%
@@ -25,9 +25,9 @@ Tidigt i kursen i Workfront Fusion lärde du dig några grundläggande metodtips
 Ett av de viktigaste målen i Workfront Fusion är i regel alltid att ha enkla scenariodesigner. Här finns några sätt att göra enkla designer att tolka.
 
 * Se till att du namnger alla moduler. Högerklicka på en modul och välj Byt namn. Moduletiketter ska vara korta men ändå lättbegripliga för vad modulen fungerar. Exempel:&quot;Skapa MKG-projekt med Kap-mall&quot;.
-   ![En bild av ett scenario med felhantering](assets/design-optimization-and-testing-1.png)
+  ![En bild av ett scenario med felhantering](assets/design-optimization-and-testing-1.png)
 * Ange även routningssökvägar. Även om en bana inte använder ett filter direkt efter en router kan du använda en etikett utan att fylla i filterlogiken. På så sätt kan andra förstå vilka paket som passerar vilka vägar och varför. Om du vill skapa en etikett för en routersökväg utan filter högerklickar du på sökvägen, lägger till en etikett och sparar.
-   ![En bild av ett scenario med felhantering](assets/design-optimization-and-testing-2.png)
+  ![En bild av ett scenario med felhantering](assets/design-optimization-and-testing-2.png)
 * Lägg till anteckningar där det är tillämpligt i ett scenario om en moduletikett eller en routningsvägsetikett kommer att bli för kort för att förtydliga vad som faktiskt händer. Du kan lägga till anteckningar när du vill under design- och itereringsprocessen.
 
 Det kan dock vara enklast att läsa och förstå om du lägger till anteckningar i slutet av scenariodesignen när du är redo att starta. Arbeta från slutet av scenariodesignen (längst ned till höger) bakåt. På så sätt visas anteckningarna som gäller i början av ditt scenario högst upp i listan när du öppnar anteckningspanelen.

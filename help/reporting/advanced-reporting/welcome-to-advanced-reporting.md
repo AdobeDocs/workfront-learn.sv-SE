@@ -8,8 +8,9 @@ type: Tutorial
 role: User
 level: Experienced
 team: Technical Marketing
-kt: 11198
-source-git-commit: e2b5115d03e0eaa47cba3397b0aeb01044441083
+jira: KT-11198
+exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -49,4 +50,3 @@ Målgruppen för självstudiekurserna är [!UICONTROL Plan] licensiera användar
 Dessa självstudiekurser är inspelningar av en lektion som ges under en period av tre dagar i februari 2018. Du kan lägga märke till ett äldre användargränssnitt i videoklippen, men detta påverkar inte innehållets exakthet eller relevans.
 
 Du kommer också att höra några referenser till att skaffa ett testenhetskonto att öva i. Adobe Experience League tillhandahåller inga testenhetskonton, men oroa dig inte. Du kan öva på ditt produktionskonto. Rapporteringen handlar ju bara om att visa objekt i Workfront, inte om att skapa eller ta bort objekt. Förutom att själva skapa rapporterna.. Men förutom systemadministratören är du den enda som kan se de rapporter du skapar om du inte bestämmer dig för att dela dem.
-

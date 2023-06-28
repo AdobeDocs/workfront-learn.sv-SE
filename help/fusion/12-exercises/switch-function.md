@@ -7,10 +7,10 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11051
+jira: KT-11051
 thumbnail: KT1101.png
 exl-id: 3142fae2-5210-4f63-9d2c-66dec58867fa
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -42,4 +42,4 @@ För enkla dataändringar använder du funktionen Växla för att omforma ett v�
    + Ett nyckelvärde definieras på den första positionen efter Progress Status (&quot;LT&quot;) med motsvarande utdata definierat på den andra positionen (&quot;Late&quot;).
    + Nästa nyckelvärde definieras på den tredje positionen, med motsvarande utdata definierat på den fjärde positionen, osv., för så många tangenter som önskas.
 
-      ![Byt funktion bild 2](../12-exercises/assets/switch-function-walkthrough-2.png)
+     ![Byt funktion bild 2](../12-exercises/assets/switch-function-walkthrough-2.png)

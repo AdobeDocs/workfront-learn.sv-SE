@@ -8,9 +8,9 @@ thumbnail: understand-multiple-billing-rates.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10048
+jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%
@@ -54,4 +54,5 @@ Med [!DNL Workfront]Med sin nya funktion för flera faktureringstaxor kan projek
    * Fortsätt lägga till faktureringstariffer efter behov genom att klicka på **[!UICONTROL Lägg till frekvens]** -knappen.
    * När du är klar klickar du på **[!UICONTROL Spara]**.
    * Alla faktureringspriser visas i [!UICONTROL Faktureringstaxor] -fliken i projektet.
+
    ![En bild av hur du skapar nya faktureringstariffer som gäller för de olika tidsperioderna i [!DNL Workfront]](assets/project-finances-7.png)

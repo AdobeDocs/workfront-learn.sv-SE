@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8716,8717,8718,8719
+jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Om du hanterar flera projekt kanske du vill göra dem&quot;favoriter&quot; genom
 
 ## Öppna ett projekt från en kontrollpanel
 
-Många [!DNL Workfront] kunderna använder rapporter som sammanställts på en kontrollpanel för att hitta det arbete de gör.
+Många [!DNL Workfront] kunderna använder rapporter som sammanställts på en kontrollpanel för att hitta det arbete de utför.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335041/?quality=12&learn=on)
 

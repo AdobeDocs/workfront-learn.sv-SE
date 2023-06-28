@@ -8,9 +8,9 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: track-proof-progress.png
-kt: 10111
+jira: KT-10111
 exl-id: 343483fe-487a-4a23-914d-2807a00630f9
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '674'
 ht-degree: 0%
@@ -67,7 +67,7 @@ Om anpassade statusvärden har konfigurerats för din organisation används dess
 * [!UICONTROL Ändringar krävs]
 * [!UICONTROL Ej relevant]
 
-Öppna arbetsflödesfönstret för korrektur för att se korrekturstatus för mottagare som tilldelats [!UICONTROL Granskare och godkännare] eller [!UICONTROL Godkännare ]korrekturroller.
+Öppna arbetsflödesfönstret för korrektur för att se korrekturstatus för mottagare som tilldelats [!UICONTROL Granskare och godkännare] eller [!UICONTROL Godkännare]korrekturroller.
 
 ## Rapporter i [!DNL Workfront]
 
