@@ -5,11 +5,12 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
+last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -36,7 +37,9 @@ Läs den här artikeln för mer information: [Konvertera problem](https://experi
 
 **Var hittar jag en begärandekö att redigera?**
 
-Du kan antingen använda [!UICONTROL Sök] i navigeringsfältet eller sök efter det i [!UICONTROL Projekt] område.
+Du kan använda [!UICONTROL Sök] i navigeringsfältet eller sök efter det i [!UICONTROL Projekt] område.
+
+Om du öppnar en begäran från begärandekön kan du klicka på projektnamnet i området för vägbeskrivningar.
 
 **Kan jag överföra informationen från ett eget begärandeformulär till ett projekt?**
 
@@ -44,4 +47,10 @@ Ja. Detta innebär att du skapar ett anpassat formulär och väljer båda [!UICO
 
 **Jag tittar på ett projekt eller en uppgiftsrapport. Hur tar jag reda på vilken begäran det här objektet kommer från?**
 
-Du kan använda **[!UICONTROL Originator för konverterat ärende]** fältkälla för att lägga till den informationen i dina projekt- och uppgiftsrapporter.
+Du kan komma åt fält i **[!UICONTROL Konverterat problem]** och **[!UICONTROL Originator för konverterat ärende]** fältkällor för att lägga till den informationen i dina projekt- och uppgiftsrapporter.
+
+**Vilket är det bästa sättet att filtrera efter begärandeköer i en rapport?**
+
+Om projektfiltret innehåller **Kö>>Är offentlig>>Lika>>Ingen** rapporten visar endast projekt som **NOT** begärandeköer.
+
+Om projektfiltret innehåller **Kö>>Är offentlig>>Inte lika med>>Ingen** rapporten visar endast projekt som **ÄR** begärandeköer.
