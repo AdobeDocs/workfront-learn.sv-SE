@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d66815b0b0a572113ed85dee9bdf469dac08581f
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -37,10 +37,6 @@ Du kan snabbt hitta ett nyligen använt projekt - och andra objekt - genom att k
 
 ![[!UICONTROL Status] fält utökat i projektrubrik](assets/recents.png)
 
->[!NOTE]
->
->Följande videofilmer innehåller inget ljud. De är en demonstration av [!DNL Workfront] funktioner som nämns.
-
 ## Fäst ett projekt
 
 När du arbetar med ett projekt kan du enkelt hitta det genom att fästa det på menyraden så att du kan öppna det med ett enda klick.
@@ -56,7 +52,7 @@ Om du hanterar flera projekt kanske du vill göra dem&quot;favoriter&quot; genom
 
 ## Öppna ett projekt från en kontrollpanel
 
-Många [!DNL Workfront] kunderna använder rapporter som sammanställts på en kontrollpanel för att hitta det arbete de utför.
+Många [!DNL Workfront] kunderna använder rapporter som sammanställts på en kontrollpanel för att hitta det arbete de gör.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335041/?quality=12&learn=on)
 
