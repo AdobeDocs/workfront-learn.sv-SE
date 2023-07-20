@@ -2,7 +2,7 @@
 title: Avancerad rapportering, del 1
 description: Förstå en granskning av framtagning av rapporter, en introduktion till [!UICONTROL API Explorer] och textläge samt en djupgående studie av textlägesfilter.
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 3409632.png
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-11196
 exl-id: dec3d807-41b2-47a6-b4ff-476313b6fc07
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%

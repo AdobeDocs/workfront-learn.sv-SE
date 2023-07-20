@@ -1,7 +1,7 @@
 ---
 title: Exportera ett anpassat formulär som PDF
 description: Lär dig hur du exporterar ett anpassat formulär som PDF för att enkelt dela informationen med andra.
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Beginner, Intermediate
@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: exportform.png
 jira: KT-10059
 exl-id: aeef197e-1d8c-43a9-8580-0c83d8027a3f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Exportera ett anpassat formulär som PDF
 
-Att hämta in en organisations unika data är en viktig del i arbetet. Anpassade formulär används ofta för detta ändamål. Genom att kunna exportera anpassade formulär kan de enkelt cirkuleras och delas. Du kan exportera anpassade formulär från projekt, uppgifter eller utgåvor när du öppnar formuläret i [!UICONTROL Detaljer] i objekten.
+Att hämta in organisationens unika data är en väsentlig del av arbetshanteringen. Anpassade formulär används ofta för detta ändamål. Genom att kunna exportera anpassade formulär kan de enkelt cirkuleras och delas. Du kan exportera anpassade formulär från projekt, uppgifter eller utgåvor när du öppnar formuläret i [!UICONTROL Detaljer] i objekten.
 
 Du kan även inkludera [!UICONTROL Översikt] området i det exporterade PDF.
 

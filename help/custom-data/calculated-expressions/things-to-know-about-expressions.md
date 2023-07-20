@@ -1,7 +1,7 @@
 ---
 title: Saker att känna till om beräknade fältuttryck
 description: Få en glimt av koncept som är bra att känna till när du arbetar med anpassade beräkningsfält i [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 71f9ec5fad80664cc1d1f12c6772b131ee46c59c
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
@@ -32,19 +32,19 @@ Uttrycket måste dock skrivas som versaler för att uttrycket ska identifieras o
 
 ## Timmar sparas i minuter
 
-Timmar i Workfront databas lagras på några minuter. Om du refererar till fält som Planerade timmar eller Faktiska timmar, dividerar du med 60 för att visa tiden i timmar och inte minuter.
+Timmar i Workfront-databasen lagras på några minuter. Om du refererar till fält som Planerade timmar eller Faktiska timmar, dividerar du med 60 för att visa tiden i timmar och inte minuter.
 
-## Mellanrum påverkar inte uttryck
+## Avstånd påverkar inte uttryck
 
 Det rekommenderade sättet att skriva uttryck är att ha lite eller inget mellanrum mellan varje uttryck.
 
-* IF(ISBLANK({description}),&quot;Ingen beskrivning&quot;,&quot;Har beskrivning&quot;)
+* IF(ISBLANK(){description}),&quot;Ingen beskrivning&quot;,&quot;Har beskrivning&quot;)
 
 ![Uttryck utan mellanrum mellan fält](assets/T2K02.png)
 
-Om du vill se vad som pågår med mellanrum kan vissa mellanrum läggas till i uttrycken. De extra mellanrummen ska inte hindra uttrycket från att samla in eller beräkna ett värde i [!DNL Workfront].
+Om du vill se vad som pågår med mellanrum kan vissa mellanrum läggas till i uttrycken. Det extra utrymmet bör inte hindra uttrycket från att samla in eller beräkna ett värde i [!DNL Workfront].
 
-* IF (ISBLANK ({description}), &quot;No Description&quot;, &quot;Has Description&quot; )
+* IF (ISBLANK ({description}), &quot;Ingen beskrivning&quot;, &quot;Har beskrivning&quot; )
 
 ![Uttryck med mellanrum mellan fält](assets/T2K03.png)
 
@@ -69,7 +69,7 @@ Uttryck kan uppdateras med alternativet Beräkna om uttryck på menyn Mer på et
 Du vill se hur många dagar ett problem har varit öppet. Skapa ett beräkningsfält med namnet&quot;Days Open&quot; med uttrycket DATEDIFF.
 
 * Fältnamn = Öppnade dagar
-* Uttryck = DATEDIFF({entryDate},$$TODAY)
+* Expression = DATEDIFF({entryDate},$$IDAG)
 
 När du har sparat dokumentet kan du se antalet dagar mellan när utgåvan skapades eller skrevs in i Workfront och dagens datum på informationssidan för ett objekt eller i en rapportvy.
 
@@ -121,4 +121,4 @@ Beroende på behov kan beräkningsfält i anpassade formulär vara ganska enkla 
 
 Most of the examples and exercises in this course have been relatively simple to provide a base understanding of the expressions most commonly used and how to build those expressions in a custom calculated field. 
 
-Now you’re ready to start building your own calculated custom fields.-->
+Now you're ready to start building your own calculated custom fields.-->

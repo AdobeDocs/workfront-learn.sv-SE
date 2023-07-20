@@ -2,7 +2,7 @@
 title: Grundläggande textläge för filter
 description: Lär dig vilket textläge som är, vilket kameraläge som är och lite grundläggande textläge för"plug and play" som du kan använda i rapportfiltren i Workfront.
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 336820.png
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
