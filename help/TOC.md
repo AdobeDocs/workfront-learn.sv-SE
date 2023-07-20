@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
 workflow-type: tm+mt
-source-wordcount: '2384'
+source-wordcount: '2387'
 ht-degree: 0%
 
 ---
@@ -120,7 +120,6 @@ ht-degree: 0%
       + [Spåra projektets övergripande förlopp](manage-work/projects/track-overall-project-progress.md)
       + [Spåra arbetets förlopp med projektstatistik](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [Förstå [!UICONTROL Gantt] visa](manage-work/projects/understand-the-gantt-view.md)
-      + [Stäng projektet](manage-work/projects/change-the-project-status.md)
 
    + Uppgifter {#tasks}
       + [Skapa uppgifter](manage-work/tasks/how-to-create-tasks.md)
@@ -176,6 +175,7 @@ ht-degree: 0%
 
    + Stänga ett projekt {#close-a-project}
       + [Stänga ett projekt](manage-work/close-a-project/close-a-project-in-workfront.md)
+      + [Ändra projektstatus till slutförd](manage-work/projects/change-the-project-status.md)
       + [Stäng aktiviteter och ärenden](manage-work/close-a-project/close-tasks-and-issues.md)
       + [Fullständiga godkännanden](manage-work/close-a-project/complete-approvals.md)
       + [Överför resurser](manage-work/close-a-project/upload-assets.md)
