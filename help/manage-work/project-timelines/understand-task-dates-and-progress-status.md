@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,11 @@ I den här videon får du lära dig att:
 * Använd förloppsstatus för att spåra arbetets förlopp
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>Som framgår i videon är det viktigt för andra att ändra status från **[!UICONTROL Nytt]** till **[!UICONTROL Pågår]** när de startar en uppgift så att [!UICONTROL Faktiskt startdatum] kommer att bli rätt. Men om de glömmer att göra det när de startar uppgiften kan de gå tillbaka och redigera [!UICONTROL Faktiskt startdatum] när som helst.
+
 
 <!---
 Task progress status overview

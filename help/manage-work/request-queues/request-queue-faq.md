@@ -8,9 +8,9 @@ level: Beginner, Intermediate
 last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,9 @@ Du kan använda [!UICONTROL Sök] i navigeringsfältet eller sök efter det i [!
 
 Om du öppnar en begäran från begärandekön kan du klicka på projektnamnet i området för vägbeskrivningar.
 
-**Kan jag överföra informationen från ett eget begärandeformulär till ett projekt?**
+**Kan jag överföra informationen från ett anpassat begärandeformulär till ett anpassat projektformulär?**
 
-Ja. Detta innebär att du skapar ett anpassat formulär och väljer båda [!UICONTROL Problem] och [!UICONTROL Projekt] objekttyper.
+Ja. När du skapar ett anpassat formulär väljer du båda [!UICONTROL Projekt] och [!UICONTROL Problem] som objekttyper. Bifoga det anpassade formuläret till begäran. När du konverterar begäran till ett projekt bifogas det anpassade formuläret automatiskt till det nya projektet och värdena i fälten visas både i det begärda formuläret och i de anpassade projektformulären.
 
 **Jag tittar på ett projekt eller en uppgiftsrapport. Hur tar jag reda på vilken begäran det här objektet kommer från?**
 
