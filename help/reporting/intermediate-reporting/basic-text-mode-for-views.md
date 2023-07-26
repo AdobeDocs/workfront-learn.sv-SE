@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '685'
 ht-degree: 0%
 
 ---
@@ -25,20 +25,20 @@ ht-degree: 0%
 >
 >Förutsättningar:
 >
->* Förstå rapportelement
->* Förstå rapporteringskomponenter
->* Skapa en grundvy
+>* [Förstå rapportelement](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [Förstå rapporteringskomponenter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [Skapa en grundvy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
 
 >[!TIP]
 >
 >* Vi rekommenderar att du tittar på det inspelade webbinariet för att få en bättre förståelse för textläget [Fråga experten - Introduktion till rapportering i textläge](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), som är en timme lång.
->* Vi rekommenderar att du tittar på [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) självstudiekurser, som tillsammans är fem och en halv timme långa.
+>* Om du vill veta mer om textläge rekommenderar vi att du tittar på [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) självstudiekurser, som tillsammans är fem och en halv timme långa.
 
 I den här videon får du lära dig:
 
 * Vilket textläge är
-* Vad kamelväska är
-* Vissa grundläggande textlägen för plug and play som du kan använda i dina vyer
+* Vad kamelfodral är
+* Ett grundläggande plug and play-läge som du kan använda i dina vyer
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
@@ -231,16 +231,23 @@ type=iterate
 
 ![En skärmbild som visar vyn Uppdrag och roller](assets/assignments-roles-and-percent-view.png)
 
-## Aktivitet - Föregående och efterföljande projekt för flera projekt
+## Aktivitet - Föregångare och efterföljare mellan projekt
 
 ### Aktivitetsfilter (valfritt)
 
-**Visa alla aktiviteter som har minst en föregångare för korsprojekt**
+**Visa alla aktiviteter som har minst en föregångare för flera projekt eller minst en efterföljande för flera projekt i aktuella projekt**
 
 ```
 predecessorsMM:ID_Mod=notblank
 predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
+project:statusEquatesWith=CUR
+project:statusEquatesWith_Mod=in
+OR:1:project:statusEquatesWith=CUR
+OR:1:project:statusEquatesWith_Mod=in
+OR:1:successorsMM:ID_Mod=notblank
+OR:1:successorsMM:projectID=FIELD:projectID
+OR:1:successorsMM:projectID_Mod=ne
 ```
 
 ### Aktivitet - Visa föregående namn och föregående projekt finns i
@@ -330,7 +337,7 @@ valueexpression=CONCAT("Assigned To: ",{assignedTo}.{name},"; Requested By: ",{a
 valueformat=HTML
 ```
 
-![En skärmbild som visar alla personer som har tilldelats och som har tilldelat var och en av dem](assets/all-assignees-and-requesters.png)
+![En skärmbild som visar alla personer som tilldelats och som tilldelat var och en av dem](assets/all-assignees-and-requesters.png)
 
 ## Aktivitet/projekt - Iteration som visar alla anpassade formulär i ett projekt eller en uppgift
 
@@ -376,7 +383,7 @@ valuefield=user:name
 valueformat=HTML
 ```
 
-![En skärmbild som visar alla medlemmar i projektteamet](assets/all-project-team-members.png)
+![En skärmbild som visar alla projektgruppsmedlemmar](assets/all-project-team-members.png)
 
 ## Projekt - iteration som visar postDatum för alla lösta problem för ett projekt
 
@@ -428,7 +435,7 @@ displayname=Public Selection
 
 ![En skärmbild som visar om projektet är en begärandekö](assets/project-is-a-request-queue.png)
 
-## Problem - Upprepning som visar alla medlemmar i projektteamet som kan matchas
+## Problem - Upprepning som visar alla medlemmar i projektgruppen som kan matchas
 
 ```
 displayname=Resolve Project: Team Members
@@ -506,7 +513,7 @@ section=0
 
 ![En skärmbild som visar dokumentets datumvy för godkännande](assets/document-approval-dates.png)
 
-## Godkännanden
+## Bevis på godkännande
 
 ### Korrektur för godkännande - Visa projektnamn
 
