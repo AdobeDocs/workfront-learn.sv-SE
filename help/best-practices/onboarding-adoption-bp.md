@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a7baac7e1bf18c454d1ddb8980898159a3802866
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -36,7 +36,7 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 * Innan du skapar utbildningsvideor eller -guider ska du läsa vad som finns på Experience League.
 
-* Lägg tid - direkt från början - på kurser för både nya och befintliga användare så att de kan fortsätta att lära sig mer om Workfront.
+* Lägg tid - direkt från början - på kurser för både nya och gamla användare så att de kan fortsätta att lära sig Workfront.
 
 * Definiera och skapa ett ramverk för Workfront styrelse och säkra resurser som behövs för styrelsen.
 
@@ -62,7 +62,7 @@ Var noga med att kommunicera med &quot;Varför?&quot; i minst en timme per måna
 
 **Här är varför**
 
-Meddelanden bör vara enkla att förmedla och bör ges regelbundet. Se till att ni informerar användare, team och avdelningar om vilka mål och förväntade resultat ni har för att implementera Workfront, hur enskilda individer kan tjäna på det och varför det är viktigt inte bara för er utan för hela organisationen.
+Meddelanden bör vara enkla att förmedla och bör ges regelbundet. Se till att ni informerar användare, team och avdelningar om vilka mål och förväntade resultat ni har för att implementera Workfront, hur enskilda användare kan dra nytta av och varför det är viktigt inte bara för er utan för hela organisationen.
 
 Dessa kommunikationsåtgärder skapar medvetenhet bland användarna och utgör grunden för en plan för att återkoppla arbetet till strategin. För att lyckas är det viktigt att alla i teamet har en gemensam förståelse för hur Workfront stöder organisationens övergripande vision och uppdrag.
 
@@ -151,3 +151,18 @@ Det är viktigt att användarna får tydliga förväntningar så att de vet vad 
 
 
 Se till att ledningen skickar ut meddelanden med sitt stöd.
+
+</br>
+</br>
+
+
+**Bästa praxis**
+
+Skapa och distribuera en Adobe-enkät till era användare för att få en bättre förståelse för var de har problem och var de ser värde
+
+**Här är varför**
+
+Våra mest framgångsrika kunder har utvecklat en regelbunden strategi för att samla in feedback för att förstå vad som kan stå i vägen för en bättre användning av Workfront-lösningen. Genom att samla in feedback-data kan administratörer hitta rätt resurser som kan förbättra resultatet. Guiden till Adobes enkäter går igenom stegen för att genomföra, mäta, planera och granska en enkät till dina Workfront-användare.
+
+[Ladda ned Workfront Guide to Adoption Survey](../assets/adoption-survey.pdf)
+
