@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
+source-git-commit: 2c0cbec8de35ef7d517e856a3080f2495bc41e7d
 workflow-type: tm+mt
-source-wordcount: '2392'
+source-wordcount: '2401'
 ht-degree: 0%
 
 ---
@@ -28,13 +28,15 @@ ht-degree: 0%
       + [Återställ objekt från papperskorgen](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
    + Konfigurera systemstandardinställningar {#configure-system-defaults}
-      + [Konfigurera globala standardprojektinställningar](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
+      + [Skapa och hantera objektstatus](administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
       + [Förstå standardproblemtyper](administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [Skapa en utleveransstatus](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
       + [Status för systemomfattande problem](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
+      + [Skapa och hantera tidsplaner](administration-and-setup/configure-system-defaults/create-and-manage-schedules.md)
       + [Skapa och hantera problem](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [Anpassa problemtyper och terminologi](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Konfigurera inställningar för globala standardutgåvor](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
+      + [Konfigurera globala standardprojektinställningar](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
 
    + Layoutmallar {#layout-templates}
       + [Vad är layoutmallar?](administration-and-setup/layout-templates/what-are-layout-templates.md)
