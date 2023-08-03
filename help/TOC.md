@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 2c0cbec8de35ef7d517e856a3080f2495bc41e7d
+source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
 workflow-type: tm+mt
-source-wordcount: '2401'
+source-wordcount: '2405'
 ht-degree: 0%
 
 ---
@@ -122,6 +122,7 @@ ht-degree: 0%
       + [Spåra projektets övergripande förlopp](manage-work/projects/track-overall-project-progress.md)
       + [Spåra arbetets förlopp med projektstatistik](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [Förstå [!UICONTROL Gantt] visa](manage-work/projects/understand-the-gantt-view.md)
+      + [Förstå [!UICONTROL Styrelse] visa](manage-work/projects/understand-the-board-view.md)
 
    + Uppgifter {#tasks}
       + [Skapa uppgifter](manage-work/tasks/how-to-create-tasks.md)
