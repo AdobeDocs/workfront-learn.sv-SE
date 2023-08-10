@@ -4,24 +4,32 @@ description: Lär dig hur du kan använda kontrollpaneler, [!UICONTROL Startsida
 activity: use
 team: Technical Marketing
 feature: Work Management
-thumbnail: find-requests.jpeg
+thumbnail: 3422686.jpg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
+last-substantial-update: 2023-08-10T00:00:00Z
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 # Sök efter förfrågningar
 
-Var ni hittar förfrågningar kan variera, så tala med er interna [!DNL  Workfront] för att ta reda på hur ni hanterar inhämtning av ansökningar. Vissa platser på [!DNL Workfront] där du kan hitta förfrågningar:
+I den här videon får du lära dig att hitta förfrågningar som du har tilldelats, förfrågningar som du har skapat och förfrågningar som du hanterar.
 
-* **Kontrollpaneler:** Många [!DNL Workfront] kunderna skriver anpassade rapporter som visar inkommande förfrågningar, spårar förfrågningar som har konverterats till projekt, med mera. Dessa rapporter sammanställs i en kontrollpanel så att allt kan visas snabbt och enkelt. [!DNL Workfront] rekommenderar att du använder den här metoden för att hantera begäranden, eftersom den kan anpassas efter din organisations behov.
-* **[!UICONTROL Startsida]:** Förfrågningar betecknas som ett problem, eftersom det är så som baksidan av [!DNL Workfront] hanterar en begäran som görs via en begärandekö.
-* **[!UICONTROL Området med förfrågningar]**: The [!UICONTROL Skickat] visas som standard de begäranden som du har åtkomst till som fortfarande är öppna eller olösta. Ändra [!UICONTROL Filter] om du vill se alla skickade begäranden som du har tillgång till, bara dina förfrågningar eller bara dina öppna förfrågningar. Om du snabbt vill se information om en förfrågan markerar du den i listan och öppnar sammanfattningspanelen.
-* **[!UICONTROL Team] sida:** När förfrågningar dirigeras till ett team visas de på [!UICONTROL Team] sidan i [!UICONTROL Teamförfrågningar] -avsnitt. Därifrån kan teammedlemmar själva tilldela arbete eller så kan en gruppledare tilldela arbete.
+Du får lära dig att hitta dessa förfrågningar på följande platser:
+
+* Workfront [!UICONTROL Startsida]
+* The [!UICONTROL Begäranden] area
+* The [!UICONTROL Team] page
+* I en anpassad kontrollpanel
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
+
+Om du vill lära dig hur du skapar anpassade rapporter och placerar dem i en kontrollpanel kan du läsa [Grundläggande kurs för att skapa rapport](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html)
