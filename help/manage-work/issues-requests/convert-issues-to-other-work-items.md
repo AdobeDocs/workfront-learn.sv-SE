@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Ett problem kan vara tillräckligt viktigt för att tiden och arbetet för att l
 1. Klicka på problemnamnet för att öppna det.
 1. Välj **[!UICONTROL Konvertera till uppgift]**.
 1. Fyll i [!UICONTROL Konvertera till uppgift] formulär. Börja med att ge den nya aktiviteten ett namn och en beskrivning.
-1. Om den nya aktiviteten ska ingå i ett annat projekt anger du projektnamnet.
+1. Om den nya aktiviteten ska ingå i ett annat projekt ändrar du [!UICONTROL Målprojekt] namn.
 1. I [!UICONTROL Alternativ] markerar du kryssrutorna för att behålla den ursprungliga utgåvan, tillåta åtkomst till den nya uppgiften och behålla slutdatumet. Följ din organisations arbetsflöde när du gör dessa val.
 1. Bifoga ett anpassat formulär om du vill överföra anpassade formulärdata från utgåvan till uppgiften. (Alla fält som finns i både utgivningsformuläret och aktivitetsformuläret överförs automatiskt till aktivitetsformuläret.)
 1. Klicka **[!UICONTROL Konvertera till uppgift]** till slut.
@@ -36,9 +36,9 @@ Ett problem kan vara tillräckligt viktigt för att tiden och arbetet för att l
 
 Beroende på din organisations [!DNL Workfront] systeminställningarna kan du ändra inställningarna i avsnittet Alternativ när du konverterar uppgiften. Dessa alternativ påverkar både den ursprungliga utgåvan och den nya aktiviteten.
 
-* **&quot;Behåll det ursprungliga problemet och knyt lösningen till detta&quot;** bevarar den ursprungliga utgåvan och tillhörande information (timmar, dokument osv.). När det här alternativet är markerat markeras problemet som löst när aktiviteten är slutförd. Om det här alternativet är **not** markerat tas den ursprungliga utgåvan bort när uppgiften skapas. Detta kan påverka hur organisationen spårar och rapporterar problem.
-* The **&quot;Tillåt (användarens namn) att ha åtkomst till den här uppgiften&quot;** kan den person som skapade problemet få åtkomst till den nya uppgiften.
-* The **&quot;Behåll det planerade datumet för färdigställandet av utgåvan&quot;** kan du behålla det planerade slutförandedatumet som redan har angetts för problemet. Detta ställer in aktivitetsbegränsningen till [!UICONTROL Avsluta senast]. Om rutan inte är markerad ställs aktivitetens datum in som om en ny uppgift skapades i projektet.
+* **Behåll det ursprungliga problemet och knyt lösningen till den här uppgiften** bevarar den ursprungliga utgåvan och tillhörande information (timmar, dokument osv.). När det här alternativet är markerat markeras problemet som löst när aktiviteten är slutförd. Om det här alternativet är **not** markerat tas den ursprungliga utgåvan bort när uppgiften skapas. Detta kan påverka hur organisationen spårar och rapporterar problem.
+* The **Tillåt (användarens namn) åtkomst till den här aktiviteten** kan den person som skapade problemet få åtkomst till den nya uppgiften.
+* The **Behåll planerat datum för slutförande av utgåvan** kan du behålla det planerade slutförandedatumet som redan har angetts för problemet. Detta ställer in aktivitetsbegränsningen till [!UICONTROL Avsluta senast]. Om rutan inte är markerad ställs aktivitetens datum in som om en ny uppgift skapades i projektet.
 
 Den nya uppgiften placeras längst ned i uppgiftslistan i ditt projekt. Flytta aktiviteten till önskad plats, tilldela en användare eller grupp till arbetet, lägg till planerade timmar och varaktighet osv.
 

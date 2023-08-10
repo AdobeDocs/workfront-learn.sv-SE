@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9723
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -32,13 +32,13 @@ I den här videon får du lära dig att:
 
 The [!UICONTROL Alternativ] -avsnittet kan vara dolt av systemadministratören om de vill att du ska använda de standardinställningar som de har angett. Om [!UICONTROL Alternativ] -avsnittet visas, här betyder alternativen:
 
-**Behåll det ursprungliga problemet och knyt lösningen till projektet.**
+**Behåll det ursprungliga problemet och knyt lösningen till det här projektet**
 
 Om du väljer det här alternativet markeras det ursprungliga problemet som löst när projektet är klart. Om det här alternativet är **not** markerat tas den ursprungliga utgåvan bort när projektet skapas.
 
 **Tillåt (användarens namn) åtkomst till det här projektet**
 
-Om det här alternativet är markerat får den person som gjorde begäran (eller för vem som gjorde begäran) automatiskt åtkomst till det nya projektet när det har skapats. Om det här alternativet är **not** om de väljs kommer de inte att få några rättigheter.
+Om det här alternativet är markerat får den person som gjorde begäran (eller för vem som gjorde begäran) automatiskt åtkomst till det nya projektet när det har skapats. Om det här alternativet är **not** om du väljer det här alternativet får de inte automatiskt några rättigheter.
 
 ![En bild av en projektskärm med konverteringsalternativ](assets/conversion-options.png)
 
