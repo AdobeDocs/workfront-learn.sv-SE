@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
 workflow-type: tm+mt
-source-wordcount: '2410'
+source-wordcount: '2414'
 ht-degree: 0%
 
 ---
@@ -137,7 +137,7 @@ ht-degree: 0%
    + Problem/förfrågningar {#issues-requests}
       + [Hantera oplanerade arbeten](manage-work/issues-requests/handle-unplanned-work.md)
       + [Gör en förfrågan](manage-work/issues-requests/make-a-request.md)
-      + [Sök efter förfrågningar](manage-work/issues-requests/find-requests.md)
+      + [Söka efter och hantera förfrågningar](manage-work/issues-requests/find-requests.md)
       + [Hantera utleveranstilldelningar](manage-work/issues-requests/manage-issue-assignments.md)
       + [Uppdatera en begäran](manage-work/issues-requests/update-a-request.md)
       + [Konvertera ett problem/en begäran till ett projekt](manage-work/issues-requests/create-a-project-from-a-request.md)
@@ -647,6 +647,7 @@ ht-degree: 0%
 + [Vad är Kanban-metoden och hur fungerar den?](agile/what-is-the-kanban-methodology.md)
 + [Övergång till Agile](agile/transitioning-to-agile.md)
 + [Workfront för chefer](workfront-for-executives/workfront-for-executives.md)
++ [Hantera förfrågningar](manage-work/issues-requests/manage-incoming-requests.md)
 
 
 
