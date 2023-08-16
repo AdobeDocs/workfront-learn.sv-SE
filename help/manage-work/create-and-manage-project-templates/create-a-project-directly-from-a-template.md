@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,9 @@ I informationsfönstret kan du ändra inställningarna för det nya projektet.
 >
 >Om du vill skapa ett projekt med den här metoden måste du ha tillgång till mallområdet i Workfront. Om du inte har tillgång till mallar kan du fortfarande använda en mall för att skapa ett projekt från projektområdet eller när du konverterar ett problem eller en uppgift.
 
-**Pro-Tip**: Om det finns en mall som du använder ofta kan du göra den till en favorit! Mallen visas på menyn Nytt projekt, förutom att den visas på menyn Favoriter och Senaste i navigeringsfältet.
+>[!TIP]
+>
+>Om det finns en mall som du använder ofta kan du göra den till en favorit! Mallen visas på menyn Nytt projekt, förutom att den visas på menyn Favoriter i navigeringsfältet.
+
 
 ![Nya favoritmallar för projekt](assets/direct-template-03.png)

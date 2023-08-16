@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 I stället för att använda en mall för att skapa ett projekt behöver du ibland bara kopiera ett projekt för en annan engångsanvändning. För att kunna göra detta måste du ha en planlicens med behörigheten Redigera och Skapa för projekt.
 
-Navigera till projektet som du vill kopiera och klicka på menyn med tre punkter bredvid projektnamnet. Välj sedan Kopiera.
+Navigera till det projekt som du vill kopiera och klicka på menyn med tre punkter bredvid projektnamnet. Välj sedan Kopiera.
 
 ![Cr](assets/copy-existing-01.png)
 
@@ -29,4 +29,4 @@ I fönstret Kopiera projekt kan du ändra titel och status samt rensa olika data
 
 ![Cr](assets/copy-existing-02.png)
 
-Om du väljer Rensa uppdrag och/eller anger status till Planning förhindrar du att det kopierade projektet skickar meddelanden om aktivitetstilldelning direkt efter kopiering.
+Om du väljer Rensa tilldelningar eller anger status till Planning förhindrar du att det kopierade projektet skickar meddelanden om aktivitetstilldelning direkt efter kopiering.

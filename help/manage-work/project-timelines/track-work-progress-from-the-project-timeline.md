@@ -7,12 +7,13 @@ feature: Work Management
 thumbnail: track-work-progress-from-the-project-timeline.jpeg
 type: Tutorial
 role: User
+last-substantial-update: 2023-08-16T00:00:00Z
 level: Intermediate
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -23,14 +24,20 @@ Se till att arbetsmomenten går som de ska för att klara deadlines. När du ska
 
 ## Procent färdigt
 
-Procent färdigt för varje uppgift används ibland för att mäta hur arbetet fortskrider. Det är viktigt att notera ...detta fält måste justeras manuellt, eftersom det är den tilldelades uppskattning av hur långt de är.
+Procent färdigt för varje arbetsuppgift används ibland för att mäta hur arbetet fortskrider. Det är viktigt att notera.. att det här fältet måste justeras manuellt, eftersom det är den tilldelades uppskattning av hur långt de är.
+
+>[!TIP]
+>
+>Även om procent färdigt för arbetsuppgifter måste uppdateras manuellt, beräknas procentandelen färdigt för en överordnad uppgift av Workfront baserat på procentandelen färdigt och antingen varaktigheten eller planerad tid för varje underordnad uppgift. Det innebär att du får bättre precision i procent om du delar upp stora uppgifter i mindre underaktiviteter.
+
 
 ![Lista över projektuppgifter som visas [!UICONTROL Procent färdigt] kolumn](assets/planner-fund-task-percent-complete.png)
 
-Det finns två gånger när procentandelen ändras automatiskt:
+Det finns tre gånger när procentandelen ändras automatiskt:
 
-När uppgiften [!UICONTROL Status] är inställt på Fullständig, ändras procentandelen till 100.
-Om uppgiften [!UICONTROL Status] återgår till Nytt, procentandelen slutförd återställs till 0.
+* När uppgiften [!UICONTROL Status] är inställt på Fullständig, ändras procentandelen till 100.
+* Om uppgiften [!UICONTROL Status] återgår till Nytt, procentandelen slutförd återställs till 0.
+* I en överordnad aktivitet när procentandelen slutfört för en underordnad aktivitet ändras.
 
 ## Status
 
@@ -42,8 +49,10 @@ Granska uppgiftstilldelningarna när du granskar projektet. Arbetet kanske blev 
 
 ## Aktivitetsbegränsning
 
-Ibland ändras uppgiftsbegränsningarna och du inser inte det. Begränsningar kan påverka hur tidslinjen fungerar, så du kanske vill kontrollera att de är inställda så som du vill ha dem.
+Ibland ändras uppgiftsbegränsningarna och du inser inte det. Begränsningar kan påverka hur tidslinjen fungerar, så du bör se till att de är inställda så som du vill ha dem.
 
 ![Projektuppgiftslista som visar aktivitetsbegränsningskolumn](assets/planner-fund-task-constraint.png)
 
 Skapa en anpassad vy som innehåller [!UICONTROL Aktivitetsbegränsning] om du vill visa den här informationen i uppgiftslistan. Om du har planerat projektet från ett startdatum vill du att dina aktiviteter ska ha [!UICONTROL Så snart som möjligt] ([!UICONTROL ASAP]).
+
+Mer information om uppgiftsbegränsningar finns i [Förstå och hantera varaktighetstyper och uppgiftsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
