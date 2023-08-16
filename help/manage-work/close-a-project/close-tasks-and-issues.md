@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a63de5541cbe92d1dbea286caf5465df0bbdce9a
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,8 @@ ht-degree: 0%
 
 Ett av de första stegen för att stänga en [!DNL Workfront] projektet ser till att alla uppgifter och utgåvor har statusen Slutförd, eller en status som är likvärdig.
 
-Börja med uppgiftslistan och välj en [!UICONTROL Visa] som visar [!UICONTROL Procent färdigt] eller [!UICONTROL Status] eller båda. Med en snabbsökning i uppgiftslistan kan du identifiera vilka aktiviteter som inte har haft någon statusändring.
+Om [!UICONTROL Procent färdigt] i projekthuvudet visas 100 % som du vet att alla dina aktiviteter är markerade som 100 % slutförda. En uppgift som är [!UICONTROL Slutförd - väntar på godkännande] kommer fortfarande att läsa som 100 %, så glöm inte att kontrollera dem. Se [Fullständiga godkännanden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html) för alla tips om godkännanden.
 
-![Projektvisning [!UICONTROL Procent färdigt] kolumn](assets/planner-fund-close-tasks-and-issues.png)
+Om du har problem som är ofullständiga, även problem som väntar på godkännande, visas ett nummer bredvid fliken Problem som visar hur många. Om siffran är noll har du inga ofullständiga problem.
 
-Inte alla organisationer använder [!DNL Workfront's] skapar funktioner för att registrera eller lösa problem, ändringsorder osv. som uppstod under projektet. Men om du gör det, växla till [!UICONTROL Problem] och se till att alla problem har lösts.
-
-<!---
-learn more
-Update task status
-Issue statuses
---->
+![Projektvisning [!UICONTROL Procent färdigt] och öppna problem](assets/close-tasks-and-issues.png)
