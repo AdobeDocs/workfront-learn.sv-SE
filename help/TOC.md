@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
+source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
 workflow-type: tm+mt
-source-wordcount: '2414'
+source-wordcount: '2416'
 ht-degree: 0%
 
 ---
@@ -154,8 +154,8 @@ ht-degree: 0%
 
    + Portfolio {#portfolios}
       + [Översikt över portföljer](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [Introduktion till affärsärendet](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Prioritera och hantera material med portfolior](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [Förstå [!UICONTROL Affärsärende]](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Använd [!UICONTROL Portfolio Optimizer] att prioritera och hantera arbete](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Godkännandeprocesser och milstolpar {#approval-processes-and-milestone-paths}
       + [Skapa en godkännandeprocess för enstaka användning](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
