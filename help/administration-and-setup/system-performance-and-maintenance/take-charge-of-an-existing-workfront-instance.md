@@ -10,7 +10,7 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
+source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -30,13 +30,13 @@ I checklistan för ärvda instanser granskar du en omfattande uppsättning fråg
 
 Checklistan har skapats både som ett Workfront-utkast och som ett nedladdningsbart Excel-kalkylblad. Vi rekommenderar att du använder skissen för att hantera och dokumentera ditt material direkt i Workfront.
 
-Både skissen och kalkylbladet är ordnade efter ämne, i stället för efter tidslinje, så att du kan gå vidare på det sätt som passar dig bäst. . Varaktigheterna är bara ett exempel och du bör justera dem efter dina specifika behov. Det här behöver inte göras allt på ett och samma ställe!
+Både skissen och kalkylbladet är ordnade efter ämne, i stället för efter tidslinje, så att du kan gå vidare på det sätt som passar dig bäst. Varaktigheterna är bara ett exempel och du bör justera dem efter dina specifika behov. Det här behöver inte göras allt på ett och samma ställe!
 
 Där det är möjligt rekommenderar vi att du samarbetar med andra i organisationen för att granska och dokumentera dessa element och för att hålla dokumentationen uppdaterad om det finns några större förändringar. Framtida administratörer i din instans kommer att tacka dig!
 
-* Om du vill hämta utkast går du till huvudmenyn i din egen Workfront-instans och väljer Blåkopior. Hitta skissen &quot;Inherited Instance Basics | Checklista&quot; och klicka på Installera. Välj produktion eller sandlådemiljö och fortsätt konfigurera. Mer information om hur du installerar och konfigurerar utkast finns [här](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+* <b>Ladda ned utkast</b>navigerar du till huvudmenyn i din egen Workfront-instans och väljer Utkast. Hitta skissen &quot;Inherited Instance Basics | Checklista&quot; och klicka på Installera. Välj produktion eller sandlådemiljö och fortsätt konfigurera. Mer information om hur du installerar och konfigurerar utkast finns [här](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
 
-* Om du vill hämta Excel-checklistan klickar du på [här](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+* <b>Så här hämtar du Excel</b> checklista, klicka [här](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
 
 Oavsett om du använder utkast- eller Excel-checklistan kan du tänka på den här processen i tre nyckelfaser - Discovery, Audit och Documentation. Beskrivningar och idealiska resultat visas nedan.
 
