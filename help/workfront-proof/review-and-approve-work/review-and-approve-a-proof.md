@@ -11,9 +11,9 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: cbeb3387107da639899ab22e4372200356551154
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ När en mediefil är klar för granskning och godkännande får du ett e-postmed
 
 ![En bild av ett nytt korrekturmeddelande som begär granskning och godkännande av två korrektur i [!DNL  Workfront].](assets/new-proof-emails.png)
 
-Det är viktigt att komma ihåg att den här korrekturlänken är unik för dig. Om du delar länken med någon kommer alla kommentarer och markeringar de gör att taggas med ditt namn.
+Det är viktigt att komma ihåg att den här korrekturlänken är unik för dig. Om du delar länken med någon taggas alla kommentarer och markeringar de gör med ditt namn.
 
 The [!UICONTROL Nytt korrektur] e-postmeddelandet innehåller även viktig information om korrekturet:
 
@@ -43,17 +43,17 @@ The [!UICONTROL Nytt korrektur] e-postmeddelandet innehåller även viktig infor
 * Versionsnumret talar om vilken version av beviset du ska titta på.
 * Och viktigast av allt är att tidsgränsen visas på två ställen i e-postmeddelandet, precis ovanför avsnittet med korrekturinformation och i det grå fältet för arbetsflödessteget du är en del av.
 
-När du är redo att börja granska behöver du bara klicka på den blå [!UICONTROL Gå till korrektur] öppnas filen automatiskt i [!DNL Workfront’s] korrekturläsare.
+När du är redo att börja granska behöver du bara klicka på den blå [!UICONTROL Gå till korrektur] så öppnas filen automatiskt i [!DNL Workfront] korrekturläsare.
 
-### Öppna ett korrektur från [!UICONTROL Startsida]
+### Öppna ett bevis från [!UICONTROL Startsida]
 
 Om du arbetar i [!DNL Workfront] och har ombetts att godkänna ett bevis hittar du ett uppdrag i [!UICONTROL Arbetslista] av [!DNL Workfront] [!UICONTROL Startsida]. Det är praktiskt att bara välja [!UICONTROL Godkännanden] från [!UICONTROL Filter]så att du kan fokusera på den typen av arbete.
 
 ![En bild av [!DNL Workfront] [!UICONTROL Startsida] med [!UICONTROL Godkännanden] filtret är aktiverat och ett korrektur har valts i listan.](assets/open-proof-from-home.png)
 
-Observera att korrektur visas i [!DNL Workfront] [!UICONTROL Startsida] bara om du har tilldelats behörighet att godkänna det. Om du precis blivit ombedd att endast granska beviset visas det inte i [!DNL Workfront] [!UICONTROL Startsida] när du väljer [!UICONTROL Godkännanden]i filterlistan.
+Det är viktigt att tänka på att korrektur visas i [!DNL Workfront] [!UICONTROL Startsida] bara om du har tilldelats behörighet att godkänna det. Om du precis blivit ombedd att endast granska beviset visas det inte i [!DNL Workfront] [!UICONTROL Startsida] när du väljer [!UICONTROL Godkännanden]i filterlistan.
 
-Välj korrekturgodkännande i dialogrutan [!UICONTROL Arbetslista]klickar du på [!UICONTROL Gå till korrektur] för att öppna den i korrekturläsaren.
+Välj korrekturgodkännande i dialogrutan [!UICONTROL Arbetslista]och klickar sedan på [!UICONTROL Gå till korrektur] för att öppna den i korrekturläsaren.
 
 Beroende på korrektur- och projektarbetsflöden kan en uppgiftstilldelning visas i [!DNL Workfront] [!UICONTROL Startsida] istället för en begäran om godkännande. I det här fallet öppnar du korrekturet från [!UICONTROL Dokument] i själva aktiviteten (se nedan för instruktioner).
 
@@ -63,7 +63,7 @@ Du kan också hitta korrektur att granska på en [!DNL Workfront] Instrumentpane
 
 Om du vanligtvis arbetar med projekt, uppgifter eller problem i [!DNL Workfront]kanske du föredrar att öppna korrekturet direkt från [!DNL Documents] i det objektet.
 
-![En bild av [!UICONTROL Dokument] avsnitt i [!DNL  Workfront] med [!UICONTROL Öppna korrektur]länk markerad.](assets/open-proof-from-documents.png)
+![En bild av [!UICONTROL Dokument] avsnitt i en [!DNL  Workfront] med [!UICONTROL Öppna korrektur]länk markerad.](assets/open-proof-from-documents.png)
 
 1. Klicka på namnet på projektet, aktiviteten eller utgåvan.
 2. Klicka [!UICONTROL Dokument] på den vänstra panelmenyn på objektets sida.
