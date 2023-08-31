@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 18d4628f9b614a459d2d018938b2786db760e163
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -27,12 +27,24 @@ I den här videon får du lära dig att:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
-## Skapa en mall med utkast
+## Mallar skapade med [!UICONTROL Blueprints]
 
-Systemadministratörer kan använda utkast för att skapa projektmallar. Med den här funktionen, som finns i huvudmenyn, får du tillgång till färdiga mallar som är anpassade efter en avdelning och en viss mognadsnivå. Mallarna gör det enkelt för användarna att komma igång med att skapa repeterbara projekt och samtidigt bibehålla en konsekvent design i projekt av liknande omfattning.
-
-Även om projektmallar som skapats med utkast kan användas när du skapar projekt, kan du inte använda en plan direkt när du skapar ett nytt projekt (till exempel konverterar en uppgift eller en förfrågan till ett projekt). En viktig skillnad mellan en plan och en projektmall är att en plan används för att skapa en mall, medan en projektmall används för att skapa ett projekt.
+Systemadministratörer kan använda [!UICONTROL Blueprints] för att skapa projektmallar. Med den här funktionen, som finns i huvudmenyn, får du tillgång till färdiga mallar som är anpassade efter en avdelning och en viss mognadsnivå. Mallarna gör det enkelt för användarna att komma igång med att skapa repeterbara projekt och samtidigt bibehålla en konsekvent design i projekt av liknande omfattning.
 
 ![Utskrifter på huvudmenyn](assets/pt-blueprints-01.png)
 
-Om du vill installera en plan för produktion eller sandlådemiljöer väljer du Blåtryck på huvudmenyn. Bläddra i katalogen eller använd alternativet Filtrera efter typ på filtermenyn till höger för att hitta och installera den plan som passar ditt projekt bäst. Konfigurera information om projektmallen - t.ex. mappning av ritytans jobbroller till din organisations jobbroller - innan du installerar ritningen, om det behövs. När du har installerat planen kan du ändra den nya mallen så att den passar din organisations behov.
+Som planerare kan du bläddra i listan med ritningar i Workfront. Du kan inte använda en plan direkt när du skapar ett nytt projekt (till exempel konverterar en uppgift eller en förfrågan till ett projekt). En viktig skillnad mellan en plan och en projektmall är att en plan används för att skapa en mall, medan en projektmall används för att skapa ett projekt. Planen måste installeras av en systemadministratör för att motsvarande mall ska kunna skapas.
+
+Om du hittar en intressant ritning kan du klicka på **[!UICONTROL Information]** om du vill veta mer om det.
+
+![Förteckning över ritningar](assets/pt-blueprints-02.png)
+
+The [!UICONTROL Information] på skärmen förklaras mer om ritningen, inklusive installationshistoriken om ritningen har installerats.
+
+![Information om användningen av en plan](assets/pt-blueprints-03.png)
+
+Om ritningen var installerad kan du klicka på **[!UICONTROL Se detaljer]** om du vill hämta länkar till mallen som skapades och andra objekt som skapades som stöd för mallen.
+
+![Information om installationen av en ritning](assets/pt-blueprints-04.png)
+
+Om ritningen inte har installerats än kan du begära den av systemadministratören.
