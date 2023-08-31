@@ -13,20 +13,27 @@ hidefromtoc: true
 jira: KT-null
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 254a31d341f0b3b1ecf458cbbeddc0d6ad5c779a
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
 
 # Workfront för chefer
 
+Som företagsledare kan Adobe Workfront
+
+* Håll dig informerad om hur arbetet fortskrider **rapporter och kontrollpaneler**
+* Ge dig ett enkelt sätt att **kommunicera med projektintressenter med hjälp av uppdateringar**
+* Ge dig ett enkelt sätt att **göra en arbetsförfrågan**
+* Ge dig ett enkelt sätt att se **objekt som väntar på ditt godkännande**
+
 ## Rapporter och kontrollpaneler
 
 ### Rapporter
 
-Rapporterna i Workfront är ryggraden i att fatta bättre beslut, snabbare. Du kan se dem överallt - i projektområdet, i personområdet eller på en startsida för en uppgift.
+Rapporterna i Workfront är grunden till bättre beslut, snabbare. Du kan se dem överallt - i projektområdet, i personområdet eller på en startsida för en uppgift.
 
 Ledare och chefer kan navigera till rapportområdet för att visa anpassade rapporter med specifik information. För att synliggöra de viktigaste rapporterna använder Workfront kontrollpaneler.
 
@@ -40,19 +47,26 @@ Klicka på Kontrollpaneler på huvudmenyikonen i det övre högra hörnet för a
 
 Ledarna kan komma åt de olika instrumentpanelerna som är tillgängliga via den vänstra panelnavigeringen.
 
-![En bild av alternativet Kontrollpaneler på huvudmenyn](assets/workfront-4-executives-2.png)
+![En bild av sidan Kontrollpaneler](assets/workfront-4-executives-2.png)
 
-* **Alla instrumentpaneler**: Visar kontrollpaneler som du eller andra användare har skapat och som du har behörighet att åtminstone visa.
+* **Alla instrumentpaneler**: Visar de kontrollpaneler som du eller andra användare har skapat och som du har behörighet att åtminstone visa.
 * **Mina instrumentpaneler**: Visar de instrumentpaneler som du har skapat.
 * **Delade instrumentpaneler**: Visar de instrumentpaneler som har skapats av andra användare och delats med dig.
 
 Med en kontrollpanel kan chefer granska saker som&quot;Kostnader, intäkter och budgetar&quot; för viktiga projekt och öppna problem som deras team har att göra med. De kan också se projekt som är i riskzonen samt en lista över objekt som behöver godkännas av ledningen.
 
-Rapporterna i Workfront kan bidra till att öka personalens ansvar. Nyckeln till att utnyttja rapporter är att skapa ett tydligt arbetsflöde för hur organisationen använder dem. Se till att alla har en tydlig förståelse för vilka rapporter som används för att mäta framgången.
+Rapporterna i Workfront kan bidra till att öka personalens ansvar. Nyckeln till att utnyttja rapporter är att skapa ett tydligt arbetsflöde för hur organisationen använder dem. Se till att alla har en tydlig förståelse för vilka rapporter som används för att mäta framgång.
 
 ![Exempel på rapporter på en Dashboard i Workfront ](assets/workfront-4-executives-3.png)
 
 Exempel på rapporter på en Dashboard i Workfront
+
+## Kommunicera med projektintressenter med hjälp av uppdateringar
+
+Kommunicera med projektteamet i själva projektet så att all projektkommunikation blir lättillgänglig.
+
+![En bild av uppdateringssidan](assets/workfront-4-executives-4.png)
+
 
 ## Gör en förfrågan
 
@@ -65,3 +79,10 @@ I den här videon får du lära dig att:
 * Visa dina skickade begäranden
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
+
+## Objekt som väntar på ditt godkännande
+
+I [!UICONTROL Startsida] kan du enkelt hitta objekt som väntar på ditt godkännande.
+
+![En bild av startsidan](assets/workfront-4-executives-5.png)
+
