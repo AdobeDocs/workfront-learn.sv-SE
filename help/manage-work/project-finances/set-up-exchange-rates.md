@@ -10,7 +10,7 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # Ställ in valutakurser
 
-[!DNL Workfront] stöder olika valutor för kundorganisationer som är multinationella företag. Valutakurser kan användas i projekt och rapporter för att återspegla finansiell information i olika valutor i världen.
+[!DNL Workfront] stöder olika valutor för kundorganisationer som är multinationella företag. Valutakurser kan användas i projekt och rapporter för att återspegla finansiell information i olika valutor från hela världen.
 
-Växelkurserna hanteras av systemadministratörer. Ytterligare valutor kan ställas in efter behov för din organisation.
+Växelkurserna hanteras av systemadministratörer. Ytterligare valutor kan ställas in efter behov.
 
-[!DNL Workfront]Den amerikanska valutan är basvalutan (standardvalutan). Det här är den valuta som ekonomisk information beräknas i som standard, såvida inte en annan valuta har angetts för ett enskilt projekt.
+Workfront standardbasvaluta är USD. Det här är den valuta som ekonomisk information beräknas i som standard. Den här standardinställningen kan ändras globalt och i enskilda projekt.
 
-## Ställ in valutor och valutakurser
+## Ställ in valutor och växelkurser
 
 ![En bild av hur du väljer valutakurser](assets/setting-up-finances-4.png)
 

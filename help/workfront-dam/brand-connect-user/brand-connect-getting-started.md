@@ -1,6 +1,6 @@
 ---
-title: Brand Connect in [!UICONTROL Workfront DAM] Förklaring
-description: Läs om vad varumärket ansluter till [!UICONTROL Workfront DAM] och navigera.
+title: Förstå navigering och sökning som användare
+description: Läs om vad varumärket ansluter till [!UICONTROL WORKFRONT DAM] och navigera.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
-# Brand Connect: komma igång
+# Brand Connect: Förstå navigering och sökning som användare
 
 I den här videon får du lära dig:
 
@@ -59,7 +59,7 @@ Om du vill utesluta ett ord från sökresultatet placerar du ett minustecken (-)
 
 ### Tom fältoperator
 
-Om du vill söka efter resurser som inte har någon information i ett specifikt metadatafält anger du fältet som du vill söka i det här formatet: ?[xxxxx]. Om du till exempel vill söka efter resurser som inte har tilldelats nyckelord anger du ?[nyckelord] i sökfältet.
+Om du vill söka efter resurser som inte har någon information i ett specifikt metadatafält anger du det fält du vill söka i i det här formatet: ?[xxxxx]. Om du till exempel vill söka efter resurser som inte har tilldelats nyckelord anger du ?[nyckelord] i sökfältet.
 
 ## Riktlinjer för varumärken
 
