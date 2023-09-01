@@ -1,5 +1,5 @@
 ---
-title: Din tur är att skapa en kalender
+title: Din tur är att skapa en kalenderrapport
 description: Lär dig hur du skapar en kundkalender som visar dina ofullständiga uppgifter och problem.
 activity: use
 team: Technical Marketing
@@ -10,14 +10,14 @@ level: Beginner
 thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
 
-# Din tur är att skapa en kalender
+# Din tur är att skapa en kalenderrapport
 
 I den här aktiviteten får du erfarenhet av att skapa en egen kalender.
 
@@ -29,7 +29,7 @@ Inkludera en kalendergrupp med namnet&quot;Ofullständiga uppgifter&quot; som vi
 
 Välj röd som färg för dessa objekt.
 
-Inkludera en annan kalendergrupp med namnet&quot;Ofullständiga problem&quot; som visar alla ofullständiga problem som du har tilldelats i aktuella projekt. Välj blått som färg för dessa objekt.
+Inkludera en annan kalendergrupp med namnet&quot;Ofullständiga problem&quot; som visar alla ofullständiga utgåvor som du har tilldelats i Aktuella projekt. Välj blått som färg för dessa objekt.
 
 ## Svar
 
@@ -42,7 +42,7 @@ Inkludera en annan kalendergrupp med namnet&quot;Ofullständiga problem&quot; so
 1. Ställ in fältet På kalendern till Endast slutdatum.
 1. Ställ in värdet Nej för fältet Växla till faktiska datum när det är tillgängligt.
 
-   ![En bild av skärmen där du kan lägga till objekt i en kalender](assets/calendar-activity-1.png)
+   ![En bild av skärmen där objekt läggs till i en kalender](assets/calendar-activity-1.png)
 
 1. I avsnittet Vad vill du lägga till i kalendern? väljer du Åtgärder.
 1. Lägg till tre filterregler:
@@ -53,7 +53,7 @@ Inkludera en annan kalendergrupp med namnet&quot;Ofullständiga problem&quot; so
 
 1. Klicka på Spara.
 
-   ![En bild av skärmen där du kan lägga till objekt i en kalender](assets/calendar-activity-2.png)
+   ![En bild av skärmen där objekt läggs till i en kalender](assets/calendar-activity-2.png)
 
 1. Skapa en andra gruppering genom att klicka på Lägg till i kalender.
 1. Klicka på Lägg till avancerade objekt under den här grupperingen.
@@ -71,6 +71,6 @@ Inkludera en annan kalendergrupp med namnet&quot;Ofullständiga problem&quot; so
 
 1. Klicka på Spara.
 
-   ![En bild av skärmen där du kan lägga till objekt i en kalender](assets/calendar-activity-3.png)
+   ![En bild av skärmen där objekt läggs till i en kalender](assets/calendar-activity-3.png)
 
 Eftersom du har använt $$USER.ID i filtren kan du dela den här kalendern med andra och de kan se sina egna ofullständiga uppgifter och problem.

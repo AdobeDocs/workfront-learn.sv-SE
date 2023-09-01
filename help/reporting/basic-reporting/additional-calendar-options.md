@@ -1,61 +1,38 @@
 ---
-title: Förstå ytterligare kalenderalternativ
-description: Lär dig hur du redigerar och tar bort en kalendergrupp och hur du delar en kalender.
+title: Förstå ytterligare alternativ för kalenderrapporter
+description: Lär dig hur du kopierar, redigerar, delar och tar bort en kalender.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2023-08-29T00:00:00Z
 team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 1%
 
 ---
 
-# Förstå ytterligare kalenderalternativ
+# Förstå ytterligare alternativ för kalenderrapporter
 
-I det här avsnittet får du lära dig att:
+En kalenderrapport är en dynamisk rapport som visar arbete och ledig tid i en kalendervy. Du kan visa datuminformation i en kalenderrapport för följande objekt:
 
+* Uppgifter
+* Projekt
+* Problem
+* Tid av
+
+I den här videon får du lära dig att:
+
+* Kopiera en kalender
 * Redigera en kalendergruppering
 * Ta bort en kalendergrupp
 * Dela en kalender
+* Ta bort en kalender
 
-## Redigera en kalendergruppering
-
-Om du vill redigera en gruppering håller du pekaren över namnet i kalendern. Klicka på nedpilen som visas till höger och välj **[!UICONTROL Redigera]**.
-
-## Ta bort en kalendergrupp
-
-Om du vill ta bort en gruppering håller du pekaren över namnet i kalendern. Klicka på nedpilen som visas till höger och välj **[!UICONTROL Ta bort]**.
-
-![En bild av en skärm med alternativet Ta bort kalendergruppering](assets/calendar-3-0.png)
-
-## Dela en kalender
-
-Som projektledare kan du skapa en kalender som du vill dela med andra, t.ex. projektledare, teammedlemmar osv.
-
-1. Från **[!UICONTROL Huvudmeny]** väljer du en **[!UICONTROL Kalendrar]** område.
-1. Välj den kalender som du vill dela.
-1. Välj **[!UICONTROL Delning]** från **[!UICONTROL Kalenderåtgärder]** nedrullningsbar meny.
-1. Ange namn på de användare, roller, team, grupper eller företag som du vill dela kalendern med.
-1. Välj om användarna får [!UICONTROL Visa] eller [!UICONTROL Hantera] åtkomst till kalenderrapporten.
-1. Klicka **[!UICONTROL Spara]**.
-
-När du delar kalendrar finns det några saker att tänka på:
-
-* Klicka på **[!UICONTROL kugghjulsikon]** i det övre högra hörnet av delningsfönstret för att göra kalendern synlig för hela systemet eller för att göra den offentlig för externa användare.
-* [!UICONTROL Visa] åtkomst gör att användarna kan titta på kalendern men inte ändra filtren som styr grupperingarna.
-* [!UICONTROL Hantera] ger användarna möjlighet att titta på kalendern och ändra filtren som styr grupperingarna.
-
-## Delningsbar länk
-
-Du kan dela en kalender med andra [!DNL Workfront] via en privat länk. Detta tar dem direkt till kalendern i [!DNL Workfront].
-
-Du kan göra det här via **[!UICONTROL Kalenderåtgärder]** meny, genom att välja **[!UICONTROL Hämta delbar länk]**. Därifrån klickar du på **[!UICONTROL Kopiera länk]** och klistra in URL:en i ett e-postmeddelande eller snabbmeddelande med någon annan.
-
-![En bild av en [!UICONTROL Hämta delbar länk] screen](assets/calendar-3-1.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on)
