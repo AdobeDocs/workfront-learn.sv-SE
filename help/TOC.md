@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
 workflow-type: tm+mt
-source-wordcount: '2422'
+source-wordcount: '2426'
 ht-degree: 0%
 
 ---
@@ -165,7 +165,7 @@ ht-degree: 0%
       + [Använd milstolpar](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
 
    + Skapa och hantera projektmallar {#create-and-manage-project-templates}
-      + [Skapa en projektmall](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [Skapa en projektmall och lär dig mer om utkast](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Skapa ett projekt direkt från en mall](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Dela en projektmall](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Kopiera ett befintligt projekt](manage-work/manage-projects/copy-an-existing-project.md)

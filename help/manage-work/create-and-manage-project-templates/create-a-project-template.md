@@ -1,6 +1,6 @@
 ---
-title: Skapa en projektmall
-description: Lär dig skapa en projektmall från grunden och från en befintlig mall.
+title: Skapa en projektmall och lär dig mer om [!UICONTROL Blueprints]
+description: Lär dig skapa en projektmall från grunden och från en befintlig mall och förstå hur [!UICONTROL Blueprints] kan ge tillgång till en värld av användbara projektmallar som skapats av Workfront experter.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -8,17 +8,22 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 18d4628f9b614a459d2d018938b2786db760e163
+source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
 
-# Skapa en projektmall
+# Skapa en projektmall och lär dig mer om [!UICONTROL Blueprints]
+
+Lär dig skapa en projektmall från grunden och från en befintlig mall och förstå hur [!UICONTROL Blueprints] kan ge tillgång till en värld av användbara projektmallar som skapats av Workfront experter.
+
+## Skapa en projektmall
 
 I den här videon får du lära dig att:
 
@@ -29,11 +34,11 @@ I den här videon får du lära dig att:
 
 ## Mallar skapade med [!UICONTROL Blueprints]
 
-Systemadministratörer kan använda [!UICONTROL Blueprints] för att skapa projektmallar. Med den här funktionen, som finns i huvudmenyn, får du tillgång till färdiga mallar som är anpassade efter en avdelning och en viss mognadsnivå. Mallarna gör det enkelt för användarna att komma igång med att skapa repeterbara projekt och samtidigt bibehålla en konsekvent design i projekt av liknande omfattning.
+Workfront användare kan använda [!UICONTROL Blueprints] för att skapa projektmallar. Med den här funktionen, som finns i huvudmenyn, får du tillgång till färdiga mallar som är anpassade efter en avdelning och en viss mognadsnivå. Mallarna gör det enkelt för användarna att komma igång med att skapa repeterbara projekt och samtidigt bibehålla en konsekvent design i projekt av liknande omfattning.
 
 ![Utskrifter på huvudmenyn](assets/pt-blueprints-01.png)
 
-Som planerare kan du bläddra i listan med ritningar i Workfront. Du kan inte använda en plan direkt när du skapar ett nytt projekt (till exempel konverterar en uppgift eller en förfrågan till ett projekt). En viktig skillnad mellan en plan och en projektmall är att en plan används för att skapa en mall, medan en projektmall används för att skapa ett projekt. Planen måste installeras av en systemadministratör för att motsvarande mall ska kunna skapas.
+Alla licensierade användare kan bläddra i listan över utkast som finns i Workfront. Du kan inte använda en plan direkt när du skapar ett nytt projekt (till exempel konverterar en uppgift eller en förfrågan till ett projekt). En viktig skillnad mellan en plan och en projektmall är att en plan används för att skapa en mall, medan en mall används för att skapa ett projekt. **Planen måste installeras av en systemadministratör för att motsvarande mall ska kunna skapas.**
 
 Om du hittar en intressant ritning kan du klicka på **[!UICONTROL Information]** om du vill veta mer om det.
 
