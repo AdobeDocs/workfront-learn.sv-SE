@@ -10,9 +10,9 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -45,11 +45,18 @@ Inget annat krävs för att visa den kombinerade filen. Klicka bara [!UICONTROL 
 
 ![En bild av korrekturläsaren med ett flersidigt korrektur synligt.](assets/combine-proofs-2.png)
 
+## Vad gäller för att kombinera videofiler?
+
+Det går inte att kombinera filer när det finns multimediefiler som videoklipp, animeringar och interaktiva URL:er i listan.
+
+![En bild av ett felmeddelande som förklarar att du inte kan kombinera videofiler.](assets/combine-proofs-2.png)
+
+
 ## Din tur
 
 >[!IMPORTANT]
 >
->Glöm inte att påminna dina kollegor om att du skickar in ett bevis som en del av din Workfront-utbildning.
+>Glöm inte att påminna dina kollegor om att du skickar ett bevis till dem som en del av din Workfront-utbildning.
 
 
 Sök efter tre eller fyra filer (PDF, textfil osv.) på datorn.

@@ -10,9 +10,9 @@ level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '978'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,12 @@ ht-degree: 0%
 # Inledande scenariodesign
 
 Lär dig några grundläggande navigeringstips när du loggar in på Workfront Fusion och skapar ditt första scenario.
+
+## Förutsättningar
+
+1. För den här övningen krävs en testkörning från Workfront. Du kan begära en genom att fylla i [det här formuläret](https://forms.office.com/r/f1J8HRGrNY). Om du inte kan komma åt formuläret skickar du ditt namn, din e-postadress och ditt företagsnamn till wfttstdr@adobe.com.
+1. Fusion-övningar förutsätter att du har sett genomgången video som motsvarar övningen. I det här fallet är [Genomgång av inledande scenariodesign](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
+
 
 ## Översikt över övningar
 
@@ -48,7 +54,7 @@ Skapa ett nytt projekt i Workfront för varje rad i CSV-filen för projektlistan
 
    ![Designbild 4 för inledande scenario](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Ange URL-adressen till din Workfront-instans och klicka sedan på Nästa.
+1. Ange URL:en för **din Workfront-instans** och klicka sedan på Nästa.
 
    ![Inledande scenario, design bild 5](../12-exercises/assets/initial-scenario-design-5.png)
 
@@ -95,7 +101,7 @@ Skapa ett nytt projekt i Workfront för varje rad i CSV-filen för projektlistan
    >
    >Sök efter den genom att börja skriva några bokstäver, till exempel *proj*, för att gå rakt på det.
 
-1. Använd sedan Cmd/Ctrl+G för att hitta namn (projektnamn). Markera rutan bredvid Namn; fältet visas nedan.
+1. Använd sedan Cmd/Ctrl+G för att hitta namn (projektnamn). Markera rutan bredvid Namn. Fältet visas nedan.
 1. Markera nu rutorna bredvid Planerat startdatum och prioritet.
 1. Klicka i fältet Namn så att mappningspanelen visas. Klicka på fältet Kolumn 1 i modulen Analysera CSV för att lägga till det i fältet Namn. Det här är projektnamnet från CSV-filen.
 1. Klicka på Kolumn 5 i modulen Analysera CSV för det planerade startdatumet.
