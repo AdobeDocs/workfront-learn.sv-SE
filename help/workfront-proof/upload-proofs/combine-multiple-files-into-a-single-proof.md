@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Inget annat krävs för att visa den kombinerade filen. Klicka bara [!UICONTROL 
 
 Det går inte att kombinera filer när det finns multimediefiler som videoklipp, animeringar och interaktiva URL:er i listan.
 
-![En bild av ett felmeddelande som förklarar att du inte kan kombinera videofiler.](assets/combine-proofs-2.png)
+![En bild av ett felmeddelande som förklarar att du inte kan kombinera videofiler.](assets/combine-proofs-error.png)
 
 
 ## Din tur
