@@ -12,7 +12,7 @@ last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 5e13fec9021af23c1c2fb6c9126c3a28370675b4
+source-git-commit: 507f4b74d990dfe13ea2e167e90663142fa13e9d
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Skapa en projektmall och lär dig mer om [!UICONTROL Blueprints]
 
-Lär dig skapa en projektmall från grunden och från en befintlig mall och förstå hur [!UICONTROL Blueprints] kan ge tillgång till en värld av användbara projektmallar som skapats av Workfront experter.
+Lär dig skapa en projektmall från grunden och från ett befintligt projekt, och förstå hur [!UICONTROL Blueprints] kan ge tillgång till en värld av användbara projektmallar som skapats av Workfront experter.
 
 ## Skapa en projektmall
 
