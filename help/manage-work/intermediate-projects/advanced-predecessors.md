@@ -11,7 +11,7 @@ team: Technical Marketing
 last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
-source-git-commit: 1c80c7f0240c7b82f0a8bdb73757ee48b11d193b
+source-git-commit: a3bb4728c12a24929bdaf2351074c1cfc08a4511
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -34,7 +34,6 @@ I den här videon får du lära dig mer om:
 * Tvingade föregångare
 * Beroendeloop-fel
 * Korta klipp och bästa praxis
-
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on)
 
