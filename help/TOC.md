@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 90620c916e5b276c851d3d32c49b8f0ab33f3efb
+source-git-commit: 71f4e25a5971f16801b513c70de6e46fa7d5f0b2
 workflow-type: tm+mt
-source-wordcount: '2423'
+source-wordcount: '2430'
 ht-degree: 0%
 
 ---
@@ -571,6 +571,7 @@ ht-degree: 0%
       + [Arbeta med resurser som användare](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + Startsida {#home}
+   + [Ta bort, lägga till och ordna om widgetar i Hem](workfront-home/remove-add-and-rearrange-widgets.md)
    + [Hitta ditt arbete](workfront-home/find-your-work-in-workfront-home.md)
    + [Organisera din att göra-lista](workfront-home/organize-your-to-do-list-in-workfront-home.md)
    + [Prioritera ditt arbete](workfront-home/prioritize-your-work-in-workfront-home.md)
