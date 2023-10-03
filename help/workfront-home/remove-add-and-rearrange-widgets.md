@@ -9,16 +9,19 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-25T00:00:00Z
 jira: KT-14017
 thumbnail: 3424529.jpeg
-source-git-commit: 8d97679f51e46245a96501a1bcad564149244843
+exl-id: c4e26745-7fdb-4ca2-a968-b1f062afb514
+source-git-commit: 1febdaea4c66540db39882404293ecd3fe9015e9
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
-
 
 # Ta bort, lägga till och ordna om widgetar i Hem
 
 Lär dig hur du tar bort, lägger till och ordnar om widgetar på hemsidan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on)
+
+
+>[!NOTE] Mer information om varje widget finns på [Kom igång med nya startsidor i Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=en) artikel.
