@@ -11,7 +11,7 @@ thumbnail: 335220.jpeg
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -54,7 +54,7 @@ Låt oss titta lite på den information du just fick.
 
 **Svar:** Navigera till begärandeområdet > Klicka på Ny begäran > Välj den typ av begäran som du vill göra > Fyll i informationen i formuläret > Klicka på Skicka begäran
 
-**Fråga:** En förfrågan är verkligen en ...
+**Fråga:** En förfrågan är en..
 
 **Svar:** Problem
 
