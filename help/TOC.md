@@ -3,7 +3,7 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 71f4e25a5971f16801b513c70de6e46fa7d5f0b2
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '2430'
 ht-degree: 0%
@@ -160,8 +160,8 @@ ht-degree: 0%
       + [Skapa en godkännandeprocess för enstaka användning](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Bifoga och redigera befintliga godkännandeprocesser](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [Delegera uppgifter, ärenden och godkännanden](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [Visa milstolpar](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
       + [Använd milstolpar](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [Visa milstolpar](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + Skapa och hantera projektmallar {#create-and-manage-project-templates}
       + [Skapa en projektmall och lär dig mer om utkast](manage-work/create-and-manage-project-templates/create-a-project-template.md)
