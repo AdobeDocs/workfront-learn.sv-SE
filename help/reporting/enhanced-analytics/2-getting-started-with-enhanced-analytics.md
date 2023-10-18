@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
-# Kom igång med Adobe Workfront [!UICONTROL Förbättrad analys]
+# Kom igång med [!UICONTROL Förbättrad analys]
 
 Förbättrade analyser kan visa er hur era team och projekt utvecklas i Workfront, och vad som har hänt i tidigare projekt som ni kanske kan lära er av för att planera framtida projekt.
 
@@ -29,9 +29,9 @@ När vi använder termen&quot;team&quot; i Analytics syftar vi på&quot;hemteam&
 
 Börja direkt genom att se till att alla projektmallar har korrekta planerade timmar och varaktigheter för alla uppgifter.
 
-När du skapar rapporter och diagram används följande information i analysen. En del av dessa uppgifter fylls i automatiskt av Workfront, men vissa behöver fyllas i av dina användare.
+När du skapar rapporter och diagram används följande information i analysen. En del av dessa uppgifter fylls i automatiskt av Workfront, men vissa måste fyllas i av dina användare.
 
-* Planerade timmar för aktivitet (detta är det viktigaste fältet för analys. Om era team inte använder planerade timmar kan ni titta på utvalda diagram baserat på projektens varaktighet.)
+* Planerade timmar för aktivitet (det här är det viktigaste fältet för analys. Om era team inte använder planerade timmar kan ni titta på utvalda diagram baserat på projektens varaktighet.)
 * Projektnamn
 * Projektvillkor
 * Projektstatus

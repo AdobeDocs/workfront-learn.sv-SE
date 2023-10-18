@@ -1,6 +1,6 @@
 ---
-title: Granska pågående uppgifter i [!UICONTROL Förbättrad analys]
-description: Lär dig hur du får åtkomst till uppgifter i färdplanen och hur du snabbt ser vilka uppgifter som inte har slutförts i ett projekt, allt i Workfront.
+title: Granska pågående uppgifter
+description: Lär dig hur du får åtkomst till uppgifter i färdplanen och hur du snabbt ser vilka uppgifter som inte har slutförts i ett projekt, allt i [!UICONTROL Förbättrad analys].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
-# Granska pågående uppgifter i [!UICONTROL Förbättrad analys]
+# Granska pågående uppgifter
 
 I den här videon får du lära dig:
 
@@ -38,7 +38,7 @@ Den här informationen kan hjälpa dig att avgöra:
 * Hur nära en uppgift är att slutföra.
 * Vem du ska prata med om en viss uppgift.
 
-![En bild som visar uppgifter i ett flightdiagram med siffror i områden som beskrivs i punkterna nedan](assets/section-2-11.png)
+![En bild som visar uppgifter i flygdiagrammet med siffror i områden som beskrivs i punkterna nedan](assets/section-2-11.png)
 
 I diagrammet ser du:
 

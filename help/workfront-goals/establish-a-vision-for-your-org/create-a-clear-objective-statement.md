@@ -1,5 +1,5 @@
 ---
-title: Definiera och uttrycka målet eller slutmålet
+title: Skapa ett tydligt måluttryck
 description: Lär dig hur du skapar ett tydligt, objektivt uttalande eller befälhavarens avsikt och skriver tydliga mål för företag eller organisationer.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
 
-# Definiera och uttrycka målet
+# Skapa ett tydligt måluttryck
 
 I den här videon får du lära dig att:
 
@@ -41,11 +41,11 @@ Det här kontoutdraget består av fyra delar. Genom att adressera varje del ober
 **Del 1: Ett tydligt resultat av att uppnå vårt syfte ser ut som..**
 När du slutför den här frasen får du den högsta nivån av vägledning för dina medarbetare och team. Detta uttalande kommer att vara mer fokuserat än ditt uppdrag och dina visioner, men delar troligtvis vissa vanliga toner. Beskriv hur framgången ser ut för ert team.
 
-**Del 2: Det viktigaste som det här laget kan göra är..**
-Att slutföra den här frasen är grunden för prioritering. Det sätter tydliga förväntningar på att det, när allt kommer omkring, finns en enda viktig sak att leverera. Resultatet är mer än sannolikt en kulmen av framgång i många mål (som att lansera en ny produkt, ommärka företaget, komma in på en ny marknad osv.).
+**Del 2: Det viktigaste som teamet kan göra är..**
+Att slutföra den här frasen är grunden för prioritering. Det sätter tydliga förväntningar på att det, när allt kommer omkring, finns en enda viktig sak att leverera. Det är mer än sannolikt att resultatet når många mål (till exempel lansering av en ny produkt, omvarumärkning av företaget, inträde på en ny marknad).
 
-**Del 3: Teamet kommer att uppnå sitt mål genom..**
+**Del 3: Gruppen kommer att uppnå sitt mål genom att ...**
 När du är klar med den här frasen börjar du verkligen att sätta upp dina strategiska pelare. Detta är troligtvis de viktigaste toppnivåmålen som måste uppnås för att uppnå det slutliga resultatet.
 
-**Del 4: Våra begränsningar vad gäller driften omfattar ...**
-När du slutför den här beskrivningen visas viktiga indikatorer på framgång, hur du kommer att mäta dina framsteg och vilka resultat som måste uppnås för att du ska kunna bedöma om resultatet är lyckat. Definiera vilka utmaningar och risker teamet ska ta i beaktande. Genom att identifiera dessa begränsningar kan du avgöra om målet är oförändrat eller obegränsat.
+**Del 4: Våra operativa begränsningar omfattar ...**
+När du slutför den här beskrivningen visas viktiga indikatorer på framgång, hur du kommer att mäta dina framsteg och vilka resultat som måste uppnås för att du ska kunna bedöma om resultatet är lyckat. Definiera vilka utmaningar och risker teamet ska ta i beaktande. Genom att identifiera dessa begränsningar kan du avgöra om målet är oförändrat eller inte.

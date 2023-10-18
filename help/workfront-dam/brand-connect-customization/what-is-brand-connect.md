@@ -1,6 +1,6 @@
 ---
 title: Vad är [!UICONTROL Brand Connect]?
-description: Läs mer om vad som beskrivs i [!UICONTROL Workfront DAM] Administratör, del 3 Anpassa varumärkeskoppling.
+description: Läs mer om vad som beskrivs i [!UICONTROL WORKFRONT DAM] Administratör, del 3 Anpassa varumärkeskoppling.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,18 +10,18 @@ team: Technical Marketing
 jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# Vad är [!UICONTROL Brand Connect]
+# Vad är [!UICONTROL Brand Connect]?
 
-[!UICONTROL Brand Connect] är en del av [!UICONTROL Workfront DAM] som dina slutanvändare får tillgång till för att hitta och hämta godkända företagsresurser. Dessa användare är ofta interna användare som har begärt resurser eller letar efter något som liknar en företagslogotyp.
+[!UICONTROL Brand Connect] är en del av [!UICONTROL WORKFRONT DAM] som dina slutanvändare får tillgång till för att hitta och hämta godkända företagsresurser. Dessa användare är ofta interna användare som har begärt resurser eller letar efter något som liknar en företagslogotyp.
 
-[!UICONTROL Brand Connect] användarna tilldelas [!UICONTROL Brand Portal] rolltyp och är medlemmar i en [!UICONTROL Brand Portal] grupp. De ser bara de mappar och resurser som publicerats till [!UICONTROL Brand Connect] och att gruppen har åtkomstbehörighet. Läs om hur du konfigurerar användare i Workfront DAM Administrator: Systemkonfiguration.
+[!UICONTROL Brand Connect] användarna tilldelas [!UICONTROL Brand Portal] rolltyp och är medlemmar i en [!UICONTROL Brand Portal] grupp. De ser bara de mappar och resurser som publicerats till [!UICONTROL Brand Connect] och att gruppen har åtkomstbehörighet. Läs om hur du konfigurerar användare i Workfront DAM Administrator: Systeminstallation.
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 

@@ -1,6 +1,6 @@
 ---
-title: Lär dig mer om resurskapaciteten i [!UICONTROL Förbättrad analys]
-description: Lär dig hur resurskapaciteten visar antalet planerade timmar som tilldelats ett hemteam inom den filtrerade tidsperioden jämfört med teamets totala tillgängliga timmar.
+title: Lär dig mer om resurskapaciteten
+description: Lär dig hur resurskapaciteten visas i [!UICONTROL Förbättrad analys] visar antalet planerade timmar som tilldelats ett hemteam inom den filtrerade tidsperioden jämfört med teamets totala tillgängliga timmar.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-# Lär dig mer om resurskapaciteten i [!UICONTROL Förbättrad analys]
+# Lär dig mer om resurskapaciteten
 
 Resurskapaciteten visar antalet planerade timmar som tilldelats ett hemteam inom den filtrerade tidsperioden jämfört med teamets totala tillgängliga timmar.
 

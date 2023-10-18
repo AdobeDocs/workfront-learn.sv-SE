@@ -11,7 +11,7 @@ thumbnail: 335126.png
 jira: KT-8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Inställningar för korrekturläsare
 
-Innan du börjar skapa användare i [!DNL  Workfront]är det bäst att ha en global [!DNL Workfront] och korrekturinställningarna har slutförts. Vissa av dessa inställningar gäller för användarprofilerna när de skapas. Men oroa dig inte om du inte har fått dessa uppsättningar innan vissa användare skapades...du kan redigera inställningarna för varje enskild användarprofil.
+Innan du börjar skapa användare i [!DNL  Workfront]är det bäst att ha en global [!DNL Workfront] och korrekturinställningarna har slutförts. Vissa av dessa inställningar gäller för användarprofilerna när de skapas. Men oroa dig inte om du inte har fått dessa uppsättningar innan vissa användare skapades ... du kan redigera inställningarna för varje enskild användarprofil.
 
 
 I den här videon får du lära dig att:

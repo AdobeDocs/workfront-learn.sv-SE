@@ -1,6 +1,6 @@
 ---
 title: Anpassa utseendet på [!UICONTROL Brand Connect]
-description: Lär dig hur du anpassar navigeringsfältet och sidfoten och anpassar hemsidan och inloggningssidan i [!UICONTROL Brand Connect] for [!UICONTROL Workfront DAM].
+description: Lär dig hur du anpassar navigeringsfältet och sidfoten och anpassar hemsidan och inloggningssidan i [!UICONTROL Brand Connect] for [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -34,13 +34,13 @@ The [!UICONTROL Teckensnitt] alternativ under [!UICONTROL Utseende] formaterar a
 
 ## Widgetar för hemsida
 
-Anpassa utseendet och känslan i [!UICONTROL Brand Connect] startsida som matchar er organisation. Med widgetar kan du lägga till element som mappar och bildreglage. Om din organisation har flera [!UICONTROL Märkesanslutningar], har var och en sin egen hemsida, som du kan ge distinkta utseenden.
+Anpassa utseendet och känslan i [!UICONTROL Brand Connect] startsida som matchar er organisation. Med widgetar kan du lägga till element som mappar och bildreglage. Om din organisation har flera [!UICONTROL Märkesanslutningar], har var och en sin egen hemsida, som du kan ge olika uttryck för.
 
 ![En skärmbild av de tillgängliga widgetarna för [!UICONTROL Brand Connect] hemsida](assets/03-brand-connect-home-page-widgets.png)
 
 Dessa widgetar är tillgängliga:
 
-**S. Carousel**—Visa flera resurser i ett bildreglage. Du kan lägga till beskrivningar för varje resurs. Klicka på ikonen Lägg till för att välja bilder som ska visas i karusellen.
+**A. Carousel**—Visa flera resurser i ett bildreglage. Du kan lägga till beskrivningar för varje resurs. Klicka på ikonen Lägg till för att välja bilder som ska visas i karusellen.
 
 **B. Mapp**—Visa en mapp som innehåller markerade resurser. Klicka på ikonen Lägg till för att öppna dialogrutan [!UICONTROL Resursväljaren] så att du kan välja en mapp. Resurserna i mappen är synliga för [!UICONTROL Brand Connect] -användare, men kan bara laddas ned av dem med behörighet.
 
@@ -50,7 +50,7 @@ Dessa widgetar är tillgängliga:
 
 **E. Beskrivning**—Används för att visa korta textbitar.
 
-**F. Fylld beskrivning**—Ange ett textkopieringsblock som ska visas på en grå bakgrund.
+**F. Ifylld beskrivning**—Ange ett textkopieringsblock som ska visas på en grå bakgrund.
 
 **G. HTML**—Använd HTML och CSS för att skapa anpassat innehåll. Du kan till exempel bädda in en länk till en video. Det finns några [HTML-taggar som ska undvikas](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html).
 

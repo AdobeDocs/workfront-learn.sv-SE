@@ -1,6 +1,6 @@
 ---
-title: Konfigurera nyckelord i [!UICONTROL Workfront DAM]
-description: Lär dig mer om vilka nyckelord som är, hur du ställer in en nyckelordslista och hur du skapar och importerar en lista med nyckelord i [!UICONTROL Workfront DAM].
+title: Konfigurera metadatanyckelord
+description: Lär dig mer om vilka nyckelord som är, hur du ställer in en nyckelordslista och hur du skapar och importerar en lista med nyckelord i [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,18 +10,18 @@ team: Technical Marketing
 jira: KT-8973
 exl-id: 7853a76c-02df-4f50-bb05-c03abfeafd05
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
 
-# Metadata och nyckelord: nyckelordsinställning
+# Konfigurera metadatanyckelord
 
 I den här videon kommer du att:
 
-* Förstå hur nyckelord används i [!UICONTROL Workfront DAM]
+* Förstå hur nyckelord används i [!UICONTROL WORKFRONT DAM]
 * Konfigurera en nyckelordslista
 * Skapa och importera en lista med nyckelord
 
@@ -37,7 +37,7 @@ Det är viktigt att ge en översikt över bästa praxis för att vägleda era ny
 * Var inte för smal. &quot;Keokuk, IA&quot; kan vara för smalt för ett nyckelord och helt oidentifierbart för användarna. &quot;Southeast Iowa&quot; vore bättre.
 * Var inte för bred. &quot;Universitet&quot; kanske inte fungerar, särskilt inte om allt i ditt system gäller ett universitet. Bestäm vad som ska skilja på resurserna, till exempel ett specifikt kollegienamn.
 * Var uppmärksam på relevansen. Bara för att varje resurs har en projektkod betyder det inte att den är användbar för användare som använder nyckelord för att hitta resurser. Om den här informationen behöver behållas med resursen kan du lägga till den i ett annat metadatafält.
-* Använd inte för få nyckelord, eftersom de annars inte hjälper till att begränsa sökresultaten.
+* Använd inte för få nyckelord, annars hjälper de inte till att begränsa sökresultaten.
 * Förlita dig inte på nyckelord för varje datadel. Använd metadatafält för information som fotografens namn eller plats.
 
 ## Nyckelordsstrategi

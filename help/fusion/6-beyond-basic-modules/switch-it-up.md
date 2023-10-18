@@ -1,5 +1,5 @@
 ---
-title: Byt upp den!
+title: Byt upp den
 description: Lär dig vilka switchfunktioner och switchmoduler som är och när du ska använda en switch-funktion jämfört med en switch-modul i [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
@@ -10,14 +10,14 @@ level: Beginner
 jira: KT-9047
 exl-id: 99adafb4-a40d-4392-a2e6-cb698e77f436
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Byt upp den!
+# Byt upp den
 
 I den här videon får du lära dig:
 

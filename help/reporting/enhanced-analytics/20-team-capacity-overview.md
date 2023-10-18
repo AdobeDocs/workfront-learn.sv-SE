@@ -1,6 +1,6 @@
 ---
-title: Förstå teamkapacitet i [!UICONTROL Förbättrad analys]
-description: Lär dig hur teamets kapacitetstabell visar när ett hemteam var övertilldelat eller undertilldelat.
+title: Förstå teamets kapacitet
+description: Lär dig hur teamets kapacitetstabell [!UICONTROL Förbättrad analys] visar när ett hemteam var övertilldelat eller undertilldelat.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
 
-# Förstå teamkapacitet i [!UICONTROL Förbättrad analys]
+# Förstå teamets kapacitet
 
 Teamkapacitetstabellen visar när ett hemteam var övertilldelat eller undertilldelat. Diagrammet visar den arbetsvolym som tilldelats hemarbetsteamet en viss dag och tilldelar en mörkare blå färg när de närmar sig utbränning eller inte ifrågasätts. En ljusare, mer genomskinlig färg anger att arbetsbelastningen är mer balanserad.
 

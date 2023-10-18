@@ -10,18 +10,18 @@ team: Technical Marketing
 jira: KT-8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
 
-# Måljustering
+# Justera dina mål
 
 ## Justera mål mellan individer, team och företaget
 
-Nu när du har skapat och aktiverat dina mål i [!DNL Workfront Goals], vi ska se till att de är justerade mot varandra. Målanpassning är en viktig del av målhanteringen. Om du inte har slutfört utbildningsvägen för Workfront-mål, del 1: Etablera en vision och strategi, vi rekommenderar att du tar den först innan du fortsätter.
+Nu när du har skapat och aktiverat dina mål i [!DNL Workfront Goals], vi ska se till att de är justerade mot varandra. Målanpassning är en viktig del av målhanteringen. Om du inte har slutfört inlärningsvägen för Workfront-mål, del 1: Upprätta en vision och strategi, rekommenderar vi att du börjar med detta innan du fortsätter.
 
 <!--Insert link to LP 1, above -->
 
@@ -41,7 +41,7 @@ När målen på den högsta nivån har fastställts och granskats är det upp ti
 
 Här är några saker att tänka på innan du justerar mål i [!DNL Workfront]:
 
-* Gör det enkelt. Identifiera de viktigaste prioriteringarna för företaget just nu och fastställa mål för att stödja det.
+* Gör det enkelt. Identifiera de viktigaste prioriteringarna för företaget just nu och fastställ vilka mål som ska stödja det.
 * Börja med 3-5 mål på företagsnivå, som mest.
 * Kom alltid ihåg att målen måste vara specifika och ha en tidsgräns.
 * Tvinga inte justering. Eftersom justeringen påverkar utvecklingen bör du bara justera målen när det är nödvändigt. En vanlig missuppfattning om hur man anpassar mål är att man måste anpassa varenda mål inom organisationen. Målet för en organisationsenhet behöver kanske inte justeras till en annan enhet, även om alla enheter på något sätt bör anpassas till företagets övergripande vision.

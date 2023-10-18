@@ -8,14 +8,14 @@ level: Beginner, Intermediate
 last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
-# Vanliga frågor om begärandeköer
+# Svar på vanliga frågor om begärandeköer
 
 **Varför kan jag se en begärandekö, men det går inte för användaren?**
 
@@ -41,13 +41,13 @@ Du kan använda [!UICONTROL Sök] i navigeringsfältet eller sök efter det i [!
 
 Om du öppnar en begäran från begärandekön kan du klicka på projektnamnet i området för vägbeskrivningar.
 
-**Kan jag överföra informationen från ett anpassat begärandeformulär till ett anpassat projektformulär?**
+**Kan jag överföra informationen från ett anpassat formulär till ett anpassat projekt?**
 
 Ja. När du skapar ett anpassat formulär väljer du båda [!UICONTROL Projekt] och [!UICONTROL Problem] som objekttyper. Bifoga det anpassade formuläret till begäran. När du konverterar begäran till ett projekt bifogas det anpassade formuläret automatiskt till det nya projektet och värdena i fälten visas både i det begärda formuläret och i de anpassade projektformulären.
 
 **Jag tittar på ett projekt eller en uppgiftsrapport. Hur tar jag reda på vilken begäran det här objektet kommer från?**
 
-Du kan komma åt fält i **[!UICONTROL Konverterat problem]** och **[!UICONTROL Originator för konverterat ärende]** fältkällor för att lägga till den informationen i dina projekt- och uppgiftsrapporter.
+Du har åtkomst till fälten i **[!UICONTROL Konverterat problem]** och **[!UICONTROL Originator för konverterat ärende]** fältkällor för att lägga till den informationen i dina projekt- och uppgiftsrapporter.
 
 **Vilket är det bästa sättet att filtrera efter begärandeköer i en rapport?**
 

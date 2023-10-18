@@ -1,5 +1,5 @@
 ---
-title: Upprätta en vision och strategi
+title: Skapa en vision och strategi för din organisation
 description: Lär dig mer om hur du uttrycker vad och varför under planeringsfasen, exempelmål och omfattningen av påverkan.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
 
-# Upprätta en vision och strategi
+# Skapa en vision och strategi för din organisation
 
 I den här videon får du lära dig mer om:
 
@@ -39,7 +39,7 @@ Tänk på dessa begrepp när du avgör vilken grund du ska ha för organisatione
 
 * I dagens affärsmiljö är interna och externa faktorer mer instabila och förändras ofta. För att hantera dessa faktorer strategiskt bör översynen och justeringen av de kortare målen vara minst var tredje månad.
 
-* Varje granskning bör omfatta tid för att reflektera över tidigare genomföranden och insatser och utvärdera affärsplanen för framtiden. Fråga dig själv och dina team..Är vi fortfarande på rätt spår?
+* Varje granskning bör omfatta tid för att reflektera över tidigare genomföranden och insatser och utvärdera affärsplanen för framtiden. Fråga dig själv och dina team ... är vi fortfarande på rätt spår?
 
 Följande bild visar relationen och den cykliska karaktären hos denna konferens, inte bara mellan längre och kortare mål, utan längre och kortare arbetsinsatser.
 
@@ -54,6 +54,6 @@ Följande bild visar relationen och den cykliska karaktären hos denna konferens
 Your turn graphic
 -->
 
-Låt oss öva lite på det du lärt dig hittills. Börja med att kartlägga en första uppsättning mål för teamet. Du kan ha hört detta kallas för övergripande mål eller en målhierarki. Se hur de alla länkar tillbaka till det långsiktiga målet och överlappar därifrån. Bry dig inte om att vara för definitiv i den här fasen. Det här är din chans att få ut alla dina mål på bordet. Vi kommer att finjustera de här ännu mer.
+Låt oss öva lite på och tillämpa det du lärt dig hittills. Börja med att kartlägga en första uppsättning mål för teamet. Du kan ha hört detta kallas för övergripande mål eller en målhierarki. Se hur de alla länkar tillbaka till det långsiktiga målet och överlappar därifrån. Bry dig inte om att vara för definitiv i den här fasen. Det här är din chans att få ut alla dina mål på bordet. Vi kommer att finjustera de här ännu mer.
 
 ![Grafik för att kartlägga mål på kort och lång sikt](assets/03-workfront-goals-goal-mapping.png)

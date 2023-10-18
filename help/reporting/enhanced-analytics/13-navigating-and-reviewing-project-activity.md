@@ -1,6 +1,6 @@
 ---
-title: Förstå navigering och granskning av projektaktiviteter i [!UICONTROL Förbättrad analys]
-description: Lär dig hur du jämför projekt baserat på användare som är inloggade, ändringar av uppgiftsstatus och uppgifter som har slutförts i Workfront.
+title: Förstå navigering och granskning av projektaktivitet
+description: Lär dig hur du jämför projekt baserat på användare som är inloggade, ändringar av uppgiftsstatus och uppgifter som har slutförts i [!UICONTROL Förbättrad analys].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
-# Förstå navigering och granskning av projektaktiviteter i [!UICONTROL Förbättrad analys]
+# Förstå navigering och granskning av projektaktivitet
 
 I den här videon får du lära dig:
 

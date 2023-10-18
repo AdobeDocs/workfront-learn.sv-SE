@@ -1,5 +1,5 @@
 ---
-title: Förstå nyckeltal i [!UICONTROL Förbättrad analys]
+title: Förstå nyckeltal
 description: Lär dig hur ni får ut värde av KPI-data om vad som händer i nuläget och om trender från det förflutna.
 activity: use
 feature: Reports and Dashboards
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8728
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-# Förstå nyckeltal i [!UICONTROL Förbättrad analys]
+# Förstå nyckeltal
 
 I den här videon får du lära dig:
 
@@ -28,7 +28,7 @@ I den här videon får du lära dig:
 
 ## Jämför KPI:er
 
-KPI:er ger inte bara värdefull information om vad som händer i nuläget, utan de ger användarna möjlighet att jämföra förändringar i aktivitet över tid eller skillnaden mellan portföljer, program, projektägare eller andra filter som används.
+Nyckeltal ger inte bara värdefull information om vad som händer i nuläget, utan ger användarna möjlighet att jämföra förändringar i aktivitet över tid eller skillnaden mellan portföljer, program, projektägare eller andra filter som används.
 
 ![En bild med två webbläsarflikar sida vid sida](assets/section-2-0.png)
 

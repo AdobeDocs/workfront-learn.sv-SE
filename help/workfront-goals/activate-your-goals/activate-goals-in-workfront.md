@@ -1,5 +1,5 @@
 ---
-title: Aktivera mål i [!DNL Workfront Goals]
+title: Aktivera mål
 description: Lär dig hur du aktiverar mål i [!DNL Workfront Goals] när du har skapat dem.
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 jira: KT-10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
 
-# Aktivera mål i [!DNL Workfront]
+# Aktivera mål
 
 Nu när du har skapat mål kan vi aktivera dem! När du skapar ett mål sparas det i [!UICONTROL Utkast] status. [!UICONTROL Utkast] mål ingår inte i målhanteringen förrän du aktiverar dem. När de har aktiverats växlar de till [!UICONTROL Aktiv] status och visa framsteg på kontrollpanelen och hur de anpassar sig till den övergripande strategin. Mål in [!UICONTROL Aktiv] status är associerad med en förloppsindikator, vanligtvis en aktivitet, ett resultat, ett projekt eller ett justerat mål (underordnat mål-relation).
 

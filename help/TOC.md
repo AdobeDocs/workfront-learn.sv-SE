@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
+source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
 workflow-type: tm+mt
-source-wordcount: '2430'
+source-wordcount: '2436'
 ht-degree: 0%
 
 ---
@@ -201,7 +201,7 @@ ht-degree: 0%
       + [Förstå rapporteringskomponenter](reporting/basic-reporting/reporting-components.md)
       + [Skapa en grundläggande gruppering](reporting/basic-reporting/create-a-basic-grouping.md)
       + [Skapa en grundvy](reporting/basic-reporting/create-a-basic-view.md)
-      + [Lägga till grundläggande villkorsstyrd formatering](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
+      + [Lägga till grundläggande villkorsstyrd formatering i en vy](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Skapa ett enkelt filter](reporting/basic-reporting/create-a-basic-filter.md)
       + [Skapa en grundläggande filteraktivitet](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Skapa en enkel rapport](reporting/basic-reporting/create-a-simple-report.md)
@@ -308,7 +308,7 @@ ht-degree: 0%
       + [Skapa en vision och strategi för din organisation](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
       + [Skapa ett tydligt måluttryck](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
       + [Samarbeta kring mål för företag och organisationer](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
-      + [Justera grupper och team efter er strategi](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
+      + [Justera grupper och team efter strategin](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
 
    + Skapa dina mål {#create-goals}
       + [[!UICONTROL Workfront-mål] Ökning](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
@@ -340,10 +340,10 @@ ht-degree: 0%
       + [Använd Adobe Workfront plugins för att integrera med Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Konfigurerar](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [Konfigurera integreringen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [Mappa metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
       + [Skicka dokument och länka resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
-      + [Versionshantering](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
+      + [Underhåller versionshistorik](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [Förbättra arbetsflödet med G Suite-integrering](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -396,7 +396,7 @@ ht-degree: 0%
       + [Vanliga routningsmönster](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
       + [Genomgång av routningsmönster](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
       + [Sätt igång och hämta](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
-      + [Genomgång av get-/set-variabler](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+      + [Genomgång av get/Set-variabler](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
 
    + Upprepning och aggregering {#iteration-and-aggregation}
       + [Introduktion till iteratorer](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
@@ -465,7 +465,7 @@ ht-degree: 0%
       + [Aggregering](fusion/12-exercises/aggregation.md)
       + [Avancerad aggregering](fusion/12-exercises/advanced-aggregation.md)
       + [Körningshistorik](fusion/12-exercises/execution-history.md)
-      + [Utforska körningar, cykler och paket](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [Utforska körningscykler och paket](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
       + [Växlingsfunktion](fusion/12-exercises/switch-function.md)
       + [Växla modul](fusion/12-exercises/switch-module.md)
       + [Webhooks](fusion/12-exercises/webhooks.md)
@@ -494,7 +494,7 @@ ht-degree: 0%
 
    + Överför korrektur {#upload-proofs}
       + [Vad är en korrekturversion?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [Vem överför korrekturversionerna?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [Vem överför korrekturversioner](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [Konvertera ett dokument till ett korrektur](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [Visa och jämföra korrekturversioner](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
       + [Överför en korrekturversion](workfront-proof/upload-proofs/upload-a-proof-version.md)
@@ -544,7 +544,7 @@ ht-degree: 0%
       + [Konfigurera metadata](workfront-dam/metadata-and-keywords/metadata-setup.md)
 
    + Anpassa varumärkesanslutning {#brand-connect-customization}
-      + [Vad är [!UICONTROL Brand Connect]?](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
+      + [Vad är [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
       + [Upprätta systeminställningar i [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/establish-system-settings.md)
       + [Lägg till anpassade sidor i [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/add-custom-pages-in-brand-connect.md)
       + [Skapa riktlinjer för varumärken i [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)

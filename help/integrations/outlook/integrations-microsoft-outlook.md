@@ -1,5 +1,5 @@
 ---
-title: Installera [!UICONTROL Microsoft Outlook-tillägg]
+title: Installera [!UICONTROL Microsoft Outlook] tillägg
 description: Lär dig hur du installerar [!UICONTROL Microsoft Outlook-tillägg]
 activity: use
 feature: Workfront Integrations and Apps
@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -33,6 +33,6 @@ I den här videon får du lära dig att:
 
 Du kan konfigurera [!DNL Workfront] [!UICONTROL Hemkalender] inställningar för att göra följande:
 
-* Integrera med en webbaserad version av [!DNL Outlook] i molnet [!DNL Office 365] eller [!DNL Outlook Live]. Du kan visa alla händelser från [!DNL Outlook] kalendrar och associerade kalendrar som du väljer, t.ex. födelsedagar och helgdagar, i dina [!DNL Workfront] [!UICONTROL Hemkalender].
+* Integrera med en webbaserad version av [!DNL Outlook] i molnet [!DNL Office 365] eller [!DNL Outlook Live]. Du kan visa alla händelser från [!DNL Outlook] kalendrar och associerade kalendrar som du väljer, t.ex. födelsedagar och helgdagar, i [!DNL Workfront] [!UICONTROL Hemkalender].
 
 * Hjälp dig att spåra din arbetsbelastning mot dina tillgängliga arbetstider i fältet Allokering.

@@ -1,5 +1,5 @@
 ---
-title: Skapa mål i [!DNL Workfront Goals]
+title: Skapa mål
 description: Lär dig skapa mål i [!DNL Workfront Goals] med tre olika alternativ.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '886'
+source-wordcount: '884'
 ht-degree: 0%
 
 ---
 
-# Skapa mål i [!DNL Workfront Goals]
+# Skapa mål
 
 I [!DNL Workfront Goals], chefer och företagsledare kan se hur hela organisationen utvecklas på varje nivå, ända ned till individen. [!DNL Workfront Goals] ger synlighet så att ni får viktiga åtgärdbara insikter för att lyfta fram de högsta prioriteringarna, identifiera riskmål, diagnostisera problem i realtid och proaktivt kurskorrigera.
 
@@ -52,12 +52,12 @@ Här är några saker att tänka på innan du kopierar mål:
 * Du kan inte kopiera förloppet för det befintliga målet till ett nytt mål.
 * Du kan inte kopiera aktiviteter för ett mål när du kopierar ett mål.
 
-### Så här kopierar du ett mål
+### Kopiera ett mål
 
 1. Klicka på ett målnamn för att öppna **[!UICONTROL Målinformation]** -panelen.
 1. Klicka på ikonen med tre punkter bredvid målnamnet och välj sedan **[!UICONTROL Kopiera]**.
 1. Uppdatera någon av följande information för det kopierade målet:
-   * **Målnamn**- Det här är namnet på det nya målet. Standardvärdet är&quot;kopia av&quot; följt av namnet på det ursprungliga målet.
+   * **Målnamn**- Det här är namnet på det nya målet. Standardvärdet är&quot;Kopia av&quot; följt av namnet på det ursprungliga målet.
    * **Period**- Den tidsperiod under vilken du vill uppnå målet. Välj en tidsperiod i listrutan eller klicka på Definiera anpassade datum för att ange en anpassad tidsperiod. Standardperioden är alltid aktuellt kvartal.
    * **Ägare**- Målets ägare. Detta kan vara en användare, ett team, en grupp eller ett företag. Standardvärdet är ägaren till det ursprungliga målet.
    * **Beskrivning**—Ytterligare information om målet.
@@ -72,7 +72,7 @@ Här är några saker att tänka på innan du kopierar mål:
 
 Om du har kopierat ett mål som inte har slutförts under en tidigare tidsperiod och vill fortsätta arbeta med det under följande tidsperiod gör du följande:
 
-1. Gå till det ursprungliga målet i **[!UICONTROL Mållista]**.
+1. Gå till det ursprungliga målet i dialogrutan **[!UICONTROL Mållista]**.
 1. Lägg till en uppdatering till målet för att ange att det kopierades och att ett mer aktuellt mål skapades.
 1. Stäng det ursprungliga målet om du vill behålla de framsteg som gjordes under den ursprungliga tidsperioden. Klicka på ikonen med tre punkter bredvid målnamnet och välj **[!UICONTROL Stäng]** på menyn.
 1. Uppdatera [!UICONTROL Inledande] värdet för det nya resultatet så att det matchar **[!UICONTROL Mål]** värdet på föregående resultat, så ditt nya målförlopp börjar beräkna från den punkt som uppnåddes under föregående period.

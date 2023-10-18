@@ -1,5 +1,5 @@
 ---
-title: Aktivera ett mål genom att justera det mot ett annat
+title: Aktivera genom att justera ett mål mot ett annat
 description: Lär dig hur du aktiverar ett mål i [!DNL Workfront Goals] genom att anpassa den till ett annat mål.
 activity: use
 team: Technical Marketing
@@ -9,19 +9,19 @@ role: User
 level: Beginner
 jira: KT-10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
-# Aktivera genom att justera ett mål mot ett annat i [!DNL Workfront Goals]
+# Aktivera genom att justera ett mål mot ett annat
 
 När du justerar två mål blir det ena det överordnade målet och det andra ett underordnat mål. Ett överordnat mål kan ha flera underordnade mål, men ett underordnat mål kan bara justeras mot ett överordnat mål.
 
 1. Öppna det underordnade målet genom att klicka på dess namn i [!UICONTROL Mållista]. Som standard finns du i [!UICONTROL Målinformation] -fliken.
-1. Klicka på [!UICONTROL +Lägg till] i [!UICONTROL Överordnad målinformation] -panelen.
+1. Klicka på [!UICONTROL +Lägg till] knappen i [!UICONTROL Överordnad målinformation] -panelen.
 
    ![En skärmbild av [!UICONTROL Målinformation] tab](assets/06-workfront-goals-align-goals.png)
 

@@ -10,22 +10,22 @@ role: User
 level: Beginner
 jira: KT-10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
-# Förstå datumintervall och tidsramar i [!UICONTROL Förbättrad analys]
+# Förstå datumintervall och tidsramar
 
-När du visar [!DNL Enhanced analytics] diagram, datumintervall anges med hjälp av kalenderwidgeten. Tidsramar skapas i ett diagram när du klickar och drar för att definiera ett visst område, så att du kan zooma in och få en mer detaljerad bild av informationen under tidsramen.
+När du visar [!DNL Enhanced analytics] diagram, datumintervall anges med kalenderwidgeten. Tidsramar skapas i ett diagram när du klickar och drar för att definiera ett visst område, så att du kan zooma in och få en mer detaljerad bild av informationen under tidsramen.
 
 ## Datumintervall
 
-Klicka bara på ett datum i kalendern för att ange ett datum i intervallet och klicka sedan på ett datum för att ange det andra slutet av intervallet. Använd pilarna längst upp i kalendern för att navigera till en annan månad om start- och slutdatumen inte är samma månad.
+Klicka bara på ett datum i kalendern för att ange ett datum i intervallet och klicka sedan på ett datum för att ange det andra slutet av intervallet. Använd pilarna högst upp i kalendern för att navigera till en annan månad om start- och slutdatumen inte är samma månad.
 
-![En bild av hur du väljer ett datumintervall med hjälp av kalenderwidgeten](assets/section-1-3.png)
+![En bild av hur du väljer ett datumintervall med kalenderwidgeten](assets/section-1-3.png)
 
 Diagrammen i [!DNL Analytics] visar data för de senaste 60 dagarna och de kommande 15 dagarna som standard. Du kan välja ett nytt datumintervall och använda det på alla diagram när du använder [!DNL Analytics].
 

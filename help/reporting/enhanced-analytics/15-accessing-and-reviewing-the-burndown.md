@@ -1,6 +1,6 @@
 ---
-title: Förstå åtkomst till och granskning av nedladdningsschemat i [!UICONTROL Förbättrad analys]
-description: Lär dig hur du får åtkomst till nedladdningsschemat och hur du förstår förhållandet mellan återstående timmar, projektvillkor och projektets hastighet i Workfront.
+title: Förstå åtkomst till och granskning av nedladdningsschemat
+description: Lär dig hur du får åtkomst till nedladdningsschemat och hur du förstår förhållandet mellan återstående timmar, projektvillkor och projektets hastighet i [!UICONTROL Förbättrad analys].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
-# Förstå åtkomst till och granska nedladdningen i [!UICONTROL Förbättrad analys]
+# Förstå åtkomst till och granska nedladdningen
 
 I den här videon får du lära dig:
 
