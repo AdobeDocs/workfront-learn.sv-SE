@@ -6,10 +6,10 @@ team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Planera ett projekt - granskning
 
-Skaffa [!DNL  Workfront] projekt snabbt kommer igång med hjälp av en projektmall. Planera sedan projektet genom att först fokusera på följande fem områden:
+Skaffa [!DNL  Workfront] projekt snabbt kommer igång med en projektmall. Planera sedan projektet genom att först fokusera på följande fem områden:
 
 1. Uppgifter
 1. Varaktighet
@@ -26,7 +26,7 @@ Skaffa [!DNL  Workfront] projekt snabbt kommer igång med hjälp av en projektma
 1. Föregående
 1. Uppdrag
 
-När allt är klart ändrar du projektstatus till Aktuell för att göra projektet tillgängligt. I takt med att projektet fortskrider vill du hålla reda på hur arbetet går till, vilka problem som uppstår, vilka frågor som behöver besvaras och mycket mer. Kom ihåg... kan du hitta och hantera all den informationen i [!DNL Workfront]!
+När allt är klart ändrar du projektstatus till Aktuell för att göra projektet tillgängligt. I takt med att projektet fortskrider vill du hålla reda på hur arbetet går till, vilka problem som uppstår, vilka frågor som behöver besvaras och mycket mer. Kom ihåg ... att du kan hitta och hantera all information i [!DNL Workfront]!
 
 <!---
 footer urls for the LP

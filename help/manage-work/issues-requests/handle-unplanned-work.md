@@ -1,17 +1,17 @@
 ---
 title: Hantera oplanerade arbeten
-description: Lär dig hur du hanterar oplanerade arbeten med Adobe Workfront.
+description: Lär dig hantera oplanerade arbeten med Adobe Workfront.
 activity: use
 team: Technical Marketing
 feature: Work Management
 thumbnail: handle-unplanned-work.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%

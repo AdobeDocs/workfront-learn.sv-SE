@@ -6,12 +6,12 @@ feature: Work Management
 thumbnail: 335082.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 18%
@@ -28,7 +28,7 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-Skaffa [!DNL  Workfront] projekt snabbt kommer igång med hjälp av en projektmall. Planera sedan projektet genom att först fokusera på följande fem områden:
+Skaffa [!DNL  Workfront] projekt snabbt kommer igång med en projektmall. Planera sedan projektet genom att först fokusera på följande fem områden:
 
 1. Uppgifter
 1. Varaktighet
@@ -36,4 +36,4 @@ Skaffa [!DNL  Workfront] projekt snabbt kommer igång med hjälp av en projektma
 1. Föregående
 1. Uppdrag
 
-När allt är klart ändrar du projektstatus till Aktuell för att göra projektet tillgängligt. I takt med att projektet fortskrider vill du hålla reda på hur arbetet går till, vilka problem som uppstår, vilka frågor som behöver besvaras och mycket mer. Kom ihåg... kan du hitta och hantera all den informationen i [!DNL Workfront]!
+När allt är klart ändrar du projektstatus till Aktuell för att göra projektet tillgängligt. I takt med att projektet fortskrider vill du hålla reda på hur arbetet går till, vilka problem som uppstår, vilka frågor som behöver besvaras och mycket mer. Kom ihåg ... att du kan hitta och hantera all information i [!DNL Workfront]!

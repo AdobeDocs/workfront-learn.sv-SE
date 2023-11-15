@@ -6,12 +6,12 @@ feature: Work Management
 thumbnail: 335094.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Men oavsett hur du hanterar ett projekt vill du:
 * Kommunicera med era intressenter.
 * Fira vinsterna längs vägen.
 
-I slutändan är huvudjobbet att driva projektet mot ett framgångsrikt slutförande. [!DNL Workfront] kan hjälpa dig att övervaka arbetet som görs via tidslinjen i projektet, filter, vyer och grupperingar, uppdateringar, rapporter... med mera.
+I slutändan är huvudjobbet att driva projektet mot ett framgångsrikt slutförande. [!DNL Workfront] kan hjälpa dig att övervaka arbetet som görs via projekttidslinjen, filter, vyer och grupperingar, uppdateringar, rapporter med mera.
 
 <!---
 learn more urls

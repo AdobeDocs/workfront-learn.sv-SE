@@ -7,10 +7,10 @@ feature: Work Management
 thumbnail: log-and-review-hours.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10136
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Logga och granska timmar
 
-Om loggning av faktiskt arbetade timmar är en del av organisationens arbetsflöde kan du granska dessa timmar på [!UICONTROL Timmar] -avsnittet (välj det på den vänstra panelmenyn) i projektet. Detta visar alla timmar som är inloggade på enskilda uppgifter och själva projektet. Du kan även logga timmar från den här sidan.
+Om loggning av faktiskt arbetade timmar ingår i din organisations arbetsflöde kan du granska dessa timmar på [!UICONTROL Timmar] -avsnittet (välj det på den vänstra panelmenyn) i projektet. Detta visar alla timmar som är inloggade på enskilda uppgifter och själva projektet. Du kan även logga timmar från den här sidan.
 
 ![Timmar med timposter](assets/planner-fund-log-and-review-hours.png)
 
