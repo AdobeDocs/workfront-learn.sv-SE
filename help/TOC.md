@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
+source-git-commit: eb1fdeaf12cec97a576802007a5e0683e50579ee
 workflow-type: tm+mt
-source-wordcount: '2436'
+source-wordcount: '2375'
 ht-degree: 0%
 
 ---
@@ -89,6 +89,7 @@ ht-degree: 0%
       + [Dela anpassade fält](custom-data/custom-forms/share-custom-fields.md)
       + [Redigera ett eget formulär](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [Koppla ett anpassat formulär till ett objekt](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+      + [Lägga till avsnittsbrytningar och logik i ett anpassat formulär](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [Exportera ett anpassat formulär som PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + Beräknade uttryck {#calculated-expressions}
@@ -587,7 +588,7 @@ ht-degree: 0%
 + Agile {#agile}
 
    + Scrum {#scrum}
-      + [Skapa ett flexibelt team](agile/create-a-scrum-agile-team.md)
+      + [Skapa ett Scrum-team](agile/create-a-scrum-agile-team.md)
       + [Hantera arbetet som ett Scrum-team](agile/manage-work-scrum-team.md)
       + [Grooming the backlog](agile/gooming-the-backlog.md)
       + [Planera och skapa en iteration](agile/plan-and-create-an-iteration.md)
