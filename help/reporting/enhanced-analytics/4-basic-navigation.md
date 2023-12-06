@@ -10,26 +10,21 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: 75b9d3b1163466909a4f5b3cbf0f3a66694f5038
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
 # Förstå grundläggande navigering
 
-Navigera till [!UICONTROL Analyser] i den nya Workfront-upplevelsen använder du [!UICONTROL Huvudmeny] -knappen.
+Navigera till [!UICONTROL Analyser] i Workfront använder du [!UICONTROL Huvudmeny] -knappen.
 
 ![En bild på hur du hittar [!UICONTROL Analyser] i WORKFRONT [!UICONTROL huvudmeny]](assets/Navigate-NWE.png)
 
-Hitta analyser i [!DNL Workfront Classic] från det globala navigeringsfältet.
+I den här videon ser du:
 
-![En bild på hur du hittar [!UICONTROL Analyser] i [!DNL Workfront Classic]](assets/Navigate-Classic.png)
-
-I den här videon får du lära dig:
-
-* Navigera till Analytics-området
 * En översikt över arbetsscheman
 * En översikt över persondiagram
 
