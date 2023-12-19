@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -51,6 +51,8 @@ Om du använder ett affärsfall innan projektet börjar, eller till och med i b�
 
 Det ger dig också möjlighet att visa intressenter hur projektet bidrar till att uppnå mål för avdelningar, regioner och/eller företag.
 
+Instruktioner om hur du använder affärsärendet finns i [Förstå affärsfallet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+
 </br>
 </br>
 
@@ -60,4 +62,9 @@ Beräkna och justera viktig projektinformation som kostnad, justering, nettovär
 
 **Här är varför**
 
-Om du ser till att den här informationen ligger så nära vad det&quot;verkliga livet&quot;-projektet kommer att innebära kan du använda poängfunktionen i Portfolio Optimizer för att avgöra prioriteten för de projekt som listas. Portfolio Optimizer är ett utmärkt verktyg för att säkerställa att era projekt prioriteras effektivt och att de är anpassade efter företagets strategi och värde.
+Om du ser till att den här informationen ligger så nära vad det&quot;verkliga livet&quot;-projektet kommer att innebära kan du använda poängfunktionen i Portfolio Optimizer för att avgöra prioriteten för de projekt som listas. Portfolio Optimizer är ett utmärkt verktyg för att säkerställa att dina projekt prioriteras effektivt och att de är anpassade efter företagets strategi och värde.
+
+Instruktioner om hur du använder affärsärendet finns i [Förstå affärsfallet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+
+Instruktioner om hur du använder Portfolio Optimizer finns i [Använd Portfolio Optimizer för att prioritera och hantera arbete](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)
+

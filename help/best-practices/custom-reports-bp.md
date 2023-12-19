@@ -1,23 +1,23 @@
 ---
-title: God praxis - anpassade rapporter
+title: Bästa praxis - Anpassade rapporter
 description: Utforska rekommendationer från Adobe Workfront experter om hur man skapar, hanterar och använder Workfront anpassade rapporter.
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
 
-# God praxis - anpassade rapporter
+# Bästa praxis - Anpassade rapporter
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -60,7 +60,7 @@ Minska antalet rapporter du behöver skapa - och utöka användningen av de rapp
 Med uppmaningar kan du göra &quot;i nuet&quot;-filtertillägg i en rapport utan att redigera rapportens filterinställningar. Du har till exempel en rapport som söker efter uppgifter med en viss status som tilldelats ett visst team. Lägg till uppmaningar i den här&quot;grundläggande&quot; rapporten som gör att du kan begränsa tidsramen för aktivitetens förfallodatum, visa endast uppgifter som har bifogade dokument eller identifiera uppgifter som har ett visst anpassat formulär bifogat.
 
 
-**Anteckning**: En del användare kanske tycker att uppmaningar är förvirrande. I så fall kan flera rapporter med tydliga rubriker vara en bättre lösning för dem.
+**Anteckning**: Vissa användare kan hitta frågor som förvirrar. I så fall kan flera rapporter med tydliga rubriker vara en bättre lösning för dem.
 
 
 </br>
@@ -79,17 +79,6 @@ Det här är inte bara en tidsbesparande åtgärd, den säkerställer att den ny
 
 **Bästa praxis**
 
-Använd rapportfunktionen när det är möjligt i stället för textläge.
-
-**Här är varför**
-
-Detta gör att det blir så enkelt att rapportera konfigurationer som möjligt för att säkerställa att de är skalbara och kan hanteras av dig själv och andra.
-
-</br>
-</br>
-
-**Bästa praxis**
-
 Använd användarbaserade jokertecken för att skapa dynamiska rapporter så att användaren som tittar på rapporten ser information som är relevant för dem.
 
 **Här är varför**
@@ -98,6 +87,8 @@ Användarbaserade jokertecken gör rapporter mer flexibla så att rapportförfat
 
 </br>
 </br>
+
+Instruktioner om hur du använder användarbaserade jokertecken i rapporter finns i [Skapa filter med användarbaserade jokertecken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
 
 **Bästa praxis**
 

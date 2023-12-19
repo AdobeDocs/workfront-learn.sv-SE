@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -67,3 +67,6 @@ Om du har många uppdateringstrådar i ett projekt kan det vara svårt att hitta
 * Anteckningstext
 * Ägarens namn
 * Anmälningsdatum
+
+Om du vill ha stegvisa instruktioner om hur du skapar en anteckningsrapport med uppmaningar kan du titta på [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) självstudiekursen och sedan den aktivitet som följer.
+
