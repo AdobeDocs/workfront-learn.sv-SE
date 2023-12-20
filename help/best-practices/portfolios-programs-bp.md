@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10916
 exl-id: a5aabc2b-4b7a-4bf4-882e-f9d939130ec0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -32,7 +32,7 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 ## Bästa praxis inom Portfolio och program
 
-* Utnyttja portfolior och program för att hantera projekt och rapporter.
+* Använd portfolior och program för att hantera projekt och rapporter.
 
 </br>
 </br>
@@ -41,10 +41,16 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 **Bästa praxis**
 
-Utnyttja portfolior och program för att hantera projekt och rapporter.
+Använd portfolior och program för att hantera projekt och rapporter.
 
 **Här är varför**
 
 När du använder portföljer och program kan du använda ytterligare verktyg från Workfront effektivare. I en rapport kanske du bara vill visa en uppsättning projekt som har samma mål eller som är vrida för samma budget. Genom att organisera projekt i en portfölj och/eller ett program kan du enkelt filtrera dessa projekt efter den portföljen i stället för att använda flera andra kriterier för att begränsa rapporten.
 
 Dessutom kan ni använda ytterligare verktyg, till exempel Utilization-rapporten, som hjälper er att förstå hur och var användare arbetar, eller Portfolio Optimizer, som gör det enklare att prioritera projekt och anpassa dem till företagets övergripande mål och strategier.
+
+För att förstå hur du filtrerar en lista över projekt efter en viss portfölj, se&quot;Aktivitet 1 - Alla projekt i marknadsföringsportföljen&quot; i [Skapa grundläggande filteraktiviteter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html).
+
+Mer information om användningsrapporten finns i artikeln [Följ upp framsteg, kostnader och intäkter med användningsrapporten](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=en#track-progress-cost-and-revenue-with-the-utilization-report).
+
+Mer information om optimering av Portfolio finns i [Använd Portfolio Optimizer för att prioritera och hantera arbete](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).

@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '2375'
+source-wordcount: '2374'
 ht-degree: 0%
 
 ---
@@ -204,7 +204,7 @@ ht-degree: 0%
       + [Skapa en grundvy](reporting/basic-reporting/create-a-basic-view.md)
       + [Lägga till grundläggande villkorsstyrd formatering i en vy](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Skapa ett enkelt filter](reporting/basic-reporting/create-a-basic-filter.md)
-      + [Skapa en grundläggande filteraktivitet](reporting/basic-reporting/create-a-basic-filter-activity.md)
+      + [Skapa grundläggande filteraktiviteter](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Skapa en enkel rapport](reporting/basic-reporting/create-a-simple-report.md)
       + [Skapa en uppgiftsrapport](reporting/basic-reporting/create-a-task-report.md)
       + [Skapa rapporter med diagram](reporting/basic-reporting/create-reports-with-charts.md)

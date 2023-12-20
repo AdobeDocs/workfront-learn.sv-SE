@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '620'
 ht-degree: 0%
 
 ---
@@ -35,8 +35,6 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 * Du bör använda rapportuppmaningar för att begränsa resultatet av en rapport, i stället för att skapa flera, liknande rapporter eller skapa komplicerade filterstrukturer i en rapport.
 
 * Snabba upp framtagningen av rapporter genom att kopiera en liknande befintlig rapport för att bygga din nya rapport utifrån.
-
-* Använd rapportfunktionen när det är möjligt i stället för textläge.
 
 * Använd användarbaserade jokertecken för att skapa dynamiska rapporter så att användaren som tittar på rapporten ser information som är relevant för dem.
 
@@ -88,7 +86,7 @@ Användarbaserade jokertecken gör rapporter mer flexibla så att rapportförfat
 </br>
 </br>
 
-Instruktioner om hur du använder användarbaserade jokertecken i rapporter finns i [Skapa filter med användarbaserade jokertecken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
+Instruktioner om hur du använder användarbaserade jokertecken i rapporter finns i [Skapa filter med användarbaserade jokertecken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
 
 **Bästa praxis**
 
