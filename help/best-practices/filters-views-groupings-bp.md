@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Minska antalet anpassade rapporter du skapar genom att utnyttja filter, vyer och
 
 Att skapa engångsrapporter för varje datasegment som du vill se är tidskrävande och klumpar ihop Workfront-systemet.
 
-Instruktioner om hur du skapar rapporter med uppmaningar finns i kapitlet&quot;Hur du konfigurerar och använder rapportmeddelanden&quot; i [Förstå rapportinställningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+Instruktioner om hur du skapar rapporter med uppmaningar finns i kapitlet&quot;Hur du konfigurerar och använder rapportmeddelanden&quot; i [Förstå rapportinställningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) video.
 
 Instruktioner om hur du skapar rapporter med anpassade uppmaningar finns i [Skapa egna uppmaningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
 
