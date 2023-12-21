@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 97e97fa1a91e7ddae69c1e9fff162917c72b757d
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,10 @@ Använd arbetsflödena för att avgöra vilka meddelanden som behövs.
 **Här är varför**
 
 Genom att gå igenom arbetsflödena steg för steg blir det enklare att identifiera kommunikationspunkterna och se till att rätt meddelanden är aktiverade. Här visas meddelanden om hur din organisation redan fungerar, vilket förhindrar att skräppost eller kommunikation bryts.
+
+Instruktioner om hur du ställer in händelsemeddelanden finns i [Ställ in händelsemeddelanden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)
+
+Instruktioner om hur du hanterar händelsemeddelanden finns i [Hantera händelseaviseringar i appar och e-post](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)
 
 </br>
 </br>
