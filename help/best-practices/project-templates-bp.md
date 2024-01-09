@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '1705'
+source-wordcount: '1743'
 ht-degree: 0%
 
 ---
@@ -190,6 +190,8 @@ Granska och uppdatera projektmallar regelbundet.
 
 När processer och team förändras bör projektmallarna uppdateras. Upprätta ett regelbundet avbrott, t.ex. kvartalsvis, för att kontrollera och se vilka mallar som inte används aktivt. Du kan inaktivera dessa, så de finns fortfarande i Workfront men visas inte i mallurvalslistor.
 
+Instruktioner om hur du inaktiverar en projektmall finns i [Inaktivera en projektmall](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html).
+
 </br>
 </br>
 
@@ -245,4 +247,4 @@ När du skapar en mall från ett befintligt projekt, såvida du inte väljer alt
 
 Alla dessa användare kommer att listas som en del av projektteamet i avsnitten Personer och Schemaläggning i projektet. Resultatet blir att de sprids till alla projekt som skapas från den mallen. Detta kan skapa förvirring för användaren eftersom de som en del av projektteamet får meddelanden om aktivitet i projektet, ser projektet i listan Projekt som jag är på och får behörighet till projektet och dess uppgifter, utgåvor och dokument.
 
-
+Instruktioner om hur du redigerar projektteamet i en projektmall finns i [Redigera projektteamet i en projektmall](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html).

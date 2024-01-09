@@ -12,9 +12,9 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '826'
 ht-degree: 0%
 
 ---
@@ -134,7 +134,7 @@ Skapa en uppgiftsvy med namnet&quot;Varaktighetstyper och vyn över uppgiftsbegr
 
 Alla som hanterar projektmallar kommer att uppskatta om de kan se den aktiva statusen (Sant eller Falskt) för varje mall i en lista. Ännu bättre - fältet kan redigeras direkt!
 
-Skapa en projektmallsvy med namnet&quot;Projektmallens aktiva status&quot; med följande kolumner:
+Skapa en projektmallsvy med namnet&quot;Standard+active status&quot; med följande kolumner:
 
 * [!UICONTROL Namn]
 * [!UICONTROL Ägare]
