@@ -12,9 +12,9 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '827'
 ht-degree: 0%
 
 ---
@@ -45,11 +45,11 @@ Skapa en uppgiftsvy med namnet &quot;Aktivitetsstatusvy&quot; med följande kolu
 
 ## Aktivitet 1 svar
 
-![En bild av skärmen för att skapa en uppgiftsstatusvy](assets/view-exercise.png)
+![En bild av skärmen för att skapa en aktivitetsstatusvy](assets/view-exercise.png)
 
-1. Gå till **[!UICONTROL Visa]** nedrullningsbar meny och välj **[!UICONTROL Ny vy]**.
+1. I en uppgiftslistrapport går du till **[!UICONTROL Visa]** nedrullningsbar meny och välj **[!UICONTROL Ny vy]**.
 1. Ge vyn namnet&quot;Aktivitetsstatusvy&quot;.
-1. Ta bort de här kolumnerna: [!UICONTROL Antal timmar], [!UICONTROL Föregående], [!UICONTROL Starta den]och [!UICONTROL Förfaller den].
+1. Ta bort dessa kolumner: [!UICONTROL Antal timmar], [!UICONTROL Föregående], [!UICONTROL Starta den]och [!UICONTROL Förfaller den].
 1. Klicka **[!UICONTROL Lägg till kolumn]**.
 1. I [!UICONTROL Visa i den här kolumnen] skriver du&quot;status&quot; och väljer sedan&quot;Status&quot; under [!UICONTROL Uppgift] fältkälla.
 1. Klicka **[!UICONTROL Lägg till kolumn]** igen.
@@ -60,7 +60,7 @@ Skapa en uppgiftsvy med namnet &quot;Aktivitetsstatusvy&quot; med följande kolu
 
 Håll pekaren över var och en av ikonerna i dialogrutan [!UICONTROL Statusikoner] för att se vad de representerar. Om de är nedtonade innebär det att uppgiften inte har några anteckningar, dokument, godkännandeprocesser osv. Om en ikon visas i färg är minst ett av objekten kopplat till uppgiften. Du kan klicka på antecknings- eller dokumentikonerna för att gå till det objektet.
 
-## Aktivitet 2: Skapa en milstolpevy
+## Aktivitet 2: Skapa en milstolpe-vy
 
 Om du använder milstolpar är den här vyn det enklaste sättet att se milstolpar efter namn och lägga till eller redigera dem med hjälp av redigering i rad.
 
@@ -102,7 +102,7 @@ Skapa en uppgiftsvy med namnet&quot;Varaktighetstyper och vyn över uppgiftsbegr
 * [!UICONTROL Föregående]
 * [!UICONTROL Starta den]
 * [!UICONTROL Förfaller den]
-* [!UICONTROL Typ av varaktighet]
+* [!UICONTROL Varaktighetstyp]
 * [!UICONTROL Aktivitetsbegränsning]
 * [!UICONTROL Begränsningsdatum]
 
@@ -129,3 +129,29 @@ Skapa en uppgiftsvy med namnet&quot;Varaktighetstyper och vyn över uppgiftsbegr
 1. Välj [!UICONTROL Förfaller den] kolumn, klicka sedan på [!UICONTROL Avancerade alternativ].
 1. Under [!UICONTROL Fältformat] nedrullningsbar markering [!UICONTROL &quot;10/17/60 03:00&quot;].
 1. Klicka **[!UICONTROL Spara]**.
+
+## Aktivitet 4: Skapa en aktiv statusvy för projektmall
+
+Alla som hanterar projektmallar kommer att uppskatta om de kan se den aktiva statusen (Sant eller Falskt) för varje mall i en lista. Ännu bättre - fältet kan redigeras direkt!
+
+Skapa en projektmallsvy med namnet&quot;Projektmallens aktiva status&quot; med följande kolumner:
+
+* [!UICONTROL Namn]
+* [!UICONTROL Ägare]
+* [!UICONTROL Varaktighet]
+* [!UICONTROL Planerade timmar]
+* [!UICONTROL Planerad kostnad]
+* [!UICONTROL Flaggor]
+* [!UICONTROL Gruppnamn]
+* [!UICONTROL Är aktiv]
+
+
+## Aktivitet 4 svar
+
+![En bild av skärmen som visar en aktiv statusvy för en projektmall](assets/view-activity-4.png)
+
+1. I en projektmallslista går du till **[!UICONTROL Visa]** nedrullningsbar meny och välj **[!UICONTROL Ny vy]**.
+1. Ge vyn namnet&quot;Standard+active status&quot;.
+1. Klicka **[!UICONTROL Lägg till kolumn]**.
+1. I [!UICONTROL Visa i den här kolumnen] -fältet skriver du&quot;is&quot; och väljer&quot;Is Active&quot; under [!UICONTROL Mall] fältkälla.
+1. Klicka **[!UICONTROL Spara vy]**.

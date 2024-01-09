@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
 workflow-type: tm+mt
-source-wordcount: '1614'
+source-wordcount: '1705'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -108,6 +108,8 @@ Använd Projektdelning på en projektmall för att automatiskt ge åtkomst till 
 
 Tillgång till särskilda projekt beviljas genom själva projektet. Om samma grupp av personer alltid behöver åtkomst till projekt som skapats med en viss mall lägger du till dem under alternativet Projektdelning i mallen. Det är inte bara så att du kan styra åtkomsten till projekt så snart de har skapats, det effektiviserar skalbarheten om behörigheterna behöver ändras i framtiden.
 
+Instruktioner om hur du delar projekt som skapats med en mall finns i kapitlet&quot;Dela projekt som skapats med en mall&quot; i [Dela en projektmall](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html).
+
 **Anteckning**: Malldelning ger åtkomst till själva mallen. En användare måste ha minst behörigheten Visa för att kunna skapa projekt med mallen.
 
 </br>
@@ -119,9 +121,9 @@ Tilldela roller eller team för uppgifter, inte individer.
 
 **Här är varför**
 
-När en enskild användare ändrar positioner eller lämnar organisationen måste du uppdatera projektmallar manuellt som innehåller den personen. Detta tar tid för system- eller gruppadministratörer eller projektledare.
+När en enskild användare ändrar positioner eller lämnar organisationen måste du uppdatera projektmallar som innehåller den personen manuellt. Detta tar tid för system- eller gruppadministratörer eller projektledare.
 
-Om du använder jobbroller eller team i mallar kommer personaländringar inte att ha någon direkt effekt på dina projektmallar eftersom alla som tilldelats den jobbrollen eller i det teamet kan tilldelas arbetet. Detta bidrar till att säkerställa att arbetet inte glider igenom sprickorna. Jobbrolltilldelningar gör det också enklare att tilldela arbete till enskilda användare eftersom Workfront kan visa en lista över personer som tilldelats den jobbrollen.
+Om du använder jobbroller eller team i mallar kommer personaländringar inte att ha någon direkt effekt på dina projektmallar eftersom alla som har tilldelats den jobbrollen eller i det teamet kan tilldelas arbetet. Detta bidrar till att säkerställa att arbetet inte glider igenom sprickorna. Jobbrolltilldelningar gör det också enklare att tilldela arbete till enskilda användare eftersom Workfront kan visa en lista över personer som tilldelats den jobbrollen.
 
 Dessutom används jobbroller av Workfront resursplaneringsverktyg för att hjälpa dig att beräkna nödvändiga resurser och planera för framtida arbete.
 
@@ -146,7 +148,7 @@ Använd uppgiftsbeskrivningen för att hämta de små stegen i uppgiften, i stä
 
 **Här är varför**
 
-Om flera uppgifter på en rad tilldelas till samma jobbroll/person, är det en indikation på att dessa uppgifter kan kombineras. För många uppgifter som tilldelats en användare kan få dem att känna att det finns mer arbete att slutföra, vilket kan påverka användningen av Workfront.
+Om flera uppgifter på en rad tilldelas till samma jobbroll/person, är det en indikation på att dessa uppgifter kan kombineras. För många uppgifter som tilldelats en användare kan få dem att känna att det finns mer arbete att slutföra, vilket kan påverka Workfront användning.
 
 </br>
 </br>
@@ -157,7 +159,7 @@ Se till att malluppgifterna innehåller varaktigheter, planerade timmar och för
 
 **Här är varför**
 
-Dessa tre saker - varaktighet, planerad tid och föregångare - är byggstenarna i projektets tidslinje. Detta är nyckeln till att veta hur lång tid det kommer att ta och när det behöver göras. Workfront verktyg för resurshantering - varaktighet och planerad tid, plus rolltilldelningar för att beräkna resurskapacitet, tillgänglighet med mera.
+Dessa tre saker - varaktighet, planerad tid och föregångare - är byggstenarna i projektets tidslinje. Detta är nyckeln till att veta hur lång tid det kommer att ta och när det behöver göras. Workfront resurshanteringsverktyg använder varaktighet och planerade timmar, plus jobbrolltilldelningar, för att beräkna resurskapacitet, tillgänglighet och mycket annat.
 
 Om du är osäker på hur du ska beräkna varaktighet eller planerade timmar för första gången kan du tillsammans med projektteamet definiera några initiala uppskattningar. När du har använt mallen kan du mötas med projektteamet igen för att avgöra var ändringar kan göras för att göra mallen mer exakt. Om användarna loggar tid i Workfront kan du jämföra ett projekts planerade timmar med faktiska timmar för att se var justeringar behövs.
 
@@ -175,6 +177,8 @@ Se till att information som är standard för alla projekt är ifylld i projektm
 
 Bifoga anpassade projektformulär som matchar anpassade frågeformulär som hämtar in inskickad information när begäran konverteras till ett projekt med hjälp av mallen.
 
+Instruktioner om hur du bifogar ett anpassat formulär till ett objekt, t.ex. en projektmall, finns i [Koppla ett anpassat formulär till ett objekt](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html).
+
 </br>
 </br>
 
@@ -184,7 +188,7 @@ Granska och uppdatera projektmallar regelbundet.
 
 **Här är varför**
 
-När processer och team förändras bör projektmallarna uppdateras. Upprätta ett regelbundet avbrott, t.ex. kvartalsvis, för att kontrollera och se vilka mallar som inte används aktivt. Du kan inaktivera dessa så att de fortfarande är i Workfront men inte visas i mallurvalslistor.
+När processer och team förändras bör projektmallarna uppdateras. Upprätta ett regelbundet avbrott, t.ex. kvartalsvis, för att kontrollera och se vilka mallar som inte används aktivt. Du kan inaktivera dessa, så de finns fortfarande i Workfront men visas inte i mallurvalslistor.
 
 </br>
 </br>
@@ -207,35 +211,38 @@ Förutom aktivitetsinställningar som varaktighet och planerade timmar kan du gr
 * Milstolpebana och steg
 * Godkännandeprocesser
 * Se till att användare som tilldelats uppgifter i projekt har Contribute-åtkomst till projektet
-* Resurspooler
+* Resursgrupper
 * Påminnelsemeddelanden
 * Schema
 * Valutainställning (om tillämpligt)
 * Bifoga standarddokument
 * Bifoga nödvändiga tullformulär
-* Kontrollera projektteamet för att se till att det inte finns fler tilldelade personer
+* Kontrollera att det inte finns fler tilldelade personer i projektteamet
 
 </br>
 </br>
 
 **Bästa praxis**
 
-När du justerar alternativet Schemalägg från för en mall granskar och uppdaterar du uppgiftsbegränsningarna.
+När du justerar alternativet Schemaläge för en mall granskar och uppdaterar du uppgiftsbegränsningarna.
 
 **Här är varför**
 
-Om du blandar olika uppgiftsbegränsningar i ett projekt kan det orsaka oväntade och förvirrande datumberäkningar. Om du t.ex. väljer Startdatum för alternativet Schemalägg från tilldelas alla aktiviteter som skapas i det projektet som standard aktivitetsbegränsningen Så snart som möjligt. Om du senare byter från alternativet Schemalägg från till Slutförandedatum har alla skapade uppgifter som standard en så sen som möjligt-begränsning. Om du har en oavsiktlig blandning av uppgifter med var och en av dessa begränsningar kan det leda till att planerade datum på projekttidslinjen blir förvirrande.
+Om du blandar olika uppgiftsbegränsningar i ett projekt kan det orsaka oväntade och förvirrande datumberäkningar. Om du t.ex. väljer Startdatum för alternativet Schemaläge tilldelas alla aktiviteter som skapas i det projektet som standard aktivitetsbegränsningen Så snart som möjligt. Om du senare byter till alternativet Schemaläge till Slutförandedatum har alla skapade uppgifter som standard en Aktivitetsbegränsning som är så sen som möjligt. Om du har en oavsiktlig blandning av uppgifter med var och en av dessa begränsningar kan det leda till att planerade datum på projekttidslinjen blir förvirrande.
 
+Mer information om aktivitetskontraktioner och hur du använder dem finns i [Förstå och hantera varaktighetstyper och uppgiftsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
 
 </br>
 </br>
 
 **Bästa praxis**
 
-Kontrollera projektteamet i mallen och ta bort användare som inte arbetar med projektet.
+Kontrollera projektteamet i mallen och ta bort användare som inte kommer att arbeta med projektet.
 
 **Här är varför**
 
-När du skapar en mall från ett befintligt projekt tar den över de personer som har tilldelats uppgifter/ärenden i projektet. När du arbetar med mallen kan du ta bort personer som tidigare tilldelats arbete eller ändra ett uppdrag som du själv skapat i mallen.
+När du skapar en mall från ett befintligt projekt, såvida du inte väljer alternativet Rensa tilldelningar när du skapar, tar Workfront över de personer som har tilldelats uppgifter/ärenden i projektet i avsnittet Personer. När du arbetar med mallen kanske du vill ta bort personer som tidigare tilldelats arbete eller ändra ett uppdrag som du själv har gjort i mallen.
 
 Alla dessa användare kommer att listas som en del av projektteamet i avsnitten Personer och Schemaläggning i projektet. Resultatet blir att de sprids till alla projekt som skapas från den mallen. Detta kan skapa förvirring för användaren eftersom de som en del av projektteamet får meddelanden om aktivitet i projektet, ser projektet i listan Projekt som jag är på och får behörighet till projektet och dess uppgifter, utgåvor och dokument.
+
+
