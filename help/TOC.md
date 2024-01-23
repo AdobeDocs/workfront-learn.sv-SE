@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8810d3ff896060eef192c06da648a40f7a9333a0
+source-git-commit: 6a2e3a96d6a8733f712fd69e57b7cd552a79b59c
 workflow-type: tm+mt
-source-wordcount: '2383'
+source-wordcount: '2386'
 ht-degree: 0%
 
 ---
@@ -86,6 +86,7 @@ ht-degree: 0%
 + Anpassade data {#custom-data}
    + Anpassad Forms {#custom-forms}
       + [Skapa och dela ett anpassat formulär](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
+      + [Dela anpassade fält](custom-data/custom-forms/share-custom-fields.md)
       + [Redigera ett eget formulär](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [Koppla ett anpassat formulär till ett objekt](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Lägga till avsnittsbrytningar och logik i ett anpassat formulär](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
