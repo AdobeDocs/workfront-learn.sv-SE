@@ -7,10 +7,11 @@ role: User
 level: Beginner
 thumbnail: email-alert-vs-proof-notifications.png
 jira: KT-10174
+last-substantial-update: 2024-01-23T00:00:00Z
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 731005176bc02e3a4d26d00373931fa7444afeea
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -29,8 +30,10 @@ E-postaviseringar anges per granskare/godkännare, oftast när korrekturet över
 
 Även om e-postaviseringar är inställda på [!UICONTROL Handikappade], får mottagarna ändå ett meddelande om ett nytt korrektur eller en ny version.
 
-<!--
-# Learn more
-* New proof email
-* Late proof email
--->
+## Bästa praxis
+
+| Bästa praxis | Här är varför |
+|---|---|
+| Inaktivera inställningen&quot;Skicka e-post från Workfront när en kommentar görs på ett korrektur&quot; i Workfront-inställningarna | När den här inställningen är aktiverad (vilket den är som standard) kan användare få flera e-postmeddelanden för varje kommentar i ett korrektur - en från korrekturfunktionen och en från Workfront. De här dubblettmeddelandena orsakar e-postmeddelanden som stör och förvirrar, samt en fullständig e-postinkorg, vilket i slutänden kan leda till att användare ignorerar korrekturmeddelanden som de får. Det kan i sin tur betyda missade deadlines. <br> <br>Obs! Den här inställningen finns på Workfront huvudmeny > Inställningar > E-post > Granska och godkänn. |
+
+

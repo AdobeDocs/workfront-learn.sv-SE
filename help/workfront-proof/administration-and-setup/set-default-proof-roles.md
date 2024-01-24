@@ -9,19 +9,18 @@ role: User, Admin
 level: Intermediate
 thumbnail: set-default-proof-roles.png
 jira: KT-10235
+last-substantial-update: 2024-01-23T00:00:00Z
 exl-id: 77dfb9f1-3242-47ca-a0ce-203b535af156
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 731005176bc02e3a4d26d00373931fa7444afeea
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
 
 # Ange standardkorrekturroller
 
-<!---
-21.4 updates have been made
---->
+
 
 Den första standardinställningen som ska slutföras är att fastställa en standardkorrekturroll som tilldelas när nya användare skapas eller personer öppnar ett korrektur.
 
@@ -43,3 +42,9 @@ Den här standardkorrekturrollen kan dock ändras när enskilda korrektur överf
 ![Inställningar för granskning och godkännande i Workfront](assets/proof-system-setups-workfront-defaults.png)
 
 Tänk på vad de flesta användare och gäster förväntas göra när de läggs till i ett korrekturarbetsflöde. Detta bör vara ditt standardvärde.
+
+## Bästa praxis
+
+| Bästa praxis | Här är varför |
+|---|---|
+| Använd bara Skrivskyddat eller Granskare för inställningen &quot;Roller för icke-mottagare som öppnar ett dokumentkorrektur&quot; i Workfront. | De andra alternativen för den här inställningen kräver att du fattar ett korrekturbeslut, vilket kan leda till att ditt korrekturarbetsflöde försämras. Vanligtvis behöver de som inte läggs till i korrekturarbetsflödet bara visa korrekturet eller göra kommentarer, inte godkänna korrekturet, så skrivskyddet eller granskningsalternativen är det bästa valet. <br> <br>Obs! Den här inställningen finns på Workfront huvudmeny > Inställningar > Granska och godkänn. |
