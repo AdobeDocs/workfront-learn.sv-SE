@@ -11,9 +11,9 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: 8cd01b3dca3a62c1d8699d7d076dccddf2010907
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '794'
 ht-degree: 3%
 
 ---
@@ -101,7 +101,7 @@ Ta med uppmaningar om följande:
 
 ## Aktivitet 2: Skapa en feedback från administratörsteamet
 
-Det här är en problemrapport som visar alla problem i en kön för feedback-begäranden som har skapats för systemadministratörer. Du kan se hur du skapar den här begärandekön i **Skapa en kö för feedback från systemadministratörer** självstudie.
+Det här är en problemrapport som visar alla problem i en kön för feedback-begäranden som har skapats för systemadministratörer. Du kan se hur du skapar den här begärandekön i [Skapa en kö för feedback från systemadministratörer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) självstudie.
 
 I den här rapporten används även ett anpassat formulär. Mer information om hur du skapar ett anpassat formulär finns i [Skapa och dela ett anpassat formulär](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) självstudie.
 
@@ -159,7 +159,8 @@ Filtrera på ID:t för begärandeköprojektet där feedbackproblemen finns.
    ![En bild av skärmen för att skapa kolumner för problemrapporter](assets/task-report-activity-2-1.png)
 
    * [!UICONTROL Problem] > [!UICONTROL Namn]
-   * [!UICONTROL Primär kontakt] > [!UICONTROL Namn] Obs! Detta visas med &quot;Owner:Name&quot; som kolumnetikett. Du kan ändra detta till&quot;Rapporterad av&quot; genom att klicka på Avancerade alternativ och skriva&quot;Rapporterad av&quot; i dialogrutan **Etikett för anpassad kolumn** fält.
+   * [!UICONTROL Primär kontakt] > [!UICONTROL Namn]
+      * Obs! Detta visas med &quot;Owner:Name&quot; som kolumnetikett. Du kan ändra detta till&quot;Rapporterad av&quot; genom att klicka på Avancerade alternativ och skriva&quot;Rapporterad av&quot; i dialogrutan **Etikett för anpassad kolumn** fält.
    * [!UICONTROL Problem] > [!UICONTROL Processtyp]
    * [!UICONTROL Problem] > [!UICONTROL Processnamn]
    * [!UICONTROL Problem] > [!UICONTROL Processkvalitet]
