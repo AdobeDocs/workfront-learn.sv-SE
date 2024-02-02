@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
 workflow-type: tm+mt
-source-wordcount: '2385'
+source-wordcount: '2382'
 ht-degree: 0%
 
 ---
@@ -177,7 +177,6 @@ ht-degree: 0%
       + [Spåra förlopp från projekttidslinjen](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + Stänga ett projekt {#close-a-project}
-      + [Stänga ett projekt](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [Ändra projektstatus till slutförd](manage-work/projects/change-the-project-status.md)
       + [Stäng aktiviteter och ärenden](manage-work/close-a-project/close-tasks-and-issues.md)
       + [Fullständiga godkännanden](manage-work/close-a-project/complete-approvals.md)
