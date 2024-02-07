@@ -11,10 +11,10 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 8cd01b3dca3a62c1d8699d7d076dccddf2010907
+source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 3%
+source-wordcount: '922'
+ht-degree: 2%
 
 ---
 
@@ -26,6 +26,18 @@ I den här videon får du lära dig:
 * Hitta de rapporter du skapar
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+
+
+
+>[!TIP]
+>
+>Dela upp dina spatulor och mixa skålar och gör dig redo att prova recepten i våra [Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf). Inuti finns stegvisa instruktioner för 10 rapporter, klara att användas i din miljö idag.
+><br><br>
+>Vi har samlat in rapporter från kunderna och sammanställt dem i en lättsmält kokbok som du kan ta tillbaka och testa i ditt eget Workfront-kök.
+><br><br>
+>Dessa 10 rapporter kommer från kunder som är precis som du. Vi är skyldiga ett stort tack till de fantastiska kunder som delade en av sina favoritrapporter, som sprids ut över olika branscher, avdelningar, team, befattningar och alla i olika företag. Vissa rapporter är enkla (men mycket användbara), och vissa är mer komplexa för att ta dina rapporter till nästa nivå.
+
+
 
 ## Aktivitet 1: Skapa en anteckningsrapport med uppmaningar
 

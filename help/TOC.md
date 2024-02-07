@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
+source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
 workflow-type: tm+mt
-source-wordcount: '2382'
+source-wordcount: '2389'
 ht-degree: 0%
 
 ---
@@ -115,6 +115,7 @@ ht-degree: 0%
       + [Kom igång med att hantera ett projekt](manage-work/projects/getting-started-manage-a-project.md)
       + [Hitta projekt](manage-work/projects/find-projects.md)
       + [Dela ett projekt](manage-work/projects/share-a-project.md)
+      + [Förstå projektgruppen](manage-work/projects/understand-the-project-team.md)
       + [Förstå projektkommunikation](manage-work/projects/understand-project-communication.md)
       + [Visa projektinformation](manage-work/projects/view-project-information.md)
       + [Spåra projektets övergripande förlopp](manage-work/projects/track-overall-project-progress.md)
@@ -207,6 +208,7 @@ ht-degree: 0%
       + [Skapa grundläggande filteraktiviteter](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Skapa en enkel rapport](reporting/basic-reporting/create-a-simple-report.md)
       + [Skapa en uppgiftsrapport](reporting/basic-reporting/create-a-task-report.md)
+      + [Kopiera en rapport](reporting/basic-reporting/copy-a-report.md)
       + [Skapa rapporter med diagram](reporting/basic-reporting/create-reports-with-charts.md)
       + [Skapa en matrisrapport](reporting/basic-reporting/create-a-matrix-report.md)
       + [Skapa instrumentpaneler](reporting/basic-reporting/create-dashboards.md)
