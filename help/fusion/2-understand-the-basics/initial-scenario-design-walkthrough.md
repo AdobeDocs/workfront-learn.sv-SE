@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 7cd5e383310f48660955b9e953a7baf13530b105
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -33,9 +34,7 @@ I den här videon får du lära dig att:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on)
 
->[!TIP]
->
->Om du vill ha stegvisa instruktioner för hur du slutför genomgången går du till [Inledande genomgång av scenariodesign](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=en) träna.
+Om du vill ha stegvisa instruktioner för hur du slutför genomgången går du till [Inledande genomgång av scenariodesign](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=en) träna.
 
 
 
