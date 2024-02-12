@@ -1,5 +1,5 @@
 ---
-title: Aggregering
+title: Sammanställningsövning
 description: Lär dig sammanställa olika informationspaket till ett enda värde.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11047
 thumbnail: KT11047.png
+recommendations: noDisplay,noCatalog
 exl-id: 4626b623-8b05-41be-9cfc-917e28222855
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
-# Aggregering
+# Sammanställningsövning
 
 Lär dig sammanställa olika informationspaket till ett enda värde.
 
@@ -39,7 +40,7 @@ Använd scenariot&quot;Introduktion till upprepning&quot; som du skapade i den s
 
 1. Efter modulen Slumpmässig matematik lägger du till en verktygsmodul för Numerisk aggregator.
 1. Ange att projektets uppgifter ska läsas i källmodulen.
-1. Ställ in funktionen Aggregate på SUM.
+1. Ställ in sammanställningsfunktionen på SUM.
 1. Ange värdet i fältet Arbete från modulen Läs projekt.
 1. Byt namn på den här modulen till SUM för alla timmar för aktivitetsplanering.
 
@@ -52,7 +53,7 @@ Använd scenariot&quot;Introduktion till upprepning&quot; som du skapade i den s
    **Skicka ett e-postmeddelande med aggregerade timmar.**
 
 1. Lägg till en Skicka en e-postmodul från e-postappen, efter den numeriska aggregatorn.
-1. Skicka e-postmeddelandet till dig själv.
+1. Skicka mejlet till dig själv.
 1. Ämnesraden är &quot;Projektinformation&quot;.
 1. I fältet Innehåll skriver du&quot;Det finns ett projekt som kallas&quot; [projektnamn] som har ett totalt antal [resultat] planerade timmar.&quot; The &quot;[projektnamn]&quot; tas från modulen Läs en post och &quot;[resultat]&quot; tas från aggregeringsmodulen.
 

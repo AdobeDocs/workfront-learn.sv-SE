@@ -9,21 +9,22 @@ role: User
 level: Beginner
 jira: KT-11046
 thumbnail: KT11046.png
+recommendations: noDisplay,noCatalog
 exl-id: 8d751885-372a-4716-9542-079cc3d36caf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
 
-# Introduktion till iteratorer
+# Introduktion till iteratorövning
 
 Lär dig att använda appar av iterationstyp och utföra åtgärder på varje informationspaket.
 
 ## Översikt över övningar
 
-Titta på ett specifikt projekt i Workfront och titta sedan på alla uppgifter i det projektet. Du använder stegningsverktyget för att räkna antalet uppgifter i projektet. Slutligen använder du variabeln Set för att subtrahera antalet underordnade från Antal öppna ärenden för att skapa ett numeriskt värde för varje aktivitetspaket.
+Titta på ett specifikt projekt i Workfront och titta sedan på alla uppgifter i det projektet. Du använder stegningsverktygets modul för att räkna antalet uppgifter i projektet. Slutligen använder du variabeln Set för att subtrahera antalet underordnade från Antal öppna ärenden för att skapa ett numeriskt värde för varje aktivitetspaket.
 
 ![Introduktion till iteratorer Bild 1](../12-exercises/assets/introduction-to-iterators-walkthrough-1.png)
 

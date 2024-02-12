@@ -1,5 +1,5 @@
 ---
-title: Avancerad aggregering
+title: Avancerad aggregeringsövning
 description: Ring en webbtjänst för att returnera information om flera länder och identifiera populationen, grupperad efter underregion.
 activity: use
 team: Technical Marketing
@@ -9,17 +9,18 @@ role: User
 level: Beginner
 jira: KT-11048
 thumbnail: KT11048.png
+recommendations: noDisplay,noCatalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
 
-# Avancerad aggregering
+# Avancerad aggregeringsövning
 
-Lär dig hur du använder grupperingar vid sammanställning.
+Lär dig hur du använder grupperingar när du aggregerar.
 
 ## Översikt över övningar
 
@@ -74,7 +75,7 @@ Ring en webbtjänst om du vill returnera information om flera länder och identi
    ![Avancerad aggregeringsbild 6](../12-exercises/assets/advanced-aggregation-walkthrough-6.png)
 
 1. Lägg nu till en numerisk aggregator efter Hämta landsuppgifter för att gruppera och summera populationerna.
-1. Källmodulen är iteratormodulen.
+1. Källmodulen är iteratorn.
 1. Sammanställningsfunktionen är SUM.
 1. Värdet är [data:population] i modulen Hämta landsuppgifter.
 1. Klicka på alternativet Visa avancerade inställningar längst ned och gruppera efter [data:underregion] i modulen Hämta landsuppgifter.

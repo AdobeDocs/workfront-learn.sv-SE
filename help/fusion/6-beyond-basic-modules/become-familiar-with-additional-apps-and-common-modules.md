@@ -9,8 +9,9 @@ role: User
 level: Beginner
 jira: KT-9046
 exl-id: e078a9e9-69c8-40a1-9ad1-e9517acf3ee6
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -25,7 +26,7 @@ ht-degree: 0%
 
 Kan endast användas som den första modulen och kan returnera noll, ett eller flera paket som kommer att bearbetas individuellt i efterföljande moduler, såvida de inte slås samman.
 
-* **Direktutlösare** (Lightning Bult on Trigger) - Utlöses omedelbart baserat på webkrok.
+* **Direkt utlösare** (Lightning Bult on Trigger) - Utlöses omedelbart baserat på webkrok.
 * **Schemalagd utlösare** (Klocka vid utlösare) - Specialfunktioner för att hålla reda på den senaste posten som bearbetats.
 
 ![En bild av utlösarmoduler](assets/beyond-basic-modules-1.png)

@@ -1,5 +1,5 @@
 ---
-title: Datastrukturer
+title: Utövande av datastrukturer
 description: Omvandla data från en källfil till en målfil. (Ska innehålla mellan 60 och 160 tecken, men är 58 tecken)
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11054
 thumbnail: KT11054.png
+recommendations: noDisplay,noCatalog
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1079'
 ht-degree: 0%
 
 ---
 
-# Datastrukturer
+# Utövande av datastrukturer
 
 Omvandla data från en källfil till en målfil.
 
@@ -34,16 +35,16 @@ I det här fallet öppnar du en fil som innehåller en lista över tidsposter f�
 
 Om du vill skapa en fil som visar den totala tiden, i timmar, som varje enskild person har arbetat varje dag, följer du de här stegen:
 
-1. Hämta en fil från Workfront-mappen i modulen Utlösare. Ladda ned filen.
+1. Hämta en fil från Workfront-mappen i modulen Utlösare. Hämta filen.
 1. I den första CSV-modulen tolkar du tidsinmatningsdata så att ett paket skapas för varje tidsinmatning. Det här är en iterator.
-1. Den första verktygsmodul är en numerisk aggregator. Detta SUM alla minuter och grupperar raderna efter e-postadress och sedan efter datum. Resultatet är det totala antalet minuter som bearbetats varje dag via e-postadress.
+1. Den första modulen Verktyg är en numerisk aggregator. Detta SUM alla minuter och grupperar raderna efter e-postadress och sedan efter datum. Resultatet är det totala antalet minuter som bearbetats varje dag via e-postadress.
 1. Den andra modulen Verktyg är en Set Variable-modul. Använd detta för att formatera minuterna så att de divideras med 60 och avrundas till 2 decimaler.
 1. Ställ in utdatafilen i den andra CSV-modulen.
 1. Överför CSV-filen till Workfront i den sista modulen.
 
 ## Steg som ska följas
 
-**Ladda ned filen från Workfront.**
+**Hämta filen från Workfront.**
 
 1. I mappen Workfront &quot;Fusion Exercise Files&quot; väljer du &quot;_Fusion1.0JanTime.csv&quot; och klickar på Dokumentinformation.
 1. Kopiera det första ID-numret från URL-adressen.
@@ -103,7 +104,7 @@ Om du vill skapa en fil som visar den totala tiden, i timmar, som varje enskild 
 1. Klicka på Lägg till objekt för att skapa det första objektet.
 1. Ge objektet namnet &quot;UserID&quot; och ange typen till Text. Klicka på Lägg till.
 1. Klicka på Lägg till objekt igen för att skapa det andra objektet.
-1. Ge objektet namnet&quot;Datum&quot;, ange typen till Datum och klicka på Lägg till.
+1. Ge objektet namnet&quot;Datum&quot;, ange typen till Datum och klicka sedan på Lägg till.
 1. Klicka på Lägg till objekt en gång till.
 1. Ge objektet namnet&quot;Timmar&quot;, ange typen till Nummer och klicka på Lägg till.
 

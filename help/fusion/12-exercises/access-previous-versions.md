@@ -1,6 +1,6 @@
 ---
-title: Åtkomst till tidigare versioner
-description: Lär dig hur du återgår till en tidigare version av ett scenario. (Ska innehålla mellan 60 och 160 tecken, men är 56 tecken)
+title: Få tillgång till tidigare versioner
+description: Lär dig hur du återgår till en tidigare version av en [!UICONTROL Fusion] scenario.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11041
 thumbnail: KT1101.png
+recommendations: noDisplay,noCatalog
 exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-# Åtkomst till tidigare versioner
+# Få tillgång till tidigare versioner
 
 Lär dig hur du återgår till en tidigare version av ett scenario.
 
@@ -30,7 +31,7 @@ Upptäck hur du kan återställa tidigare versioner efter att du har gjort ändr
 ## Steg som ska följas
 
 1. Klona ditt användbara filterscenario och kalla det&quot;Åtkomst till tidigare versioner&quot;.
-1. Lägg till en Set-variabelmodul efter modulen Skapa Workfront-projekt. Ge variabeln namnet&quot;Test&quot;.
+1. Lägg till variabeln Set efter modulen Create Workfront projects. Ge variabeln namnet&quot;Test&quot;.
 1. Dra det till en ny plats och spara scenariot.
 
    ![Åtkomst till tidigare versioner, bild 2](../12-exercises/assets/accessing-previous-versions-walkthrough-2.png)

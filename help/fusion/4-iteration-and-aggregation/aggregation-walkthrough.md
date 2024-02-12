@@ -9,17 +9,18 @@ role: User
 level: Beginner
 jira: KT-9020
 exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 # Aggregeringsgenomgång
 
-## Översikt
+## Ökning
 
 Använd scenariot&quot;Introduktion till upprepning&quot; som du skapade i den senaste genomgången för att sammanställa de planerade timmarna för varje arbetsuppgift i projektet och skicka ett e-postmeddelande med den informationen till dig själv.
 
@@ -31,9 +32,6 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 
 >[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12&learn=on)
 
->[!TIP]
->
->Om du vill ha stegvisa instruktioner för hur du slutför genomgången går du till [Aggregeringsgenomgång](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/aggregation.html?lang=en) träna.
 
 
 ## Vill du veta mer? Vi rekommenderar följande:

@@ -1,5 +1,5 @@
 ---
-title: Utforska körningar, cykler och paket
+title: Utforska körningar, cykler och paketövningar
 description: Förstå hur körningar, cykler och paket fungerar med hjälp av körningshistoriken för ett scenario.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11050
 thumbnail: KT1101.png
+recommendations: noDisplay,noCatalog
 exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-# Utforska körningar, cykler och paket
+# Utforska körningar, cykler och paketövningar
 
 Förstå hur körningar, cykler och paket fungerar med hjälp av körningshistoriken för ett scenario.
 

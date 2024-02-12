@@ -9,8 +9,9 @@ role: User
 level: Beginner
 jira: KT-9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig:
 
-* De tre felhanterardirektiven som tillåter att körningen fortsätter
+* De tre felhanterardirektiven som tillåter körning
 * De två felhanterardirektiven som stoppar körningen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on)
@@ -51,7 +52,7 @@ I den här videon får du lära dig:
 * Om det finns obearbetade paket fortsätter scenariokörningen normalt.
 * Scenariots körningsstatus är markerad som &quot;success&quot;.
 
-![En bild av ett Ignorera-direktiv](assets/troubleshooting-and-error-handling-4.png)
+![En bild av direktivet Ignore](assets/troubleshooting-and-error-handling-4.png)
 
 ## Direktiv - Scenariostopp
 

@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -26,7 +27,7 @@ Du sparar mest tid genom att definiera ett tydligt användningsfall som utlöses
 I den här videon får du lära dig att:
 
 * Identifiera ett specifikt användningsfall för ditt scenario
-* Välj den högra utlösarmodulen
+* Välj höger utlösarmodul
 * Bestäm rätt design för höga prestanda
 * Utmana antaganden och ge intressenterna bästa råd
 

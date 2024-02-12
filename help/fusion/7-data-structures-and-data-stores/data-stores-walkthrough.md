@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 I den här övningen använder vi ett datalager för att synkronisera företagsnamn mellan en lista över företag och Workfront.
 
-Detta är en del av en enkelriktad synkronisering av företag i Workfront och andra system. Just nu synkroniseras den bara mellan en CSV-fil och Workfront. Men den kommer också att ha en tabell i ett datalager som håller reda på Workfront-id:t (WFID) och företags-ID:t i CSV-filen (CID) för varje företag. Detta gör att vi kan göra detta till en dubbelriktad synkronisering någon gång i framtiden.
+Detta ingår i en enkelriktad synkronisering av företag i Workfront och andra system. Just nu synkroniseras den bara mellan en CSV-fil och Workfront. Men det kommer också att underhålla en tabell i ett datalager som håller reda på Workfront-id:t (WFID) och företags-ID:t i CSV-filen (CID) för varje företag. Detta gör att vi kan göra detta till en dubbelriktad synkronisering någon gång i framtiden.
 
 ![En bild av ett Fusion-scenario](assets/data-structures-and-data-stores-2.png)
 
@@ -31,9 +32,6 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 
 >[!VIDEO](https://video.tv.adobe.com/v/335296/?quality=12&learn=on)
 
->[!TIP]
->
->Om du vill ha stegvisa instruktioner för hur du slutför genomgången går du till [Genomgång av datalager](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-stores.html?lang=en) träna.
 
 
 ## Slutkommentar
@@ -44,7 +42,7 @@ Datastrukturer används oftast för serialisering eller tolkning av dataformat s
 
 Datalager bör bara användas för att lagra beständiga data som behöver vara tillgängliga för mer än en scenariokörning. Du kan t.ex. lagra metadata om den sista posten som bearbetats för avancerad användning, vilket kräver exakt kontroll över bearbetningen.
 
-Datalager är inte avsedda att användas som data warehouse eller loggning. Datalager är inte tillgängliga utanför Workfront Fusion och de flesta interaktioner med datalager sker via ett Workfront Fusion-scenario. Det är därför inte möjligt att ansluta ett datalager till ett analys- eller rapporteringsverktyg som förväntas för data warehouse och loggningsanvändning. Workfront Fusions roll i användningsområden som dessa skulle vara att fylla i ett system som passar för att organisera och lagra data (t.ex. SQL, MariaDB).
+Datalager är inte utformade för att användas som datalager eller loggning. Datalager är inte tillgängliga utanför Workfront Fusion och de flesta interaktioner med datalager sker via ett Workfront Fusion-scenario. Det är därför inte möjligt att ansluta ett datalager till ett analys- eller rapporteringsverktyg som skulle kunna förväntas för datalager- och loggningsanvändningsfall. Workfront Fusions roll i användningsområden som dessa skulle vara att fylla i ett system som passar för att organisera och lagra data (t.ex. SQL, MariaDB).
 
 ## Vill du veta mer? Vi rekommenderar följande:
 

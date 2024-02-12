@@ -1,5 +1,5 @@
 ---
-title: Växla modul
+title: Byt modulövning
 description: Lär dig hur du använder modulen Byt när du behöver utföra mer komplexa eller dynamiska dataomformningar.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11052
 thumbnail: KT11052.png
+recommendations: noDisplay,noCatalog
 exl-id: 1b810168-582d-4d7d-b061-d152af546bc8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-# Växla modul
+# Byt modulövning
 
 Lär dig hur du använder modulen Byt när du behöver utföra mer komplexa eller dynamiska dataomformningar.
 

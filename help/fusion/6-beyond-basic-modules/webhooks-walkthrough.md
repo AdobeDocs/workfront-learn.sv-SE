@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -29,9 +30,6 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 
 >[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12&learn=on)
 
->[!TIP]
->
->Om du vill ha stegvisa instruktioner för hur du slutför genomgången går du till [Genomgång av webbhooks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/webhooks.html?lang=en) träna.
 
 ## Postman
 
@@ -55,7 +53,7 @@ Om du vill följa med i genomgången måste du ladda ned den kostnadsfria Postma
 
 Denna övning bygger på vad du lärde dig under genomgången, men lösningen tillhandahålls inte.
 
-Skapa en Workfront-webkrok som väntar på nya uppdateringar och loggar sedan datumet, namnet på den person som gjorde uppdateringen och det som står i uppdateringen. Mejla den här informationen till dig själv.
+Skapa en Workfront-webkrok som väntar på nya uppdateringar och loggar sedan datumet, namnet på den person som gjorde uppdateringen och det som står i uppdateringen. Mejla den här informationen själv.
 
 **Tips**: Använd utlösarmodulen Workfront Watch Events för att skapa din webkrok. Uppdateringar i Workfront kallas också anteckningar.
 

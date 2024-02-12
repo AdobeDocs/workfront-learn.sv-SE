@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '853'
 ht-degree: 0%
 
 ---
@@ -35,16 +36,13 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 * Första URL för övning: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
 * Andra URL för övning: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
-Om du har problem med att komma åt din egen superhjälte-token kan du använda den här delade token: 10110256647253588. Tänk på hur många gånger du anropar superhjälte-API:t så att denna delade token fortsätter att fungera för alla.
+Om du har problem med att få tillgång till din egen superhjälte-token kan du använda den här delade token: 10110256647253588. Tänk på hur många gånger du anropar superhjälte-API:t så att denna delade token fortsätter att fungera för alla.
 
->[!TIP]
->
->Om du vill ha stegvisa instruktioner för hur du slutför genomgången går du till [Genomgång av routrar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routers.html?lang=en) träna.
 
 
 ## Söka efter objekt på mappningspanelen
 
-Med fältet Sök efter objekt högst upp på mappningspanelerna kan du snabbt hitta fält på panelen, även om de är kapslade i arrayer. Sökningen är inte skiftlägeskänslig.
+Med fältet Sök efter objekt högst upp på mappningspanelerna kan du snabbt hitta fält på panelen, även om de är kapslade i arrayer. Sökningen är skiftlägesokänslig.
 
 ![En bild av den första sökpanelen](assets/universal-connectors-and-routing-3.png)
 
@@ -54,7 +52,7 @@ Med fältet Sök efter objekt högst upp på mappningspanelerna kan du snabbt hi
 
 Fram tills nu har du arbetat med ett mycket enkelt API (Application Programming Interface) som inte kräver någon extra autentisering för att hämta information som behövs i scenariot. Här är några tips som hjälper dig att navigera med API:er och universella anslutningar.
 
-## Steg 1: Bestämma typ av API
+## Steg 1: Bestäm typ av API
 
 Workfront och många programvarusystem byggs med en REST-API (Representational State Transfer), som är den enklaste och mest vanliga typen av API idag. Det finns dock några andra, till exempel:
 

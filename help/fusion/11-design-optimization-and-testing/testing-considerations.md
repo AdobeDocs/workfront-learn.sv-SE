@@ -9,17 +9,18 @@ role: User
 level: Beginner
 jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
 # Testa och starta
 
-Workfront Fusion-testning bör inriktas på att kontrollera in- och utdata mellan de anslutna programvaruplattformarna och de dataomvandlingar som utförs i ett Workfront Fusion-scenario. Dessutom testas integreringsprocessen i Workfront Fusion för att utvärdera om ditt scenario uppfyller specifika affärskrav. I grund och botten testar vi Workfront Fusion för att säkerställa att integreringen fungerar som väntat.
+Workfront Fusion-testning bör inriktas på att kontrollera in- och utdata mellan de anslutna programvaruplattformarna och de dataomvandlingar som utförs i ett Workfront Fusion-scenario. Dessutom testas integreringsprocessen i Workfront Fusion för att utvärdera om ditt scenario uppfyller specifika affärskrav. I grund och botten gör vi Workfront Fusion-tester för att säkerställa att integreringen fungerar som förväntat.
 
 ## Testa överväganden
 
@@ -43,7 +44,7 @@ Tänk på dessa riktlinjer för att säkerställa att testerna är konsekventa o
 * Planera och kommunicera hur ni genererar data som behövs för att testa djup, bredd, komplexitet och belastning. Undvik att bara testa &quot;lyckliga sökvägar&quot;. Tänk på alla sätt som användare kan interagera med automatiseringen och det stora urval av data som kan bearbetas.
 * Överväg nödvändiga in- och utdata mellan anslutna system. Verifiera in- och utdata i dessa system, inte bara i Workfront Fusion.
 
-Prioritera testningen under hela livscykeln för Workfront Fusion-implementeringen. När du designar ska du tänka på hur du kan testa om designbesluten uppfyller kraven. Tänk igenom hur oväntade data kan leda till fel och lägga till relevant felhantering när du bygger upp. Planera att iterera genom användbara prototyper medan du ständigt testar.
+Prioritera testningen under hela livscykeln för Workfront Fusion-implementeringen. När du designar ska du tänka på hur du kan testa om designbesluten uppfyller kraven. Tänk igenom hur oväntade data kan leda till fel och lägg till relevant felhantering när du bygger upp. Planera att iterera genom användbara prototyper medan du ständigt testar.
 
 ## Vill du veta mer? Vi rekommenderar följande:
 

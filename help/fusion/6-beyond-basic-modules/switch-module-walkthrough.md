@@ -8,11 +8,12 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-9049
+recommendations: noDisplay,noCatalog
 exl-id: 1354d907-3e61-45a5-b8cf-3eee61973f8f
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -29,9 +30,6 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 
 >[!VIDEO](https://video.tv.adobe.com/v/335290/?quality=12&learn=on)
 
->[!TIP]
->
->Om du vill ha stegvisa instruktioner för hur du slutför genomgången går du till [Genomgång av modulen Byt](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-module.html?lang=en) träna.
 
 
 ## Vill du veta mer? Vi rekommenderar följande:

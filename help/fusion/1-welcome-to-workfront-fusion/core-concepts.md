@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig:
 
-* Tre centrala koncept som utgör Workfront Fusion: scenarier, appar och moduler
+* Tre grundläggande begrepp som Workfront Fusion består av: scenarier, appar och moduler
 
 >[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on)
 
@@ -39,7 +40,7 @@ Många av Workfront Fusion-användarna kommer till en punkt där de tänker på 
 
 Det enklaste sättet att avgöra om Workfront Fusion har en färdig anslutning är att använda funktionen Lägg till app och söka efter en app efter namn. Du kan även kontrollera [Program och deras moduler](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) artikel på Experience League med en lista över de program som Workfront Fusion kan ansluta till.
 
-Kopplingar begränsas inte bara till programmen i den här artikeln. Om appen du vill arbeta med inte har någon fördefinierad anslutning kan du använda dessa moduler för att ansluta direkt till webbtjänsten:
+Kopplingar begränsas inte bara till apparna i den här artikeln. Om appen du vill arbeta med inte har någon fördefinierad anslutning kan du använda dessa moduler för att ansluta direkt till webbtjänsten:
 
 * HTTP-moduler
 * SOAP-modul

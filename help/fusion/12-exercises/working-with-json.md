@@ -1,5 +1,5 @@
 ---
-title: Arbeta med JSON
+title: Arbeta med JSON-övning
 description: Lär dig hur du skapar och tolkar JSON i ett scenario som passar dina designbehov.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11056
 thumbnail: KT11056.png
+recommendations: noDisplay,noCatalog
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
-# Arbeta med JSON
+# Arbeta med JSON-övning
 
 Lär dig hur du skapar och tolkar JSON i ett scenario som passar dina designbehov.
 
@@ -59,7 +60,7 @@ Syftet med den här övningen är att konceptuellt visa hur man använder inform
    **Mappa till specifika arrayvariabler.**
 
 1. Lägg till en router efter JSON-modulen Parse.
-1. Lägg till en Set-variabelmodul i den övre banan.
+1. Lägg till en Set-variabelmodul i den översta banan.
 1. I Variabelnamn skriver du &quot;Battertyper efter munstycke&quot;.
 1. För variabelvärdet använder du mappningsfunktionen för att hämta battertyperna från batterarrayen.
 

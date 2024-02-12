@@ -8,8 +8,9 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11036
+recommendations: noDisplay,noCatalog
 exl-id: c36e5285-88e5-43f5-93bd-b05bf9e8f9ef
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -28,7 +29,7 @@ Den andra e-postadressen innehåller dina inloggningsuppgifter.
 
 ![En bild av din e-postinbjudan](assets/new-user-2.png)
 
-Börja använda Workfront Fusion genom att klicka på [!UICONTROL Logga in] i det andra e-postmeddelandet och logga in med det angivna lösenordet.
+Klicka på knappen [!UICONTROL Logga in] i det andra mejlet och logga in med det angivna lösenordet.
 
 När du har loggat in första gången uppmanas du att ändra ditt lösenord.
 

@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '2389'
+source-wordcount: '2408'
 ht-degree: 0%
 
 ---
@@ -384,50 +384,68 @@ ht-degree: 0%
 
    + Förstå grunderna {#understand-the-basics}
       + [Genomgång av inledande scenariodesign](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
+      + [Utformning av första scenariot](fusion/12-exercises/initial-scenario-design.md)
       + [Mappningspanelen och formelredigeraren](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
       + [Viktiga anteckningar på mappningspanelen](fusion/2-understand-the-basics/mapping-panel-important-notes.md)
       + [Bortom grundläggande genomgång av mappningar](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
+      + [Bortom grundläggande mappning](fusion/12-exercises/beyond-basic-mapping.md)
       + [Använda filter](fusion/2-understand-the-basics/use-filters.md)
       + [Genomgång av filter](fusion/2-understand-the-basics/filters-walkthrough.md)
+      + [Filterövning](fusion/12-exercises/filters.md)
       + [Genomgång av tidigare versioner](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
+      + [Få tillgång till tidigare versioner](fusion/12-exercises/access-previous-versions.md)
 
    + Universella anslutningar och routning {#universal-connectors-and-routing}
       + [Översikt över Universal Connectors](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
       + [Introduktion till genomgång av universella anslutningar](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
+      + [Introduktion till övning med universella kopplingar](fusion/12-exercises/introduction-to-universal-connectors.md)
       + [Förstå routrar](fusion/3-universal-connectors-and-routing/understand-routers.md)
       + [Genomgång av routrar](fusion/3-universal-connectors-and-routing/routers-walkthrough.md)
+      + [Routerträning](fusion/12-exercises/routers.md)
       + [Vanliga routningsmönster](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
       + [Genomgång av routningsmönster](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
+      + [Routningsmönster, övning](fusion/12-exercises/routing-patterns.md)
       + [Sätt igång och hämta](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
       + [Genomgång av get/Set-variabler](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+      + [Använd/hämta variabelövning](fusion/12-exercises/set-get-variables.md)
 
    + Upprepning och aggregering {#iteration-and-aggregation}
       + [Introduktion till iteratorer](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
       + [Introduktion till genomgång av iteratorer](fusion/4-iteration-and-aggregation/introduction-to-iterators-walkthrough.md)
+      + [Introduktion till iteratorövning](fusion/12-exercises/introduction-to-iterators-exercise.md)
       + [Introduktion till aggregeringar](fusion/4-iteration-and-aggregation/introduction-to-aggregations.md)
       + [Aggregeringsgenomgång](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
+      + [Sammanställningsövning](fusion/12-exercises/aggregation.md)
       + [Genomgång av avancerad aggregering](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
+      + [Avancerad aggregeringsövning](fusion/12-exercises/advanced-aggregation.md)
 
    + Körningshistorik och schemaläggning {#execution-history-and-scheduling}
       + [Introduktion till körningshistorik](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
       + [Genomgång av körningshistorik](fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
+      + [Körningshistorik](fusion/12-exercises/execution-history.md)
       + [Förstå scenarioplanering](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
       + [Balansera körcykler och paket](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
       + [Kör cykler och genomgång av paket](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
+      + [Utforska körningar, cykler och paketövningar](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
 
    + Bortom grundläggande moduler {#beyond-basic-modules}
       + [Bekanta dig med fler appar och gemensamma moduler](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [Byt upp den](fusion/6-beyond-basic-modules/switch-it-up.md)
       + [Genomgång av switchfunktion](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
+      + [Byte av funktion](fusion/12-exercises/switch-function.md)
       + [Genomgång av modulen Byt](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
+      + [Byt modulövning](fusion/12-exercises/switch-module.md)
       + [Förstå webbkrokvärlden](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
       + [Genomgång av webbhooks](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
+      + [Webbhooks-övning](fusion/12-exercises/webhooks.md)
 
    + Datastrukturer och datalager {#data-structures-and-data-stores}
       + [Förstå datastrukturer](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
       + [Genomgång av datastrukturer](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
+      + [Utövande av datastrukturer](fusion/12-exercises/data-structures.md)
       + [Förstå datalager](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
       + [Genomgång av datalager](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
+      + [Datalagringsövning](fusion/12-exercises/data-stores.md)
 
    + Slutliga funktionella bitar och bobs {#final-functional-bits-and-bobs}
       + [Genomgång av Workfront-appar](fusion/8-final-functional-bits-and-bobs/workfront-app-walkthrough.md)
@@ -435,10 +453,12 @@ ht-degree: 0%
       + [Genomgång av matriser](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
       + [Förstå JSON i scenarier](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
       + [Arbeta med JSON-genomgång](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
+      + [Arbeta med JSON-övning](fusion/12-exercises/working-with-json.md)
 
    + Felsökning och felhantering {#troubleshooting-and-error-handling}
       + [Avancerad felsökning med utvecklingsverktyget](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
       + [Genomgång av utvecklingsverktyget](fusion/9-troubleshooting-and-error-handling/dev-tool-walkthrough.md)
+      + [Dev-verktygsövning](fusion/12-exercises/devtool.md)
       + [Vad är felhantering?](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
       + [Förstå felhanteringsdirektiv](fusion/9-troubleshooting-and-error-handling/understand-error-handling-directives.md)
       + [Genomgång av felhantering](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
@@ -455,27 +475,6 @@ ht-degree: 0%
       + [Tillgänglighet och tydlighet](fusion/11-design-optimization-and-testing/accessibility-and-clarity.md)
       + [Skyddsräcken för scenarier](fusion/11-design-optimization-and-testing/scenario-guardrails.md)
       + [Testa och starta](fusion/11-design-optimization-and-testing/testing-considerations.md)
-   + Utövningar {#exercises}
-      + [Inledande scenariodesign](fusion/12-exercises/initial-scenario-design.md)
-      + [Bortom grundläggande mappning](fusion/12-exercises/beyond-basic-mapping.md)
-      + [Filter](fusion/12-exercises/filters.md)
-      + [Åtkomst till tidigare versioner](fusion/12-exercises/access-previous-versions.md)
-      + [Introduktion till universella anslutningar](fusion/12-exercises/introduction-to-universal-connectors.md)
-      + [Routrar](fusion/12-exercises/routers.md)
-      + [Routningsmönster](fusion/12-exercises/routing-patterns.md)
-      + [Ange/hämta variabler](fusion/12-exercises/set-get-variables.md)
-      + [Introduktion till iteratorer](fusion/12-exercises/introduction-to-iterators-exercise.md)
-      + [Aggregering](fusion/12-exercises/aggregation.md)
-      + [Avancerad aggregering](fusion/12-exercises/advanced-aggregation.md)
-      + [Körningshistorik](fusion/12-exercises/execution-history.md)
-      + [Utforska körningscykler och paket](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
-      + [Växlingsfunktion](fusion/12-exercises/switch-function.md)
-      + [Växla modul](fusion/12-exercises/switch-module.md)
-      + [Webhooks](fusion/12-exercises/webhooks.md)
-      + [Datastrukturer](fusion/12-exercises/data-structures.md)
-      + [Datalager](fusion/12-exercises/data-stores.md)
-      + [Arbeta med JSON](fusion/12-exercises/working-with-json.md)
-      + [Utvecklingsverktyget](fusion/12-exercises/devtool.md)
 
 + Workfront Proof {#workfront-proof}
    + [Lär dig fördelarna med korrektur](workfront-proof/benefits-of-proofing-in-workfront.md)

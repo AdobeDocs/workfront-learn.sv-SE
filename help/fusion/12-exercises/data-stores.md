@@ -1,5 +1,5 @@
 ---
-title: Datalager
+title: Datalagringsövning
 description: Lär dig hur du synkroniserar företagsnamn mellan två system. (Ska innehålla mellan 60 och 160 tecken, men är 59 tecken)
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11055
 thumbnail: KT11055.png
+recommendations: noDisplay,noCatalog
 exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '904'
 ht-degree: 0%
 
 ---
 
-# Datalager
+# Datalagringsövning
 
 Lär dig hur du synkroniserar företagsnamn mellan två system.
 
@@ -29,7 +30,7 @@ Detta är den första delen av en enkelriktad synkronisering av företag i Workf
 
 ## Steg som ska följas
 
-**Ladda ned filen från Workfront.**
+**Hämta filen från Workfront.**
 
 1. I mappen Workfront &quot;Fusion Exercise Files&quot; väljer du &quot;_Companies.csv&quot; och klickar på Document Details.
 1. Kopiera det första ID-numret från URL-adressen.
@@ -85,7 +86,7 @@ Detta är den första delen av en enkelriktad synkronisering av företag i Workf
 
    ![Datalager, bild 5](../12-exercises/assets/data-stores-walkthrough-5.png)
 
-1. Lägg till ett filter efter routern för att bara skapa ett företag om det inte redan finns i Workfront. Kalla det&quot;Inte i Workfront&quot;.
+1. Lägg till ett filter efter routern om du bara vill skapa ett företag om det inte redan finns i Workfront. Kalla det&quot;Inte i Workfront&quot;.
 1. Ange villkoret som ID från Workfront Search-modulen och finns inte.
 
    ![Datalager, bild 6](../12-exercises/assets/data-stores-walkthrough-6.png)
@@ -107,7 +108,7 @@ Detta är den första delen av en enkelriktad synkronisering av företag i Workf
 
 1. Den första modulen i den här sökvägen är modulen Hämta.
 1. Ange Variabelnamnet till&quot;Workfront ID&quot;.
-1. Byt namn på den här modulen till Hämta Workfront-ID.
+1. Byt namn på den här modulen till&quot;Hämta Workfront-ID&quot;.
 1. Lägg till en annan modul från datalagerappen, Lägg till/ersätt en post.
 1. Välj Företagssynkronisering i fältet Datalager. Det här är datalagret som du skapade tidigare.
 1. Lämna fältet Nyckel tomt.

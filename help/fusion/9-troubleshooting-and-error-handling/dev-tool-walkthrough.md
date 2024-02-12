@@ -1,6 +1,6 @@
 ---
 title: Genomgång av utvecklingsverktyget
-description: Lär dig installera och använda de olika områdena i [!DNL Adobe Workfront Fusion Dev Tool] för att fördjupa sig i avancerade konstruktionsknep.
+description: Lär dig hur du installerar och använder de olika områdena i [!DNL Adobe Workfront Fusion Dev Tool] för att fördjupa sig i avancerade konstruktionsknep.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -28,10 +29,6 @@ Installera och använd de olika områdena i Workfront Dev Tool för att fördjup
 Workfront rekommenderar att du tittar på genomgången av videon innan du försöker återskapa övningen i din egen miljö.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on)
-
->[!TIP]
->
->Om du vill ha stegvisa instruktioner för hur du slutför genomgången går du till [Genomgång av utvecklingsverktyget](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=en) träna.
 
 
 ## Hämta utvecklingsverktyget

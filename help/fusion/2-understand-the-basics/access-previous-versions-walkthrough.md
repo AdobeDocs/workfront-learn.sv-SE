@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -33,9 +34,6 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 >
 >När du har sparat ditt scenario finns en ny version tillgänglig under menyn med tre punkter om du behöver komma åt den i framtiden. Tidigare sparade versioner är endast tillgängliga i 60 dagar. Om du behöver ha tillgång till tidigare versioner efter 60 dagar för revision rekommenderar Workfront att du sparar en plan för ditt scenario och arkiverar på en överenskommen plats.
 
->[!TIP]
->
->Om du vill ha stegvisa instruktioner för hur du slutför genomgången går du till [Genomgång av tidigare versioner](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=en) träna.
 
 ## Lägg till i din terminologi
 
@@ -45,7 +43,7 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 
 Utlösarmoduler kan bara användas som den första modulen och kan returnera noll, ett eller flera paket. Dessa behandlas individuellt i efterföljande moduler, såvida de inte slås samman.
 
-**Avsökningsutlösare (klocka vid utlösare)**- Specialfunktioner för att hålla reda på den senast bearbetade posten.
+**Avsökningsutlösare (klocka vid utlösare)**- Specialfunktioner för att hålla reda på den senaste posten som bearbetats.
 
 **Direktutlösare (blixt vid utlösare)**—Utlöses omedelbart baserat på webkrok.
 

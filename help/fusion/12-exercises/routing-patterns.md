@@ -1,5 +1,5 @@
 ---
-title: Routningsmönster
+title: Routningsmönster, övning
 description: Stärk konceptet med routning och reservvägar utan att behöva använda några andra API:er.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11044
 thumbnail: KT11044.png
+recommendations: noDisplay,noCatalog
 exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
 
-# Routningsmönster
+# Routningsmönster, övning
 
 Stärk konceptet med routning och reservvägar utan att behöva använda några andra API:er.
 
@@ -34,7 +35,7 @@ Använd modulen Ange variabel för att skicka ett tal genom flera banor för att
 
    ![Routningsmönster Bild 2](../12-exercises/assets/routing-patterns-walkthrough-2.png)
 
-1. Lägg till en annan modul och välj modulen Router. För båda banorna väljer du verktyget Öka och klickar på OK utan att göra några ändringar för var och en av dem.
+1. Lägg till en annan modul och välj modulen Router. För båda banorna väljer du verktyget Öka och klickar på OK utan att göra några ändringar för var och en.
 
    + Skapa ett filter för den första banan, ge den namnet&quot;Mindre än 100&quot; och ange villkoret till [Mitt nummer] Mindre än 100.
 

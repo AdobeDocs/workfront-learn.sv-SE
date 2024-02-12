@@ -1,5 +1,5 @@
 ---
-title: Ange/hämta variabler
+title: Använd/hämta variabelövning
 description: Lär dig hur du använder modulerna Ange och Hämta variabel för att använda fälten som finns i en sökväg i en annan sökväg.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11045
 thumbnail: KT11045.png
+recommendations: noDisplay,noCatalog
 exl-id: 225f0090-0428-40e2-8a4b-9c6b18b205d2
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
-# Ange/hämta variabler
+# Använd/hämta variabelövning
 
 Lär dig hur du använder modulerna Ange och Hämta variabel för att använda fälten som finns i en sökväg i en annan sökväg.
 
@@ -70,7 +71,7 @@ Hitta information om ett projekt i Workfront och skicka ett e-postmeddelande med
    + Ange projektnamnet, beskrivningen och sponsorn i fältet Innehåll.
    + Du kan inte hämta sponsorns namnutdata från modulen Läs en post. Du kan bara få åtkomst till ditt sponsor-ID från sökmodulen före routern. Du måste hitta ett sätt att komma åt sponsorns namn från den andra routerns sökväg.
 
-   ![Ange Get variables Image 6](../12-exercises/assets/set-get-variables-walkthrough-6.png)
+   ![Ange Hämta variabler Bild 6](../12-exercises/assets/set-get-variables-walkthrough-6.png)
 
 1. Klicka på OK för tillfället och byt namn på modulen&quot;Skicka projektinformation&quot;
 

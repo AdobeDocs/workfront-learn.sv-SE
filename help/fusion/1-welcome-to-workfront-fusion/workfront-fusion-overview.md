@@ -8,17 +8,18 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
+recommendations: noDisplay,noCatalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
 
 # Workfront Fusion - översikt
 
-Varje avsnitt i Workfront Fusion innehåller flera självstudiekurser, där varje självstudiekurs beskriver koncept som du måste förstå innan du går vidare till nästa självstudiekurs. En genomgång hjälper dig att överordnad de flesta koncept.
+Varje avsnitt i Workfront Fusion innehåller flera självstudiekurser, med varje självstudiekurs som beskriver koncept som du måste förstå innan du går vidare till nästa självstudiekurs. En genomgången övning hjälper dig att bemästra de flesta koncept.
 
 Videorna visar hur du slutför varje genomgång, vilket vanligtvis leder till att du skapar ett nytt Workfront Fusion-scenario. Sedan kan du slutföra övningen i din egen Workfront Fusion-miljö och lägga till fler scenarier.
 
@@ -30,7 +31,7 @@ I vissa självstudiekurser skapar du ett nytt scenario från grunden. I andra sj
 
 ## Utbildningsresurser och tillgång till Workfront Fusion
 
-### Begär Workfront testenhet
+### Begär en Workfront testenhet
 
 För att kunna genomföra övningarna på Workfront Fusion Learning behöver du en testkörning från Workfront. Om du redan har en testkörning rekommenderar vi en ny.
 
@@ -38,7 +39,7 @@ Begär en övningsmiljö genom att fylla i [det här formuläret](https://forms.
 
 ### Använd Workfront Fusion för övningar
 
-Workfront erbjuder inga testenheter för Workfront Fusion. Om du vill öva medan du slutför självstudiekurserna kan du begära åtkomst till Workfront Fusion från din organisations Workfront Fusion-administratör.
+Workfront erbjuder inte testdiskar för Workfront Fusion. Om du vill öva medan du slutför självstudiekurserna kan du begära åtkomst till Workfront Fusion från din organisations Workfront Fusion-administratör.
 
 ### Stegvisa instruktioner för att genomföra genomgången
 
@@ -48,13 +49,13 @@ Det finns stegvisa instruktioner för hur du slutför genomgången. Du kan komma
 
 Praktiska övningar och utmaningar tillhandahålls efter vissa genomgången övningar.
 
-Det finns ett antal olika sätt att lösa övningarna. Avsikten är att utmana er att försöka uppnå ett scenario utan att behöva följa några steg eller det&quot;rätta svaret&quot;, eftersom det är vad ni måste göra när ni skapar ett scenario på ert företag.
+Det finns ett antal olika sätt att lösa övningarna. Avsikten är att utmana er att försöka uppnå ett scenario utan att behöva följa några steg eller&quot;rätta svaret&quot; eftersom det är vad ni måste göra när ni bygger ett scenario på ert företag.
 
 Övningen har samband med genomgången.
 
-Utmaningarna är för dem som vill prova något som innehåller andra koncept som de har lärt sig.
+Utmaningarna är för dem som vill prova något som inbegriper andra koncept som de har lärt sig.
 
-### Få hjälp
+### Så här får du hjälp
 
 Du får stegvisa instruktioner som hjälper dig igenom genomgången.
 

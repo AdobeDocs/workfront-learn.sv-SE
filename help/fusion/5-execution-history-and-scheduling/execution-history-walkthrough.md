@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -29,15 +30,12 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 
 >[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on)
 
->[!TIP]
->
->Om du vill ha stegvisa instruktioner för hur du slutför genomgången går du till [Genomgång av körningshistorik](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/execution-history.html?lang=en) träna.
 
 ## Fulltextsökning på fliken Historik
 
 Fulltextsökning är tillgängligt på fliken Historik för ett scenario, så att du kan söka efter data som bearbetats i scenariot.
 
-![En bild av körningshistoriksökningen](assets/execution-history-and-scheduling-2.png)
+![En bild av körningshistoriken](assets/execution-history-and-scheduling-2.png)
 
 Istället för att öppna varje körning för att söka efter data söker fulltextsökningen igenom alla körningar i ett enda scenario. Sökresultaten innehåller en lista med körningar där data hittades, och du kan klicka på valfri körning för att utforska mer.
 

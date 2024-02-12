@@ -1,5 +1,5 @@
 ---
-title: Webhooks
+title: Webbhooks-övning
 description: Lär dig hur du skapar, utlöser och hanterar webkrosinitierade scenarier.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11053
 thumbnail: KT11053.png
+recommendations: noDisplay,noCatalog
 exl-id: d6a62a26-a8ab-477c-a8f2-98f3b9ff5edf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
-# Webhooks
+# Webbhooks-övning
 
 Lär dig hur du skapar, utlöser och hanterar webkrosinitierade scenarier.
 
@@ -49,7 +50,7 @@ Syftet med det här scenariot är att skapa en app för att sälja till butiker 
 1. På panelen Webhooks-mappning har en URL skapats för den här specifika webkroken. Klicka på Kopiera adress till Urklipp för att kopiera URL:en.
 1. Klicka på OK.
 1. Klicka på Kör en gång.
-1. Använd URL:en i Postman för att skicka ett namn och födelsedatum till din anpassade webkrok. Instruktioner om hur du konfigurerar Postman finns i [Genomgång av webbhooks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=en) självstudiekurs.
+1. Använd URL:en i Postman för att skicka ett namn och födelsedatum till din anpassade webkrok. Instruktioner om hur du konfigurerar Postman finns i [Genomgång av webbhooks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=en) självstudie.
 
    **Webhooks-modulpanelen bör se ut så här:**
 
@@ -58,7 +59,7 @@ Syftet med det här scenariot är att skapa en app för att sälja till butiker 
    **Webbkroken är nu i ett läge där den lyssnar efter data för att fastställa datastrukturen.**
 
 1. Du kan definiera datastrukturen för den nyttolast som du förväntar dig att hämta (datastrukturen beskrivs senare). Om du inte definierar någon datastruktur kommer Fusion att bestämma datastrukturen automatiskt när inlägget skickas.
-1. På Postman-sidan vill du skicka till den kopierade URL:en. Posten ska innehålla grundläggande formulärdata. I det här exemplet behöver du tre fält: Namn, födelsedatum och clientToken.
+1. På Postman-sidan vill du skicka till den kopierade URL:en. Posten ska innehålla grundläggande formulärdata. I det här exemplet behöver du tre fält: Name, Birthdate och clientToken.
 
    ![Webhooks-bild 4](../12-exercises/assets/webhooks-walkthrough-4.png)
 
@@ -73,7 +74,7 @@ Syftet med det här scenariot är att skapa en app för att sälja till butiker 
 1. Lägg till en router i utlösarmodulen.
 1. Lägg till en Webkroks svarsmodul i den övre banan. Detta är vår väg när klientens token inte matchar.
 1. Ange status till 401.
-1. Ställ in brödtexten på {&quot;error&quot;: &quot;Det gick inte att autentisera begäran. Kontrollera din clientToken&quot;}.
+1. Ställ in brödtexten på {&quot;error&quot;:&quot;Det gick inte att autentisera begäran. Kontrollera din clientToken&quot;}.
 
    ![Webhooks-bild 6](../12-exercises/assets/webhooks-walkthrough-6.png)
 

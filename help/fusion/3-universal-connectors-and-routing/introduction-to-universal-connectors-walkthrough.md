@@ -9,17 +9,18 @@ role: User
 level: Beginner
 jira: KT-9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 # Introduktion till genomgång av universella anslutningar
 
-## Översikt
+## Ökning
 
 Om du använder ett Pokemon-tecken i ett kalkylblad kan du anropa Poke API via en HTTP-anslutning för att samla in och publicera mer information om det tecknet.
 
@@ -36,10 +37,6 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 Pokemon API-webbplats: `https://pokeapi.co/`
 
 URL för övning: `https://pokeapi.co/api/v2/pokemon/{Character}`
-
->[!TIP]
->
->Om du vill ha stegvisa instruktioner för hur du slutför genomgången går du till [Introduktion till genomgång av universella anslutningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=en) träna.
 
 
 ## Vill du veta mer? Vi rekommenderar följande:

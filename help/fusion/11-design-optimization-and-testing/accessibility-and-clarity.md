@@ -1,5 +1,5 @@
 ---
-title: Tillgänglighet och klarhet
+title: Tillgänglighet och tydlighet
 description: Lär dig grundläggande metodtips för att göra scenarier enkla att läsa, dela och förstå.
 activity: use
 team: Technical Marketing
@@ -8,15 +8,16 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11037
+recommendations: noDisplay,noCatalog
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '697'
 ht-degree: 0%
 
 ---
 
-# Tillgänglighet och klarhet
+# Tillgänglighet och tydlighet
 
 Tidigt i kursen i Workfront Fusion lärde du dig några grundläggande metodtips för att göra scenarier enkla att läsa, dela och förstå. Dessa arbetsmetoder gör det enklare för framtida Workfront Fusion-användare och andra att felsöka eller ge support för din Workfront Fusion-instans. Betala det framåt genom att följa riktlinjerna nedan när du utformar scenarier.
 
@@ -32,7 +33,7 @@ Ett av de viktigaste målen i Workfront Fusion är i regel alltid att ha enkla s
 
 Det kan dock vara enklast att läsa och förstå om du lägger till anteckningar i slutet av scenariodesignen när du är redo att starta. Arbeta från slutet av scenariodesignen (längst ned till höger) bakåt. På så sätt visas anteckningarna som gäller i början av ditt scenario högst upp i listan när du öppnar anteckningspanelen.
 
-När du har sparat eller stängt anteckningspanelen sorteras anteckningarna med den senast skapade överst. I bilden nedan visas den första anteckningen som skapas längst ned i listan. Anteckningarna skapades avsiktligt från den nedre högra delen till sökvägen ovan och slutligen till utlösaren - i stort sett den omvända ordningen som ett datapaket skulle gå igenom scenariot. Detta gör att anteckningarna visas i den ordning som scenariot faktiskt körs på datapaketet.
+När du har sparat eller stängt anteckningspanelen sorteras anteckningarna med den senast skapade överst. I bilden nedan visas den första anteckningen som skapas längst ned i listan. Anteckningarna skapades avsiktligt från den nedre högra delen till sökvägen ovan och slutligen till utlösaren - i stort sett den omvända ordningen som ett datapaket skulle passera genom scenariot. Detta gör att anteckningarna visas i den ordning som scenariot faktiskt körs på datapaketet.
 
 ![En bild av ett scenario med felhantering](assets/design-optimization-and-testing-3.png)
 
@@ -40,7 +41,7 @@ När du har sparat eller stängt anteckningspanelen sorteras anteckningarna med 
 
 Ett bra sätt att effektivisera etiketteringen av moduler och routningssökvägar är att använda mallar. Mallar för metodtips kan snabba upp arbetet med att skapa scenarier för vanliga användningsområden.
 
-### Mallexempel
+### Exempel på mall
 
 När du startar ett scenario bör du först kontrollera om det finns en tillgänglig mall som kan hjälpa dig. Du vill till exempel skapa ett scenario som börjar med att hämta ett CSV-dokument från Workfront och sedan tolka det.
 
