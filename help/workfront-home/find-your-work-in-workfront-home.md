@@ -1,7 +1,7 @@
 ---
 title: Hitta arbetsuppdrag i [!UICONTROL Startsida]
 description: Lär dig hur du hittar inkommande och befintligt arbete som du har tilldelats i [!UICONTROL  ]. Granska sedan uppdragsinformationen.
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: 372e815c623a81ab155aecf2177c84c3f14041f0
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%

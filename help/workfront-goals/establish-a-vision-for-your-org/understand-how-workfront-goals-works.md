@@ -2,7 +2,7 @@
 title: Förstå hur [!DNL Workfront Goals] verk
 description: Lär dig mer om hur du uttrycker vad och varför under planeringsfasen, exempelmål och omfattningen av påverkan.
 activity: use
-feature: Workfront Goals
+feature: Workfront Goals,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ team: Technical Marketing
 jira: KT-8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Ta sedan ett steg tillbaka och titta på era medarbetare. Bestäm vem som behöv
 
 ![Tomt organisationsschema](assets/01-workfront-goals-blank-org-chart.png)
 
-Vi visar hur du konfigurerar och konfigurerar dina inställningar i [!DNL Workfront Goals], del 2: Skapa och hantera era mål.
+Vi visar hur du konfigurerar och konfigurerar dina inställningar i [!DNL Workfront Goals], del 2: Skapa och hantera dina mål.
 
 <!--
 URL for part 2 reference above

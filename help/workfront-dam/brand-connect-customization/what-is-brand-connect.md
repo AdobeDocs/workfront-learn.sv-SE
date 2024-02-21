@@ -1,8 +1,8 @@
 ---
 title: Vad är [!UICONTROL Brand Connect]?
-description: Läs mer om vad som beskrivs i [!UICONTROL WORKFRONT DAM] Administratör, del 3 Anpassa varumärkeskoppling.
+description: Få en introduktion till [!UICONTROL Brand Connect].
 activity: use
-feature: Digital Content and Documents
+feature: Digital Content and Documents,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ team: Technical Marketing
 jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Anpassa utseendet på organisationens [!UICONTROL Brand Portal] för att hjälpa
 
 I den här videon kommer du att:
 
-* Få en introduktion till [!UICONTROL Brand Connect] kurs
+* Få en introduktion till [!UICONTROL Brand Connect]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on)
 

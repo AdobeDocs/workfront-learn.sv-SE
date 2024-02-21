@@ -1,8 +1,8 @@
 ---
 title: Förstå visionen bakom [!UICONTROL Workfront-mål]
-description: Läs mer om [!DNL Workfront Goals] in [!DNL  Workfront] från produktteamet.
+description: Läs mer om [!DNL Workfront Goals] in [!DNL  Workfront] från Product team.
 activity: use
-feature: Workfront Goals
+feature: Workfront Goals,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8887
 exl-id: 42327448-227b-428f-93aa-6039db1291e5
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
 workflow-type: tm+mt
 source-wordcount: '27'
 ht-degree: 0%
