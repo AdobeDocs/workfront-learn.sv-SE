@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
+source-git-commit: e17c8cafba5b0829c4bed987a5dad14ecbcb7eaf
 workflow-type: tm+mt
-source-wordcount: '685'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,7 @@ ht-degree: 0%
 >
 >* Vi rekommenderar att du tittar på det inspelade webbinariet för att få en bättre förståelse för textläget [Fråga experten - Introduktion till rapportering i textläge](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), som är en timme lång.
 >* Om du vill veta mer om textläge rekommenderar vi att du tittar på [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) självstudiekurser, som tillsammans är fem och en halv timme långa.
+>* Klicka här för att komma åt [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
 I den här videon får du lära dig:
 

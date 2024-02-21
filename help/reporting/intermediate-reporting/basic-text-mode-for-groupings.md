@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: e17c8cafba5b0829c4bed987a5dad14ecbcb7eaf
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -31,12 +31,13 @@ ht-degree: 0%
 >[!TIP]
 >
 >* Vi rekommenderar att du tittar på det inspelade webbinariet för att få en bättre förståelse för textläget [Fråga experten - Introduktion till rapportering i textläge](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), som är en timme lång.
->* Vi rekommenderar att du tittar på [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) självstudiekurser, som tillsammans är fem och en halv timme långa.
+>* Om du vill veta mer om textläge rekommenderar vi att du tittar på [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) självstudiekurser, som tillsammans är fem och en halv timme långa.
+>* Klicka här för att komma åt [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
 I den här videon får du lära dig:
 
 * Vilket textläge är
-* Vad kamelväska är
+* Vad kamelfodral är
 * Vissa grundläggande textlägen för plug and play som du kan använda i dina grupperingar
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
@@ -62,12 +63,12 @@ group.0.valueformat=string
 
 I följande textläge grupperas uppgifter baserat på hur många procent de har slutförts. Aktiviteter hamnar i någon av följande kategorier när de grupperas:
 
-* 0%
+* 0 %
 * 1 till 25 %
 * 26 till 50 %
 * 51 till 75 %
 * 76 % till 99 %
-* 100%
+* 100 %
 
 ```
 group.0.linkedname=direct

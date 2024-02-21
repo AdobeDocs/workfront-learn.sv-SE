@@ -1,6 +1,6 @@
 ---
 title: Grundläggande textläge för filter
-description: Lär dig vilket textläge som är, vilket kameraläge som är och lite grundläggande textläge för"plug and play" som du kan använda i rapportfiltren i Workfront.
+description: Lär dig vilket textläge som är, vilket kameraläge som är och lite grundläggande textläge för"plug and play" som du kan använda i rapportfilter i Workfront.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: e17c8cafba5b0829c4bed987a5dad14ecbcb7eaf
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -31,13 +31,14 @@ ht-degree: 0%
 >[!TIP]
 >
 >* Vi rekommenderar att du tittar på det inspelade webbinariet för att få en bättre förståelse för textläget [Fråga experten - Introduktion till rapportering i textläge](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), som är en timme lång.
->* Vi rekommenderar att du tittar på [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) självstudiekurser, som tillsammans är fem och en halv timme långa.
+>* Om du vill veta mer om textläge rekommenderar vi att du tittar på [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) självstudiekurser, som tillsammans är fem och en halv timme långa.
+>* Klicka här för att komma åt [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
 
 I den här videon får du lära dig:
 
 * Vilket textläge är
-* Vad kamelväska är
+* Vad kamelfodral är
 * Vissa grundläggande textlägen för plug and play som du kan använda i rapportfiltren
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
