@@ -1,6 +1,6 @@
 ---
-title: Lär dig hur du hämtar och delar ljusbord
-description: Lär dig hur du hämtar och delar ljusbord och resurser i Brand Connect i [!UICONTROL Workfront DAM].
+title: Förstå hämtning och delning som användare
+description: Lär dig hur du hämtar och delar ljusbord och resurser i Brand Connect i [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8987
 exl-id: 5c1ab624-9f20-4ec4-b335-ceeaf9cbc86d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Brand Connect: Hämta och dela ljusbord
+# Förstå hämtning och delning som användare
 
 I den här videon får du lära dig att:
 

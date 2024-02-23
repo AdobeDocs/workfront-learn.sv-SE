@@ -1,6 +1,6 @@
 ---
-title: Ljuslådor i Brand Connect - förklaring
-description: Lär dig skapa, använda, hantera, dela och samarbeta i en ljuslåda i Brand Connect of [!UICONTROL Workfront DAM].
+title: Ljusbord som användare
+description: Lär dig hur du skapar, använder, hanterar, delar och samarbetar i en ljuslåda i Brand Connect för [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8986
 exl-id: 54447f9b-8f5e-4b5b-9298-232024064b4a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# Brand Connect: ljusbord
+# Ljusbord som användare
 
 I den här videon får du lära dig att:
 

@@ -1,6 +1,6 @@
 ---
-title: Ljusbord i [!UICONTROL Workfront DAM]
-description: Lär dig hur du skapar och använder ljusbord i [!UICONTROL Workfront DAM].
+title: Förstå ljusbord som deltagare
+description: Lär dig hur du skapar och använder ljusbord i [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8994
 exl-id: 15f5f6d8-c808-4989-9cfb-c7226f0211b3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# Medarbetare: ljusbord
+# Förstå ljusbord som deltagare
 
 I den här videon får du lära dig att:
 
@@ -31,6 +31,6 @@ I den här videon får du lära dig att:
 
 ## Mappar jämfört med ljusbord
 
-Mappar används för att lagra och ordna resurser. Åtkomst till resurser beviljas per mapp. Det kan finnas fler mappar i [!UICONTROL Workfront DAM] än du ser.
+Mappar används för att lagra och ordna resurser. Åtkomst till resurser beviljas per mapp. Det kan finnas fler mappar i [!UICONTROL WORKFRONT DAM] än du ser.
 
-Ljuslådor är ett verktyg i [!UICONTROL Workfront DAM] kan du använda för att samla in och ordna de resurser du behöver. Du kan skapa en enda ljuslåda för dig själv eller en ljuslåda för varje uppdrag du arbetar med. Du kan bara se de ljusbord du har skapat, såvida inte en annan användare delar en ljuslåda med dig eller ber dig att samarbeta i en ljuslåda.
+Ljuslådor är ett verktyg i [!UICONTROL WORKFRONT DAM] kan du använda för att samla in och ordna de resurser du behöver. Du kan skapa en enda ljuslåda för dig själv eller en ljuslåda för varje uppdrag du arbetar med. Du kan bara se de ljusbord du har skapat, såvida inte en annan användare delar en ljuslåda med dig eller ber dig att samarbeta i en ljuslåda.

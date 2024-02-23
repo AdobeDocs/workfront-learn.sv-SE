@@ -1,6 +1,6 @@
 ---
-title: Söka efter och ordna resurser i [!UICONTROL Workfront DAM]
-description: Lär dig hur du söker efter resurser, söker i mappar, effektiviserar sökresultat, använder metadata och nyckelord som sökfilter och mycket mer i [!UICONTROL Workfront DAM].
+title: Förstå att hitta resurser som medverkande
+description: Lär dig hur du söker efter resurser, söker i mappar, effektiviserar sökresultat, använder metadata och nyckelord som sökfilter i [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
 
 ---
 
-# Medarbetare: hitta resurser
+# Förstå att hitta resurser som medverkande
 
 I den här videon får du lära dig att:
 
@@ -34,7 +34,7 @@ I den här videon får du lära dig att:
 
 En grundläggande sökning söker efter filnamn, metadatafält, nyckelord och resursinnehåll (beroende på resurstyp). Mappnamnet ingår inte.
 
-De flesta sökresultat är exakta träffar. Ett undantag från den här&quot;exakta matchningsregeln&quot; är när [!UICONTROL Workfront DAM] söker i filnamnsfältet. [!UICONTROL Workfront DAM] returnerar matchningar av partiella filnamn, i stället för att bara matcha exakta filnamn.
+De flesta sökresultat är exakta träffar. Ett undantag från den här&quot;exakta matchningsregeln&quot; är när [!UICONTROL WORKFRONT DAM] söker i filnamnsfältet. [!UICONTROL WORKFRONT DAM] returnerar matchningar av partiella filnamn, i stället för att bara matcha exakta filnamn.
 
 ## Användaroperatorer vid sökning
 
@@ -62,4 +62,4 @@ Om du vill utesluta ett ord från sökresultatet placerar du ett minustecken (-)
 
 ### Tom fältoperator
 
-Om du vill söka efter resurser som inte har någon information i ett specifikt metadatafält anger du fältet som du vill söka i det här formatet: ?[xxxxx]. Om du till exempel vill söka efter resurser som inte har tilldelats nyckelord anger du ?[nyckelord] i sökfältet.
+Om du vill söka efter resurser som inte har någon information i ett specifikt metadatafält anger du det fält du vill söka i i det här formatet: ?[xxxxx]. Om du till exempel vill söka efter resurser som inte har tilldelats nyckelord anger du ?[nyckelord] i sökfältet.

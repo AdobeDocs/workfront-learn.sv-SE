@@ -10,9 +10,9 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,13 @@ Innan du tittar på dessa självstudiekurser bör du ha en:
 * En god förståelse för de objekt som du vill inkludera i rapporter.
 * En god förståelse för att använda anpassade formulär, särskilt beräknade anpassade fält.
 * A [!UICONTROL Plan] licenstyp med behörighet att skapa rapporter och filter aktiverat.
-* Du borde ha tagit [[!UICONTROL Grundläggande rapportelement]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html) kurs, [[!UICONTROL Skapa anpassade rapporter och kontrollpaneler]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html) kursen och [[!UICONTROL Skapa mellanliggande filter]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html) kurs.
+* Du borde ha gått dessa kurser:
+   * [[!UICONTROL Grundläggande rapportelement]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)
+   * [[!UICONTROL Skapa anpassade rapporter och kontrollpaneler]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
+   * [[!UICONTROL Skapa mellanfilter]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
+* Du bör också ha tagit dessa självstudiekurser:
+   * [[!UICONTROL Förstå det grundläggande textläget för vyer]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en)
+   * [[!UICONTROL Grundläggande textläge för grupperingar]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en)
 
 ## Målgrupper
 

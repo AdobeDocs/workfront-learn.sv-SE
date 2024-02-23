@@ -1,6 +1,6 @@
 ---
-title: Så här arbetar du med resurser i Brand Connect
-description: Lär dig hur du visar resurser i Brand Connect och visar data om en resurs, inklusive metadata och nyckelord i [!UICONTROL Workfront DAM].
+title: Arbeta med resurser som användare
+description: Lär dig hur du visar resurser i Brand Connect och visar data om en resurs, inklusive metadata och nyckelord i [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8985
 exl-id: 67bc9228-f16e-4cba-bae2-d223e9d79d39
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# Brand Connect: arbeta med resurser
+# Arbeta med resurser som användare
 
 I den här videon får du lära dig att:
 

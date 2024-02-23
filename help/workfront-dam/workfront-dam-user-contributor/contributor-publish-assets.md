@@ -1,6 +1,6 @@
 ---
-title: Publicera resurser på [!UICONTROL Brand Connect]
-description: Lär dig hur du publicerar resurser och mappar till [!UICONTROL Brand Connect] in [!UICONTROL Workfront DAM].
+title: Publicera resurser som deltagare
+description: Lär dig hur du publicerar resurser och mappar till [!UICONTROL Brand Connect] in [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,20 +10,20 @@ team: Technical Marketing
 jira: KT-8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-# Medarbetare: publicera resurser
+# Publicera resurser som deltagare
 
 ## Förbered publicering av resurser
 
-Publicera en resurs eller mapp till [!UICONTROL Brand Connect] ger en större publik möjlighet att få tillgång till godkända mediefiler. Det är möjligt att många i organisationen inte har tillgång till [!UICONTROL Workfront DAM] men har tillgång till [!UICONTROL Brand Connect].
+Publicera en resurs eller mapp till [!UICONTROL Brand Connect] ger en större publik möjlighet att få tillgång till godkända mediefiler. Det är möjligt att många personer i din organisation inte har tillgång till [!UICONTROL WORKFRONT DAM] men har tillgång till [!UICONTROL Brand Connect].
 
-Resurser bör inte publiceras förrän de är färdiga. Du vill till exempel inte publicera ett grovt utkast av en broschyr till [!UICONTROL Brand Connect], annars kan den distribueras innan den är klar.
+Resurser ska inte publiceras förrän de är färdiga. Du vill till exempel inte publicera ett grovt utkast av en broschyr till [!UICONTROL Brand Connect]annars kan den distribueras innan den är klar.
 
 Innan du publicerar en resurs på [!UICONTROL Brand Connect]kan du göra något av följande:
 

@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8983
 exl-id: 444a74f4-c99e-4a68-b484-8b0245118051
 doc-type: video
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-# Brand Connect: Förstå Brand Connect som användare
+# Förstå Brand Connect som användare
 
 [!UICONTROL Brand Connect] är en del av [!UICONTROL WORKFRONT DAM], en DAM-lösning (Digital Asset Management) för att hantera, styra och publicera marknadsföringsmaterial, kreativa tjänster, professionella tjänster och andra resurser. Använd [!DNL Workfront] för att skapa resursförfrågningar och sedan hantera produktion och granskning av resurser. Kuratera, lagra och distribuera färdiga och godkända resurser med [!UICONTROL WORKFRONT DAM]. Publicera resurser på [!UICONTROL Brand Connect] för att säkerställa att rätt budskap är tillgängligt för rätt målgrupp, var och hur de behöver det.
 

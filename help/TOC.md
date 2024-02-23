@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '2408'
+source-wordcount: '2405'
 ht-degree: 0%
 
 ---
@@ -269,7 +269,7 @@ ht-degree: 0%
       + [Löptid för resurshantering](manage-resources/resource-management/resource-management-maturity.md)
       + [Resurshanteringsinställningar för projekt](manage-resources/resource-management/settings-for-projects.md)
       + [Resurshanteringsinställningar för användare](manage-resources/resource-management/settings-for-users.md)
-      + [Resurshanteringsinställningar, belastningsfördelning och användningsrapport](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
+      + [Resurshanteringsinställningar, belastningsfördelning och utnyttjandegrad](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
    + Utjämning av arbetsbelastning {#workload-balancer}
       + [Hitta arbetsbelastningsutjämnaren](manage-resources/workload-balancer/find-the-workload-balancer.md)
@@ -558,7 +558,7 @@ ht-degree: 0%
       + [Förstå tillgångshantering som medverkande](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [Förstå att hitta resurser som medverkande](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
       + [Förstå ljusbord som deltagare](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
-      + [Förstå metadata och nyckelordsmetoder som deltagare](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
+      + [Förstå metadata och nyckelordsrutiner](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [Arbeta med resurser som deltagare](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [Skicka en fil som deltagare](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [Publicera resurser som deltagare](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
@@ -638,7 +638,7 @@ ht-degree: 0%
    + [Systemprestanda och underhåll](best-practices/system-performance-maintenance-bp.md)
    + [Textlägesrapportering](best-practices/test-mode-reporting-bp.md)
    + [Planering och hantering av tidslinjer](best-practices/timeline-planning-management-bp.md)
-   + [Tidrapporter och inloggningstid](best-practices/timesheets-logging-time-bp.md)
+   + [Tidrapporter och loggningstid](best-practices/timesheets-logging-time-bp.md)
    + [Användning](best-practices/utilization-bp.md)
    + [Workfront-mål](best-practices/workfront-goals-bp.md)
    + [Utjämning av arbetsbelastning](best-practices/workload-balancer-bp.md)
