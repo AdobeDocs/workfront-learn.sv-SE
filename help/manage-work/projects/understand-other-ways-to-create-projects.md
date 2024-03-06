@@ -9,11 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8770
+last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: 5358a1e6f3c2cddfb2066954a922d8804e0b0a14
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -29,20 +30,11 @@ I den här videon får du lära dig att:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)
 
-## Proffstips
+## Mer om att arbeta med uppgifter
 
-* The [!UICONTROL Nytt projekt från mall] gör det enkelt att välja rätt mall för projektet. Bläddra genom den vänstra panelen för att hitta en mall och markera den för att få en förhandsvisning av dess innehåll. I den här förhandsgranskningen visas hur många uppgifter som finns i mallen, de obligatoriska jobbrollerna och mycket annat.
-
-![[!UICONTROL Nytt projekt från mall] window](assets/planner-fund-new-project-from-template-window.png)
-
-* Om det finns en mall som du använder ofta kan du göra den till en favorit! Mallen visas i [!UICONTROL Nytt projekt] -menyn, förutom att den visas under [!UICONTROL Favoriter och senaste] -ikonen i navigeringsfältet. Klicka bara på stjärnikonen där du ser den - på mallsidan, medan du väljer en mall att skapa projektet med osv.
-
-![[!UICONTROL Favoritmallar] lista under [!UICONTROL Nytt projekt] knapp](assets/planner-fund-template-favorites.png)
-
-<!---
-learn more:
-create a project using a template
-create a project
-copy a project
-import a project from Microsoft Project
---->
+* [Skapa uppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html)
+* [Arbeta med uppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html)
+* [Tilldela uppgifter från projektplanen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html)
+* [Förstå varaktigheter för uppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations.html)
+* [Lär dig att sekvensera uppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html)
+* [Förstå planerade timmar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours.html)
