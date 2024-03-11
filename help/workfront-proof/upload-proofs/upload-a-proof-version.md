@@ -11,7 +11,7 @@ thumbnail: 336096.png
 jira: KT-8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -31,13 +31,13 @@ I den här videon får du lära dig att:
 
 Om du har ett korrektur öppet i korrekturläsaren kan du påbörja en versionsuppladdning direkt från versionsmenyn. Klicka på [!UICONTROL Ny version] länk som ska dirigeras direkt till[!UICONTROL ladda upp en ny version]&quot; och slutför överföringen.
 
-![En bild av korrekturläsaren med versionsmenyn utökad i det övre vänstra hörnet och [!UICONTROL Ny version] länk markerad.](assets/upload-version-from-viewer.png)
+![En bild av korrekturläsaren med versionsmenyn utökad i det övre vänstra hörnet och i [!UICONTROL Ny version] länk markerad.](assets/upload-version-from-viewer.png)
 
 ## Din tur
 
 >[!IMPORTANT]
 >
->Glöm inte att påminna dina kollegor om att du skickar in ett bevis som en del av din Workfront-utbildning.
+>Glöm inte att påminna dina kollegor om att du skickar ett bevis till dem som en del av din Workfront-utbildning.
 
 Hitta ett bevis som du har överfört i Workfront. Ladda upp en ny version av det korrekturet och tilldela en ny arbetsflödesmall eller gör ändringar i det befintliga arbetsflödet.
 
