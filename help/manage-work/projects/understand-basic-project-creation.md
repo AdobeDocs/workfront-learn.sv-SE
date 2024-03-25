@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 18%
+source-wordcount: '150'
+ht-degree: 17%
 
 ---
 
@@ -22,13 +23,14 @@ ht-degree: 18%
 
 I den här videon får du lära dig:
 
-* Fyra steg för att komma igång med ett projekt
-* Definitionen av ett projekt i [!DNL Workfront]
-* De tre vanligaste sätten att skapa projekt
+* Definitionen av ett projekt i Workfront
+* Grundläggande steg för att komma igång med ett projekt
+* Lite om uppgifter och problem
+* Bästa tillvägagångssätt för att börja med att skapa projekt
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-Skaffa [!DNL  Workfront] projekt snabbt kommer igång med en projektmall. Planera sedan projektet genom att först fokusera på följande fem områden:
+Kom igång snabbt med dina Workfront-projekt med hjälp av en projektmall. Planera sedan projektet genom att först fokusera på följande fem områden:
 
 1. Uppgifter
 1. Varaktighet
