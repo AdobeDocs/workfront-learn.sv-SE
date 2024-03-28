@@ -30,7 +30,7 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
-## Aktivitet: Skapa en instrumentpanel
+## Aktivitet: Skapa en kontrollpanel
 
 Skapa en [!UICONTROL kontrollpanel] med bara en rapport i den -&quot;Sök anteckningar i det här projektet&quot;. Detta är användbart om du snabbt vill hitta uppdateringar som gjorts i ett projekt, även om det finns tusentals uppdateringar att söka igenom. Detta söker efter uppdateringstrådar för att snabbt extrahera uppdateringar som uppfyller villkoren som du anger i uppmaningarna.
 
@@ -51,7 +51,7 @@ Skapa den här rapporten genom att skapa en kopia av rapporten&quot;Anteckningar
    ![En bild av skärmen för att skapa en ny instrumentpanel](assets/edit-report-prompts.png)
 
 1. Kontrollera **[!UICONTROL Visa uppmaningar i instrumentpanelen]** box.
-1. Klicka **[!UICONTROL Klar]** sedan **[!UICONTROL Spara + Stäng]**. Du tittar nu på [!UICONTROL Uppmaningar] rapportens skärm.
+1. Klicka **[!UICONTROL Klar]** sedan **[!UICONTROL Spara + Stäng]**. Du tittar nu på [!UICONTROL Fråga] rapportens skärm.
 
    Därefter ska du använda en genväg för att skapa en ny instrumentpanel och lägga till den här rapporten i den.
 
@@ -67,7 +67,7 @@ Skapa den här rapporten genom att skapa en kopia av rapporten&quot;Anteckningar
 
    ![En bild av skärmen för att skapa en ny instrumentpanel](assets/add-custom-section.png)
 
-1. Gå till vilket projekt som helst. Klicka på **[!UICONTROL Lägg till anpassat avsnitt]** ikon.
+1. Gå till vilket projekt som helst. Klicka på **[!UICONTROL Lägg till anpassat avsnitt]** -ikon.
 1. I **[!UICONTROL Lägg till en instrumentpanel]** skriver du&quot;Search Notes&quot; och väljer [!UICONTROL kontrollpanel] från listan.
 1. I **[!UICONTROL Anpassad avsnittsrubrik]** -fält, skriv i &quot;Sökanteckningar&quot;.
 1. Klicka **[!UICONTROL Lägg till nytt avsnitt]**.

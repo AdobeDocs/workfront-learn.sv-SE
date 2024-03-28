@@ -1,6 +1,6 @@
 ---
 title: Förstå behovet av gruppadministratörer
-description: Läs mer om hur systemadministratörer kan använda gruppadministratörer för att underhålla  [!DNL Workfront] -inställningar samtidigt som de ger grupperna mer kontroll över sitt arbete.
+description: Läs om hur systemadministratörer kan använda gruppadministratörer för att underhålla [!DNL Workfront] samtidigt som grupper får bättre kontroll över sitt arbete.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -12,8 +12,8 @@ jira: KT-10103
 exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 5%
+source-wordcount: '336'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 5%
 21.4 updates have been made
 --->
 
-När du är systemadministratör för ett stort företag eller ett som har många [!DNL Workfront] användare, underhålla [!DNL Workfront] inställningarna för varje grupp och undergrupp kan vara tidskrävande.
+När du är systemadministratör för ett stort företag eller ett som har många [!DNL Workfront] användare, underhålla [!DNL Workfront] inställningarna för varje grupp och undergrupp kan ta lång tid.
 
 Utse gruppadministratörer som kan utföra vissa administrativa funktioner för sina egna grupper i [!DNL Workfront] hjälper till att balansera belastningen när det gäller att uppdatera och underhålla systemet.
 
@@ -36,7 +36,7 @@ Vissa av de saker som gruppadministratörer kan göra i [!DNL Workfront] inklude
 * Skapa godkännandeprocesser för gruppen.
 * Skapa arbetsflödesstatus på gruppnivå.
 * Få åtkomst till projekt, program och portföljer som är kopplade till gruppen från gruppsidan.
-* Hantera projekt, uppgifter och ärenden på gruppnivå.
+* Hantera inställningar för projekt, uppgifter och utgåvor på gruppnivå.
 * Hantera tidrapportinställningar på gruppnivå.
 * Hantera händelsemeddelanden på gruppnivå.
 * Logga in som andra gruppmedlemmar.
@@ -62,7 +62,7 @@ En lista över vilka systemadministratörer, gruppadministratörer och undergrup
 Hantera snabbt och effektivt gruppmedlemmar, undergrupper, gruppstatus, gruppprojektinställningar med mera från gruppsidan i [!DNL Workfront].
 
 1. Välj **[!UICONTROL Inställningar]** från **[!UICONTROL Huvudmeny]**.
-1. Gå till **[!UICONTROL Grupper]** i den vänstra panelen.
+1. Gå till **[!UICONTROL Grupper]** till vänster.
 1. Markera namnet på en grupp som du vill öppna.
 1. Öppna det avsnitt som du vill göra uppdateringar i genom att klicka på det i den vänstra panelen.
 
