@@ -1,6 +1,6 @@
 ---
-title: Lägg in analyser i layoutmallar
-description: Lär dig hur system- och gruppadministratörer ger åtkomst till Analytics.
+title: Åtkomst [!UICONTROL Förbättrad analys]
+description: Läs om hur system- och gruppadministratörer ger åtkomst till [!UICONTROL Förbättrad analys] via en layoutmall.
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -9,17 +9,28 @@ role: Admin
 level: Beginner
 team: Technical Marketing
 jira: KT-8726
+last-substantial-update: 2024-04-02T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-# Lägg in analyser i layoutmallar
+
+# Få tillgång till Förbättrad analys
+
+Precis som de flesta andra funktioner i Workfront har du tillgång till [!UICONTROL Förbättrad analys] på huvudmenyn. Men [!UICONTROL Analyser] är inte på huvudmenyn som standard.
+
+![En bild av huvudmenyn ](assets/analytics-on-main-menu.png)
+
+Om du inte ser det där måste system- eller gruppadministratören lägga till det åt dig. De gör det i en layoutmall. I videon nedan förklaras hur.
+
+
+## Lägg in analyser i layoutmallar
 
 I den här videon får du lära dig hur system- och gruppadministratörer ger åtkomst till [!UICONTROL Analyser] i Workfront.
 

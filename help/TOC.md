@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
-source-wordcount: '2405'
+source-wordcount: '2404'
 ht-degree: 0%
 
 ---
@@ -153,7 +153,7 @@ ht-degree: 0%
       + [Svar på vanliga frågor om begärandeköer](manage-work/request-queues/request-queue-faq.md)
 
    + Portfolio {#portfolios}
-      + [Översikt över portföljer](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [Förstå portföljer](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Förstå [!UICONTROL Affärsärende]](portfolios-and-programs/introduction-to-the-business-case.md)
       + [Använd [!UICONTROL Portfolio Optimizer] att prioritera och hantera arbete](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
@@ -242,7 +242,7 @@ ht-degree: 0%
    + Förbättrad analys {#enhanced-analytics}
       + [Ett ögonblick med Product om [!UICONTROL Förbättrad analys]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Kom igång med [!UICONTROL Förbättrad analys]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [Lägg till [!UICONTROL analys] till layoutmallar](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [Åtkomst [!UICONTROL Förbättrad analys]](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Förstå grundläggande navigering](reporting/enhanced-analytics/4-basic-navigation.md)
       + [Förstå arbets- och persondiagram](reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [Förstå filter](reporting/enhanced-analytics/6-filters-overview.md)

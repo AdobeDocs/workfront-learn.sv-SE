@@ -8,12 +8,13 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2023-07-27T00:00:00Z
+last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13737
 doc-type: video
-source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
+exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -26,6 +27,11 @@ ht-degree: 0%
 >
 >* [Lär dig att sekvensera uppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
 >* Eller så är du redan bekväm med att använda föregående i dina projekt
+
+>[!NOTE]
+>
+>Föregångare mellan projekt är ett enkelt sätt att skapa samband mellan aktiviteter i olika projekt. Ett byggföretag kan till exempel ha ett projekt som kallas **Bygg Access Road till Summerges Housing Development** och ett annat projekt som heter **Bygg modellstartsida i Sommaren**. Genom att göra den första uppgiften i **Bygg modell - startsida** har en projektledare för den senaste aktiviteten i **Bygg Access Road** ser du till att vägen är på plats innan du börjar bygga hemmet. Eftersom aktiviteterna är länkade, om **Bygg Access Road** projektglidningar, **Bygg modell - startsida** planerat startdatum justeras automatiskt därefter.
+
 
 I den här videon får du lära dig:
 

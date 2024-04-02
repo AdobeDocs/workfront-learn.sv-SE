@@ -1,5 +1,5 @@
 ---
-title: Översikt över portföljer
+title: Förstå portföljer
 description: Lär dig vilka portfolior som finns i Workfront och hur de kan hjälpa dig att prioritera projekt och jämföra projekt med varandra.
 activity: use
 team: Technical Marketing
@@ -7,18 +7,18 @@ feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
 
-# Översikt över portföljer
+# Förstå portföljer
 
 Cheferna har ofta det svåra arbetet med att ta reda på vilka projekt som bäst kan hjälpa deras företag att nå sina mål. Detta innebär att man måste bedöma ett aktuellt eller potentiellt projekt utifrån kriterier som är viktiga för dessa mål. Kriterierna kan omfatta t.ex. hur många resurser som behövs, hur mycket pengar projektet kommer att kosta jämfört med vad det kommer att medföra samt förståelse för riskerna. Med den här informationen kan cheferna bestämma vilka projekt som ska utföras och när.
 
@@ -51,6 +51,26 @@ När en portfölj skapas har bara portföljskaparen eller portföljförvaltaren 
 Öppna portföljen och klicka på menyn med tre punkter och välj sedan **[!UICONTROL Delning]**. Lägg till de personer, team, jobbroller, grupper eller företag som ska ha tillgång till dem. Bestäm sedan vilken typ av åtkomst de ska ha - hantera eller visa.
 
 ![En bild av [!UICONTROL Delning] i en [!DNL Workfront] portfolio](assets/04-portfolio-management11.png)
+
+## Skapa en portfölj
+
+Klicka på **[!UICONTROL Portfolio]** på huvudmenyn.
+
+![En bild av huvudmenyn ](assets/create-portfolio-1.png)
+
+Klicka på **[!UICONTROL New Portfolio]**.
+
+![En bild av området Portfolio ](assets/create-portfolio-2.png)
+
+Namnge portföljen och klicka sedan på **[!UICONTROL Nytt projekt]** för att lägga till ett projekt i portföljen. Du kan skapa ett nytt projekt på flera olika sätt, precis som du kan med **[!UICONTROL Projekt]** område. Alla nya projekt som du skapar härifrån hör till den här portföljen. Du kan också klicka på **[!UICONTROL Befintligt projekt]** om du vill välja befintliga projekt från en lista.
+
+![En bild av den nya projektmenyn ](assets/create-portfolio-3.png)
+
+## Skapa ett program i en portfölj
+
+Välj **[!UICONTROL Program]** tabben och klicka sedan på **[!UICONTROL Nytt program]** om du vill skapa ett nytt program i den här portföljen, eller klicka på **[!UICONTROL Befintligt program]** att stjäla befintliga program från andra portföljer.
+
+![En bild av den nya programmenyn ](assets/create-portfolio-4.png)
 
 <!--
 Pro-tips graphic
