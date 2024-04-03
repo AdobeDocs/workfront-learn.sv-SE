@@ -1,6 +1,6 @@
 ---
 title: Anpassa [!UICONTROL Startsida] med layoutmallar
-description: Lär dig hur du använder en layoutmall för att anpassa [!UICONTROL Startsida] genom att lägga till eller ta bort fält.
+description: Lär dig anpassa dina användare [!UICONTROL Startsida] för att snabbt och enkelt få tillgång till, spåra, godkänna och uppdatera materialet.
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin
@@ -11,14 +11,23 @@ thumbnail: 335081.jpeg
 jira: KT-8767
 exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: f383784d7859926ab6c4f40f713577eba2154b39
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Anpassa [!UICONTROL Startsida] med layoutmallar
+# Anpassa [!UICONTROL Arbetsytan Hem] med layoutmallar
+
+Lär dig anpassa dina användare [!UICONTROL Startsida] för att snabbt och enkelt få tillgång till, spåra, godkänna och uppdatera materialet.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on)
+
+<br>
+</br>
+
+## Anpassa äldre [!UICONTROL Startsida] med layoutmallar
 
 I den här videon får du lära dig att:
 
