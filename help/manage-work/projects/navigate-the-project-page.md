@@ -7,13 +7,14 @@ thumbnail: 335085.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-04-05T00:00:00Z
 team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 1506ba1d0209de4834a150536d9a530609413800
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -45,10 +46,10 @@ Projektsidan innehåller många funktioner som hjälper dig att hantera arbetet.
 8. **[!UICONTROL Villkor]:** The [!UICONTROL Villkor] är en visuell representation av hur projektet utvecklas. [!DNL Workfront] kan konfigurera [!UICONTROL Villkor] baserat på förloppsstatusen för aktiviteterna i projektet. eller [!UICONTROL Villkor] kan ställas in manuellt via projektinformationen.
 9. **[!UICONTROL Status]:** The [!UICONTROL Status] anger var i processen projektet står: håller projektet fortfarande på att planeras, pågår eller är allt arbete i projektet färdigt?
 10. **[!UICONTROL Ny uppgift]:** Klicka för att skapa en ny uppgift i projektet. Uppgiften genereras längst ned i listan.
-11. **[!UICONTROL Exportera]:** Exportera projektplanen till en PDF, kalkylblad eller tabbavgränsad fil.
+11. **[!UICONTROL Exportera]:** Exportera uppgiftslistan eller de markerade uppgifterna till en PDF-, kalkylblads- eller tabbavgränsad fil.
 12. **Vänster panelmeny:** Navigera till annan information om projektet med den vänstra panelen. Klicka på ikonen för att komprimera panelen om du behöver lite mer utrymme på skärmen. Dra och släpp ikonerna så att du kan arbeta effektivt. De alternativ du ser anges av [!DNL Workfront] systemadministratör.
 13. **Uppgiftslista:** Uppgiftslistan innehåller alla uppgifter som ingår i projektplanen. Vilken information som visas för varje uppgift avgörs av den valda vyn.
-14. **Panelen Sammanfattning:** Klicka på ikonen för att växla mellan att öppna och stänga sammanfattningspanelen, där du snabbt hittar information om den valda åtgärden.
+14. **Panelen Sammanfattning:** På sammanfattningspanelen kan du snabbt se information om den valda uppgiften. Klicka på ikonen för att öppna eller stänga.
 
 <!---
 learn more:
