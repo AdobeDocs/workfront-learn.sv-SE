@@ -12,9 +12,9 @@ team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 1506ba1d0209de4834a150536d9a530609413800
+source-git-commit: 109e024dd64ea1b53bffd4b3e1f7971ae0abb070
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '475'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ I den här videon får du lära dig:
 
 Projektsidan innehåller många funktioner som hjälper dig att hantera arbetet. Arbeta med systemadministratören om det finns ett alternativ som du behöver men som inte visas i din instans av [!DNL Workfront]. Här är några av huvudfunktionerna på projektsidan som du bör tänka på.
 
-![Projektsida](assets/project-page-graphic-for-planner.png)
+![Skärmbild av projektsida](assets/project-page-graphic-for-planner-v2.png)
 
 1. **Spårspår:** Navigera genom program- och portföljhierarkin bakom projektet.
 2. **Objekttyp:** Genom att visa objekttypen på landningssidan kan du identifiera vad du tittar på i [!DNL Workfront]. &quot;Projekttermen&quot; kan anpassas av [!DNL Workfront] systemadministratör.
@@ -50,10 +50,5 @@ Projektsidan innehåller många funktioner som hjälper dig att hantera arbetet.
 12. **Vänster panelmeny:** Navigera till annan information om projektet med den vänstra panelen. Klicka på ikonen för att komprimera panelen om du behöver lite mer utrymme på skärmen. Dra och släpp ikonerna så att du kan arbeta effektivt. De alternativ du ser anges av [!DNL Workfront] systemadministratör.
 13. **Uppgiftslista:** Uppgiftslistan innehåller alla uppgifter som ingår i projektplanen. Vilken information som visas för varje uppgift avgörs av den valda vyn.
 14. **Panelen Sammanfattning:** På sammanfattningspanelen kan du snabbt se information om den valda uppgiften. Klicka på ikonen för att öppna eller stänga.
+15. **Lägg till fler aktiviteter** Klicka här om du vill lägga till ytterligare en uppgift längst ned i uppgiftslistan med hjälp av intern redigering.
 
-<!---
-learn more:
-simplified left navigation
-edit projects
-new toolbar for lists
---->
