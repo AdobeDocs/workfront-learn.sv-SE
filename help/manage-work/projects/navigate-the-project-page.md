@@ -12,7 +12,7 @@ team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 109e024dd64ea1b53bffd4b3e1f7971ae0abb070
+source-git-commit: adb114409c60ee4d52a7477116e2acef62ce30df
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 0%
@@ -51,4 +51,5 @@ Projektsidan innehåller många funktioner som hjälper dig att hantera arbetet.
 13. **Uppgiftslista:** Uppgiftslistan innehåller alla uppgifter som ingår i projektplanen. Vilken information som visas för varje uppgift avgörs av den valda vyn.
 14. **Panelen Sammanfattning:** På sammanfattningspanelen kan du snabbt se information om den valda uppgiften. Klicka på ikonen för att öppna eller stänga.
 15. **Lägg till fler aktiviteter** Klicka här om du vill lägga till ytterligare en uppgift längst ned i uppgiftslistan med hjälp av intern redigering.
+
 
