@@ -8,11 +8,12 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -38,7 +39,13 @@ Projektet [!UICONTROL Villkor] kallas &quot;hälsotillstånd i projektplanen&quo
 >Om projektvillkoret ställs in automatiskt av [!DNL Workfront] eller manuellt av någon som hanterar rättigheter till projektet styrs av [!UICONTROL Villkorstyp] i [!UICONTROL Ökning] i [!UICONTROL Projektinformation] sida.
 
 <!---
-learn more urls
 Project percent complete overview
 Overview of project condition and condition type
 --->
+
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Kom igång med att hantera ett projekt](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Spåra arbetets förlopp med projektstatistik](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Förstå [!UICONTROL Gantt] visa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [Förstå [!UICONTROL Styrelse] visa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)

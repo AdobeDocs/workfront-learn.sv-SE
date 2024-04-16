@@ -8,11 +8,12 @@ thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
-source-wordcount: '1219'
+source-wordcount: '1252'
 ht-degree: 0%
 
 ---
@@ -127,3 +128,10 @@ Du behöver inte fylla i alla fält och kryssrutor i projektinformationen för v
    Det finns till exempel personer som kan ha tillgång till projektet men som inte ska se den ekonomiska informationen. Du kan alltså inaktivera alternativet Visa finansiering för dem.
 
    Åtkomstinställningarna kan anges i mallen.
+
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Förstå grundläggande projektskapande](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
+* [Navigera på projektsidan](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [Lär dig fyra sätt att skapa ett projekt](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [Kom igång med projektplaneringen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-plan-a-project)

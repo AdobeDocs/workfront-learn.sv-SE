@@ -9,13 +9,14 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2024-03-25T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 17%
+source-wordcount: '94'
+ht-degree: 27%
 
 ---
 
@@ -30,12 +31,10 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-Kom igång snabbt med dina Workfront-projekt med hjälp av en projektmall. Planera sedan projektet genom att först fokusera på följande fem områden:
+## Rekommenderade självstudiekurser i detta ämne
 
-1. Uppgifter
-1. Varaktighet
-1. Planerade timmar
-1. Föregående
-1. Uppdrag
+* [Navigera på projektsidan](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [Lär dig fyra sätt att skapa ett projekt](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [Fyll i projektinformationen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
 
-När allt är klart ändrar du projektstatus till Aktuell för att göra projektet tillgängligt. I takt med att projektet fortskrider vill du hålla reda på hur arbetet går till, vilka problem som uppstår, vilka frågor som behöver besvaras och mycket mer. Kom ihåg ... att du kan hitta och hantera all information i [!DNL Workfront]!
+

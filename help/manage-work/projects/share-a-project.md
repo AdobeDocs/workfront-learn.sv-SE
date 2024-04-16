@@ -9,11 +9,12 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2023-07-21T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -29,3 +30,11 @@ I den här videon får du lära dig:
 * Bästa tillvägagångssätt för att dela ett projekt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on)
+
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Kom igång med att hantera ett projekt](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Hitta projekt](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [Förstå projektgruppen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
+* [Förstå projektkommunikation](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+

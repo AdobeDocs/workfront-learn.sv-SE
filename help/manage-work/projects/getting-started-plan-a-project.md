@@ -8,12 +8,13 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+recommendations: noDisplay,noCatalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -28,3 +29,12 @@ I den här videon får du lära dig:
 * Ange start- eller slutförandedatum
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on)
+
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Skapa uppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html)
+* [Arbeta med uppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html)
+* [Tilldela uppgifter från projektplanen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html)
+* [Förstå varaktigheter för uppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations.html)
+* [Lär dig att sekvensera uppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html)
+* [Förstå planerade timmar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours.html)

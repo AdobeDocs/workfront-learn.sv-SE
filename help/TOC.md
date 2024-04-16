@@ -3,7 +3,7 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
 source-wordcount: '2404'
 ht-degree: 0%
@@ -107,9 +107,9 @@ ht-degree: 0%
 + Hantera arbete {#manage-work}
    + Projekt {#projects}
       + [Förstå grundläggande projektskapande](manage-work/projects/understand-basic-project-creation.md)
+      + [Navigera på projektsidan](manage-work/projects/navigate-the-project-page.md)
       + [Lär dig fyra sätt att skapa ett projekt](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [Fyll i projektinformationen](manage-work/projects/fill-in-the-project-details.md)
-      + [Navigera på projektsidan](manage-work/projects/navigate-the-project-page.md)
       + [Kom igång med projektplaneringen](manage-work/projects/getting-started-plan-a-project.md)
       + [Ta ett projekt live](manage-work/projects/take-a-project-live.md)
       + [Kom igång med att hantera ett projekt](manage-work/projects/getting-started-manage-a-project.md)

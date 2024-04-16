@@ -12,25 +12,21 @@ last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13737
 doc-type: video
 exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
 # Förstå föregångare inom projekt mellan olika projekt
 
->[!IMPORTANT]
->
->Förutsättningar:
+Föregångare mellan projekt är ett enkelt sätt att skapa samband mellan aktiviteter i olika projekt. Ett byggföretag kan till exempel ha ett projekt som kallas **Bygg Access Road till Summerges Housing Development** och ett annat projekt som heter **Bygg modellstartsida i Sommaren**. Genom att göra den första uppgiften i **Bygg modell - startsida** har en projektledare för den senaste aktiviteten i **Bygg Access Road** ser du till att vägen är på plats innan du börjar bygga hemmet. Eftersom aktiviteterna är länkade, om **Bygg Access Road** projektglidningar, **Bygg modell - startsida** planerat startdatum justeras automatiskt därefter.
+
+>[!PREREQUISITES]
 >
 >* [Lär dig att sekvensera uppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
 >* Eller så är du redan bekväm med att använda föregående i dina projekt
-
->[!NOTE]
->
->Föregångare mellan projekt är ett enkelt sätt att skapa samband mellan aktiviteter i olika projekt. Ett byggföretag kan till exempel ha ett projekt som kallas **Bygg Access Road till Summerges Housing Development** och ett annat projekt som heter **Bygg modellstartsida i Sommaren**. Genom att göra den första uppgiften i **Bygg modell - startsida** har en projektledare för den senaste aktiviteten i **Bygg Access Road** ser du till att vägen är på plats innan du börjar bygga hemmet. Eftersom aktiviteterna är länkade, om **Bygg Access Road** projektglidningar, **Bygg modell - startsida** planerat startdatum justeras automatiskt därefter.
 
 
 I den här videon får du lära dig:

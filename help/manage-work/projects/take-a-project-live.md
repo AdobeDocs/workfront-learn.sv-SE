@@ -8,12 +8,13 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+recommendations: noDisplay,noCatalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
 workflow-type: tm+mt
-source-wordcount: '35'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
@@ -25,3 +26,9 @@ I den här videon får du lära dig att:
 * Bygg upp projektet med projektstatus
 
 >[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on)
+
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Kom igång med att hantera ett projekt](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Hitta projekt](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [Dela ett projekt](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
