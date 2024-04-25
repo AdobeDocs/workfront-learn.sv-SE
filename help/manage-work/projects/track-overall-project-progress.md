@@ -1,6 +1,6 @@
 ---
 title: Spåra projektets övergripande förlopp
-description: Lär dig hur informationen som visas i projekthuvudet kan hjälpa dig att spåra projektets övergripande förlopp och hälsa.
+description: Lär dig fem snabba sätt att följa upp projektets övergripande förlopp.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,40 +8,28 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+source-git-commit: 99dfdc38fd2192da6a5ef46663634bd6070ee488
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
 # Spåra projektets övergripande förlopp
 
-Med huvudet överst i ett projekt ser du projektets övergripande status och hälsa snabbt och enkelt.
+I den här videon får du lära dig att följa upp projektförloppet med:
 
-![Visa projekthuvud [!UICONTROL Procent färdigt]](assets/planner-fund-percent-complete.png)
+* Procent färdigt
+* Planerade datum
+* Villkor och förloppsstatus
+* Öppna problem
+* Kolumnen Villkorsuppdatering
 
-The [!UICONTROL Procent färdigt] baseras på det övergripande förloppet för uppgifterna i projektet. Talet är som bäst när gruppmedlemmar ändrar status för sina tilldelade uppgifter och anger ett procenttal som är klart.
-
->[!NOTE]
->
->En global systeminställning påverkar hur projektets procentandel slutfört beräknas, baserat antingen på aktiviteternas varaktighet eller planerade timmar.
-
-Projektet [!UICONTROL Villkor] kallas &quot;hälsotillstånd i projektplanen&quot;. Det finns ett antal faktorer som avgör hur villkoret beräknas. [!DNL Workfront] tittar på [!UICONTROL Planerat slutförandedatum] och [!UICONTROL Planerat slutförandedatum], samt den kritiska vägen, för att beräkna om projektet är [!UICONTROL I tid], [!UICONTROL Risk], eller [!UICONTROL I problem].
-
-![Visa projekthuvud [!UICONTROL Villkor]](assets/planner-fund-condition.png)
-
->[!NOTE]
->
->Om projektvillkoret ställs in automatiskt av [!DNL Workfront] eller manuellt av någon som hanterar rättigheter till projektet styrs av [!UICONTROL Villkorstyp] i [!UICONTROL Ökning] i [!UICONTROL Projektinformation] sida.
-
-<!---
-Project percent complete overview
-Overview of project condition and condition type
---->
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on)
 
 ## Rekommenderade självstudiekurser i detta ämne
 
