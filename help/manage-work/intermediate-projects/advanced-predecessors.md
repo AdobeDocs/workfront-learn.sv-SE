@@ -11,21 +11,22 @@ team: Technical Marketing
 last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
-source-git-commit: a3bb4728c12a24929bdaf2351074c1cfc08a4511
+exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
+source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Avancerade föregångare
 
->[!IMPORTANT]
->
->Förutsättningar:
+
+>[!PREREQUISITES]
 >
 >* [Lär dig att sekvensera uppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
 >* Eller så är du redan bekväm med att använda föregående i dina projekt
+
 
 I den här videon får du lära dig mer om:
 
