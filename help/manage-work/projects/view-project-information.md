@@ -8,31 +8,26 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+source-git-commit: 0d591bb306efde6a5cd1606d42b058309d8494b8
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 # Visa projektinformation
 
-Oavsett om du tittar på huvudsidan [!UICONTROL Projekt] sida eller i ett enskilt projekt, finjustera listan för att se den information du behöver med [!UICONTROL Filter], [!UICONTROL Vyer]och [!UICONTROL Grupperingar].
+I den här videon får du lära dig hur du använder filter, vyer och grupperingar för att visa:
 
-Du kan få en högnivåbild av hur alla dina projekt fortskrider i [!UICONTROL Projekt] sida.
+* Information på projektnivå
+* Information om aktivitetsnivå
+* Information om ärendenivå
 
-![Projektsida med filter visas](assets/planner-fund-project-page-fvg-copy.png)
-
-Använd [!UICONTROL Filter] för att begränsa listan utifrån vissa kriterier. Välj sedan en [!UICONTROL Visa] för att visa kolumner med information som är relevant för dina projekt. Välj en [!UICONTROL Gruppering] för att ordna projekten på ett sätt som passar dig.
-
-När du är på [!UICONTROL Uppgifter] del av ett projekt, använda [!UICONTROL Filter], [!UICONTROL Vyer]och [!UICONTROL Grupperingar] igen för att hjälpa dig att övervaka arbetet. Eftersom du tittar på uppgifter istället för projekt har du en helt annan uppsättning alternativ.
-
-![Projektuppgiftslista med vyer](assets/planner-fund-task-list-fvg.png)
-
-Många [!DNL Workfront] kunderna skapar anpassade vyer som visar anpassad formulärinformation och andra fält som är relevanta för det arbete som utförs.
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on)
 
 ## Rekommenderade självstudiekurser i detta ämne
 
