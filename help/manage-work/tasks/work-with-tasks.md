@@ -1,6 +1,6 @@
 ---
 title: Arbeta med uppgifter
-description: Lär dig hur du redigerar befintliga uppgifter, lägger till och tar bort uppgifter och ändrar uppgiftsordningen i ett projekt i [!DNL  Workfront].
+description: Lär dig hur du redigerar befintliga uppgifter, lägger till och tar bort uppgifter och ändrar uppgiftsordningen i ett projekt i Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335088.jpeg
@@ -8,12 +8,13 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+recommendations: noDisplay,noCatalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -27,3 +28,9 @@ I den här videon får du lära dig:
 * Så här ändrar du uppgiftsordningen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on)
+
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Förstå överordnade-underordnade uppgifter](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)
+* [Tilldela uppgifter från projektplanen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
+* [Förstå varaktigheter för uppgifter](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)

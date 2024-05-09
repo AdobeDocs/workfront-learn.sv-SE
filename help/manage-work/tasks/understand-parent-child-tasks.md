@@ -1,6 +1,6 @@
 ---
 title: Förstå överordnade-underordnade uppgifter
-description: Lär dig hur uppgifter struktureras med en överordnad-underordnad relation i en [!DNL  Workfront] projekt.
+description: Lär dig hur uppgifter struktureras med en överordnad-underordnad relation i ett Workfront-projekt.
 activity: use
 feature: Work Management
 thumbnail: 335087.jpeg
@@ -8,12 +8,13 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+recommendations: noDisplay,noCatalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
@@ -26,18 +27,9 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on)
 
+## Rekommenderade självstudiekurser i detta ämne
 
-## Ändra en aktivitet till en underaktivitet och återställ den igen
-
-The **indrag** och **indrag** -knappar används för att ändra en uppgift till en underuppgift eller från en underuppgift till en icke-underuppgift.
-
-![En bild med knapparna för indrag och indrag.](assets/indent-and-outdent.png)
-
-Välj &quot;[!UICONTROL Vattenstämpeldesign]&quot; och klicka på **indrag** -knappen. &quot;[!UICONTROL Vattenstämpeldesign]&quot; blir en underaktivitet under &quot;[!UICONTROL Konceptuella modeller]&quot;, som blir en överordnad uppgift.
-
-![En bild på hur du använder indragsknappen.](assets/indent.png)
-
-Välj &quot;[!UICONTROL Vattenstämpeldesign]&quot; när det är en underuppgift och klicka på **indrag** -knappen. &quot;[!UICONTROL Vattenstämpeldesign]&quot; blir en vanlig aktivitet på samma nivå som &quot;[!UICONTROL Konceptuella modeller]&quot;.
-
-![En bild där knappen Minska indrag används.](assets/outdent.png)
+* [Skapa uppgifter](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks)
+* [Arbeta med uppgifter](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)
+* [Tilldela uppgifter från projektplanen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
 
