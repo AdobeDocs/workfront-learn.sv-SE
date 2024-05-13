@@ -12,9 +12,9 @@ jira: KT-8722
 recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,6 @@ Om du klickar i vissa delar av ett diagram visas ytterligare diagram eller en up
 * **Projektaktivitet**—Klicka på projektnamnet för att expandera diagrammet och visa projektaktiviteten per användare.
 * **Projekttreemap**—Klicka på en projektruta för att öppna listan för nedladdning och uppgifter.
 * **Aktivitet per team**—Klicka på teamnamnet för att expandera diagrammet så att du kan se aktivitet efter användare.
-* **Resurskapacitet**—Klicka på teamnamnet för att visa teamets kapacitetstabell.
 
 ## Vad innebär en mörkare och ljusare ton när det gäller teamaktiviteter?
 

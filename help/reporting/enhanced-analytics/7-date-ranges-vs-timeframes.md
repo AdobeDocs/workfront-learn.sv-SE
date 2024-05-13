@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -42,4 +42,4 @@ När du uppdaterar sidan, navigerar bort eller loggar ut från Workfront tas tid
 
 >[!NOTE]
 >
->Du kan inte använda det här tidsramsalternativet med projektets treemap och resursscheman.
+>Du kan inte använda det här alternativet för tidsramar med treemap-schemat för projekt.

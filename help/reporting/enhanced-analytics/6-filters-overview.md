@@ -12,9 +12,9 @@ jira: KT-8721
 recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ I den här videon får du lära dig:
 
 ## Persondiagramfilter
 
-People charts är baserade på home teams. De visar aktivitet och resurskapacitet för så många team som du väljer i filtret.
+People charts är baserade på home teams. De visar aktiviteten i så många team som du väljer i filtret.
 
 ## Ytterligare överväganden
 

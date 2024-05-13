@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ I diagrammet ser du:
 
 1. Klicka på [!UICONTROL Folk] i den vänstra panelen.
 1. Använd [!UICONTROL Filter] för att välja ett eller flera hemteam att undersöka.
-1. Teamkapaciteten visas under [!UICONTROL Resurskapacitet] diagram.
+1. Teamkapaciteten visas.
 
 ## Använda diagrammet
 
