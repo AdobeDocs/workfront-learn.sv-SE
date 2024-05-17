@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ I den här videon får du lära dig några snabba och enkla sätt att hitta proj
 
 ## Rekommenderade självstudiekurser i detta ämne
 
-* [Kom igång med att hantera ett projekt](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Dela ett projekt](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [Förstå projektgruppen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
-* [Förstå projektkommunikation](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [Kom igång med att hantera ett projekt](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Dela ett projekt](/help/manage-work/projects/share-a-project.md)
+* [Förstå projektgruppen](/help/manage-work/projects/understand-the-project-team.md)
+* [Förstå projektkommunikation](/help/manage-work/projects/understand-project-communication.md)

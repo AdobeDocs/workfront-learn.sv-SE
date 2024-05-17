@@ -12,9 +12,9 @@ jira: KT-8778
 recommendations: noDisplay,noCatalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: 39651f3785d2a539314c32a1aa368a1bae7effee
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,6 @@ Overview of task dependency types
 
 ## Rekommenderade självstudiekurser i detta ämne
 
-* [Förstå varaktigheter för uppgifter](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
-* [Förstå planerade timmar](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
-* [Förstå arbetsinsats](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
-
+* [Förstå varaktigheter för uppgifter](/help/manage-work/tasks/understand-task-durations.md)
+* [Förstå planerade timmar](/help/manage-work/tasks/understand-planned-hours.md)
+* [Förstå [!UICONTROL Arbetsinsats]](/help/manage-work/tasks/understand-work-effort.md)

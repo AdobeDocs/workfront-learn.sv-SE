@@ -12,9 +12,9 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Du kan läsa mer online med artikeln [Kom igång med Gantt-schemat](https://expe
 
 ## Rekommenderade självstudiekurser i detta ämne
 
-* [Kom igång med att hantera ett projekt](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Spåra projektets övergripande förlopp](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
-* [Spåra arbetets förlopp med projektstatistik](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Förstå [!UICONTROL Styrelse] visa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [Kom igång med att hantera ett projekt](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Spåra projektets övergripande förlopp](/help/manage-work/projects/track-overall-project-progress.md)
+* [Spåra arbetets förlopp med projektstatistik](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Förstå [!UICONTROL Styrelse] visa](/help/manage-work/projects/understand-the-board-view.md)

@@ -12,9 +12,9 @@ last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 99dfdc38fd2192da6a5ef46663634bd6070ee488
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ I den här videon får du lära dig att följa upp projektförloppet med:
 
 ## Rekommenderade självstudiekurser i detta ämne
 
-* [Kom igång med att hantera ett projekt](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Spåra arbetets förlopp med projektstatistik](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Förstå [!UICONTROL Gantt] visa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
-* [Förstå [!UICONTROL Styrelse] visa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [Kom igång med att hantera ett projekt](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Spåra arbetets förlopp med projektstatistik](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Förstå [!UICONTROL Gantt] visa](/help/manage-work/projects/understand-the-gantt-view.md)
+* [Förstå [!UICONTROL Styrelse] visa](/help/manage-work/projects/understand-the-board-view.md)
