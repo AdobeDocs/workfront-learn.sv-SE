@@ -13,19 +13,19 @@ jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
+source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 # Tilldela uppgifter från projektplanen
 
-I den här videon får du lära dig:
+I den här videon kommer du att:
 
-* Tilldela en uppgift med hjälp av intern redigering
-* Tilldela flera uppgifter till samma person
+* Lär dig hur du tilldelar en uppgift med infogad redigering
+* Lär dig hur du tilldelar flera uppgifter till samma person
 * Förstå värdet för jobbroller när uppgifter tilldelas
 * Förstå värdet av projektmallar när du tilldelar uppgifter
 * Förstå värdet med att tilldela uppgifter till team
