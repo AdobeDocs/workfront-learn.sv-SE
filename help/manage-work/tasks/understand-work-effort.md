@@ -1,6 +1,6 @@
 ---
 title: Förstå [!UICONTROL Arbetsinsats]
-description: Lär dig använda [!UICONTROL Arbetsinsats] för att få en snabb uppskattning av planerade timmar i projekttidslinjen.
+description: Lär dig använda [!UICONTROL Arbetsinsats] för att få en ungefärlig uppskattning av planerade timmar på projekttidslinjen.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,26 +9,25 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10153
+last-substantial-update: 2023-05-28T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+source-git-commit: 2bba8fb882cd0a15c76aa38ea54cce7146311414
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
 # Förstå [!UICONTROL Arbetsinsats]
 
-Workfront vet att vissa organisationer inte använder planerade timmar när de skapar projekt. Men för att få ut mesta möjliga av Workfront resurshanteringsverktyg och bättre förståelse för mängden arbete som användarna tilldelas är planerade timmar i projekt ett måste.
+I den här videon får du lära dig:
 
-Med båda koncepten i åtanke skapade Workfront [!UICONTROL Arbetsinsats] alternativ.
+* Vilken arbetsinsats det är och hur den kan hjälpa dig att hantera projekt
+* Så här använder du Arbetsinsats
+* Så här skapar du en uppgiftsvy för arbetsinsats
 
-I stället för att ange specifika timmar för varje uppgift i projektet kan du använda [!UICONTROL Arbetsinsats] för att ange om en uppgift är en liten, medelstor eller stor åtgärd. Workfront beräknar automatiskt planerade timmar med dessa uppgifter baserat på inställningarna i projektet.
-
-På så sätt, om du tänker använda något av Workfront resurshanteringsverktyg, är uppskattningarna du behöver redan ifyllda och användarna har koll på hur mycket arbete som kommer att utföras.
-
-![Projektuppgiftslista med [!UICONTROL Arbetsinsats] kolumn](assets/planner-fund-work-effort.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on)
 
 Mer information om [!UICONTROL Arbetsinsats], se [Översikt över arbetsinsats](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) artikel.
 
@@ -36,4 +35,4 @@ Mer information om [!UICONTROL Arbetsinsats], se [Översikt över arbetsinsats](
 
 * [Förstå varaktigheter för uppgifter](/help/manage-work/tasks/understand-task-durations.md)
 * [Förstå planerade timmar](/help/manage-work/tasks/understand-planned-hours.md)
-
+* [Skapa en grundvy](/help/reporting/basic-reporting/create-a-basic-view.md)
