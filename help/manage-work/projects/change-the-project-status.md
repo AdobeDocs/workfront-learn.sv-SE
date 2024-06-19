@@ -11,7 +11,7 @@ level: Beginner
 last-substantial-update: 2023-05-12T00:00:00Z
 jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
-source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 I den här videon får du lära dig:
 
-* Ändra projektstatus till [!UICONTROL Slutförd]
-* Varför ska du ändra projektstatus till [!UICONTROL Slutförd]
-* Så här gör du om du inte kan ändra projektstatus till [!UICONTROL Slutförd]
+* Ändra projektstatus till [!UICONTROL Complete]
+* Varför ska du ändra projektstatus till [!UICONTROL Complete]
+* Så här gör du om du inte kan ändra projektstatus till [!UICONTROL Complete]
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on)

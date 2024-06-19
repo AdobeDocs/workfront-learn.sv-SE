@@ -11,7 +11,8 @@ team: Technical Marketing
 last-substantial-update: 2024-02-07T00:00:00Z
 jira: KT-14692
 doc-type: video
-source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
+exl-id: aad45ea3-b9dd-4568-a6fe-749640e12878
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
@@ -25,4 +26,3 @@ I den här videon får du lära dig:
 * Så här skapar du snabbt en ny rapport genom att kopiera och redigera en liknande rapport
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on)
-

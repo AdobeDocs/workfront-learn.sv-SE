@@ -1,6 +1,6 @@
 ---
 title: Förstå planerade timmar
-description: Läs vad som planeras för timmar [!DNL  Workfront], varför planerade timmar är viktiga för ditt projekt och hur du lägger till planerade timmar till aktiviteter.
+description: Lär dig vad som är planerat timmar, varför planerade timmar är viktiga för ditt projekt och hur du lägger till planerade timmar till aktiviteter.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -12,9 +12,9 @@ jira: KT-8777
 recommendations: noDisplay,noCatalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---

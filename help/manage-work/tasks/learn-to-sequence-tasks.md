@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2023-06-10T00:00:00Z
 jira: KT-8778
 recommendations: noDisplay,noCatalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -23,10 +24,11 @@ ht-degree: 0%
 
 I den här videon får du lära dig:
 
-* Vad en föregångare är [!DNL  Workfront]
-* Hur föregångare sekvenserar uppgifter i ett projekt
+* Vad en föregångare är i Workfront
 * Så här använder du varaktighet och föregångare för att skapa en tidslinje
-* Ändra eller ange föregående
+* Hur föregångare sekvenserar uppgifter i ett projekt
+* Hur ett startdatum för en uppgift påverkar uppgiftsbegränsningen
+* Ange föregående
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 
