@@ -7,13 +7,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-07-10T00:00:00Z
 thumbnail: 336091.png
 jira: KT-8807
+recommendations: noDisplay,noCatalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: e2a8ab1d8139008c145f584c8c2181a082d1923b
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -23,6 +25,13 @@ ht-degree: 0%
 I den här videon får du lära dig att:
 
 * Sök efter förfrågningar som du har skickat in
-* Uppdatera en begäran
+* Göra en uppdatering på sammanfattningspanelen
+* Öppna förfrågningssidan
+* Uppdatera en begäran i [!UICONTROL Uppdateringar] panel
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
+
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Gör en förfrågan](/help/manage-work/issues-requests/make-a-request.md)
+* [Söka efter och hantera förfrågningar](/help/manage-work/issues-requests/find-requests.md)
