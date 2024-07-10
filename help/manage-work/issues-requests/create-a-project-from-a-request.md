@@ -9,11 +9,12 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -58,3 +59,9 @@ Om du tar med ett anpassat formulär i en projektmall tilldelas det automatiskt 
 Om du vill öka effektiviteten i ditt arbete och göra det enklare att konvertera problem i en snabb miljö kan du konvertera ett ärende till en aktivitet eller ett projekt från en problemlista i ett projekt, en rapport eller en kontrollpanel. Välj bara ett problem och klicka sedan på den 3-punktsmeny som visas.
 
 ![En bild av en projektskärm med olika alternativ för problemkonvertering](assets/convert-from-a-list.png)
+
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Konvertera ett problem/en begäran till en uppgift](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Hantera oplanerade arbeten](/help/manage-work/issues-requests/handle-unplanned-work.md)
+

@@ -9,11 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8808
+recommendations: noDisplay,noCatalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -34,6 +35,11 @@ I den här videon får du lära dig att:
 >
 >Dokument, korrektur och arbetsobjekt (projekt, uppgifter och ärenden) som kräver godkännande finns i projekt och anpassade rapporter förutom [!DNL Workfront Home].
 
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Skapa en godkännandeprocess för enstaka användning](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Bifoga och redigera befintliga godkännandeprocesser](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+* [Delegera uppgifter, ärenden och godkännanden](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
 <!---

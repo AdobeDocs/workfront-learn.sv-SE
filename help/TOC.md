@@ -3,7 +3,7 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 20d5b2a226651ae8c4dd24da76e3cda53cd647d1
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
 workflow-type: tm+mt
 source-wordcount: '2404'
 ht-degree: 0%
@@ -141,7 +141,6 @@ ht-degree: 0%
       + [Uppdatera en begäran](manage-work/issues-requests/update-a-request.md)
       + [Konvertera ett problem/en begäran till ett projekt](manage-work/issues-requests/create-a-project-from-a-request.md)
       + [Konvertera ett problem/en begäran till en uppgift](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [Granska och godkänn digitalt arbete](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Rapportera problem](manage-work/issues-requests/report-on-issues.md)
 
    + Begäranköer {#request-queues}
@@ -160,6 +159,7 @@ ht-degree: 0%
    + Godkännandeprocesser och milstolpar {#approval-processes-and-milestone-paths}
       + [Skapa en godkännandeprocess för enstaka användning](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Bifoga och redigera befintliga godkännandeprocesser](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+      + [Granska och godkänn digitalt arbete](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Delegera uppgifter, ärenden och godkännanden](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Använd milstolpar](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
       + [Visa milstolpar](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
@@ -300,7 +300,7 @@ ht-degree: 0%
       + [Skapa initiativ med en plan](manage-resources/scenario-planner/creating-initiatives-within-a-plan.md)
       + [Justera jobbroll, budget och kostnadsinformation i scenarioplaneraren](manage-resources/scenario-planner/adjust-job-role-budget-and-cost-information-in-the-scenario-planner.md)
       + [Uppdatera och kopiera planer](manage-resources/scenario-planner/update-and-copy-plans.md)
-      + [Publicera ett scenario](manage-resources/scenario-planner/publish-a-scenario.md)
+      + [Publish i ett scenario](manage-resources/scenario-planner/publish-a-scenario.md)
 
 + Workfront-mål {#workfront-goals}
    + Skapa en vision för din organisation {#establish-a-vision-and-strategy}
@@ -560,7 +560,7 @@ ht-degree: 0%
       + [Förstå metadata och nyckelordsrutiner](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [Arbeta med resurser som deltagare](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [Skicka en fil som deltagare](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
-      + [Publicera resurser som deltagare](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
+      + [Publish resurser som deltagare](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
       + [Lägg till en [!UICONTROL WORKFRONT DAM] link](workfront-dam/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
 
    + Brand Connect-användare {#brand-connect}
