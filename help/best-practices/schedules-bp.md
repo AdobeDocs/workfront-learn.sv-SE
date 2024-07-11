@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10925
 exl-id: 508d6f90-f9f4-4f12-9bf1-5e89246f3e3a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 214457a95a310920f5f7c623021b5d9d40ec61e8
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -38,6 +38,9 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 * Lägg till en påminnelse till Adobe Workfront-systemadministratörens kalender om att uppdatera scheman vid en viss tidpunkt varje år.
 
+
+Instruktioner om hur du skapar och hanterar scheman finns i [Skapa och hantera tidsplaner](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) självstudie.
+
 </br>
 </br>
 
@@ -57,7 +60,7 @@ Skapa inte dussintals scheman för olika grupper, team eller individer. Färre s
 
 Separata scheman kan behövas när:
 
-* Anställda befinner sig i olika tidszoner (USA och östra USA) eller i olika regioner (EMEA jämfört med APAC).
+* Anställda befinner sig i olika tidszoner (i USA och östra USA) eller i olika regioner (EMEA jämfört med APAC).
 
 * Du har deltidsarbetare som arbetar mindre än 40 timmar per vecka.
 
@@ -76,9 +79,9 @@ Det totala antalet arbetstimmar i schemat för varje arbetsdag ska vara lika med
 
 Om de totala arbetstiderna inte stämmer överens kan det leda till felaktigt beräknade datum- och tidsberäkningar på projekttidslinjen och i rapporter.
 
-Om systeminställningen till exempel är åtta timmar per dag och schemat som tilldelats ett projekt bara har sju timmar per dag, kommer du att märka att en uppgift med en dagslängd tar mer än en dag att slutföra, eftersom den försöker passa in på åtta timmar.
+Om systeminställningen till exempel är åtta timmar per dag och schemat som tilldelats ett projekt bara har sju arbetstimmar per dag, kommer du att märka att en aktivitet med en dagslängd tar mer än en dag att slutföra, eftersom den försöker passa in på åtta timmar.
 
-**Anteckning**: Systemets globala projektinställningar görs i Inställningar > Projektinställningar > Beräkningar av tidslinje > Normala timmar per arbetsdag.
+**Anteckning**: Systemets globala projektinställningar görs i Inställningar > Projektinställningar > Tidslinjeberäkningar > Vanliga timmar per arbetsdag.
 
 </br>
 </br>
