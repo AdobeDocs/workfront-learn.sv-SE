@@ -35,5 +35,5 @@ I den här videon får du lära dig att följa upp projektförloppet med:
 
 * [Kom igång med att hantera ett projekt](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Spåra arbetets förlopp med projektstatistik](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Förstå [!UICONTROL Gantt] visa](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Förstå [!UICONTROL Styrelse] visa](/help/manage-work/projects/understand-the-board-view.md)
+* [Förstå [!UICONTROL Gantt]-vyn](/help/manage-work/projects/understand-the-gantt-view.md)
+* [Förstå vyn för [!UICONTROL anslagstavlan]](/help/manage-work/projects/understand-the-board-view.md)

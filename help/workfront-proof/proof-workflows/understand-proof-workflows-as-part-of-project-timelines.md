@@ -1,6 +1,6 @@
 ---
 title: Korrekturarbetsflöden som en del av projekttidslinjer
-description: Lär dig rekommendationer för hur du blandar en gransknings- och godkännandeprocess med en projekttidslinje i [!DNL  Workfront].
+description: Lär dig rekommendationer för att blanda en gransknings- och godkännandeprocess med en projekttidslinje i  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

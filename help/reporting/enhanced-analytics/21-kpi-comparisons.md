@@ -1,6 +1,6 @@
 ---
 title: Förstå ett KPI-jämförelseexempel
-description: Lär dig jämföra KPI:er i [!UICONTROL Förbättrad analys] från det aktuella datumintervallet till ett tidigare datumintervall och hur du jämför nyckeltal med två olika filter.
+description: Lär dig hur du jämför KPI:er i [!UICONTROL Förbättrad analys] från det aktuella datumintervallet med ett tidigare datumintervall och hur du jämför KPI:er med två olika filter.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png

@@ -1,6 +1,6 @@
 ---
 title: Förstå scenarioplanering
-description: Lär dig mer om schemaläggning, cykler och körningar av scenarier [!DNL Adobe Workfront Fusion].
+description: Lär dig mer om schemaläggning, cykler och körningar för scenarier i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

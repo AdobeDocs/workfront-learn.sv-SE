@@ -1,6 +1,6 @@
 ---
 title: Konfigurera metadatanyckelord
-description: Lär dig mer om vilka nyckelord som är, hur du ställer in en nyckelordslista och hur du skapar och importerar en lista med nyckelord i [!UICONTROL WORKFRONT DAM].
+description: Lär dig mer om vilka nyckelord som är, hur du ställer in en nyckelordslista och hur du skapar och importerar en lista med nyckelord i [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 I den här videon kommer du att:
 
-* Förstå hur nyckelord används i [!UICONTROL WORKFRONT DAM]
+* Förstå hur nyckelord används i [!UICONTROL Workfront DAM]
 * Konfigurera en nyckelordslista
 * Skapa och importera en lista med nyckelord
 
@@ -44,12 +44,12 @@ Det är viktigt att ge en översikt över bästa praxis för att vägleda era ny
 
 En nyckelordsstrategi hjälper dig att uppnå en hög nivå av konsekvens och precision med hur dina resurser taggas.
 
-Tänk på användningsexempel när du lägger till nyckelord för att behålla fokus. Fyll i den här meningen när du överväger ett nyckelord: &quot;**Hur sannolikt är det att [infoga person/roll] söker efter [infoga nyckelord] när du letar efter [infoga resurs]?**&quot;
+Tänk på användningsexempel när du lägger till nyckelord för att behålla fokus. Fyll i den här meningen när du överväger ett nyckelord: &quot;**Hur sannolikt är det att [insert person/role] söker efter [insert keyword] när [insert asset]?**&quot; söks efter insert asset?&quot;
 
 Skapa en översikt över vilka typer av nyckelord som ska läggas till i resurser. En bra tumregel när du lägger till nyckelord är att svara på följande grundläggande frågor:
 
-* **Vem**—Vem riktar sig resursen till?
-* **Vad**—Vad är syftet med tillgången?
-* **Plats**—Var skapades resursen och/eller var kan den användas?
-* **När**—När skapades resursen och/eller när den skulle användas?
-* **Varför**—Varför skapades den (för en händelse, en broschyr)?
+* **Vem** - Vem riktar resursen sig till?
+* **Vad** - Vad är syftet med resursen?
+* **Var** - Var skapades resursen och/eller var kan den användas?
+* **När** - När skapades resursen och/eller när ska den användas?
+* **Varför** - Varför skapades den (för en händelse, en broschyr)?

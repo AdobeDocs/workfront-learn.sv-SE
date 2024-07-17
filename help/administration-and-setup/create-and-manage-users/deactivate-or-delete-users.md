@@ -19,29 +19,29 @@ ht-degree: 0%
 
 # När och hur användare inaktiveras eller tas bort
 
-När en användare lämnar organisationen eller inte längre använder [!DNL Workfront]vill du inaktivera inloggningen. Du bör bara ta bort en användarprofil i vissa situationer.
+När en användare lämnar organisationen eller inte längre använder [!DNL Workfront] vill du inaktivera inloggningen. Du bör bara ta bort en användarprofil i vissa situationer.
 
 ## Inaktivera
 
-När du inaktiverar en användare tas licensen bort från användarens profil, så att användaren inte längre kan logga in eller ha åtkomst till [!DNL Workfront]. Deras licens kan tilldelas en annan användare.
+Om du inaktiverar en användare tas licensen bort från användarens profil, så användaren kan inte längre logga in eller ha åtkomst till [!DNL Workfront]. Deras licens kan tilldelas en annan användare.
 
 En inaktiverad användare kan inte tilldelas nytt arbete, men de förblir tilldelade till allt befintligt arbete.
 
-En frilansares arbete är till exempel färdigt för ett visst projekt, så du vill inaktivera inloggningen tills nästa gång den behövs.
+En frilansares arbete är till exempel färdigt för ett visst projekt, så du vill inaktivera användarens inloggning tills nästa gång de behövs.
 
 ## Ta bort
 
-I sällsynta fall - som en oavsiktlig inmatning eller en testanvändare - kan en användarinloggning behöva tas bort från [!DNL Workfront]. Om du tar bort en användare tas användarens association med objekt i bort [!DNL Workfront]— arbetsuppgifter, anteckningar, timmar, dokument, objekt som de har skapat osv.
+I sällsynta fall - som en oavsiktlig inmatning eller en testanvändare - kan en användarinloggning behöva tas bort från [!DNL Workfront]. Om du tar bort en användare tas användarens association med objekt i [!DNL Workfront] bort - arbetstilldelningar, anteckningar, timmar, dokument, objekt som användaren har skapat osv.
 
-The **endast** tid [!DNL Workfront] rekommenderar att du tar bort en användare om användaren aldrig har tilldelats till jobbet eller inte har någon historik med Workfront-objekt.
+**Endast** time [!DNL Workfront] rekommenderar att du tar bort en användare om användaren aldrig har tilldelats att arbeta eller inte har någon historik med Workfront-objekt.
 
-[!DNL Workfront] **starkt** rekommenderar att du inaktiverar en användare i stället för att ta bort en användare. När du inaktiverar behålls användarinformationen i [!DNL Workfront]som kan behövas för korrekt rapportering, projektledning osv. Om du har frågor om huruvida du ska inaktivera eller ta bort en användare kan du kontakta din [!DNL Workfront] konsult eller [!DNL Workfront] kundsupport.
+[!DNL Workfront] **strongly** rekommenderar att du inaktiverar en användare i stället för att ta bort en användare. Om du inaktiverar behålls användarinformationen i [!DNL Workfront], vilket kan behövas för korrekt rapportering, projekthantering osv. Om du har frågor om huruvida du ska inaktivera eller ta bort en användare, kan du kontakta din [!DNL Workfront]-konsult eller [!DNL Workfront] kundsupport.
 
-![Fler menyer med alternativ på [!DNL Users] page](assets/admin-fund-adding-users-11.png)
+![Fler meny med alternativ på [!DNL Users] sida ](assets/admin-fund-adding-users-11.png)
 
 ### Inaktivera eller ta bort en användare
 
-1. Välj **[!UICONTROL Användare]** från [!UICONTROL Huvudmeny].
+1. Välj **[!UICONTROL Användare]** på [!UICONTROL huvudmenyn].
 1. Markera användaren genom att markera rutan bredvid namnet.
-1. Klicka på **[!UICONTROL Mer]** nedrullningsbar meny.
+1. Klicka på listrutan **[!UICONTROL Mer]**.
 1. Välj **[!UICONTROL Inaktivera]** eller **[!UICONTROL Ta bort]**.

@@ -1,6 +1,6 @@
 ---
 title: Skapa en begärandekö
-description: Lär dig hur du ställer in en begärandekö och upprättar köinformation i [!DNL  Workfront]. Följ de här stegen för att hjälpa organisationen att hantera arbetsbelastningen.
+description: Lär dig hur du konfigurerar en begärandekö och upprättar köinformation i  [!DNL  Workfront]. Följ de här stegen för att hjälpa organisationen att hantera arbetsbelastningen.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
 source-git-commit: 09d46b1bb90b86af49bc300bba8822c93ee9e050
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -36,8 +36,8 @@ Låt oss titta lite på den information du just fick.
 
 1. Projektstatus = Aktuell
 1. &quot;Problem&quot; från begärandetypen har valts
-1. &quot;Publicera som kö för hjälpbegäran&quot; är valt
+1. &quot;Publish as Help Request Queue&quot;
 1. Projektstatus = Aktuell eller Planering
 
-**Svar:** 1) Projektstatus = Aktuell och 3) &quot;Publicera som kö för hjälpbegäran&quot; har valts
+**Svar:** 1) Projektstatus = Aktuell och 3) &quot;Publish som kö för hjälpbegäran&quot; har valts
 

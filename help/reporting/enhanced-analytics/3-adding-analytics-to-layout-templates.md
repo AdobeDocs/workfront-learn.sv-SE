@@ -1,6 +1,6 @@
 ---
-title: Åtkomst [!UICONTROL Förbättrad analys]
-description: Läs om hur system- och gruppadministratörer ger åtkomst till [!UICONTROL Förbättrad analys] via en layoutmall.
+title: Åtkomst till [!UICONTROL Förbättrad analys]
+description: Lär dig hur system- och gruppadministratörer ger åtkomst till [!UICONTROL Förbättrad analys] via en layoutmall.
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 # Få tillgång till Förbättrad analys
 
-Precis som de flesta andra funktioner i Workfront har du tillgång till [!UICONTROL Förbättrad analys] på huvudmenyn. Men [!UICONTROL Analyser] är inte på huvudmenyn som standard.
+Precis som de flesta andra funktioner i Workfront har du tillgång till [!UICONTROL Förbättrad analys] på huvudmenyn. Men [!UICONTROL Analytics] finns inte på huvudmenyn som standard.
 
 ![En bild av huvudmenyn ](assets/analytics-on-main-menu.png)
 
@@ -32,9 +32,9 @@ Om du inte ser det där måste system- eller gruppadministratören lägga till d
 
 ## Lägg in analyser i layoutmallar
 
-I den här videon får du lära dig hur system- och gruppadministratörer ger åtkomst till [!UICONTROL Analyser] i Workfront.
+I den här videon får du lära dig hur system- och gruppadministratörer ger åtkomst till [!UICONTROL Analytics] i Workfront.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on)
 
-Alla med en Workfront-licens (i [!UICONTROL Workfront Business] eller senare) kan komma åt [!UICONTROL Analyser] när den har lagts till i layoutmallen tilldelas den. Du kan dock bara se projekt och användarinformation om det är tillåtet enligt din Workfront åtkomstnivå och delningsbehörigheterna för specifika projekt och användare.
+Alla som har en Workfront-licens (i [!UICONTROL Workfront Business]-planer eller senare) har tillgång till [!UICONTROL Analytics] när den har lagts till i layoutmallen som de har tilldelats. Du kan dock bara se projekt och användarinformation om det är tillåtet enligt din Workfront åtkomstnivå och delningsbehörigheterna för specifika projekt och användare.

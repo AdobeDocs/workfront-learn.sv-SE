@@ -22,7 +22,7 @@ ht-degree: 0%
 I den här videon får du lära dig:
 
 * Vilka milstolpbanor är
-* Så här skapar du milstolpebanor
+* Hur milstolpebanor skapas
 * Så här lägger du till milstolpesteg i en milstolpebana
 
 >[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Förstå att hitta resurser som medverkande
-description: Lär dig hur du söker efter resurser, söker i mappar, effektiviserar sökresultat, använder metadata och nyckelord som sökfilter i [!UICONTROL WORKFRONT DAM].
+description: Lär dig hur du söker efter resurser, söker i mappar, effektiviserar sökresultat, använder metadata och nyckelord som sökfilter i [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -34,7 +34,7 @@ I den här videon får du lära dig att:
 
 En grundläggande sökning söker efter filnamn, metadatafält, nyckelord och resursinnehåll (beroende på resurstyp). Mappnamnet ingår inte.
 
-De flesta sökresultat är exakta träffar. Ett undantag från den här&quot;exakta matchningsregeln&quot; är när [!UICONTROL WORKFRONT DAM] söker i filnamnsfältet. [!UICONTROL WORKFRONT DAM] returnerar matchningar av partiella filnamn, i stället för att bara matcha exakta filnamn.
+De flesta sökresultat är exakta träffar. Ett undantag till den här&quot;exakta matchningsregeln&quot; är när [!UICONTROL Workfront DAM] söker igenom filnamnsfältet. [!UICONTROL Workfront DAM] returnerar partiella filnamnsmatchningar, i stället för bara exakta filnamnsmatchningar.
 
 ## Användaroperatorer vid sökning
 

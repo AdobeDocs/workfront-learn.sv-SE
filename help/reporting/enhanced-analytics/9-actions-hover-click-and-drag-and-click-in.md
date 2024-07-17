@@ -33,23 +33,23 @@ I den här videon får du lära dig:
 
 Om du klickar i vissa delar av ett diagram visas ytterligare diagram eller en uppdelning av diagrammets information.
 
-* **Flygplan**—Klicka på projektnamnet för att se Burndown and Tasks i flightdiagram.
-* **Projektaktivitet**—Klicka på projektnamnet för att expandera diagrammet och visa projektaktiviteten per användare.
-* **Projekttreemap**—Klicka på en projektruta för att öppna listan för nedladdning och uppgifter.
-* **Aktivitet per team**—Klicka på teamnamnet för att expandera diagrammet så att du kan se aktivitet efter användare.
+* **Flygplan** - Klicka på projektnamnet om du vill visa nedladdning och uppgifter i flygdiagram.
+* **Projektaktivitet** - Klicka på projektnamnet för att expandera diagrammet och visa projektaktiviteten per användare.
+* **Projekttreemap** - Klicka på en projektruta om du vill visa Burndown och Tasks i flygscheman.
+* **Aktivitet per team** - Klicka på teamnamnet för att expandera diagrammet så att du kan se aktivitet per användare.
 
 ## Vad innebär en mörkare och ljusare ton när det gäller teamaktiviteter?
 
-**Användare som är inloggade:** Lila rutor visar att personer i hemteamet loggade in den dagen. En mörkare ton anger att fler personer loggar in.
+**Användare som är inloggade:** lila rutor visar att personer i hemteamet är inloggade den dagen. En mörkare ton anger att fler personer loggar in.
 
-![En bild med lila skuggade rutor](assets/purple-shaded-boxes.png)
+![En bild av lila skuggade rutor](assets/purple-shaded-boxes.png)
 
-**Aktivitetsstatusändring:** Rutor visar att personer i hemteamet ändrade status för en uppgift den dagen. En mörkare ton anger att ett högre antal uppgiftsstatusvärden ändras.
+**Åtgärdsstatusändring:** Rutor för rosa visar att personer i hemteamet ändrade status för en aktivitet den dagen. En mörkare ton anger att ett högre antal uppgiftsstatusvärden ändras.
 
-![En bild av rosa skuggade rutor](assets/pink-shaded-boxes.png)
+![En bild med rosa skuggade rutor](assets/pink-shaded-boxes.png)
 
-**Slutförda uppgifter:** Blå rutor visar att folk i hemteamet slutförde en uppgift den dagen. En mörkare ton anger att fler uppgifter slutförs.
+**Uppgifter har slutförts:** Blå rutor visar att personer i hemteamet slutförde en uppgift den dagen. En mörkare ton anger att fler uppgifter slutförs.
 
 ![En bild med blå skuggade rutor](assets/blue-shaded-boxes.png)
 
-Mer information finns i [Förstå aktivitetsbaserad teamvisualisering](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en).
+Mer information finns i [Förstå visualisering av aktivitet per team](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en).

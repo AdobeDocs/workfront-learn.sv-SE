@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -40,7 +40,7 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 </br>
 
 
-## Bästa praxis för belastningsfördelning
+## Bästa praxis för belastningsutjämnare
 
 * Använd Utjämning av arbetsbelastning för att kontrollera att personen du tilldelar till en uppgift/ett problem är tillgänglig för att slutföra den.
 
@@ -58,7 +58,7 @@ Använd Utjämning av arbetsbelastning för att kontrollera att personen du till
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Utjämning av arbetsbelastning ger en tydlig visuell mappning av resursöverbeläggning och underutnyttjande så att du enkelt kan se vilka teammedlemmar som har bandbredd för att slutföra uppgiften eller problemet i tid.
 
@@ -80,6 +80,6 @@ Koppla scheman och jobbroller till användarprofiler.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 För att få den mest exakta informationen om dina resursers färdigheter och tillgänglighet rekommenderar vi att du kopplar scheman och jobbroller till dina användarprofiler i Workfront. Den här informationen används av flera av Workfront resurshanteringsverktyg.

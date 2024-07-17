@@ -1,6 +1,6 @@
 ---
 title: Vad är felhantering?
-description: Lär dig några vanliga feltyper och hur systemet hanterar dem som standard. Lär dig sedan hur du använder anpassad felhantering i [!DNL Adobe Workfront Fusion].
+description: Lär dig några vanliga feltyper och hur systemet hanterar dem som standard. Lär dig sedan hur du använder anpassad felhantering i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

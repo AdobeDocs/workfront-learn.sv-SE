@@ -1,6 +1,6 @@
 ---
-title: Anpassa utseendet på [!UICONTROL Brand Connect]
-description: Läs mer om vad [!UICONTROL Brand Connect] används för och hur du får åtkomst [!UICONTROL Brand Connect] inställningar i [!UICONTROL Workfront DAM].
+title: Anpassa utseendet på [!UICONTROL varumärkesanslutningen]
+description: Lär dig mer om vad [!UICONTROL Brand Connect] används för och hur du får åtkomst till inställningarna för [!UICONTROL Brand Connect] i [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ---
 
-# Anpassa utseendet på [!UICONTROL Brand Connect]
+# Anpassa utseendet på [!UICONTROL varumärkesanslutningen]
 
 I den här videon får du lära dig:
 
-* Vad [!UICONTROL Brand Connect] används för
-* Åtkomst [!UICONTROL Brand Connect] inställningar i [!UICONTROL Workfront DAM]
+* Det som [!UICONTROL Brand Connect] används för
+* Åtkomst till inställningarna för [!UICONTROL Brand Connect] i [!UICONTROL Workfront DAM]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335241/?quality=12&learn=on)

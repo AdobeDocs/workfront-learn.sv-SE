@@ -1,6 +1,6 @@
 ---
-title: Gå till din att göra-lista via [!DNL Slack]
-description: Lär dig hur du får tillgång till din att göra-lista i [!DNL Workfront]
+title: Åtkomst till din att göra-lista via  [!DNL Slack]
+description: Lär dig hur du får tillgång till din att göra-lista i  [!DNL Workfront]
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Gå till din att göra-lista via [!DNL Slack]
+# Åtkomst till din att göra-lista via [!DNL Slack]
 
 I den här videon får du lära dig att:
 

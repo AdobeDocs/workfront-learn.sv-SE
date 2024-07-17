@@ -1,6 +1,6 @@
 ---
 title: Överföra ett bevis för en webbplats
-description: Lär dig hur du överför en webbplats som ett statiskt korrektur och interaktivt korrektur i [!DNL  Workfront].
+description: Lär dig hur du överför en webbplats som ett statiskt och interaktivt korrektur i  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -28,9 +28,9 @@ I den här videon får du lära dig att:
 >[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on)
 
 
-## Interaktiva innehållshändelser
+## Överväganden i interaktivt innehåll
 
-När du börjar korrekturgranska webbplatser kan det hända att du märker att [!DNL Workfront] stöder inte alla konfigurationer och situationer. Vissa kriterier måste vara uppfyllda:
+När du börjar korrekturgranska webbplatser kan det hända att [!DNL Workfront] inte stöder alla konfigurationer och situationer. Vissa kriterier måste vara uppfyllda:
 
 * Webbplatsen måste ha ett säkert protokoll, vilket innebär att webbplatsadressen börjar med https.
 * Det går inte att bädda in webbplatsen som ska korrektur i en iframe.

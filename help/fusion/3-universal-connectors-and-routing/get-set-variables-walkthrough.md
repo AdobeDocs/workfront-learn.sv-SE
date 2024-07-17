@@ -1,6 +1,6 @@
 ---
 title: Genomgång av variabler för att ange/hämta
-description: Lär dig hur du söker efter information om ett projekt i Workfront och skickar ett e-postmeddelande med relaterad information i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du söker efter information om ett projekt i Workfront och skickar ett e-postmeddelande med relaterad information i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -41,8 +41,8 @@ Denna övning bygger på vad du lärde dig under genomgången, men lösningen ti
 
 Gör en klon av scenariot&quot;Dela variabler mellan routningssökvägar&quot; som du skapade i den här genomgången. Mejla det meddelande du skriver till projektägaren och projektsponsorn. Du vill också inkludera projektvillkoret i meddelandet. (För tillfället är det bra att villkoret visas som en nyckel med två bokstäver.)
 
-**Utmaning:** Schemalägg ditt scenario för att skicka det här&quot;e-postmeddelandet&quot; varje vecka kl. 8 på måndag.
+**Utmaning:** Schemalägg ditt scenario för att skicka det här&quot;e-postmeddelandet&quot; varje vecka kl. 8.00 på måndag.
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

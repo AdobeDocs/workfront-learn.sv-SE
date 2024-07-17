@@ -1,6 +1,6 @@
 ---
 title: Granska pågående uppgifter
-description: Lär dig hur du får åtkomst till uppgifter i färdplanen och hur du snabbt ser vilka uppgifter som inte har slutförts i ett projekt, allt i [!UICONTROL Förbättrad analys].
+description: Lär dig hur du får åtkomst till uppgifter i färdplanen och hur du snabbt kan se vilka uppgifter som inte har slutförts i ett projekt, allt i [!UICONTROL Förbättrad analys].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -39,7 +39,7 @@ Den här informationen kan hjälpa dig att avgöra:
 * Hur nära en uppgift är att slutföra.
 * Vem du ska prata med om en viss uppgift.
 
-![En bild som visar uppgifter i flygdiagrammet med siffror i områden som beskrivs i punkterna nedan](assets/section-2-11.png)
+![En bild som visar uppgifter i flightdiagram med siffror i områden som beskrivs i punkterna nedan](assets/section-2-11.png)
 
 I diagrammet ser du:
 

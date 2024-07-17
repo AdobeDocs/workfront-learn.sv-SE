@@ -28,7 +28,7 @@ Installera och använd de olika områdena i Workfront Dev-verktyget för att fö
 
 >[!NOTE]
 >
->Workfront Fusion Dev-verktyget är bara tillgängligt i webbläsaren Chrome när du använder [Kromutvecklare](https://developer.chrome.com/docs/devtools/).
+>Workfront Fusion Dev-verktyget är bara tillgängligt i Chrome webbläsare när du använder [Chrome utvecklingsverktyg](https://developer.chrome.com/docs/devtools/).
 
 ![Devtool Image 1](../12-exercises/assets/devtool-walkthrough-1.png)
 
@@ -47,10 +47,10 @@ Installera och använd de olika områdena i Workfront Dev-verktyget för att fö
 
    ![Devtool Image 3](../12-exercises/assets/devtool-walkthrough-3.png)
 
-   **Använd liveströmmen.**
+   **Använd direktuppspelningen.**
 
 1. Börja med att öppna scenariot&quot;Använda datalager för att synkronisera data&quot;.
-1. Öppna utvecklingsverktyget genom att skriva F12 eller funktionen F12. Du kan också klicka på menyn med tre punkter i adressfältet i Chrome och navigera till Utvecklarverktyg.
+1. Öppna utvecklingsverktyget genom att skriva F12 eller funktionen F12. Du kan också klicka på trepunktsmenyn i Chrome adressfält och navigera till Utvecklarverktyg.
 
    ![Devtool Image 4](../12-exercises/assets/navigate-to-devtools.png)
 
@@ -60,7 +60,7 @@ Installera och använd de olika områdena i Workfront Dev-verktyget för att fö
 
    ![Devtool Image 4](../12-exercises/assets/devtool-walkthrough-4.png)
 
-   **Använda felsökningsprogrammet för scenarier**
+   **Använd felsökaren för scenarier**
 
 1. Välj Felsökning för scenario och klicka på en modul för att visa information om åtgärderna i den modulen.
 
@@ -70,7 +70,7 @@ Installera och använd de olika områdena i Workfront Dev-verktyget för att fö
 
    ![Devtool Image 6](../12-exercises/assets/devtool-walkthrough-6.png)
 
-   **Använda verktygen**
+   **Använd verktygen**
 
 1. Gå tillbaka till scenariodesignern och välj Verktyg i utvecklingsverktyget. Då visas tillgängliga verktyg.
 
@@ -86,5 +86,5 @@ Installera och använd de olika områdena i Workfront Dev-verktyget för att fö
 + Växla app - Byter ut den angivna appen mot en annan.
 + Base 64 - Koda angivna data till Base64 eller avkoda Base64. Användbart när du vill söka efter vissa data i den kodade begäran.
 + Kopiera modulnamn - Kopierar det valda modulnamnet till Urklipp.
-+ Mappa om källa - Ändra mappningskälla från en modul till en annan. Du måste först lägga till modulen som ska användas som en källmodul i flödet i ett scenario.
++ Mappa om Source - Ändra mappningskälla från en modul till en annan. Du måste först lägga till modulen som ska användas som en källmodul i flödet i ett scenario.
 + Migrera operativsystem - specifikt för att uppgradera Google Sheets-moduler (äldre) till den senaste Google Sheets-versionen. En ny version av modulen läggs till precis efter den äldre versionen av modulen i scenarioflödet.

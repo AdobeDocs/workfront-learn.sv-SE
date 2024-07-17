@@ -1,6 +1,6 @@
 ---
-title: Anpassa [!UICONTROL WORKFRONT DAM]
-description: Lär dig anpassa [!UICONTROL WORKFRONT DAM] genom att skapa vattenstämplar, anpassa [!UICONTROL DAM] inloggningsfönster, branding the interface med mera.
+title: Anpassa [!UICONTROL Workfront DAM]
+description: Lär dig hur du anpassar [!UICONTROL Workfront DAM] genom att skapa vattenstämplar, anpassa inloggningsfönstret för [!UICONTROL DAM], anpassa gränssnittet med mera.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -17,16 +17,16 @@ ht-degree: 0%
 
 ---
 
-# Anpassa [!UICONTROL WORKFRONT DAM]
+# Anpassa [!UICONTROL Workfront DAM]
 
 I den här videon får du lära dig att:
 
 * Skapa vattenstämplar
-* Anpassa [!UICONTROL WORKFRONT DAM] inloggningsfönster
+* Anpassa inloggningsfönstret för [!UICONTROL Workfront DAM]
 * Förse gränssnittet med färger och logotyp
-* Anpassa e-postmeddelanden som skickas från [!UICONTROL WORKFRONT DAM]
+* Anpassa e-postmeddelanden som skickas från [!UICONTROL Workfront DAM]
 * Ange regler för hämtning av resurser
 * Kontrollera meddelanden i appen
-* Planera för installation och underhåll [!UICONTROL WORKFRONT DAM]
+* Planera för att konfigurera och underhålla [!UICONTROL Workfront DAM]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335232/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Överför med dra-och-släpp
-description: Läs om fördelarna och begränsningarna med att överföra filer till [!DNL  Workfront] genom att dra och släppa.
+description: Lär dig mer om fördelarna och begränsningarna med att överföra filer till  [!DNL  Workfront] genom att dra och släppa.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 # Överför med dra-och-släpp
 
-Du kan överföra en fil i [!DNL Workfront] med dra och släpp direkt över [!UICONTROL Dokument] -avsnitt. Det här är ett snabbt sätt att överföra ett korrektur, men du kan inte tilldela ett korrekturarbetsflöde samtidigt.
+Du kan överföra en fil i [!DNL Workfront] genom att dra och släppa direkt över avsnittet [!UICONTROL Dokument]. Det här är ett snabbt sätt att överföra ett korrektur, men du kan inte tilldela ett korrekturarbetsflöde samtidigt.
 
-![En bild av [!UICONTROL Dokument] område i en [!DNL  Workfront] med markören över dokumentlistan och [!UICONTROL Dra och släpp dokument här] meddelande synligt.](assets/drag-and-drop-1.png)
+![En bild av området [!UICONTROL Dokument] i ett [!DNL  Workfront]-projekt där markören hålls över dokumentlistan och meddelandet [!UICONTROL Dra och släpp dokument här] visas.](assets/drag-and-drop-1.png)
 
-För vissa [!DNL Workfront] -kunder, det är deras normala korrekturarbetsflöde. En kreativ designer eller teammedlem överför filen, men det är upp till en korrekturansvarig eller projektledare att tilldela korrekturarbetsflödet så att rätt mottagare kan granska materialet.
+För vissa [!DNL Workfront]-kunder är detta deras normala korrekturarbetsflöde. En kreativ designer eller teammedlem överför filen, men det är upp till en korrekturansvarig eller projektledare att tilldela korrekturarbetsflödet så att rätt mottagare kan granska materialet.
 
-Det är möjligt, beroende på din [!DNL Workfront] systeminställningar som inte genereras vid överföring med dra och släpp. Om så är fallet måste du generera korrekturet och tilldela ett arbetsflöde med [!UICONTROL Generera korrektur] alternativ och markera [!UICONTROL Avancerat]. Därifrån kan du skapa ett korrekturarbetsflöde.
+Beroende på dina [!DNL Workfront]-systeminställningar är det möjligt att ett korrektur inte genereras när du överför med dra och släpp. Om så är fallet måste du generera korrekturet och tilldela ett arbetsflöde med alternativet [!UICONTROL Skapa korrektur] och välja [!UICONTROL Avancerat]. Därifrån kan du skapa ett korrekturarbetsflöde.
 
-![En bild av [!UICONTROL Dokument] område i en [!DNL  Workfront] projekt med [!UICONTROL Generera korrektur] markerad.](assets/drag-and-drop-2.png)
+![En bild av området [!UICONTROL Dokument] i ett [!DNL  Workfront] -projekt med [!UICONTROL Generera korrektur] markerat.](assets/drag-and-drop-2.png)

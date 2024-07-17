@@ -1,6 +1,6 @@
 ---
 title: Arbeta med resurser som deltagare
-description: Lär dig hur du arbetar med resurser i [!UICONTROL WORKFRONT DAM].
+description: Lär dig hur du arbetar med resurser i [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig att:
 
-* Överför resurser till [!UICONTROL WORKFRONT DAM]
+* Överför resurser till [!UICONTROL Workfront DAM]
 * Lägga till metadata och nyckelord i resurser
 * Använda en metadatamall
 * Lägga till relaterade filer till en resurs

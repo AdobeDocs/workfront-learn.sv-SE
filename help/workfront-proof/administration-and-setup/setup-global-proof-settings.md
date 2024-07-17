@@ -1,6 +1,6 @@
 ---
 title: Ställ in globala korrekturinställningar
-description: Lär dig hur du ställer in standardkorrekturroller för användare. standardinställningar för korrekturkonton, och standardinställningar för korrektur.
+description: Lär dig hur du ställer in standardkorrekturroller för användare, standardinställningar för korrekturkonton och standardinställningar för korrektur.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Ställ in globala korrekturinställningar
 
-Starta systeminställningarna för korrektur i [!DNL Workfront] genom att upprätta globala standardinställningar som påverkar användare. Om du anger dessa standardvärden nu ser du till att de användare du skapar har de minimiinställningar som krävs för att börja använda korrekturfunktioner..och sparar tid när du arbetar igenom korrekturinställningarna.
+Starta systeminställningarna för korrektur i [!DNL Workfront] genom att upprätta globala standardinställningar som påverkar användare. Om du anger dessa standardvärden nu ser du till att de användare du skapar har de minimiinställningar som krävs för att börja använda korrekturfunktioner.. och dessutom sparar du tid när du arbetar med korrekturinställningarna.
 
 * Tilldela standardkorrekturroller
 * Ange standardkontoinställningar

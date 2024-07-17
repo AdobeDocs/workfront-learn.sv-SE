@@ -25,9 +25,9 @@ Ta reda på vem som är den primära tilldelade personen på projektsidan. Klick
 
 I fönstret Avancerade uppdrag får den primära tilldelaren, eller uppgiftsägaren, en grön bockmarkering. Håll muspekaren över en annan användare och klicka på länken Gör primär för att ändra aktivitetens ägare.
 
-![primär tilldelad](assets/pa_02.png)
+![primär tilldelad](assets/pa_02.png) har valts
 
 Du kan även justera den primära tilldelaren från uppgiftssidan. Markera kryssrutan för uppgiften i projektlistan och klicka sedan på ikonen Redigera. Bläddra till avsnittet Uppdrag och klicka på knappen för att ange aktivitetsägaren.
 
-![uppgiftsägarknapp](assets/pa_03.png)
+![aktivitetsägarknapp](assets/pa_03.png)
 

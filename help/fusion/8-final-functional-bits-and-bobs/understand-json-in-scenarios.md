@@ -1,6 +1,6 @@
 ---
 title: Förstå JSON i scenarier
-description: Lär dig vad JSON är, hur det är strukturerat och hur det kommer att översättas till data som ska användas i dina scenarier i [!DNL Adobe Workfront Fusion].
+description: Lär dig vad JSON är, hur det är strukturerat och hur det kommer att översättas till data som ska användas i dina scenarier i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

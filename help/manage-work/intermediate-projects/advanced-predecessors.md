@@ -38,8 +38,8 @@ I den här videon får du lära dig mer om:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on)
 
-Mer information om hur du använder föregångare finns i [Använd föregående aktiviteter](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html).
+Mer information om hur du använder föregående aktiviteter finns i [Använd föregående aktiviteter](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html).
 
-Mer information om uppgiftsbegränsningar finns i [Förstå och hantera varaktighetstyper och uppgiftsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
+Mer information om uppgiftsbegränsningar finns i [Förstå och hantera varaktighetstyper och aktivitetsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
 
-Mer information om föregående projekt finns i [Förstå föregångare inom projekt mellan olika projekt](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html).
+Mer information om föregångare mellan projekt finns i [Förstå föregångare mellan projekt](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html).

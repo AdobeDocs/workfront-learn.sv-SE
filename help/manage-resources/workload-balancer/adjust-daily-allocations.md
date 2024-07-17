@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Justera daglig allokering i [!DNL Workload Balancer]
+# Justera dagliga allokeringar i [!DNL Workload Balancer]
 
 I den här videon får du lära dig att:
 

@@ -19,17 +19,17 @@ ht-degree: 0%
 
 # Överför resurser
 
-Innan du stänger en [!DNL Workfront] se till att alla relevanta filer är bifogade i [!UICONTROL Dokument] -avsnitt. Ladda upp dem som ett dokument eller ett bevis enligt riktlinjerna från din organisation.
+Innan du stänger ett [!DNL Workfront]-projekt kontrollerar du att alla relevanta filer är bifogade i avsnittet [!UICONTROL Dokument]. Ladda upp dem som ett dokument eller ett bevis enligt riktlinjerna från din organisation.
 
 Du kan behöva ladda upp dokumentet eller korrekturet som en version av en befintlig fil.
 
 Om din organisation använder korrekturgodkännanden måste du se till att alla dessa är slutförda med en snabb överblick över förloppsikonerna.
 
-![Dokumentsida med korrekturförloppsikoner](assets/planner-fund-proof-progress-icons.png)
+![Dokumentsidan med korrekturförloppsikoner](assets/planner-fund-proof-progress-icons.png)
 
 Och om din organisation använder dokumentgodkännanden, markerar du varje objekt i listan och kontrollerar dokumentinformationen för att se om godkännandena är slutförda.
 
-![Sammanfattning på dokumentsidan som visar dokumentgodkännande](assets/planner-fund-document-approval.png)
+![Sidsammanfattning på dokumentsidan som visar dokumentgodkännande](assets/planner-fund-document-approval.png)
 
 <!---
 learn more urls

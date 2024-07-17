@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Innan du börjar använda Agile ska vi titta på några frågor som hjälper dig att avgöra om det passar eller inte.
 
-Den första frågan att ställa är: kan ni leverera produkter eller funktionstillägg på ert företag? Behöver du kunna ändra fokus eller riktning på produkten under processens gång? Med andra ord, påbörjar du ett projekt utan att veta hur slutprodukten kommer att se ut baserat på miljön, framtida tekniska framsteg eller framtida önskemål/behov som inte syns just nu?
+Den första frågan du ställer är: Får ni leverera produkt- eller funktionsökningar? Behöver du kunna ändra fokus eller riktning på produkten under processens gång? Med andra ord, påbörjar du ett projekt utan att veta hur slutprodukten kommer att se ut baserat på miljön, framtida tekniska framsteg eller framtida önskemål/behov som inte syns just nu?
 
 Om du kan svara ja på frågorna ovan, så har övergången till Agile hittills varit bra. Här är den andra uppsättningen frågor som fokuserar på din grupps infrastruktur:
 
@@ -42,7 +42,7 @@ Om du kan svara ja på frågorna ovan, så har övergången till Agile hittills 
 
 * Är de villiga och i stånd att samarbeta och konstruktivt diskutera frågor i samband med att de kommer fram?
 
-* Har ni individer som kan ta sig an rollen som produktchef eller Scrum överordnad om ni använder den typen av Agile?
+* Har ni individer som kan ta sig an rollen som produktchef eller Scrum master om ni använder den typen av Agile?
 
 
 Dessa typer av frågor bör ställas och besvaras om du anser att vissa aspekter av ett team kan skapa röda flaggor som hinder för Agile-användning. Även om det inte är allt som omfattar, borde det här få konversationen att gå före inkörning.
@@ -59,4 +59,4 @@ När du har utformat övergångsstegen och sett till att alla känner sig säkra
 
 Att följa upp ett nytt Agile-teams framsteg eller framgångar kommer att vara mycket fördelaktigt för att ge teamet förtroende för de ändringar de genomför. Dessutom kan du använda dessa mätvärden för att motivera fördelarna med att övergå från ett team till Agile vid möten på högre nivå.
 
-Slutligen är det viktigt att ge ert team och nya scrum masters ett formulär som beskriver användbara frågor att ställa under dagliga uppsatser och upprepningar. Detta ger en del bra dokumentation för framtida processgranskningar. Det gör det också möjligt för teamet att identifiera områden som behöver förbättras och hjälpa dem att svara på frågor de kanske inte tänker prata om om de är nya i Agile.
+Slutligen är det viktigt att ge ert team och nya scrum masters ett formulär som beskriver användbara frågor att ställa under dagliga uppsatser och upprepningar. Detta ger en del bra dokumentation för framtida processgranskningar. Det gör det också möjligt för teamet att identifiera områden som behöver förbättras och hjälpa dem att svara på frågor som de kanske inte tänker prata om om de är nya i Agile.

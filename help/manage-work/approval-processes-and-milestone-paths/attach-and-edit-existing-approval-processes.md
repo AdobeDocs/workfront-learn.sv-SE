@@ -1,6 +1,6 @@
 ---
 title: Bifoga och redigera befintliga godkännandeprocesser
-description: Lär dig hur du använder och redigerar befintliga godkännandeprocesser för projekt, uppgifter eller problem i [!DNL  Workfront].
+description: Lär dig hur du använder och redigerar befintliga godkännandeprocesser för projekt, uppgifter eller problem i  [!DNL  Workfront].
 activity: use
 feature: Approvals
 thumbnail: 335226.jpeg

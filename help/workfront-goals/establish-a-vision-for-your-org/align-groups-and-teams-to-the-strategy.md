@@ -1,6 +1,6 @@
 ---
 title: Justera grupper och team efter strategin
-description: Lär dig hur du granskar och aktiverar föreslagna mål och överlappar och justerar kvartalsmål med hjälp av [!DNL-mål].
+description: Lär dig hur du granskar och aktiverar föreslagna mål och överlappar och justerar kvartalsmål med [!DNL]   Mål].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -30,4 +30,4 @@ I den här videon får du lära dig att:
 Pro-tips graphic
 -->
 
-* Upprätta en gräns för hur ofta du ska granska och ange kvartalsvisa och inkrementella mål. Vi rekommenderar att du ställer upp mål för varje planeringsperiod, men inte att mappa dem för långt i förväg, så att du inte kan och kan reagera på förändringar i verksamheten.
+* Upprätta en gräns för hur ofta du ska granska och ange kvartalsvisa och inkrementella mål. Vi rekommenderar att du sätter upp mål för varje planeringsperiod, men inte att mappa dem för långt i förväg, så att du inte kan och kan reagera på förändringar i verksamheten.

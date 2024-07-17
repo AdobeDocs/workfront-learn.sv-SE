@@ -1,6 +1,6 @@
 ---
 title: Justera dina mål
-description: Lär dig navigera i [!UICONTROL Måljustering] sida i [!DNL-mål].
+description: Lär dig navigera på sidan [!UICONTROL Måljustering] i [!DNL}   Mål].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -12,7 +12,7 @@ exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## Justera mål mellan individer, team och företaget
 
-Nu när du har skapat och aktiverat dina mål i [!DNL Workfront Goals], vi ska se till att de är justerade mot varandra. Målanpassning är en viktig del av målhanteringen. Om du inte har slutfört inlärningsvägen för Workfront-mål, del 1: Upprätta en vision och strategi, rekommenderar vi att du börjar med detta innan du fortsätter.
+Nu när du har skapat och aktiverat dina mål i [!DNL Workfront Goals] kan vi se till att de är justerade mot varandra. Målanpassning är en viktig del av målhanteringen. Om du inte har slutfört inlärningsvägen för Workfront-mål, del 1: Upprätta en vision och strategi, rekommenderar vi att du börjar med detta innan du fortsätter.
 
 <!--Insert link to LP 1, above -->
 
@@ -50,6 +50,6 @@ Här är några saker att tänka på innan du justerar mål i [!DNL Workfront]:
 I den här videon får du lära dig att:
 
 * Justera mål både nedifrån och upp och uppifrån och ned
-* Navigera i [!UICONTROL Måljustering] section
+* Navigera i avsnittet [!UICONTROL Måljustering]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)

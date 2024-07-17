@@ -8,7 +8,7 @@ jira: KT-10933
 exl-id: 08c65fae-2077-4b37-b051-bc39d978a923
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -56,7 +56,7 @@ Börja med 3-5 mål på företagsnivå som mest.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Gör det enkelt. Innan du konfigurerar ditt system bör du ta reda på 3-5 mål på företagsnivå. På så sätt kan ni inte bara förenkla målverktygen utan också hjälpa er att enkelt identifiera vilka era viktigaste prioriteringar för företaget är och fastställa vilka mål som ska stödja dessa prioriteringar.
 
@@ -69,7 +69,7 @@ Tilldela det sista målet i hierarkin till en enskild deltagare.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Detta skapar ett personligt ansvar för att uppnå det övergripande företagsmålet.
 
@@ -87,7 +87,7 @@ Upprätta en gräns för hur ofta du ska granska och justera målen.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Med en fast stängsel för att granska uppsatta mål och utvärdera framtidens affärskedja kan teamet hålla sig i schack och helt i linje med företagets vision.
 
@@ -101,6 +101,6 @@ Börja med att skapa filter för varje grupp.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Detta minskar behovet av att förstå vad som behöver göras och eliminerar överflödig information som för tillfället kan vara överväldigande.

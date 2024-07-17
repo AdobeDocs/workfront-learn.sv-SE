@@ -40,7 +40,7 @@ Hitta information om ett projekt i Workfront och skicka ett e-postmeddelande med
 
    ![Ange Hämta variabler, bild 2](../12-exercises/assets/set-get-variables-walkthrough-2.png)
 
-   ![Ange variabler för bild 3](../12-exercises/assets/set-get-variables-walkthrough-3.png)
+   ![Ange Hämta variabler, bild 3](../12-exercises/assets/set-get-variables-walkthrough-3.png)
 
 1. Klicka på OK och byt namn på den här modulen till&quot;Sök efter aktuella projekt&quot;.
 1. Lägg till en annan modul och välj Workfront Läs en post-modulen.
@@ -52,17 +52,17 @@ Hitta information om ett projekt i Workfront och skicka ett e-postmeddelande med
 1. Klicka på OK.
 1. Byt namn på modulen&quot;Hitta sponsernamn&quot;.
 
-   ![Ange Get variables Image 4](../12-exercises/assets/set-get-variables-walkthrough-4.png)
+   ![Ange Hämta variabler Bild 4](../12-exercises/assets/set-get-variables-walkthrough-4.png)
 
 1. Spara scenariot och klicka på Kör en gång.
 
    Om du får ett fel i modulen Läs en post beror det troligen på att sökmodulen har hittat ett projekt utan någon sponsor.
 
-   **Du kan undvika det här felet genom att skapa två sökvägar: en för projekt som har ett sponsor-ID och en för projekt som inte gör det.**
+   **Om du vill undvika det här felet skapar du två sökvägar: en för projekt som har ett sponsor-ID och en för projekt som inte gör det.**
 
 1. Lägg till en router mellan de två modulerna genom att klicka på skiftnyckelsikonen mellan routern och modulen Läs en post. Ställ in ett filter med namnet&quot;Sponsorn finns&quot; och ställ in villkoret till Sponsorns ID finns.
 
-   ![Ange Get variables Image 5](../12-exercises/assets/set-get-variables-walkthrough-5.png)
+   ![Ange Hämta variabler, bild 5](../12-exercises/assets/set-get-variables-walkthrough-5.png)
 
 1. Klicka på routern för att skapa en annan sökväg. Lägg till en Skicka ett e-postmodul från e-postappen.
 
@@ -75,7 +75,7 @@ Hitta information om ett projekt i Workfront och skicka ett e-postmeddelande med
 
 1. Klicka på OK för tillfället och byt namn på modulen&quot;Skicka projektinformation&quot;
 
-   **Använd Ange/Hämta variabler för att dela data mellan olika sökvägar.**
+   **Använd Set/Get-variabler för att dela data mellan olika sökvägar.**
 
 1. Efter Sök efter sponsorns namnmodul lägger du till modulen Ange variabelverktyg.
 
@@ -85,16 +85,16 @@ Hitta information om ett projekt i Workfront och skicka ett e-postmeddelande med
 
 1. Klicka på OK och byt sedan namn på modulen&quot;Ange sponsernamn&quot;.
 
-   ![Ange Get variables Image 7](../12-exercises/assets/set-get-variables-walkthrough-7.png)
+   ![Ange Hämta variabler, bild 7](../12-exercises/assets/set-get-variables-walkthrough-7.png)
 
 1. Högerklicka sedan mellan routern och modulen Skicka ett e-postmeddelande för att lägga till en Get-variabelverktygsmodul. Ange&quot;Sponsornamn&quot; i fältet Variabelnamn.
 1. Klicka på OK. Byt namn på modulen &quot;Hämta sponsernamn&quot;.
 
-   ![Ange Get variables Image 8](../12-exercises/assets/set-get-variables-walkthrough-8.png)
+   ![Ange Hämta variabler, bild 8](../12-exercises/assets/set-get-variables-walkthrough-8.png)
 
 1. Gå tillbaka till modulen Skicka ett e-postmeddelande och mappa värdet från modulen Hämta sponsernamn till innehållsfältet. Klicka på OK.
 
-   ![Ange Get variables Image 8](../12-exercises/assets/set-get-variables-walkthrough-8.png)
+   ![Ange Hämta variabler, bild 8](../12-exercises/assets/set-get-variables-walkthrough-8.png)
 
    >[!IMPORTANT]
    >
@@ -102,10 +102,10 @@ Hitta information om ett projekt i Workfront och skicka ett e-postmeddelande med
 
 1. Gå till testkörningen i Workfront och leta upp projektet Northstar Fashion Exhibitors Booth. Detta är ett aktuellt projekt som har en sponsor. Kopiera projekt-ID från URL:en.
 
-   ![Ange Hämta variabler Bild 10](../12-exercises/assets/set-get-variables-walkthrough-10.png)
+   ![Ange Hämta variabler, bild 10](../12-exercises/assets/set-get-variables-walkthrough-10.png)
 
 1. I ditt scenario klickar du på modulen Sök aktuella projekt. Lägg till ytterligare ett villkor i sökvillkoren genom att klicka på den gröna knappen &quot;Lägg till OCH regel&quot;. Ange att ID:t måste vara samma som det projekt-ID du kopierade. Klicka på OK.
 1. Spara ditt scenario och klicka på Kör en gång.
 1. Granska körningskontrollerna och det e-postmeddelande du får.
 
-   ![Ange Hämta variabler Bild 11](../12-exercises/assets/set-get-variables-walkthrough-11.png)
+   ![Ange Hämta variabler, bild 11](../12-exercises/assets/set-get-variables-walkthrough-11.png)

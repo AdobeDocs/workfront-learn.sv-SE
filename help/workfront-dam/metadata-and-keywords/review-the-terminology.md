@@ -1,6 +1,6 @@
 ---
 title: Granska metadataterminologin
-description: Läs mer om vilka metadata som är, vilka frågor du ska ställa när du utvecklar en metadatastrategi och mycket mer i [!UICONTROL WORKFRONT DAM].
+description: Läs mer om vilka metadata som är, vilka frågor som ska ställas när du utvecklar en metadatastrategi och mycket mer i [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

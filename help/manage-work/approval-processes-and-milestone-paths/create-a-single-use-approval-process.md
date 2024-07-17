@@ -13,7 +13,7 @@ exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
 source-git-commit: 9045f121d34cb95eeb0ea7ddc1b35acd11f56bb2
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 Godkännandeprocesser för projekt, uppgifter och problem gör att en projektledare kan få expertbekräftelser på att arbetet har utförts precis innan man går vidare. Projektledaren kan skapa en godkännandeprocess för varje situation (detta kallas för en enstaka godkännandeprocess) eller välja från en lista med möjligen många godkännandeprocesser som tidigare har skapats för att tillgodose vanliga behov (dessa kallas globala godkännandeprocesser).
 
-I båda fallen, när objektets status ändras till en som anges i godkännandeprocessen, meddelas godkännaren på olika sätt för att granska arbetet och godkänna eller avvisa det. Eftersom hela projektet kan pausas i väntan på godkännande bör godkännarna i förväg vara medvetna om att de kan anropas för godkännande. Om en godkännare inte är på kontoret av någon anledning kan de delegera sina godkännanden till en kvalificerad vikarie. Se [Delegera uppgifter, ärenden och godkännanden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/delegate-approvals.html) för mer information.
+I båda fallen, när objektets status ändras till en som anges i godkännandeprocessen, meddelas godkännaren på olika sätt för att granska arbetet och godkänna eller avvisa det. Eftersom hela projektet kan pausas i väntan på godkännande bör godkännarna i förväg vara medvetna om att de kan anropas för godkännande. Om en godkännare inte är på kontoret av någon anledning kan de delegera sina godkännanden till en kvalificerad vikarie. Mer information finns i [Delegera uppgifter, utgåvor och godkännanden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/delegate-approvals.html).
 
-I den här videon får du lära dig att skapa en godkännandeprocess för ett objekt i [!DNL  Workfront].
+I den här videon får du lära dig hur du skapar en godkännandeprocess för ett objekt i [!DNL  Workfront].
 
 >[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on)
 
@@ -36,5 +36,5 @@ I den här videon får du lära dig att skapa en godkännandeprocess för ett ob
 >
 >Du kan konfigurera ett enstaka godkännande av projekt och ärenden på samma sätt som beskrivs för uppgifter i videon.
 >
->Om du vill ställa in automatiska godkännanden av utgåvor kan du bara göra detta med en global godkännandeprocess och använda den i ett köämne. Se [Skapa en begärandekö](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) om du vill ha information om hur du gör detta.
+>Om du vill ställa in automatiska godkännanden av utgåvor kan du bara göra detta med en global godkännandeprocess och använda den i ett köämne. Mer information om hur du gör detta finns i [Skapa en frågekö](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html).
 

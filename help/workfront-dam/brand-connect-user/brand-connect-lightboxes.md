@@ -1,6 +1,6 @@
 ---
 title: Ljusbord som användare
-description: Lär dig hur du skapar, använder, hanterar, delar och samarbetar i en ljuslåda i Brand Connect för [!UICONTROL WORKFRONT DAM].
+description: Lär dig hur du skapar, använder, hanterar, delar och samarbetar i en ljuslåda i Brand Connect för [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

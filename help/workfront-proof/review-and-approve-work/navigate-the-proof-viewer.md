@@ -1,6 +1,6 @@
 ---
 title: Navigera i korrekturläsaren
-description: Lär dig hur du flyttar runt ett korrektur, zoomar in/ut i innehållet, använder miniatyrbildskolumnen, filtrerar korrekturkommentarer och mycket mer i dialogrutan [!DNL  Workfront] korrekturläsare.
+description: Lär dig hur du flyttar runt ett korrektur, zoomar in/ut i innehållet, använder miniatyrbildskolumnen, filtrerar korrekturkommentarer och mycket mer i  [!DNL  Workfront] korrekturläsaren.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -24,7 +24,7 @@ I den här videon får du lära dig att:
 
 * Flytta ett korrektur runt och zooma in/ut i innehållet
 * Använd kolumnen med miniatyrbilder för att förhandsgranska och navigera bland sidorna i ett korrektur
-* Filtrera kommentarskolumnen
+* Filtrera kommentarkolumnen
 * Stäng korrekturet
 
 >[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12&learn=on)

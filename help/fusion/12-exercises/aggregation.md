@@ -34,7 +34,7 @@ Använd scenariot&quot;Introduktion till upprepning&quot; som du skapade i den s
 
 1. Klona scenariot&quot;Introduktion till upprepning&quot; som du skapade i föregående övning och kalla det&quot;Introduktion till aggregering&quot;.
 1. Lägg till ett filter mellan modulen Läs projekt och modulen Antal uppgifter. Ge filtret namnet&quot;Endast arbetsuppgifter&quot;.
-1. Ange villkoret till Antal underordnade [Numerisk operator: Lika med] 0.
+1. Ange villkoret till Antal underordnade [Numerisk operator: lika med ] 0.
 
    ![Sammanställningsbild 2](../12-exercises/assets/aggregation-walkthrough-2.png)
 
@@ -46,7 +46,7 @@ Använd scenariot&quot;Introduktion till upprepning&quot; som du skapade i den s
 
    ![Sammanställningsbild 3](../12-exercises/assets/aggregation-walkthrough-3.png)
 
-   **Observera skuggan som visar att aggregeringen avslutar iteration.**
+   **Observera skuggan som visar att aggregeringen avslutar iterationen.**
 
    ![Sammanställningsbild 4](../12-exercises/assets/aggregation-walkthrough-4.png)
 
@@ -55,7 +55,7 @@ Använd scenariot&quot;Introduktion till upprepning&quot; som du skapade i den s
 1. Lägg till en Skicka en e-postmodul från e-postappen, efter den numeriska aggregatorn.
 1. Skicka mejlet till dig själv.
 1. Ämnesraden är &quot;Projektinformation&quot;.
-1. I fältet Innehåll skriver du&quot;Det finns ett projekt som kallas&quot; [projektnamn] som har ett totalt antal [resultat] planerade timmar.&quot; The &quot;[projektnamn]&quot; tas från modulen Läs en post och &quot;[resultat]&quot; tas från aggregeringsmodulen.
+1. Ange&quot;Det finns ett projekt med namnet [projektnamn] i fältet Innehåll som har totalt [resultat] planerade timmar.&quot; [projektnamnet] hämtas från modulen Läs en post och [result] hämtas från aggregeringsmodulen.
 
    ![Sammanställningsbild 5](../12-exercises/assets/aggregation-walkthrough-5.png)
 

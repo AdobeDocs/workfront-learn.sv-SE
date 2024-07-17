@@ -25,49 +25,49 @@ Lär dig några grundläggande navigeringstips när du loggar in på Workfront F
 ## Förutsättningar
 
 1. För den här övningen krävs en testkörning från Workfront. Du kan begära en genom att fylla i [det här formuläret](https://forms.office.com/r/f1J8HRGrNY). Om du inte kan komma åt formuläret skickar du ditt namn, din e-postadress och ditt företagsnamn till wfttstdr@adobe.com.
-1. Fusion-övningar förutsätter att du har sett genomgången video som motsvarar övningen. I det här fallet är [Genomgång av inledande scenariodesign](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
+1. Fusion-övningar förutsätter att du har sett genomgången video som motsvarar övningen. I det här fallet är det [Genomgång av inledande scenariodesign](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
 
 
 ## Översikt över övningar
 
 Skapa ett nytt projekt i Workfront för varje rad i CSV-filen för projektlistan.
 
-![Designbild 1 för inledande scenario](../12-exercises/assets/initial-scenario-design-1.png)
+![Designbild för inledande scenario 1](../12-exercises/assets/initial-scenario-design-1.png)
 
 ## Steg som ska följas
 
 1. Skapa en mapp i avsnittet Scenario som heter&quot;Aktiveringsövningar för Fusion&quot;.
 1. Klicka på mappen och sedan på Skapa ett nytt scenario.
 
-   ![Designbild 2 för inledande scenario](../12-exercises/assets/initial-scenario-design-2.png)
+   ![Designbild för inledande scenario 2](../12-exercises/assets/initial-scenario-design-2.png)
 
 1. På nästa sida söker du efter Workfront och väljer det programmet. Klicka sedan på Fortsätt.
 1. Längst upp till vänster på skärmen för scenariodesignern byter du namn på ditt scenario till&quot;Inledande cenariodesign&quot;
 1. Klicka på den tomma utlösarmodulen mitt på skärmen och välj Workfront-appen. Välj sedan modulen Hämta dokument.
 
-   **Autentisera modulens anslutning till ditt Workfront-konto.**
+   **Verifiera modulens anslutning till ditt Workfront-konto.**
 
 1. Om du vill skapa en anslutning för första gången klickar du på knappen Lägg till.
 
-   ![Designbild 3 för inledande scenario](../12-exercises/assets/initial-scenario-design-3.png)
+   ![Designbild för inledande scenario 3](../12-exercises/assets/initial-scenario-design-3.png)
 
 1. Ge anslutningen ett namn, till exempel&quot;My Workfront 2020&quot;
 
-   ![Designbild 4 för inledande scenario](../12-exercises/assets/initial-scenario-design-4.png)
+   ![Designbild för inledande scenario 4](../12-exercises/assets/initial-scenario-design-4.png)
 
 1. Ange URL:en för **din Workfront-instans** och klicka sedan på Nästa.
 
-   ![Inledande scenario, design bild 5](../12-exercises/assets/initial-scenario-design-5.png)
+   ![Designbild för inledande scenario 5](../12-exercises/assets/initial-scenario-design-5.png)
 
 1. Ange ditt lösenord och klicka på Logga in.
 
-   **Anslutningen är upprättad. Ange dokument-ID:t för dokumentet som du vill hämta från Workfront.**
+   **Anslutningen har upprättats. Ange dokument-ID för dokumentet som du vill hämta från Workfront.**
 
-   ![Inledande scenario, designbild 7](../12-exercises/assets/initial-scenario-design-7.png)
+   ![Designbild för inledande scenario 7](../12-exercises/assets/initial-scenario-design-7.png)
 
 1. Gå tillbaka till Workfront. I mappen&quot;Fusion Exercise Files&quot; väljer du &quot;_Fusion2020_Project List.csv&quot; och klickar på Document Details (Dokumentinformation) i den vänstra panelen. Kopiera dokument-ID-numret från URL-adressen (det här är det första långa numret i URL-adressen).
 
-   ![Inledande scenario, design bild 8](../12-exercises/assets/initial-scenario-design-8.png)
+   ![Designbild för inledande scenario 8](../12-exercises/assets/initial-scenario-design-8.png)
 
 1. Gå tillbaka till Fusion, klistra in numret i fältet Dokument-ID och klicka på OK.
 1. Det bästa sättet är att byta namn på moduler när du skapar dem. Högerklicka på modulen Workfront och välj Byt namn. Ge modulen namnet&quot;Hämta projektlista&quot;.
@@ -77,7 +77,7 @@ Skapa ett nytt projekt i Workfront för varje rad i CSV-filen för projektlistan
 1. Klicka på höger sida i Workfront-modulen för att lägga till en annan modul. Sök efter CSV-appen och välj CSV-modulen Parse.
 1. Konfigurera Parse CSV för 6 kolumner, CSV innehåller rubriker, Comma delimiterType och data i CSV-fältet. Klicka sedan på OK.
 
-   ![Designbild 9 för inledande scenario](../12-exercises/assets/initial-scenario-design-9.png)
+   ![Designbild för inledande scenario 9](../12-exercises/assets/initial-scenario-design-9.png)
 
 1. Byt namn på den här modulen till&quot;Analysera projektlista&quot;.
 1. Klicka på Spara längst ned i scenariodesignern för att spara scenariot.
@@ -87,11 +87,11 @@ Skapa ett nytt projekt i Workfront för varje rad i CSV-filen för projektlistan
    >
    >Ignorera varningen om att en transformator inte ska vara den sista modulen (detta är sant, men spelar ingen roll för det här testet). Klicka på Kör ändå.
 
-   ![Designbild 10 för inledande scenario](../12-exercises/assets/initial-scenario-design-10.png)
+   ![Designbild för inledande scenario 10](../12-exercises/assets/initial-scenario-design-10.png)
 
 1. Öppna körningskontrollen i CSV-modulen Parse för att se indata och utdata för modulen. Det finns ett paket (en CSV-fil) som indata och flera paket som utdata (ett paket för varje rad i CSV-filen). Det borde se ut ungefär så här:
 
-   ![Designbild 11 för inledande scenario](../12-exercises/assets/initial-scenario-design-11.png)
+   ![Designbild för inledande scenario 11](../12-exercises/assets/initial-scenario-design-11.png)
 
    **Lägg till en modul för att skapa ett projekt för varje rad i CSV-filen.**
 
@@ -100,7 +100,7 @@ Skapa ett nytt projekt i Workfront för varje rad i CSV-filen för projektlistan
 
    >[!TIP]
    >
-   >Sök efter den genom att börja skriva några bokstäver, till exempel *proj*, för att gå rakt på det.
+   >Sök efter den genom att börja skriva några bokstäver, till exempel *proj*, för att gå direkt till den.
 
 1. Använd sedan Cmd/Ctrl+G för att hitta namn (projektnamn). Markera rutan bredvid Namn. Fältet visas nedan.
 1. Markera nu rutorna bredvid Planerat startdatum och prioritet.
@@ -108,9 +108,9 @@ Skapa ett nytt projekt i Workfront för varje rad i CSV-filen för projektlistan
 1. Klicka på Kolumn 5 i modulen Analysera CSV för det planerade startdatumet.
 1. Välj Normal i listrutan Prioritet.
 
-   **Mappningspanelen bör se ut så här:**
+   **Mappningspanelen ska se ut så här:**
 
-   ![Designbild 12 för inledande scenario](../12-exercises/assets/initial-scenario-design-12.png)
+   ![Designbild för inledande scenario 12](../12-exercises/assets/initial-scenario-design-12.png)
 
 1. Klicka på OK.
 
@@ -124,7 +124,7 @@ Skapa ett nytt projekt i Workfront för varje rad i CSV-filen för projektlistan
 
    + Du ser att 20 åtgärder har utförts. Varje åtgärd tog ett paket, det vill säga en rad, från CSV-filen som indata och utdata i ett paket, vilket var ett projekt som skapades i Workfront. Projekt-ID:t för projektet som skapas visas med utdatapaketet.
 
-   ![Designbild 13 för inledande scenario](../12-exercises/assets/initial-scenario-design-13.png)
+   ![Designbild för inledande scenario 13](../12-exercises/assets/initial-scenario-design-13.png)
 
    **Använda anteckningar**
 
@@ -136,7 +136,7 @@ Skapa ett nytt projekt i Workfront för varje rad i CSV-filen för projektlistan
    + Anteckningarna sorteras i omvänd kronologisk ordning.
    + En orange punkt visas på knappen Anteckningar när anteckningar har lagts till.
 
-   ![Designbild 14 för inledande scenario](../12-exercises/assets/initial-scenario-design-14.png)
+   ![Designbild för inledande scenario 14](../12-exercises/assets/initial-scenario-design-14.png)
 
 1. Spara scenariot genom att klicka på knappen Spara i kontrollverktygsfältet.
 1. Du kan visa projekt som skapats i din Workfront-instans.

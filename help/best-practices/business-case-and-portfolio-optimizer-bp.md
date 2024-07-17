@@ -45,13 +45,13 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Använd affärsärendet före eller i början av projektet.
 
-**Här är varför**
+**Det här är varför**
 
 Om du använder ett affärsfall innan projektet börjar, eller till och med i början av projektet, kan du verkligen förutse vad projektet behöver - resurser (både mänskliga och icke-mänskliga), budget, tidsram - och hur du kan minska eventuella risker som kan uppstå innan de inträffar.
 
 Det ger dig också möjlighet att visa intressenter hur projektet bidrar till att uppnå mål för avdelningar, regioner och/eller företag.
 
-Instruktioner om hur du använder affärsärendet finns i [Förstå affärsfallet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
+Instruktioner om hur du använder affärsärendet finns i [Förstå affärsärendet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
 
 </br>
 </br>
@@ -60,11 +60,11 @@ Instruktioner om hur du använder affärsärendet finns i [Förstå affärsfalle
 
 Beräkna och justera viktig projektinformation som kostnad, justering, nettovärde, risk och avkastning i affärsärendet.
 
-**Här är varför**
+**Det här är varför**
 
 Om du ser till att den här informationen ligger så nära vad det&quot;verkliga livet&quot;-projektet kommer att innebära kan du använda poängfunktionen i Portfolio Optimizer för att avgöra prioriteten för de projekt som listas. Portfolio Optimizer är ett utmärkt verktyg för att säkerställa att dina projekt prioriteras effektivt och att de är anpassade efter företagets strategi och värde.
 
-Instruktioner om hur du använder affärsärendet finns i [Förstå affärsfallet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
+Instruktioner om hur du använder affärsärendet finns i [Förstå affärsärendet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
 
-Instruktioner om hur du använder Portfolio Optimizer finns i [Använd Portfolio Optimizer för att prioritera och hantera arbete](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
+Instruktioner om hur du använder Optimera för Portfolio finns i [Använda optimering för Portfolio för att prioritera och hantera arbete](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
 

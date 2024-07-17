@@ -27,4 +27,4 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12&learn=on)
 
-**Anteckning**: WEEKDAYDIFF-datauttrycket tar INTE hänsyn till helgdagar som anges av din organisation.
+**Obs!**: WEEKDAYDIFF-dataututtrycket tar INTE hänsyn till helgdagar som anges av din organisation.

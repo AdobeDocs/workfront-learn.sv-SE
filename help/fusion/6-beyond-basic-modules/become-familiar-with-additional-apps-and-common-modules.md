@@ -1,6 +1,6 @@
 ---
 title: Bekanta dig med fler appar och gemensamma moduler
-description: Lär dig vilka utlösare, åtgärder och sökningar som är och hur typer av moduler som finns i olika appanslutningar fungerar i [!DNL Adobe Workfront Fusion].
+description: Lär dig vilka utlösare, åtgärder och sökningar som är och hur typer av moduler som finns i olika appanslutningar fungerar i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -26,17 +26,17 @@ ht-degree: 0%
 
 Kan endast användas som den första modulen och kan returnera noll, ett eller flera paket som kommer att bearbetas individuellt i efterföljande moduler, såvida de inte slås samman.
 
-* **Direkt utlösare** (Lightning Bult on Trigger) - Utlöses omedelbart baserat på webkrok.
-* **Schemalagd utlösare** (Klocka vid utlösare) - Specialfunktioner för att hålla reda på den senaste posten som bearbetats.
+* **Direktutlösare** (Blixt vid utlösare) - Utlöses omedelbart baserat på webkrok.
+* **Schemalagd utlösare** (klocka vid utlösare) - Specialfunktioner för att hålla reda på den senaste posten som bearbetats.
 
 ![En bild av utlösarmoduler](assets/beyond-basic-modules-1.png)
 
 ### Åtgärder och sökmoduler
 
-* **Åtgärd** — Används för att utföra CRUD-åtgärder (skapa, läsa, uppdatera och ta bort).
-* **Sökningar** — Används för att söka efter noll, en eller flera poster och returnerar dessa som paket som bearbetas individuellt i efterföljande moduler, såvida de inte slås samman.
+* **Åtgärd** - Används för att utföra CRUD-åtgärder (skapa, läsa, uppdatera och ta bort).
+* **Sökningar** - Används för att söka efter noll, en eller flera poster och returnerar dessa som paket som bearbetas individuellt i efterföljande moduler, såvida de inte slås samman.
 
-![En bild av åtgärds- och sökmoduler](assets/beyond-basic-modules-2.png)
+![En bild med åtgärds- och sökmoduler](assets/beyond-basic-modules-2.png)
 
 ### Bekanta dig med fler appar och gemensamma moduler
 

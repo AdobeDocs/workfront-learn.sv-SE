@@ -35,7 +35,7 @@ Syftet med det här scenariot är att skapa en app för att sälja till butiker 
 
 ## Steg som ska följas
 
-**Konfigurera den utlösande webbkroken.**
+**Konfigurera den utlösande webkroken.**
 
 1. Skapa ett nytt scenario och kalla det&quot;Använda webbhooks&quot;.
 1. För utlösaren lägger du till den anpassade webbkrokmodulen från Webhooks-appen.
@@ -50,9 +50,9 @@ Syftet med det här scenariot är att skapa en app för att sälja till butiker 
 1. På panelen Webhooks-mappning har en URL skapats för den här specifika webkroken. Klicka på Kopiera adress till Urklipp för att kopiera URL:en.
 1. Klicka på OK.
 1. Klicka på Kör en gång.
-1. Använd URL:en i Postman för att skicka ett namn och födelsedatum till din anpassade webkrok. Instruktioner om hur du konfigurerar Postman finns i [Genomgång av webbhooks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=en) självstudie.
+1. Använd URL:en i Postman för att skicka ett namn och födelsedatum till din anpassade webkrok. Instruktioner om hur du konfigurerar Postman finns i självstudiekursen [Webhooks-genomgång](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=en).
 
-   **Webhooks-modulpanelen bör se ut så här:**
+   **Webbhooks-modulpanelen bör se ut så här:**
 
    ![Webhooks-bild 3](../12-exercises/assets/webhooks-walkthrough-3.png)
 
@@ -69,7 +69,7 @@ Syftet med det här scenariot är att skapa en app för att sälja till butiker 
 
    ![Webhooks-bild 5](../12-exercises/assets/webhooks-walkthrough-5.png)
 
-   **Ställ in routning för klienttoken.**
+   **Konfigurera routning för klienttoken.**
 
 1. Lägg till en router i utlösarmodulen.
 1. Lägg till en Webkroks svarsmodul i den övre banan. Detta är vår väg när klientens token inte matchar.

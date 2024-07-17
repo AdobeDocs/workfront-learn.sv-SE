@@ -1,6 +1,6 @@
 ---
 title: Hantera korrekturversioner
-description: Lär dig hur du hittar information om när ett korrektur överfördes, hämtar alla versioner av ett korrektur och tar bort en korrekturversion i [!DNL  Workfront].
+description: Lär dig hur du hittar information om när ett korrektur överfördes, hämtar alla versioner av ett korrektur och tar bort en korrekturversion i  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

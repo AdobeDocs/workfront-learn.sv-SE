@@ -1,6 +1,6 @@
 ---
 title: Förstå arbets- och persondiagram
-description: I [!UICONTROL Förbättrad analys], visar arbetskartor din aktivitet ur projekt- och uppgiftsperspektiv, medan personscheman visar din aktivitet från ett hemarbetsteams perspektiv.
+description: I [!UICONTROL Förbättrad analys] visar arbetsscheman din aktivitet från projekt- och uppgiftsperspektivet, medan personscheman visar din aktivitet från ett hemarbetsteams perspektiv.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -26,7 +26,7 @@ Välj den typ av analysdiagram som du vill visa - Arbete eller Personer - på de
 
 ## Arbetskartor
 
-![En bild på hur du hittar [!UICONTROL Analyser] i [!DNL Workfront Classic]](assets/section-1-1.png)
+![En bild på hur funktionen [!UICONTROL  Analytics] hittas i [!DNL Workfront Classic]](assets/section-1-1.png)
 
 När du går till arbetsschemat visas som standard:
 
@@ -42,7 +42,7 @@ Burndown och Tasks in flight-schemat visas när du går ned i informationen.
 
 ## Persondiagram
 
-![En bild på hur du hittar [!UICONTROL Analyser] i [!DNL Workfront Classic]](assets/section-1-2.png)
+![En bild på hur funktionen [!UICONTROL  Analytics] hittas i [!DNL Workfront Classic]](assets/section-1-2.png)
 
 Persondiagram består av:
 

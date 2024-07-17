@@ -1,6 +1,6 @@
 ---
 title: Introduktion till körningshistorik
-description: Lär dig hur körningshistoriken hjälper dig att ge support och felsöka i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur körningshistoriken hjälper dig att stödja och felsöka i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Gör en förfrågan
-description: Lär dig hur du hittar [!UICONTROL Begäranden] och göra en förfrågan. Lär dig sedan hur du visar inskickade begäranden och utkast.
+description: Lär dig hur du hittar området [!UICONTROL Förfrågningar] och gör en förfrågan. Lär dig sedan hur du visar inskickade begäranden och utkast.
 activity: use
 type: Tutorial
 team: Technical Marketing
@@ -26,15 +26,15 @@ I den här videon får du lära dig att:
 
 ## Hitta kösökvägarna snabbt och enkelt
 
-När du klickar på [!UICONTROL Typ av begäran] de tre senaste begärandesökvägarna som du nyligen skickade visas automatiskt högst upp i listan. Välj ett alternativ för att arkivera en annan begäran i samma kö.
+När du klickar i fältet [!UICONTROL Typ av begäran] visas de tre senaste sökvägarna till begäran automatiskt högst upp i listan. Välj ett alternativ för att arkivera en annan begäran i samma kö.
 
-![Menyn Typ av begäran som visar en lista över senaste sökvägar för begäran](assets/collaborator-fundamentals-1.png)
+![Menyn Typ av begäran som visar en lista med senaste sökvägar för begäran](assets/collaborator-fundamentals-1.png)
 
 Längst ned i listan finns alla begärandeköer som du har åtkomst till. Om du är osäker på vilken kö du ska använda för din begäran kan du använda nyckelordssökningen för att snabbt och enkelt hitta den du behöver.
 
-När du skriver nyckelord [!DNL Workfront] öppnar matchningar så att du kan hitta den kösökväg som passar dina behov. Om du till exempel vill göra en begäran om ett inlägg i sociala medier börjar du skriva&quot;sociala medier&quot; i [!UICONTROL Typ av begäran] och listan uppdateras dynamiskt för att visa eventuella träffar.
+När du skriver in nyckelord visas matchningar i [!DNL Workfront] så att du kan hitta den kösökväg som passar dina behov. Om du till exempel vill göra en begäran om ett inlägg på sociala medier börjar du skriva&quot;sociala medier&quot; i fältet [!UICONTROL Typ av begäran] och listan uppdateras dynamiskt så att matchningar visas.
 
-![Menyn Typ av begäran med ett ord angivet i fältet för att visa sökvägar för senaste begäran](assets/collaborator-fundamentals-2.png)
+![Menyn Typ av begäran med ett ord angivet i fältet för att visa de senaste sökvägarna för begäran](assets/collaborator-fundamentals-2.png)
 
 Välj önskat alternativ, fyll i formuläret och skicka begäran.
 

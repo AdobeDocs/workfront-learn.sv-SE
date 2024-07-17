@@ -1,5 +1,5 @@
 ---
-title: Förstå hur [!UICONTROL Workfront-mål] passar in i arbetscykeln
+title: Förstå hur [!UICONTROL Workfront-mål] passar in i din arbetscykel
 description: Lär dig mer om de 6 stegen i en typisk arbetslivscykel och grundstenarna i"strategifasen" i arbetscykeln.
 activity: use
 feature: Workfront Goals
@@ -12,12 +12,12 @@ exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# Förstå hur [!UICONTROL Workfront-mål] passar in i arbetscykeln
+# Förstå hur [!UICONTROL Workfront-mål] passar in i din arbetscykel
 
 I den här videon får du lära dig mer om:
 

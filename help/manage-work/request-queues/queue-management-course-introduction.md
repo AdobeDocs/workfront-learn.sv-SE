@@ -1,6 +1,6 @@
 ---
 title: Introduktion till kurser i köhantering
-description: Lär dig mer [!DNL  Workfront] begärandeköer kan centralisera hanteringen av efterfrågan.
+description: Lär dig hur  [!DNL  Workfront] begäranköer kan centralisera efterfråganshantering.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Introduktion till kurser i köhantering
 
-Läs om hur [!DNL  Workfront] begärandeköer kan centralisera hanteringen av efterfrågan.
+I den här videon får du lära dig hur [!DNL  Workfront]-begärandeköer kan centralisera efterfrågehanteringen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on)

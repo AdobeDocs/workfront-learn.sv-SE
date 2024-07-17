@@ -1,6 +1,6 @@
 ---
 title: Ta bort måljustering
-description: Lär dig hur du tar bort måljustering i [!DNL Workfront Goals].
+description: Lär dig hur du tar bort måljustering i  [!DNL Workfront Goals].
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -21,10 +21,10 @@ ht-degree: 0%
 Vad händer när det inte längre är vettigt att förena olika mål? Du kan ta bort måljusteringen.
 
 1. Gå till ett överordnat mål justerat mot ett underordnat mål.
-1. Klicka för att öppna [!UICONTROL Förloppsindikatorer] -panelen.
+1. Klicka för att öppna panelen [!UICONTROL Förloppsindikatorer].
 1. Klicka i kryssrutan bredvid det underordnade målet som du vill koppla från det överordnade målet.
 1. Klicka på ikonen X bredvid pennikonen.
 
-![En skärmbild av [!UICONTROL Ta bort justering] alternativ i [!DNL Workfront Goals]](assets/08-workfront-goals-remove-goal-alignment.png)
+![En skärmbild av alternativet [!UICONTROL Ta bort justering] i [!DNL Workfront Goals]](assets/08-workfront-goals-remove-goal-alignment.png)
 
 Målet blir ett fristående mål och dess framsteg påverkar inte längre förloppet för det ursprungliga överordnade målet. Glöm inte att lägga till aktiviteter eller resultat till målen för att mäta förloppet och flytta det till en aktiv status.

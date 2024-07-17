@@ -1,6 +1,6 @@
 ---
 title: Genomgång av utvecklingsverktyget
-description: Lär dig hur du installerar och använder de olika områdena i [!DNL Adobe Workfront Fusion Dev Tool] för att fördjupa sig i avancerade konstruktionsknep.
+description: Lär dig hur du installerar och använder de olika områdena i  [!DNL Adobe Workfront Fusion Dev Tool] för att få en djupdykning i avancerade scenariodesigntricks.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -39,4 +39,4 @@ Utvecklingsverktyget har ett antal avancerade funktioner som gör det lättare f
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

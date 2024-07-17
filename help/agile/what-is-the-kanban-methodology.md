@@ -27,7 +27,7 @@ Låt oss titta på några av huvudinslagen i Kanban.
 
 ## Nyckelspelare
 
-Nyckelspelarna i ett Kanban-team liknar de i ett Scrum-team, förutom att det inte finns något Scrum-överordnad. Det kan fortfarande vara vettigt för någon att agera som projektledare eller ansvarig, men teoretiskt sett bör denna roll finnas när behovet uppstår.
+Nyckelspelarna i ett Kanban-team liknar de i ett Scrum-team, förutom att det inte finns någon Scrum master. Det kan fortfarande vara vettigt för någon att agera som projektledare eller ansvarig, men teoretiskt sett bör denna roll finnas när behovet uppstår.
 
 ## Visualisering: Kanban-tavla
 
@@ -35,11 +35,11 @@ Det finns många sätt att formatera din Kanban-tavla. Team har en styrelse som 
 
 På den enklaste ritytan kan den första kolumnen vara&quot;att göra&quot;, den andra&quot;pågående&quot; och den tredje&quot;fullständiga&quot;.
 
-![Svarta och klisterlappar](assets/agile4-01.png)
+![Svarta anteckningar och anteckningar](assets/agile4-01.png)
 
 Många företag har sin egen terminologi för kolumnnamnen, eller de kan till och med lista ut varje steg i en process, men avsikten är densamma. Teammedlemmar flyttar sina artiklar från kolumn till kolumn beroende på vilket läge arbetet befinner sig i.
 
-![Svarta och klisterlappar](assets/agile4-02.png)
+![Svarta anteckningar och anteckningar](assets/agile4-02.png)
 
 ## Prioritering
 

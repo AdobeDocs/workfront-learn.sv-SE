@@ -1,6 +1,6 @@
 ---
 title: Skicka en fil som deltagare
-description: Lär dig hur du skickar över en slutförd fil i [!DNL Workfront] till [!UICONTROL WORKFRONT DAM].
+description: Lär dig hur du skickar över en slutförd fil i [!DNL Workfront] till [!UICONTROL Workfront DAM].
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -18,22 +18,22 @@ ht-degree: 0%
 
 # Skicka en fil som deltagare
 
-När du har slutfört en fil i [!DNL Workfront]kan du skicka det vidare till [!UICONTROL WORKFRONT DAM] med några klick.
+När du har en färdig fil i [!DNL Workfront] kan du skicka den till [!UICONTROL  Workfront DAM] med några klick.
 
 1. Logga in på [!DNL Workfront].
-1. Navigera till **[!UICONTROL Dokument]** i [!DNL Workfront] objekt som filen är kopplad till.
+1. Navigera till avsnittet **[!UICONTROL Dokument]** i [!DNL Workfront]-objektet som filen är kopplad till.
 1. Markera dokumentet i listan.
-1. Klicka sedan på **[!UICONTROL Skicka till]** ikon och markera **[!UICONTROL WORKFRONT DAM]**.
+1. Klicka sedan på ikonen **[!UICONTROL Skicka till]** och välj **[!UICONTROL Workfront DAM]**.
 
-   ![En bild av [!UICONTROL Dela till] ikon in [!DNL Workfront]](assets/04-send-to-wrkfront-dam.png)
+   ![En bild av ikonen [!UICONTROL Dela till] i [!DNL Workfront]](assets/04-send-to-wrkfront-dam.png)
 
-1. Ett fönster visas med de mappar som du har behörighet att använda i [!UICONTROL WORKFRONT DAM]. Välj den mapp som filen ska placeras i.
+1. Ett fönster visas med de mappar som du har behörighet till i [!UICONTROL Workfront DAM]. Välj den mapp som filen ska placeras i.
 
-   ![En bild av fönstret som visar de mappar som du har behörighet att använda i [!UICONTROL WORKFRONT DAM]](assets/05-workfront-dam-folders.png)
+   ![En bild av fönstret som visar de mappar som du har behörighet till i [!UICONTROL Workfront DAM]](assets/05-workfront-dam-folders.png)
 
-1. Klicka **[!UICONTROL Spara]**.
-1. The [!UICONTROL Dokument] sidan laddas om och nu en [!UICONTROL WORKFRONT DAM] visas bredvid filnamnet. Detta anger att filen skickades till [!UICONTROL DAM].
+1. Klicka på **[!UICONTROL Spara]**.
+1. Sidan [!UICONTROL Dokument] läses in igen och nu visas en [!UICONTROL Workfront DAM] -ikon bredvid filnamnet. Detta anger att filen skickades till [!UICONTROL DAM].
 
-   ![En bild av [!UICONTROL WORKFRONT DAM] visas bredvid filnamnet](assets/06-dam-logo.png)
+   ![En bild av ikonen [!UICONTROL Workfront DAM] visas bredvid filnamnet](assets/06-dam-logo.png)
 
-1. Klicka nu på filnamnet för att öppna objektet i [!UICONTROL WORKFRONT DAM] så att du kan lägga till metadata och nyckelord.
+1. Klicka nu på filnamnet för att öppna objektet i [!UICONTROL Workfront DAM] så att du kan lägga till metadata och nyckelord.

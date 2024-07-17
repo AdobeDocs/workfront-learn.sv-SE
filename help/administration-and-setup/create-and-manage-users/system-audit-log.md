@@ -12,20 +12,20 @@ jira: KT-10040
 exl-id: 9de6fd40-10fb-47a6-b186-3a38c411f1ac
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
 # Förstå systemgranskningsloggen
 
-Systemets granskningslogg är det bästa sättet för systemadministratören att hålla ett öga på vad som händer i [!DNL Workfront]. Tänk på loggen som din källa till sanning för vem som gjorde vad och när.
+Systemgranskningsloggen är det bästa sättet för systemadministratören att hålla ett öga på vad som händer i [!DNL Workfront]. Tänk på loggen som din källa till sanning för vem som gjorde vad och när.
 
-Gå till granskningsloggen [!UICONTROL Inställningar] i [!UICONTROL Inställningar] område. Som standard visas data från de senaste sju dagarna. Ändra filtervillkoren för att visa data från olika datumintervall.
+Gå till granskningsloggen under [!UICONTROL Inställningar] i området [!UICONTROL Inställningar]. Som standard visas data från de senaste sju dagarna. Ändra filtervillkoren för att visa data från olika datumintervall.
 
-När en användare utför vissa åtgärder, [!UICONTROL Workfront] sparar dem i [!UICONTROL Granskningsloggar] i [!UICONTROL Inställningar] område.
+När en användare utför vissa åtgärder, registrerar [!UICONTROL Workfront] dem i avsnittet [!UICONTROL Granskningsloggar] i [!UICONTROL inställningsområdet].
 
-![[!UICONTROL Loggtyp] nedrullningsbar meny på [!UICONTROL Granskningsloggar] sida in [!UICONTROL Inställningar]](assets/admin-fund-audit-log-1.png)
+![[!UICONTROL Loggtyp] nedrullningsbar meny på sidan [!UICONTROL Granskningsloggar] i [!UICONTROL Inställningar]](assets/admin-fund-audit-log-1.png)
 
 Varje inspelad eller loggad åtgärd visar:
 
@@ -36,7 +36,7 @@ Varje inspelad eller loggad åtgärd visar:
 * All information som är associerad med åtgärden
 * IP-adressen
 
-![[!UICONTROL Granskningslogg] list](assets/admin-fund-audit-log-2.JPG)
+![[!UICONTROL Granskningslogg] lista](assets/admin-fund-audit-log-2.JPG)
 
 ## Exportera granskningsloggen
 
@@ -44,7 +44,7 @@ Genom att exportera granskningsloggdata kan systemadministratörer dela informat
 
 Granskningsloggar kan exporteras i en CSV-fil (kommaavgränsat värde) som kan öppnas i ett kalkylbladsprogram eller en vanlig textredigerare. Exporten är begränsad till 50 000 rader i taget, så använd filtren för att begränsa listan om summan överstiger 50 000.
 
-![[!UICONTROL Exportera] knapp på [!UICONTROL Granskningsloggar] page](assets/admin-fund-audit-log-3.png)
+![[!UICONTROL Exportera] på [!UICONTROL Granskningsloggar] sida ](assets/admin-fund-audit-log-3.png)
 
 <!---
 learn more URLs

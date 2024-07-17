@@ -1,6 +1,6 @@
 ---
 title: Gör en förfrågan
-description: Lär dig hur du hittar [!UICONTROL Begäranden] och göra en förfrågan. Lär dig sedan hur du visar inskickade begäranden och utkast.
+description: Lär dig hur du hittar området [!UICONTROL Förfrågningar] och gör en förfrågan. Lär dig sedan hur du visar inskickade begäranden och utkast.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial

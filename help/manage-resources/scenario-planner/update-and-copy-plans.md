@@ -1,6 +1,6 @@
 ---
-title: Uppdatera och kopiera planer i [!DNL Scenario Planner]
-description: Lär dig hur du uppdaterar en plan eller kopierar en plan i [!DNL  Workfront] [!DNL Scenario Planner].
+title: Uppdatera och kopiera planer i  [!DNL Scenario Planner]
+description: Lär dig hur du uppdaterar en plan eller kopierar en plan i  [!DNL  Workfront] [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User

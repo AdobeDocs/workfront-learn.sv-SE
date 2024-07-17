@@ -30,7 +30,7 @@ Det kan finnas tillfällen när du behöver redigera användare i Workfront. En 
 * Klicka på Spara ändringar.
 
 
-![[!DNL Edit Person] window](assets/mod_01.png)
+![[!DNL Edit Person] fönster](assets/mod_01.png)
 
 ## Redigera flera användare
 
@@ -39,4 +39,4 @@ Med Workfront massredigeringsfunktion kan du redigera flera användare samtidigt
 Markera rutorna bredvid de användare som du vill redigera. Klicka sedan på knappen Redigera för att öppna användarinformationen. De ändringar du gör gäller för alla markerade användare.
 
 
-![[!DNL Edit Person] window](assets/mod_02.png)
+![[!DNL Edit Person] fönster](assets/mod_02.png)

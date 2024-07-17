@@ -66,7 +66,7 @@ Om du vill skapa en fil som visar den totala tiden, i timmar, som varje enskild 
 
    ![Datastrukturer Bild 5](../12-exercises/assets/data-structures-walkthrough-5.png)
 
-   **Omvandla sedan data till det önskade utdataformuläret, med summerade tidssummor i timmar istället för minuter.**
+   **Omvandla sedan data till det önskade utdataformuläret, med aggregerade tidssummor i timmar i stället för minuter.**
 
 1. Lägg till en verktygsmodul för Numerisk aggregator.
 1. Välj källmodulen, som är CSV-modulen Parse.
@@ -76,7 +76,7 @@ Om du vill skapa en fil som visar den totala tiden, i timmar, som varje enskild 
 
    + Detta summeras för varje kombination av e-postmeddelandet och datumet. Var noga med att placera ett kommatecken mellan kolumn 4 och kolumn 5. Detta kommer att användas som avgränsare senare.
 
-   **Mappningspanelen bör se ut så här:**
+   **Mappningspanelen ska se ut så här:**
 
    ![Datastrukturer Bild 6](../12-exercises/assets/data-structures-walkthrough-6.png)
 
@@ -86,17 +86,17 @@ Om du vill skapa en fil som visar den totala tiden, i timmar, som varje enskild 
 
    ![Datastrukturer Bild 7](../12-exercises/assets/data-structures-walkthrough-7.png)
 
-   **Konvertera nu de aggregerade minuterna till timmar.**
+   **Konvertera de aggregerade minuterna till timmar.**
 
 1. Lägg till en annan verktygsmodul och välj Ange variabel.
 1. Ge variabeln namnet&quot;Timmar&quot;.
 1. Ange variabelvärdet till formatNumber(result/60;2;.;,)
 
-   **Mappningspanelen bör se ut så här:**
+   **Mappningspanelen ska se ut så här:**
 
    ![Datastrukturer Bild 8](../12-exercises/assets/data-structures-walkthrough-8.png)
 
-   **Hämta sedan de värden som är inställda för utdatafilen. Du vill att användar-ID och datumvärde ska användas för grupperingarna. Du vill också ha de timmar som har beräknats.**
+   **Hämta sedan de värden som angetts för utdatafilen. Du vill att användar-ID och datumvärde ska användas för grupperingarna. Du vill också ha de timmar som har beräknats.**
 
 1. Lägg till en annan modul-CSV-modul med aggregatorn Skapa CSV (avancerat).
 1. Källmodulen är aggregatorn Verktyg - Numerisk.
@@ -114,13 +114,13 @@ Om du vill skapa en fil som visar den totala tiden, i timmar, som varje enskild 
 
 1. Klicka på Spara för att avsluta datastrukturen Time Logged Daily Sum.
 
-   **Nu anger du värdena för de tre fält du just skapade. Du bör se de tre fälten på panelen CSV-mappning.**
+   **Nu anger du värdena för de tre fält som du nyss skapade. Du bör se de tre fälten på panelen för CSV-mappning.**
 
 1. Klicka i fältet UserID och välj GET på fliken General functions. I den första parametern ställer du in SPLIT från fliken för text och binära funktioner. Den första parametern för SPLIT-funktionen är Key-fältet. Lägg till ett kommatecken som avgränsare och 1 som index. Detta anger att du vill att GETEN ska hämta det första fältet i Key-arrayen.
 1. Kopiera det här uttrycket till datumfältet. Ändra indexvärdet från 1 till 2 till GET det andra värdet i arrayen.
 1. För fältet Timmar lägger du till fältet Timmar från verktyget Ange variabel.
 
-   **CSV-mappningspanelen ska se ut så här:**
+   **CSV-mappningspanelen bör se ut så här:**
 
    ![Datastrukturer Bild 10](../12-exercises/assets/data-structures-walkthrough-10.png)
 
@@ -128,17 +128,17 @@ Om du vill skapa en fil som visar den totala tiden, i timmar, som varje enskild 
 
    ![Datastrukturer Bild 11](../12-exercises/assets/data-structures-walkthrough-11.png)
 
-   **Nu kan du lägga till en modul för att ta det här resultatet och överföra det som ett dokument till ett befintligt projekt i Workfront.**
+   **Lägg till en modul för att ta med den här utdatafilen och överföra den som ett dokument till ett befintligt projekt i Workfront.**
 
 1. Öppna projektet i Workfront och kopiera projekt-ID:t från URL:en.
 1. Gå tillbaka till scenariot i Fusion och lägg till en annan modul - modulen Överför dokument från Workfront-appen.
 1. Klistra in projekt-ID i fältet Relaterat post-ID.
 1. Välj Projekt för den relaterade posttypen.
-1. Välj alternativet Karta för källfilen.
+1. Välj alternativet Karta för Source-filen.
 1. Använd det filnamn du hämtade som dokumentnamn och lägg till&quot;Uppdaterat&quot; framför det.
 1. Använd textutdata från modulen Skapa CSV för filinnehållet.
 
-   **Mappningspanelen bör se ut så här:**
+   **Mappningspanelen ska se ut så här:**
 
    ![Datastrukturer Bild 12](../12-exercises/assets/data-structures-walkthrough-12.png)
 

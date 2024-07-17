@@ -1,6 +1,6 @@
 ---
-title: Tilldela uppgifter via [!DNL Slack]
-description: Lär dig hur du tilldelar uppgifter i [!DNL Workfront] via [!DNL Slack]
+title: Tilldela uppgifter via  [!DNL Slack]
+description: Lär dig hur du tilldelar uppgifter i [!DNL Workfront] till [!DNL Slack]
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial

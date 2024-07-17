@@ -12,7 +12,7 @@ exl-id: 777cd503-96a3-4fc6-b0a8-429f72bc9bb0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,6 @@ I den här videon får du lära dig att:
 Pro-tips graphic
 -->
 
-* När chefer och arbetsledare vill förstå och segmentera målen på toppnivå bör du överväga frågan: Vad måste ni och/eller era team uppnå för att uppnå detta toppnivåmål?
+* När chefer och arbetsledare vill förstå och segmentera de främsta målen bör du fundera på frågan: Vad måste du och/eller dina team uppnå för att uppnå detta mål på högsta nivå?
 * Överlappande mål bör utgöra ett nödvändigt resultat som måste uppnås för att driva på eller möjliggöra för sin överordnade att uppnå.
 * Skapa inte komplexa målhierarkier som är svåra att följa eller som har för många lager. En bra tumregel är att låta målhierarkin vara relaterad till omfånget för målinställarna och bara bygga en hierarki till det djup du är villig och kan hantera.

@@ -8,7 +8,7 @@ jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
 source-git-commit: a7baac7e1bf18c454d1ddb8980898159a3802866
 workflow-type: tm+mt
-source-wordcount: '1055'
+source-wordcount: '1057'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Var noga med att kommunicera med &quot;Varför?&quot; i minst en timme per månad när en ny process eller programvara, som Adobe Workfront, implementeras.
 
-**Här är varför**
+**Det här är varför**
 
 Meddelanden bör vara enkla att förmedla och bör ges regelbundet. Se till att ni informerar användare, team och avdelningar om vilka mål och förväntade resultat ni har för att implementera Workfront, hur enskilda användare kan dra nytta av och varför det är viktigt inte bara för er utan för hela organisationen.
 
@@ -73,7 +73,7 @@ Dessa kommunikationsåtgärder skapar medvetenhet bland användarna och utgör g
 
 Innan du skapar utbildningsvideor eller -guider ska du läsa vad som finns på Experience League.
 
-**Här är varför**
+**Det här är varför**
 
 Om du inte behöver skapa utbildningar om Workfront för dina användare ska du inte göra det. Du kan naturligtvis skapa en egen utbildning, men om du inte har tid att göra det själv eller pengar att köpa en anpassad utbildning, finns det verkligen bra resurser på Experience League för att få användarna att komma igång, oavsett vilken roll de har
 
@@ -86,7 +86,7 @@ På sidan Komma igång hittar du dessutom grundläggande kurser så att du kan k
 
 Definiera och skapa ett ramverk för Workfront styrelse och säkra resurser som behövs för styrelsen.
 
-**Här är varför**
+**Det här är varför**
 
 Eftersom så många team bidrar till organisationens övergripande framgång måste det finnas vissa standarder som alla följer för att säkerställa verksamhetens kvalitet. Detta görs av styrelsen, som alla har en röst vid bordet, förstår företagets strategiska initiativ och kan delta i arbetet med att nå gemensamma mål.
 
@@ -109,7 +109,7 @@ Mer information finns på System Administrator Best Practices - Knowing Your Peo
 
 Använd dina processdiagram för att stödja konversationer i situationer där det är svårt att ta till sig dem.
 
-**Här är varför**
+**Det här är varför**
 
 Genom att dela processdiagram med chefer och användare får de en inblick i varför saker och ting har byggts på det sätt de var i Workfront. Detta ger en god grundläggande förståelse för varför vissa verktyg används på specifika sätt och varför vissa verktyg inte används än.
 
@@ -122,7 +122,7 @@ Dessutom kan användarna förstå hur deras arbeten fångas in och mäts i Workf
 
 Upprätta ett Workfront Center of Excellence som informerar företag om bästa praxis med Workfront.
 
-**Här är varför**
+**Det här är varför**
 
 Workfront Center of Excellence består av era ämnesexperter (SME) som hjälper er att definiera era bästa metoder för organisationen och hjälpa era team att förstå vad dessa är och varför.
 
@@ -133,7 +133,7 @@ Workfront Center of Excellence består av era ämnesexperter (SME) som hjälper 
 
 Använd Experience League Community.
 
-**Här är varför**
+**Det här är varför**
 
 Experience League Community är en chans för er att be om och få råd om allt som rör Workfront och arbete. Även om du inte vill delta i diskussionerna kan du förlåta sidan för att hitta information om ämnen du är intresserad av eller har svårt att hantera.
 
@@ -145,7 +145,7 @@ Experience League Community är en chans för er att be om och få råd om allt 
 
 Ange standarder eller förväntningar för användarna och se till att ledningen stöder dessa förväntningar.
 
-**Här är varför**
+**Det här är varför**
 
 Det är viktigt att användarna får tydliga förväntningar så att de vet vad målet är med Workfront och var de står när det gäller att uppfylla dessa förväntningar. Det är lika viktigt för dem att veta att ledarskap ligger bakom dessa standarder.
 
@@ -160,7 +160,7 @@ Se till att ledningen skickar ut meddelanden med sitt stöd.
 
 Skapa och distribuera en Adobe-enkät till era användare för att få en bättre förståelse för var de har problem och var de ser värde
 
-**Här är varför**
+**Det här är varför**
 
 Våra mest framgångsrika kunder har utvecklat en regelbunden strategi för att samla in feedback för att förstå vad som kan stå i vägen för en bättre användning av Workfront-lösningen. Genom att samla in feedback-data kan administratörer hitta rätt resurser som kan förbättra resultatet. Guiden till Adobes enkäter går igenom stegen för att genomföra, mäta, planera och granska en enkät till dina Workfront-användare.
 

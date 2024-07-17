@@ -1,6 +1,6 @@
 ---
 title: Skicka och dela rapporter
-description: Lär dig hur du skickar rapporter till användare, team eller e-postadresser och hur du delar rapporter med andra i Workfront.
+description: Lär dig hur du skickar rapporter till användare, team eller e-postadresser, och hur du delar rapporter med vem som helst i Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -36,20 +36,20 @@ Skicka en rapport till dig själv varje måndag kl. 5 som ett Excel-kalkylblad. 
 
 ![En bild av skärmen för att ställa in upprepade rapportleveranser](assets/send-a-report.png)
 
-1. Visa alla rapporter du har skapat och välj **[!UICONTROL Skicka rapport]** från **[!UICONTROL Rapportåtgärder]** -menyn.
-1. Klicka på **[!UICONTROL Upprepade leveranser]** -fliken.
-1. Skriv din e-postadress i **[!UICONTROL Skicka till]** fält.
+1. Visa alla rapporter som du har skapat och välj **[!UICONTROL Skicka rapport]** på menyn **[!UICONTROL Rapportera åtgärder]** .
+1. Klicka på fliken **[!UICONTROL Upprepade leveranser]**.
+1. Placera din e-postadress i fältet **[!UICONTROL Skicka till]**.
 1. Ange ett e-postämne.
 1. Ändra formatet till Excel.
-1. Ange **[!UICONTROL Upprepningar]** till [!UICONTROL Vecka].
-1. Ange [!UICONTROL Tid] till 5.
-1. Ange [!UICONTROL Upprepningar på] till måndag.
-1. Klicka **[!UICONTROL Spara]**.
+1. Ange **[!UICONTROL Upprepningar]** till [!UICONTROL Veckovis].
+1. Ange [!UICONTROL Time] till 5.
+1. Ange [!UICONTROL Upprepningar ] till måndag.
+1. Klicka på **[!UICONTROL Spara]**.
 
 >[!NOTE]
 >
->Lägg märke till din nya upprepade leverans i dialogrutan [!UICONTROL Upprepade leveranser] till höger. Du kan ställa in flera leveranser för en rapport och de visas här.
+>Lägg märke till din nya upprepade leverans på panelen [!UICONTROL Upprepade leveranser] till höger. Du kan ställa in flera leveranser för en rapport och de visas här.
 
-**DELETE A DELIVERING**
+**DELETE A DELIVERY**
 
-Välj den leverans du just skapade och klicka på Ta bort (bredvid **[!UICONTROL Spara]** ).
+Markera den leverans du just skapade och klicka på Ta bort (bredvid knappen **[!UICONTROL Spara]**).

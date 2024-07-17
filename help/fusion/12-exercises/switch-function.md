@@ -26,7 +26,7 @@ Lär dig hur du använder switchfunktionen med funktionen Switch.
 
 För enkla dataändringar använder du funktionen Växla för att omforma ett värde till ett annat inom ett modulfält. I den här övningen ändrar du nyckeln med två bokstäver till det faktiska namnet på projektets förloppsstatus för att skicka i ett e-postmeddelande.
 
-![Byt funktion bild 1](../12-exercises/assets/switch-function-walkthrough-1.png)
+![Byt funktion, bild 1](../12-exercises/assets/switch-function-walkthrough-1.png)
 
 ## Steg som ska följas
 

@@ -45,13 +45,13 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Använd arbetsflödena för att avgöra vilka meddelanden som behövs.
 
-**Här är varför**
+**Det här är varför**
 
 Genom att gå igenom arbetsflödena steg för steg blir det enklare att identifiera kommunikationspunkterna och se till att rätt meddelanden är aktiverade. Här visas meddelanden om hur din organisation redan fungerar, vilket förhindrar att skräppost eller kommunikation bryts.
 
-Instruktioner om hur du ställer in händelsemeddelanden finns i [Ställ in händelsemeddelanden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
+Instruktioner om hur du konfigurerar händelsemeddelanden finns i [Konfigurera händelsemeddelanden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
 
-Instruktioner om hur du hanterar händelsemeddelanden finns i [Hantera händelseaviseringar i appar och e-post](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
+Instruktioner om hur du hanterar händelsemeddelanden finns i [Hantera händelsemeddelanden i appen och e-postmeddelanden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
 
 </br>
 </br>
@@ -63,7 +63,7 @@ Skapa en anteckningsrapport med uppmaningar till användare att enkelt söka eft
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Om du har många uppdateringstrådar i ett projekt kan det vara svårt att hitta en viss uppdatering, särskilt eftersom Ctrl/Kommando F inte söker i trådarna. Med en anteckningsrapport kan du enkelt söka igenom alla uppdateringar baserat på dina promptalternativ utan att behöva öppna alla trådar. Vanliga kommandoalternativ är:
 
@@ -72,5 +72,5 @@ Om du har många uppdateringstrådar i ett projekt kan det vara svårt att hitta
 * Ägarens namn
 * Anmälningsdatum
 
-Om du vill ha stegvisa instruktioner om hur du skapar en anteckningsrapport med uppmaningar kan du titta på [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) självstudiekursen och sedan den aktivitet som följer.
+Om du vill ha stegvisa instruktioner om hur du skapar en anteckningsrapport med uppmaningar kan du titta på självstudiekursen [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) och sedan utföra den efterföljande aktiviteten.
 

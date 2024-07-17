@@ -1,6 +1,6 @@
 ---
 title: Förstå navigering och granskning av projektaktivitet
-description: Lär dig hur du jämför projekt baserat på användare som är inloggade, ändringar av uppgiftsstatus och uppgifter som har slutförts i [!UICONTROL Förbättrad analys].
+description: Lär dig hur du jämför projekt baserat på inloggade användare, ändringar av uppgiftsstatus och uppgifter som har slutförts i [!UICONTROL Förbättrad analys].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -14,7 +14,7 @@ exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---

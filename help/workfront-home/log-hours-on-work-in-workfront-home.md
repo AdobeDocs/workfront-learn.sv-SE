@@ -1,6 +1,6 @@
 ---
-title: Logga in timmar på arbetet [!UICONTROL Startsida]
-description: Lär dig hur du loggar tid på arbetstilldelningar i [!DNL  Workfront]. Förstå varför loggningstid kan behövas i din organisation.
+title: Logga arbetstider på arbetet i [!UICONTROL Hem]
+description: Lär dig hur du loggar tid för arbetstilldelningar i  [!DNL  Workfront]. Förstå varför loggningstid kan behövas i din organisation.
 feature: Work Management
 type: Tutorial
 role: User
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Logga in timmar på arbetet [!DNL Workfront] [!UICONTROL Startsida]
+# Logga timmar på arbetet i [!DNL Workfront] [!UICONTROL Hem]
 
 I den här videon får du lära dig:
 
@@ -32,7 +32,7 @@ I den här videon får du lära dig:
 Ett antal alternativ för loggningstid beror på hur systemadministratören konfigurerar Workfront.
 
 * Du kanske kan logga in på kommande dagar eller inte.
-* Du kan behöva välja en timtyp i den nedrullningsbara menyn så att du kan ange hur du har tillbringat tiden. Den här timtypen kan även visa om din tid var fakturerbar eller inte fakturerbar. Var noga med att välja timtyp innan du anger din tid genom att klicka på [!UICONTROL Loggtid] -knappen.
+* Du kan behöva välja en timtyp i den nedrullningsbara menyn så att du kan ange hur du har tillbringat tiden. Den här timtypen kan även visa om din tid var fakturerbar eller inte fakturerbar. Se till att du väljer timtyp innan du anger din tid genom att klicka på knappen [!UICONTROL Loggtid] .
 
 <!---
 learn more URLs

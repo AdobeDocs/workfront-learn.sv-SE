@@ -1,6 +1,6 @@
 ---
 title: Förstå datastrukturer
-description: Lär dig förstå datastrukturens användning och funktioner och skapa och använda en datastruktur i ett scenario, allt i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du förstår datastrukturens användning och funktioner och skapar och använder en datastruktur i ett scenario, allt i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

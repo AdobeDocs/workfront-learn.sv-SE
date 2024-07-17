@@ -1,6 +1,6 @@
 ---
 title: Introduktion till genomgång av universella anslutningar
-description: Lär dig hur du anropar Poke API via en HTTP-anslutning för att samla in och publicera information om en Pokemon-karaktär, allt i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du anropar Poke API via en HTTP-anslutning för att samla in och publicera information om ett Pokemon-tecken, allt i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -41,4 +41,4 @@ URL för övning: `https://pokeapi.co/api/v2/pokemon/{Character}`
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

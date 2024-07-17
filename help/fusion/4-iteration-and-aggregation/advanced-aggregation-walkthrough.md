@@ -1,6 +1,6 @@
 ---
 title: Genomgång av avancerad aggregering
-description: Lär dig hur du anropar en webbtjänst för att returnera information om flera länder och identifiera populationer, grupperade efter underregion, allt i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du anropar en webbtjänst för att returnera information om flera länder och identifiera populationer, grupperade efter underregion, allt i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -43,7 +43,7 @@ Varje gång en modul matar ut flera paket kommer varje modul därefter att köra
 
 Du kan förhindra detta genom att lägga till en aggregator efter en modul som kan generera flera paket.
 
-Du ser en skugga runt ett segment i ditt scenario från en **begynnelseiterator** till **slutaggregator**. Detta gör det enklare att hitta dessa segment i ditt Workfront Fusion-scenario.
+Du ser en skugga runt ett segment i ditt scenario från en **inledande iterator** till den **avslutande aggregatorn**. Detta gör det enklare att hitta dessa segment i ditt Workfront Fusion-scenario.
 
 ## Din tur
 
@@ -53,10 +53,10 @@ Du ser en skugga runt ett segment i ditt scenario från en **begynnelseiterator*
 
 Denna övning bygger på vad du lärde dig under genomgången, men lösningen tillhandahålls inte.
 
-Skapa ett nytt scenario för att summera alla timmars inloggade uppgifter i projekt i marknadsföringsportföljen. Skicka sedan ett e-postmeddelande som säger&quot;Ditt {Project Name}-projektteam har loggat {summerat hours} av det totala antalet planerade timmar, vilket ger dig en {percentage} i planen.&quot;
+Skapa ett nytt scenario för att summera alla timmars inloggade uppgifter i projekt i marknadsföringsportföljen. Skicka sedan ett e-postmeddelande som säger&quot;Ditt {Project Name}-projektteam har loggat {summerat timmar} av det totala antalet planerade timmar, vilket anger {percentage} av planen.&quot;
 
-**Utmaning:** Se om du kan göra samma sak, men bara i timmar som loggats i år.
+**Utmaning:** Se om du kan göra samma sak men bara för timmar som loggats i år.
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

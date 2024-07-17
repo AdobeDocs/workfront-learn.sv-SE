@@ -22,8 +22,8 @@ ht-degree: 0%
 
 I den här videon får du lära dig:
 
-* Ändra projektstatus till [!UICONTROL Complete]
-* Varför ska du ändra projektstatus till [!UICONTROL Complete]
-* Så här gör du om du inte kan ändra projektstatus till [!UICONTROL Complete]
+* Ändra projektstatus till [!UICONTROL Fullständigt]
+* Varför ska du ändra projektstatus till [!UICONTROL Fullständigt]?
+* Så här gör du om du inte kan ändra projektstatus till [!UICONTROL Fullständigt]
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on)

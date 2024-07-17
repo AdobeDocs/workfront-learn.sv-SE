@@ -31,7 +31,7 @@ I den här videon får du lära dig:
 
 >[!TIP]
 >
->Dela upp dina spatulor och mixa skålar och gör dig redo att prova recepten i våra [Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf). Inuti finns stegvisa instruktioner för 10 rapporter, klara att användas i din miljö idag.
+>Dela upp dina spatulor och mixa skålar och gör dig redo att prova recepten i vår [Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf). Inuti finns stegvisa instruktioner för 10 rapporter, klara att användas i din miljö idag.
 >Vi har samlat in rapporter från kunderna och sammanställt dem i en lättsmält kokbok som du kan ta tillbaka och testa i ditt eget Workfront-kök.
 >Dessa 10 rapporter kommer från kunder som är precis som du. Vi är skyldiga ett stort tack till de fantastiska kunder som delade en av sina favoritrapporter, som sprids ut över olika branscher, avdelningar, team, befattningar och alla i olika företag. Vissa rapporter är enkla (men mycket användbara), och vissa är mer komplexa för att ta dina rapporter till nästa nivå.
 
@@ -68,52 +68,52 @@ Ta med uppmaningar om följande:
 
 ## Aktivitet 1 svar
 
-1. Välj **[!UICONTROL Rapporter]** från **[!UICONTROL Huvudmeny]**.
-1. Klicka på **[!UICONTROL Ny rapport]** meny och välj **[!UICONTROL Anteckning]**.
-1. I **[!UICONTROL Kolumner (vy)]** konfigurera kolumnerna så att de omfattar:
+1. Välj **[!UICONTROL Rapporter]** på **[!UICONTROL Huvudmenyn]**.
+1. Klicka på menyn **[!UICONTROL Ny rapport]** och välj **[!UICONTROL Obs!]**.
+1. I **[!UICONTROL Kolumner (Visa)]** ställer du in dina kolumner så att de omfattar:
 
    ![En bild av skärmen för att skapa anteckningsrapportkolumner](assets/note-report-columns.png)
 
-   * [!UICONTROL Anteckning] > [!UICONTROL Anteckningstext]
-   * [!UICONTROL Anteckning] > [!UICONTROL Granskningstext]
-   * [!UICONTROL Anteckning] > [!UICONTROL Anmälningsdatum]
+   * [!UICONTROL Obs!] > [!UICONTROL Anteckningstext]
+   * [!UICONTROL Obs!] > [!UICONTROL Granska text]
+   * [!UICONTROL Obs!] > [!UICONTROL Anmälningsdatum]
    * [!UICONTROL Ägare] > [!UICONTROL Namn]
-   * [!UICONTROL Anteckning] > [!UICONTROL Granskningstyp]
-   * [!UICONTROL Uppgift] > [!UICONTROL Namn]
+   * [!UICONTROL Obs!] > [!UICONTROL Granskningstyp]
+   * [!UICONTROL Aktivitet] > [!UICONTROL Namn]
    * [!UICONTROL Problem] > [!UICONTROL Namn]
 
-1. Välj **[!UICONTROL Anmälningsdatum]** kolumn och ändra **[!UICONTROL Sortera till fallande]**.
-1. I **[!UICONTROL Grupperingar]** ställer du in rapporten på att gruppera efter [!UICONTROL Projekt] > [!UICONTROL Namn].
+1. Markera kolumnen **[!UICONTROL Postdatum]** och ändra **[!UICONTROL Sortera till fallande]**.
+1. På fliken **[!UICONTROL Grupperingar]** anger du att rapporten ska grupperas efter [!UICONTROL Projekt] > [!UICONTROL Namn].
 
    ![En bild av skärmen för att skapa rapportgrupperingar för anteckningar](assets/note-report-groupings.png)
 
-1. Lämna [!UICONTROL Filter] tom.
+1. Lämna [!UICONTROL Filter] tomt.
 1. Öppna **[!UICONTROL Rapportinställningar]** och ge rapporten namnet&quot;Anteckningssökning&quot;.
-1. I [!UICONTROL Beskrivning] -fält, skriv något som &quot;Sök efter system- eller användaranteckningar baserat på vald granskningstyp och andra uppmaningar. Systemanteckningar visas i kolumnen Granskningstext och Användaranteckningar visas i kolumnen Anteckningstext.&quot;
+1. I fältet [!UICONTROL Beskrivning] skriver du något som: Sök efter system- eller användaranteckningar baserat på granskningstypen och andra uppmaningar. Systemanteckningar visas i kolumnen Granskningstext och Användaranteckningar visas i kolumnen Anteckningstext.&quot;
 
-   ![En bild av skärmen för att skapa inställningar för anteckningsrapporter](assets/note-report-report-options.png)
+   ![En bild av skärmen för att skapa inställningar för anteckningsrapport](assets/note-report-report-options.png)
 
-1. Välj **[!UICONTROL Fliken Detaljer]** så att den visas när rapporten läses in.
+1. Välj fliken **[!UICONTROL Information]** så att den visas när rapporten läses in.
 1. Ange att rapporten ska visa 200 objekt när rapporten inkluderas på en kontrollpanel.
-1. Klicka **[!UICONTROL Rapportera uppmaningar]** och lägg till:
+1. Klicka på **[!UICONTROL Rapportera frågor]** och lägg till:
 
-   ![En bild av skärmen för att skapa anteckningsrapportmeddelanden](assets/note-report-report-prompts.png)
+   ![En bild av skärmen där uppmaningar om anteckningsrapport skapas](assets/note-report-report-prompts.png)
 
-   * [!UICONTROL Anteckning] > [!UICONTROL Granskningstext]
-   * [!UICONTROL Anteckning] > [!UICONTROL Anteckningstext]
+   * [!UICONTROL Obs!] > [!UICONTROL Granska text]
+   * [!UICONTROL Obs!] > [!UICONTROL Anteckningstext]
    * [!UICONTROL Ägare] > [!UICONTROL Namn]
-   * [!UICONTROL Anteckning] > [!UICONTROL Anmälningsdatum]
+   * [!UICONTROL Obs!] > [!UICONTROL Anmälningsdatum]
    * [!UICONTROL Projekt] > [!UICONTROL Namn]
-   * [!UICONTROL Anteckning] > [!UICONTROL Granskningstyp]
+   * [!UICONTROL Obs!] > [!UICONTROL Granskningstyp]
 
 1. Markera kryssrutan för **[!UICONTROL Visa frågor i instrumentpaneler]**.
 1. Spara och stäng rapporten.
 
 ## Aktivitet 2: Skapa en feedback från administratörsteamet
 
-Det här är en problemrapport som visar alla problem i en kön för feedback-begäranden som har skapats för systemadministratörer. Du kan se hur du skapar den här begärandekön i [Skapa en kö för feedback från systemadministratörer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) självstudie.
+Det här är en problemrapport som visar alla problem i en kön för feedback-begäranden som har skapats för systemadministratörer. Du kan se hur du skapar den här begärandekön i självstudiekursen [Skapa en kö för systemadministratörsfeedback](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html).
 
-I den här rapporten används även ett anpassat formulär. Mer information om hur du skapar ett anpassat formulär finns i [Skapa och dela ett anpassat formulär](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) självstudie.
+I den här rapporten används även ett anpassat formulär. Om du vill lära dig hur du skapar ett anpassat formulär kan du läsa självstudiekursen [Skapa och dela ett anpassat formulär](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html).
 
 Det anpassade formuläret ska skapas på följande sätt:
 
@@ -136,7 +136,7 @@ Namn: Administratörsprocessfeedback
    * 4 - utmärkt
 1. Problem eller goda nyheter (textfält för stycke)
 
-Skapa en problemrapport med namnet **Återrapportering från administratörsteamet**.
+Skapa en problemrapport med namnet **Administratörsteamets feedback-rapport**.
 
 Vyn ska ha följande kolumner:
 
@@ -156,37 +156,37 @@ Grupp på processtyp.
 Filtrera på ID:t för begärandeköprojektet där feedbackproblemen finns.
 
 
-![En skärmbild med feedback från administratörsteamet](assets/create-a-system-admin-feedback-request-queue.png)
+![En skärmbild på feedbackrapporten från Admin team](assets/create-a-system-admin-feedback-request-queue.png)
 
 
 
 ## Aktivitet 2 svar
 
-1. Välj **[!UICONTROL Rapporter]** från **[!UICONTROL Huvudmeny]**.
-1. Klicka på **[!UICONTROL Ny rapport]** meny och välj **[!UICONTROL Problem]**.
-1. I **[!UICONTROL Kolumner (vy)]** konfigurera kolumnerna så att de omfattar:
+1. Välj **[!UICONTROL Rapporter]** på **[!UICONTROL Huvudmenyn]**.
+1. Klicka på menyn **[!UICONTROL Ny rapport]** och välj **[!UICONTROL Problem]**.
+1. I **[!UICONTROL Kolumner (Visa)]** ställer du in dina kolumner så att de omfattar:
 
-   ![En bild av skärmen för att skapa kolumner för problemrapporter](assets/task-report-activity-2-1.png)
+   ![En bild av skärmen för att skapa kolumner för problemrapport](assets/task-report-activity-2-1.png)
 
    * [!UICONTROL Problem] > [!UICONTROL Namn]
    * [!UICONTROL Primär kontakt] > [!UICONTROL Namn]
-      * Obs! Detta visas med &quot;Owner:Name&quot; som kolumnetikett. Du kan ändra detta till&quot;Rapporterad av&quot; genom att klicka på Avancerade alternativ och skriva&quot;Rapporterad av&quot; i dialogrutan **Etikett för anpassad kolumn** fält.
+      * Obs! Detta visas med &quot;Owner:Name&quot; som kolumnetikett. Du kan ändra detta till&quot;Rapporterad av&quot; genom att klicka på Avancerade alternativ och skriva&quot;Rapporterad av&quot; i fältet **Etikett för anpassad kolumn**.
    * [!UICONTROL Problem] > [!UICONTROL Processtyp]
    * [!UICONTROL Problem] > [!UICONTROL Processnamn]
-   * [!UICONTROL Problem] > [!UICONTROL Processkvalitet]
+   * [!UICONTROL Problem] > [!UICONTROL Processgrad]
    * [!UICONTROL Problem] > [!UICONTROL Problem eller goda nyheter]
-   * [!UICONTROL Problem] > [!UICONTROL Anmälningsdatum]
+   * [!UICONTROL Utgåva] > [!UICONTROL Införseldatum]
    * [!UICONTROL Problem] > [!UICONTROL Ålder]
    * [!UICONTROL Problem] > [!UICONTROL Uppdrag]
    * [!UICONTROL Problem] > [!UICONTROL Status]
 
-1. Välj **[!UICONTROL Anmälningsdatum]** kolumn och ändra **[!UICONTROL Sortera till fallande]**.
-1. I **[!UICONTROL Grupperingar]** ställer du in rapporten på att gruppera efter **[!UICONTROL Problem] > [!UICONTROL Processtyp]**.
+1. Markera kolumnen **[!UICONTROL Postdatum]** och ändra **[!UICONTROL Sortera till fallande]**.
+1. På fliken **[!UICONTROL Grupperingar]** ställer du in rapporten på att gruppera efter **[!UICONTROL Problem] > [!UICONTROL Processtyp]**.
 
    ![En bild av skärmen för att skapa grupper med problemrapporter](assets/task-report-activity-2-2.png)
 
-1. I **[!UICONTROL Filter]** lägga till ett filter för **[!UICONTROL Problem] > [!UICONTROL Projekt-ID]** för att motsvara det begärandeköprojekt där feedbackproblemen finns.
+1. På fliken **[!UICONTROL Filter]** lägger du till ett filter för **[!UICONTROL Utgåva] > [!UICONTROL Projekt-ID]** som är lika med begärandeköprojektet där feedbackproblemen finns.
 
-   ![En bild av skärmen för att skapa filter för problemrapporter](assets/task-report-activity-2-3.png)
+   ![En bild av skärmen för att skapa filter för problemrapport](assets/task-report-activity-2-3.png)
 
 1. Spara och stäng rapporten.

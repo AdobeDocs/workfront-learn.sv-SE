@@ -37,9 +37,9 @@ Använd modulen Ange variabel för att skicka ett tal genom flera banor för att
 
 1. Lägg till en annan modul och välj modulen Router. För båda banorna väljer du verktyget Öka och klickar på OK utan att göra några ändringar för var och en.
 
-   + Skapa ett filter för den första banan, ge den namnet&quot;Mindre än 100&quot; och ange villkoret till [Mitt nummer] Mindre än 100.
+   + Skapa ett filter för den första sökvägen, ge den namnet&quot;Mindre än 100&quot; och ange villkoret till [Mitt nummer] mindre än 100.
 
-   + Skapa ett filter för den andra sökvägen, ge den namnet&quot;Mindre än 1000&quot; och ange villkoret till [Mitt nummer] Mindre än 1000. Se till att du använder operatorn Numerisk för båda.
+   + Skapa ett filter för den andra sökvägen, ge den namnet&quot;Mindre än 1000&quot; och ange villkoret till [Mitt nummer] mindre än 1000. Se till att du använder operatorn Numerisk för båda.
 
    ![Routningsmönster Bild 3](../12-exercises/assets/routing-patterns-walkthrough-3.png)
 

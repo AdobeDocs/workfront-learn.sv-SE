@@ -8,7 +8,7 @@ jira: KT-10906
 exl-id: 0d1ddaed-8daa-40e5-8384-c052ec36fbdc
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '1431'
+source-wordcount: '1434'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -69,7 +69,7 @@ Identifiera viktiga kategorier och behov innan du skapar organisationsenheter i 
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Om ni vet vilka mätvärden ni söker och vilken information ni vill samla in inom Workfront om användarna och vad de gör, kan ni fokusera på att bygga upp era organisationsenheter för att tillgodose dessa behov.
 
@@ -82,9 +82,9 @@ Utvärdera regelbundet din befintliga Workfront-struktur för att säkerställa 
 
 
 
-**Här är varför**
+**Det här är varför**
 
-I takt med att er organisation växer, eller när Workfront utökas inom er organisation, kommer ni att hitta nya och olika sätt att förbättra effektiviteten i processerna och hur användarna arbetar. Så att regelbundet utvärdera hur organisationsenheterna är strukturerade kan du få veta om strukturen fortfarande fungerar eller om den behöver uppdateras.
+När er organisation växer, eller när Workfront utökas inom er organisation, kommer ni att hitta nya och olika sätt att förbättra effektiviteten i processerna och hur användarna arbetar. Så att regelbundet utvärdera hur organisationsenheterna är strukturerade kan du få veta om strukturen fortfarande fungerar eller om den behöver uppdateras.
 
 </br>
 </br>
@@ -96,7 +96,7 @@ Granska din användarbas varje kvartal eller minst var sjätte månad.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 I takt med att er organisation använder Workfront med tiden och ökar användningen av verktyget så ökar informationen i systemet. Detta inkluderar antalet användare, antalet licenser som används, hur många företag, grupper eller team som har skapats osv.
 
@@ -117,7 +117,7 @@ Identifiera och utbilda användare som ska vara gruppadministratörer.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Välj personer med stor förståelse för Adobe Workfront och hur deras grupper använder systemet - och vilka som har tid att ägna sig åt att vara gruppadministratör.
 
@@ -127,7 +127,7 @@ Gruppadministratörer kan ange status, ändra projektinställningar eller skapa 
 
 
 
-Detta frigör systemadministratören från några av de dagliga installationerna och underhållet av Workfront. Det ger också varje grupp bättre kontroll över sina egna inställningar och driftsinställningar, utan att störa andra grupper i Workfront.
+Detta frigör systemadministratören från några av de dagliga installationerna och underhållet av Workfront. Det ger också varje grupp bättre kontroll över sina egna inställningar och inställningar, utan att störa andra grupper i Workfront.
 
 </br>
 </br>
@@ -139,7 +139,7 @@ Det behövs normalt bara ett företag för era interna användare.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Ett Workfront-företag ska vara till för hela organisationen, inte bara en del av verksamheten. Om du delar upp dina interna användare i olika företag kan det leda till problem med behörigheter i Workfront. En Workfront-grupp är det bästa sättet att organisera interna användare.
 
@@ -152,7 +152,7 @@ Skapa företag för externa kunder eller leverantörer som du vill spåra i din 
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Om du skapar ett företag med externa leverantörer kan du låta dessa leverantörer i Workfront granska förloppet för det innehåll eller den produkt som byggs åt dem samtidigt som deras åtkomst begränsas i systemet.
 
@@ -170,7 +170,7 @@ Minimera antalet Workfront-grupper och korrelera dem med företagets avdelningar
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Grupper behövs mest av avdelningar som hanterar sitt arbete i Workfront. Marknadsföringsavdelningen kan till exempel behöva en egen grupp, men användare från andra avdelningar som bara är i Workfront för att begära arbete kan placeras i standardgruppen.
 
@@ -183,7 +183,7 @@ Använd grupper för att representera avdelningsstrukturen och team för att rep
 
 
 
-**Här är varför**
+**Det här är varför**
 
 En hemgrupp är ett obligatoriskt fält för både användare och projekt. Detta skapar ett bra sätt att ordna och rapportera om användare och det högnivåarbete de är involverade i.
 
@@ -200,7 +200,7 @@ Utnyttja gruppadministratörer för att hjälpa systemadministratörer att hante
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Systemadministratörer har tillgång till allt i Workfront, inklusive globala systeminställningar. De inställningsgruppadministratörer som kan komma åt styrs av systemadministratören och gäller endast den specifika gruppen.
 
@@ -218,7 +218,7 @@ Tillåt gruppadministratörer att skapa egna undergrupper.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Gruppadministratörer kan skapa och hantera egna undergrupper. Även om en systemadministratör kan skapa undergrupper kan det spara mycket tid att delegera detta till en gruppadministratör. Det kan också ge en bättre Workfront-upplevelse för gruppmedlemmar, eftersom gruppadministratören känner till gruppens och undergruppens behov och arbetsflöden bättre.
 
@@ -231,7 +231,7 @@ Tilldela layoutmallar till hemteam.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Det är viktigt att ni ser till att era team är på samma sida när det gäller arbete. Det innebär att de blir enklare att komma åt samma rapporter och verktyg. Med layoutmallar kan du skapa den miljön och förbättra, och eventuellt förbättra, processer som teamet redan har på plats.
 
@@ -244,7 +244,7 @@ Använd större organisationsenheter för att dela objekt med grupper av persone
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Använda en större organisationsenhet som grupper och team när man delar objekt i Workfront - projekt, rapporter osv.—innebär att du snabbt och enkelt kan dela objektet med en viss uppsättning personer på en och samma gång. Det kan vara besvärligt och tidskrävande att lägga till enskilda användarnamn i delningsfönstret.
 

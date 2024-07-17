@@ -1,6 +1,6 @@
 ---
 title: Gör något genom att uppdatera
-description: Lär dig hur du uppdaterar inifrån Aktiviteter i flightdiagram i [!UICONTROL Förbättrad analys].
+description: Lär dig hur du gör uppdateringar inifrån Aktiviteter i flightdiagram i [!UICONTROL Förbättrad analys].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png

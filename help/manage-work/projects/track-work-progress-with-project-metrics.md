@@ -1,6 +1,6 @@
 ---
 title: Spåra arbetets förlopp med projektstatistik
-description: Lär dig hur du använder projektmätningsdiagram för att följa upp projektarbetets förlopp i [!DNL  Workfront].
+description: Lär dig hur du använder projektmätningsdiagram för att spåra förloppet för projektarbete i  [!DNL  Workfront].
 activity: use
 feature: Work Management
 thumbnail: 336667.jpeg
@@ -34,5 +34,5 @@ I den här videon får du lära dig att:
 * [Kom igång med att hantera ett projekt](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Spåra projektets övergripande förlopp](/help/manage-work/projects/track-overall-project-progress.md)
 * [Spåra arbetets förlopp med projektstatistik](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Förstå [!UICONTROL Gantt] visa](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Förstå [!UICONTROL Styrelse] visa](/help/manage-work/projects/understand-the-board-view.md)
+* [Förstå [!UICONTROL Gantt]-vyn](/help/manage-work/projects/understand-the-gantt-view.md)
+* [Förstå vyn för [!UICONTROL anslagstavlan]](/help/manage-work/projects/understand-the-board-view.md)

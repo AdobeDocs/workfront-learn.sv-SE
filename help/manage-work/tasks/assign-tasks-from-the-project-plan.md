@@ -46,5 +46,5 @@ Modify multiple user assignments in a task list
 * [Förstå varaktigheter för uppgifter](/help/manage-work/tasks/understand-task-durations.md)
 * [Lär dig att sekvensera uppgifter](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Förstå planerade timmar](/help/manage-work/tasks/understand-planned-hours.md)
-* [Förstå [!UICONTROL Arbetsinsats]](/help/manage-work/tasks/understand-work-effort.md)
+* [[!UICONTROL Arbetsinsats]](/help/manage-work/tasks/understand-work-effort.md)
 

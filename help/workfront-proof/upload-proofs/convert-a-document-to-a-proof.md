@@ -1,6 +1,6 @@
 ---
 title: Konvertera ett dokument till ett korrektur
-description: Lär dig hur du skapar ett korrektur av ett dokument som redan finns i [!DNL  Workfront], lägga till ett arbetsflöde i ett korrektur och lägga till eller redigera ett arbetsflöde när korrektur har skapats.
+description: Lär dig hur du skapar ett korrektur av ett dokument som redan finns i  [!DNL  Workfront], lägger till ett arbetsflöde i ett korrektur och lägger till eller redigerar ett arbetsflöde när korrektur har skapats.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 25d05144-9fe9-4979-9a9d-4132cf4c2edc
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Om du tycker att de här inställningarna behöver justeras ska du tala med syst
 1. Öppna ett projekt, en uppgift eller ett ärende och gå till avsnittet Dokument. Överför två eller tre dokument.
 1. Konvertera nu ett av dokumenten till ett korrektur, men lägg inte till ett korrekturarbetsflöde än.
 1. Konvertera det andra dokumentet till ett korrektur och lägg till ett grundläggande arbetsflöde med en deadline på kl. 16.00 idag.
-1. Gå tillbaka till korrekturet som du skapade i steg 2 i den här övningen och lägg till en korrekturarbetsflödesmall. Om ni inte har något ännu, ska ni skapa ett provarbetsflöde i två steg.
+1. Gå tillbaka till korrekturet som du skapade i steg 2 och lägg till en korrekturarbetsflödesmall. Om ni inte har något ännu, ska ni skapa ett provarbetsflöde i två steg.
 
 
 <!--

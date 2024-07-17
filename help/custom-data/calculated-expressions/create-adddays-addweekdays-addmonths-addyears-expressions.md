@@ -1,5 +1,5 @@
 ---
-title: Skapa ADDDAYS-, ADDWEEKDAY-, ADDMONTHS-, ADDYEARS-uttryck
+title: Skapa ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS-uttryck
 description: Lär dig hur du använder och skapar ADD-uttryck i ett beräkningsfält i Adobe [!DNL Workfront].
 feature: Custom Forms
 type: Tutorial
@@ -13,12 +13,12 @@ exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
-# Skapa ADDDAYS-, ADDWEEKDAY-, ADDMONTHS-, ADDYEARS-uttryck
+# Skapa ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS-uttryck
 
 I den här videon får du lära dig:
 
@@ -31,11 +31,11 @@ I den här videon får du lära dig:
 
 Nedan finns några ytterligare ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR-uttryck som Adobe Workfront-kunder har skapat.
 
-**Bör ha gjorts av**
+**borde ha gjorts av**
 
 Kunden ville veta när uppgiften skulle ha slutförts baserat på det faktiska startdatumet och den planerade varaktigheten. Det planerade slutförandedatumet fungerar inte i det här fallet eftersom det kan flyttas om aktiviteten är sen, och det planerade slutförandedatumet hjälper inte om det uppstår förseningar i tidigare aktiviteter.
 
-Uttrycket som skapades var ADDDAYS({actualStartDate},{durationMinutes}/480)
+Det skapade uttrycket var ADDDAYS({actualStartDate},{durationMinutes}/480)
 
 Tid i fältet Varaktighet sparas i minuter. I det här uttrycket kan fältet Varaktighet inte vara fristående om tiden ska visas i dagar. För att detta ska ske måste varaktigheten divideras med 480 minuter (480 minuter = 8 timmar = 1 dag)
 

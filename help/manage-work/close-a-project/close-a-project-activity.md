@@ -32,5 +32,5 @@ Tala med er chef eller interna Workfront-team för att ta reda på vilka steg ni
 
 Som projektledare kan det vara värdefullt att hålla&quot;lärda&quot; sessioner.
 
-* Fundera på några av de projekt ni har administrerat under det senaste året. Vilka typer av frågor vill du ställa eller information kan du samla in under en lektionssession?
+* Fundera på några av de projekt ni har administrerat under det senaste året. Vilka typer av frågor vill du ställa och vilken information vill du samla in under en lektionssession?
 * Bestäm om du vill lägga in&quot;gjorda erfarenheter&quot; i projekten. Bestäm sedan hur. Du kan till exempel göra något informellt, till exempel en snabb vägledning med ditt team. Eller så kan den byggas in i din projektplan.

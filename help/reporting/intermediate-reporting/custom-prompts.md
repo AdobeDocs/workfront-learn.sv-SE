@@ -24,11 +24,11 @@ I den här videon får du lära dig:
 
 * Vad en anpassad fråga är
 * Hur man skapar en egen fråga i textläge
-* Några exempel som du kan använda i dina rapporter
+* Några exempel som du kan använda i din rapportering
 
 >[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
-## Aktivitet: Skapa egna uppmaningar
+## Aktivitet: Skapa anpassade uppmaningar
 
 1. Skapa en anpassad fråga som visar följande projektstatus i den nedrullningsbara menyn:
    * Planering

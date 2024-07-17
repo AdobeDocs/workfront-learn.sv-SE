@@ -1,6 +1,6 @@
 ---
 title: Aktivera och tvinga fram nyckelordstaxonomi
-description: Lär dig hur du aktiverar och tillämpar nyckelordstaxonomin, när användare kan ange egna nyckelord och konfigurera sökfaktorer i [!UICONTROL WORKFRONT DAM].
+description: Lär dig hur du aktiverar och tvingar nyckelordsgruppen, när användare kan ange egna nyckelord och konfigurera sökfaktorer i [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -23,7 +23,7 @@ I den här videon får du lära dig att:
 
 * Bevilja åtkomst till nyckelordens taxonomi
 * Tvinga användning av nyckelordens taxonomi
-* Förstå när [!UICONTROL WORKFRONT DAM] användare kan ange sina egna nyckelord
+* Förstå när [!UICONTROL Workfront DAM]-användare kan ange egna nyckelord
 * Ställ in sökfack
 
 >[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on)

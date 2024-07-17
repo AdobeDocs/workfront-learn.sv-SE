@@ -1,6 +1,6 @@
 ---
-title: Så här prioriterar du arbetet i [!UICONTROL Startsida]
-description: Lär dig hur du markerar objekt i [!UICONTROL Arbetslista] som prioritetsuppgifter på hemsidan. Filtrera sedan listan för att se det du prioriterar [!DNL  Workfront].
+title: Prioritera arbete i [!UICONTROL Hem]
+description: Lär dig hur du markerar objekt i [!UICONTROL arbetslistan] som prioritetstilldelningar på hemsidan. Filtrera sedan listan för att se ditt prioriterade arbete i  [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ---
 
-# Prioritera ditt arbete i [!DNL Workfront] [!UICONTROL Startsida]
+# Prioritera ditt arbete i [!DNL Workfront] [!UICONTROL Hem]
 
 I den här videon får du lära dig att:
 
 * Markera arbete som prioriteringstilldelningar
-* Filtrera [!UICONTROL Arbetslista] för att bara se prioriterat arbete
+* Filtrera [!UICONTROL arbetslistan] så att endast prioritetsarbete visas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on)

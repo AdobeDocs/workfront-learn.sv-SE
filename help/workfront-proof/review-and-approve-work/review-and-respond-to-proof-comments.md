@@ -1,6 +1,6 @@
 ---
 title: Granska och besvara korrekturkommentarer
-description: Lär dig hur du visar och svarar på korrekturkommentarer från korrekturläsaren och från [!UICONTROL Uppdateringar] avsnitt i [!DNL  Workfront].
+description: Lär dig hur du visar och svarar på korrekturkommentarer från korrekturläsaren och från avsnittet [!UICONTROL Uppdateringar] i [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -23,7 +23,7 @@ ht-degree: 0%
 I den här videon får du lära dig att:
 
 * Visa och svara på kommentarer i korrekturläsaren
-* Visa korrekturkommentarer i [!UICONTROL Uppdateringar] section
-* Svara på en korrekturkommentar från [!UICONTROL Uppdateringar] section
+* Visa korrekturkommentarer i avsnittet [!UICONTROL Uppdateringar]
+* Svara på en korrekturkommentar i avsnittet [!UICONTROL Uppdateringar]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on)

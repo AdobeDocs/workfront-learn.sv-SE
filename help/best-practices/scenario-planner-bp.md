@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -49,13 +49,13 @@ Skapa och jämför flera scenarier på hög nivå för att navigera i organisati
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Genom att titta på och jämföra flera scenarier på en hög nivå kan ni utvärdera de resurser som behövs för att uppnå era mål. Ni kan se till att era medarbetare är rätt bemannade, att budgeten fördelas på rätt sätt och att rätt mål uppnås vid rätt tidpunkt.
 
 
 
-På så sätt kan ni också fastställa den bästa åtgärdsplanen för att slutföra varje initiativ samtidigt som ni optimerar resurser och navigerar i skiftande budgetar. Genom att planera i förväg och väga flera scenarier kan du snabbare anpassa dig till ändringar och vid behov kurskorrigera.
+På så sätt kan ni också fastställa den bästa åtgärdsplanen för att slutföra varje initiativ samtidigt som ni optimerar resurser och navigerar i skiftande budgetar. Genom att planera i förväg och väga flera scenarier kan du snabbare anpassa dig till ändringar och vid behov kurskorrigera dem.
 
 </br>
 </br>
@@ -66,7 +66,7 @@ Minimera antalet scenarier.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Även om du kan skapa många scenarier i ett projekt bör du hålla dem så få som möjligt. Detta gör det enklare att jämföra scenarier när man tittar på dem i kortformat och levererar de valda scenarierna.
 
@@ -77,7 +77,7 @@ Minimera antalet scenarier.
 
 Beräkna eller justera obligatoriska jobbroller eller information om fasta kostnader varje månad.
 
-**Här är varför**
+**Det här är varför**
 
 Genom att hålla de roller och kostnader som krävs för satsningen uppdaterade blir initiativberäkningarna i scenariot så korrekta som möjligt. På så sätt kan ni tilldela personalresurser och timmar till era prioriterade projekt och enkelt se vad ni behöver veta om ert utbud och er efterfrågan.
 

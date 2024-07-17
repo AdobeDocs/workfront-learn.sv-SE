@@ -1,6 +1,6 @@
 ---
-title: How to Create an Initiative in [!DNL Scenario Planner]
-description: Lär dig hur du skapar initiativ som en del av en plan i [!DNL Scenario Planner].
+title: Så här skapar du ett initiativ i  [!DNL Scenario Planner]
+description: Lär dig hur du skapar initiativ som en del av en plan i  [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User

@@ -40,25 +40,25 @@ Skapa en uppgiftsvy med namnet &quot;Aktivitetsstatusvy&quot; med följande kolu
 * [!UICONTROL Varaktighet]
 * [!UICONTROL Procent färdigt]
 * [!UICONTROL Status]
-* [!UICONTROL Status för förlopp]
+* [!UICONTROL Förloppsstatus]
 * [!UICONTROL Statusikoner]
 
 ## Aktivitet 1 svar
 
 ![En bild av skärmen för att skapa en aktivitetsstatusvy](assets/view-exercise.png)
 
-1. I en uppgiftslistrapport går du till **[!UICONTROL Visa]** nedrullningsbar meny och välj **[!UICONTROL Ny vy]**.
+1. I en uppgiftslistrapport går du till listrutan **[!UICONTROL Visa]** och väljer **[!UICONTROL Ny vy]**.
 1. Ge vyn namnet&quot;Aktivitetsstatusvy&quot;.
-1. Ta bort dessa kolumner: [!UICONTROL Antal timmar], [!UICONTROL Föregående], [!UICONTROL Starta den]och [!UICONTROL Förfaller den].
-1. Klicka **[!UICONTROL Lägg till kolumn]**.
-1. I [!UICONTROL Visa i den här kolumnen] skriver du&quot;status&quot; och väljer sedan&quot;Status&quot; under [!UICONTROL Uppgift] fältkälla.
-1. Klicka **[!UICONTROL Lägg till kolumn]** igen.
-1. I [!UICONTROL Visa i den här kolumnen] skriver du&quot;status&quot; och väljer sedan&quot;Status&quot; under [!UICONTROL Uppgift] fältkälla.
-1. Klicka **[!UICONTROL Lägg till kolumn]** igen.
-1. I [!UICONTROL Visa i den här kolumnen] skriver du&quot;status&quot; och väljer sedan&quot;Status Icons&quot; under aktivitetsfältets källa.
-1. Klicka **[!UICONTROL Spara]**.
+1. Ta bort de här kolumnerna: [!UICONTROL Planera timmar], [!UICONTROL Föregående], [!UICONTROL Starta den] och [!UICONTROL Förfaller den].
+1. Klicka på **[!UICONTROL Lägg till kolumn]**.
+1. I fältet [!UICONTROL Visa i den här kolumnen] skriver du&quot;status&quot; och väljer sedan&quot;Status&quot; under fältkällan [!UICONTROL Aktivitet].
+1. Klicka på **[!UICONTROL Lägg till kolumn]** igen.
+1. I fältet [!UICONTROL Visa i den här kolumnen] skriver du &quot;status&quot; och väljer sedan &quot;Status&quot; under fältkällan [!UICONTROL Aktivitet].
+1. Klicka på **[!UICONTROL Lägg till kolumn]** igen.
+1. I fältet [!UICONTROL Visa i den här kolumnen] skriver du &quot;status&quot; och väljer sedan &quot;Status Icons&quot; under aktivitetsfältets källa.
+1. Klicka på **[!UICONTROL Spara]**.
 
-Håll pekaren över var och en av ikonerna i dialogrutan [!UICONTROL Statusikoner] för att se vad de representerar. Om de är nedtonade innebär det att uppgiften inte har några anteckningar, dokument, godkännandeprocesser osv. Om en ikon visas i färg är minst ett av objekten kopplat till uppgiften. Du kan klicka på antecknings- eller dokumentikonerna för att gå till det objektet.
+Håll pekaren över ikonerna i kolumnen [!UICONTROL Statusikoner] för att se vad de representerar. Om de är nedtonade innebär det att uppgiften inte har några anteckningar, dokument, godkännandeprocesser osv. Om en ikon visas i färg är minst ett av objekten kopplat till uppgiften. Du kan klicka på antecknings- eller dokumentikonerna för att gå till det objektet.
 
 ## Aktivitet 2: Skapa en milstolpe-vy
 
@@ -69,7 +69,7 @@ Skapa en uppgiftsvy med namnet&quot;Milstolpevy&quot; med följande kolumner:
 * [!UICONTROL Aktivitetsnamn]
 * [!UICONTROL Uppdrag]
 * [!UICONTROL Varaktighet]
-* [!UICONTROL Antal timmar]
+* [!UICONTROL Planera timmar]
 * [!UICONTROL Milstolpe: Namn]
 * [!UICONTROL Starta den]
 * [!UICONTROL Förfaller den]
@@ -80,11 +80,11 @@ Skapa en uppgiftsvy med namnet&quot;Milstolpevy&quot; med följande kolumner:
 
 ![En bild av skärmen för att skapa en milstolpevy](assets/view-milestone-exercise-1.png)
 
-1. I en projektuppgiftslista går du till **[!UICONTROL Visa]** nedrullningsbar meny och välj **[!UICONTROL Ny vy]**.
+1. Gå till listrutan **[!UICONTROL Visa]** i en projektuppgiftslista och välj **[!UICONTROL Ny vy]**.
 1. Ge din vy namnet&quot;Milstolpevy&quot;.
-1. Klicka på [!UICONTROL Föregående] för att markera den.
-1. I [!UICONTROL Visa i den här kolumnen] klickar du på X-ikonen i [!UICONTROL Aktivitet >> Föregående] fält och skriv &quot;[!UICONTROL namn på milstolpe]&quot; och klicka på &quot;[!UICONTROL Namn]&quot; i listan.
-1. Klicka **[!UICONTROL Spara]**.
+1. Klicka på kolumnen [!UICONTROL Föregående] för att markera den.
+1. I fältet [!UICONTROL Visa i den här kolumnen] klickar du på X-ikonen i fältet [!UICONTROL Aktivitet >> Föregående], skriver [!UICONTROL milstolpe-namn] och klickar på [!UICONTROL Namn] i listan.
+1. Klicka på **[!UICONTROL Spara]**.
 
 ![En bild av en uppgiftslista med hjälp av en milstolpevy](assets/view-milestone-exercise-2.png)
 
@@ -98,7 +98,7 @@ Skapa en uppgiftsvy med namnet&quot;Varaktighetstyper och vyn över uppgiftsbegr
 * [!UICONTROL Uppdrag]
 * [!UICONTROL Varaktighet]
 * [!UICONTROL Planerad varaktighet]
-* [!UICONTROL Antal timmar]
+* [!UICONTROL Planera timmar]
 * [!UICONTROL Föregående]
 * [!UICONTROL Starta den]
 * [!UICONTROL Förfaller den]
@@ -106,29 +106,29 @@ Skapa en uppgiftsvy med namnet&quot;Varaktighetstyper och vyn över uppgiftsbegr
 * [!UICONTROL Aktivitetsbegränsning]
 * [!UICONTROL Begränsningsdatum]
 
-Ändra [!UICONTROL Fältformat] på [!UICONTROL Starta den] och [!UICONTROL Förfaller den] kolumner för att visa både datum och tid.
+Ändra [!UICONTROL fältformatet ] i kolumnerna [!UICONTROL Starta den] och [!UICONTROL Förfaller den ] så att både datum och tid visas.
 
 ## Aktivitet 3 svar
 
-![En bild av skärmen som visar varaktighetstyperna och vyn över uppgiftsbegränsningar](assets/view-activity-3.png)
+![En bild av skärmen som visar varaktighetstyperna och vyn för aktivitetsbegränsningar](assets/view-activity-3.png)
 
-1. I en projektuppgiftslista går du till **[!UICONTROL Visa]** nedrullningsbar meny och välj **[!UICONTROL Ny vy]**.
+1. Gå till listrutan **[!UICONTROL Visa]** i en projektuppgiftslista och välj **[!UICONTROL Ny vy]**.
 1. Ge din vy namnet&quot;Varaktighetstyper och vyn Begränsade uppgifter&quot;.
-1. Ta bort [!UICONTROL % klart] kolumn.
-1. Klicka **[!UICONTROL Lägg till kolumn]**.
-1. I [!UICONTROL Visa i den här kolumnen] fält, typ [!UICONTROL &quot;duration&quot;] välj [!UICONTROL &quot;Planerad varaktighet&quot;] under [!UICONTROL Uppgift] fältkälla.
-1. Flytta den här kolumnen mellan [!UICONTROL Varaktighet] och [!UICONTROL Antal timmar] kolumner.
-1. Klicka **[!UICONTROL Lägg till kolumn]** igen.
-1. I [!UICONTROL Visa i den här kolumnen] fält, typ [!UICONTROL &quot;duration type&quot;] välj [!UICONTROL &quot;Varaktighetstyp&quot;] under [!UICONTROL Uppgift] fältkälla.
-1. Klicka **[!UICONTROL Lägg till kolumn]** igen.
-1. I [!UICONTROL Visa i den här kolumnen] fält, typ [!UICONTROL &quot;constraint&quot;] välj [!UICONTROL &quot;Aktivitetsbegränsning&quot;] under aktivitetsfältets källa.
-1. Klicka **[!UICONTROL Lägg till kolumn]** igen.
-1. I [!UICONTROL Visa i den här kolumnen] fält, typ [!UICONTROL &quot;constraint&quot;] välj [!UICONTROL &quot;Begränsningsdatum&quot;] under aktivitetsfältets källa.
-1. Välj [!UICONTROL Starta den] kolumn, klicka sedan på [!UICONTROL Avancerade alternativ].
-1. Under [!UICONTROL Fältformat] nedrullningsbar markering [!UICONTROL &quot;10/17/60 03:00&quot;].
-1. Välj [!UICONTROL Förfaller den] kolumn, klicka sedan på [!UICONTROL Avancerade alternativ].
-1. Under [!UICONTROL Fältformat] nedrullningsbar markering [!UICONTROL &quot;10/17/60 03:00&quot;].
-1. Klicka **[!UICONTROL Spara]**.
+1. Ta bort kolumnen [!UICONTROL  % färdigt].
+1. Klicka på **[!UICONTROL Lägg till kolumn]**.
+1. I fältet [!UICONTROL Visa i den här kolumnen] skriver du [!UICONTROL &quot;duration&quot;] och väljer sedan [!UICONTROL &quot;Planerad varaktighet&quot;] under fältkällan [!UICONTROL Aktivitet].
+1. Flytta den här kolumnen mellan kolumnerna [!UICONTROL Varaktighet] och [!UICONTROL Planera timmar].
+1. Klicka på **[!UICONTROL Lägg till kolumn]** igen.
+1. I fältet [!UICONTROL Visa i den här kolumnen] skriver du [!UICONTROL &quot;varaktighetstyp&quot;] och väljer sedan [!UICONTROL &quot;Varaktighetstyp&quot;] under fältkällan [!UICONTROL Aktivitet].
+1. Klicka på **[!UICONTROL Lägg till kolumn]** igen.
+1. I fältet [!UICONTROL Visa i den här kolumnen] skriver du [!UICONTROL &quot;begränsning&quot;] och väljer sedan [!UICONTROL &quot;Aktivitetsbegränsning&quot;] under aktivitetsfältets källa.
+1. Klicka på **[!UICONTROL Lägg till kolumn]** igen.
+1. I fältet [!UICONTROL Visa i den här kolumnen] skriver du [!UICONTROL &quot;begränsning&quot;] och väljer sedan [!UICONTROL &quot;Begränsningsdatum&quot;] under aktivitetsfältets källa.
+1. Markera kolumnen [!UICONTROL Starta den] och klicka sedan på [!UICONTROL Avancerade alternativ].
+1. Under listrutan [!UICONTROL Fältformat] väljer du [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
+1. Markera kolumnen [!UICONTROL Förfaller den] och klicka sedan på [!UICONTROL Avancerade alternativ].
+1. Under listrutan [!UICONTROL Fältformat] väljer du [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
+1. Klicka på **[!UICONTROL Spara]**.
 
 ## Aktivitet 4: Skapa en aktiv statusvy för projektmall
 
@@ -150,8 +150,8 @@ Skapa en projektmallsvy med namnet&quot;Standard+active status&quot; med följan
 
 ![En bild av skärmen som visar en aktiv statusvy för en projektmall](assets/view-activity-4.png)
 
-1. I en projektmallslista går du till **[!UICONTROL Visa]** nedrullningsbar meny och välj **[!UICONTROL Ny vy]**.
+1. Gå till listrutan **[!UICONTROL Visa]** i en projektmallslista och välj **[!UICONTROL Ny vy]**.
 1. Ge vyn namnet&quot;Standard+active status&quot;.
-1. Klicka **[!UICONTROL Lägg till kolumn]**.
-1. I [!UICONTROL Visa i den här kolumnen] -fältet skriver du&quot;is&quot; och väljer&quot;Is Active&quot; under [!UICONTROL Mall] fältkälla.
-1. Klicka **[!UICONTROL Spara vy]**.
+1. Klicka på **[!UICONTROL Lägg till kolumn]**.
+1. I fältet [!UICONTROL Visa i den här kolumnen] skriver du&quot;is&quot; och väljer&quot;Is Active&quot; under fältkällan [!UICONTROL Template].
+1. Klicka på **[!UICONTROL Spara vy]**.

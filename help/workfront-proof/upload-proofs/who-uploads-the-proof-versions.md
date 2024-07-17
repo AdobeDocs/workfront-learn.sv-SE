@@ -1,6 +1,6 @@
 ---
 title: Vem överför korrekturversionerna?
-description: Den person som ansvarar för att överföra korrekturversioner i [!DNL  Workfront] kan variera. Lär dig av vanliga användningsfall för att identifiera den perfekta konfigurationen i din organisation.
+description: Personen som ansvarar för att överföra korrekturversioner i  [!DNL  Workfront] kan variera. Lär dig av vanliga användningsfall för att identifiera den perfekta konfigurationen i din organisation.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -25,6 +25,6 @@ Du kanske är en formgivare som precis har gjort ändringar i en layout och kans
 
 Som kopieringsredigerare kan du ha laddat ned originalfilen från korrekturet av texten för den senaste e-postkampanjen. När du har redigerat filen i det ursprungliga programmet måste du överföra den korrigerade filen så att andra i teamet kan komma åt den.
 
-Möjligheten att överföra ett korrektur beror på vilka behörighetsinställningar du har och vilka inställningar du har gjort för det enskilda korrekturet. Om du behöver ladda upp versioner men inte kan, kan du prata med [!DNL Workfront] Bevara administratör eller systemadministratör.
+Möjligheten att överföra ett korrektur beror på vilka behörighetsinställningar du har och vilka inställningar du har gjort för det enskilda korrekturet. Om du behöver överföra versioner men inte kan det, ska du prata med din [!DNL Workfront]-korrekturadministratör eller systemadministratör.
 
 Kontakta ditt team eller din organisation om du vill veta mer om din roll i korrekturläsningen.

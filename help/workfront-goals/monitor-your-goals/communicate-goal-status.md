@@ -1,6 +1,6 @@
 ---
 title: Kommunicera målstatus
-description: Lär dig hur du kommunicerar med andra om hur dina mål utvecklas och hur de utvecklas i [!DNL Workfront Goals].
+description: Lär dig hur du kommunicerar med andra om förloppet och statusen för dina mål i  [!DNL Workfront Goals].
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -23,36 +23,36 @@ Nu när du har uppdaterat dina mål kan du ta dig en stund tillbaka och få en f
 Det finns olika sätt att hålla rätt personer uppdaterade om era mål. Du kan börja med:
 
 * Dela och rapportera om era mål
-* Utnyttja [!UICONTROL Diagram] för att få en heltäckande bild av hur era mål fortskrider
+* Dra nytta av avsnittet [!UICONTROL Diagram] för att få en heltäckande bild av hur dina mål utvecklas
 
 ## Dela ett mål
 
 Du kan dela ett mål som du har skapat eller ett mål som har skapats av någon annan som du har behörighet att hantera. Du kan inte dela mål med grupper, team eller företag. Om du har behörigheten Hantera för ett mål kan du ändra målets behörigheter för målskaparen. Som standard har den person som skapar målet behörigheten Hantera, men du kan ändra dem till Visa.
 
-1. Klicka på målets namn för att dela det från ett avsnitt i [!DNL Goals] området som ska öppnas [!UICONTROL Målinformation] -panelen.
+1. Klicka på namnet på målet som ska delas från ett avsnitt i [!DNL Goals]-området för att öppna panelen [!UICONTROL Målinformation].
 
-1. Klicka på ikonen med tre punkter bredvid målnamnet och klicka sedan på [!UICONTROL **Dela**]. The [!UICONTROL Målåtkomst] visas.
+1. Klicka på ikonen med tre punkter bredvid målnamnet och klicka sedan på [!UICONTROL **Dela**]. Rutan [!UICONTROL Målåtkomst] visas.
 
-   ![Skärmbild som visar hur du delar ett mål](assets/17-workfront-goals-share-a-goal.png)
+   ![Skärmbild av delning av mål](assets/17-workfront-goals-share-a-goal.png)
 
 1. Gör något av följande:
 
-   * Välj [!UICONTROL Hantera hela systemet] ställa in för att ge behörighet att hantera till alla i systemet som har behörighet att redigera till [!DNL Goals] genom [!DNL Workfront] åtkomstnivå. Detta är som standard avmarkerat för alla nya mål.
-   * Börja skriva namnet på en användare som du vill ge [!UICONTROL Hantera] behörigheter i [!UICONTROL Ge Hantera åtkomst till] box. Markera namnet när det visas i listan.
+   * Välj inställningen [!UICONTROL Hantera i hela systemet] om du vill ge alla i systemet behörigheten Hantera som har Redigera-åtkomst till [!DNL Goals] via åtkomstnivån [!DNL Workfront]. Detta är som standard avmarkerat för alla nya mål.
+   * Börja skriva namnet på en användare som du vill ge [!UICONTROL Hantera] behörighet till i rutan [!UICONTROL Ge hanteraren åtkomst till]. Markera namnet när det visas i listan.
 
-1. Klicka [!UICONTROL **Dela**]. En systemomfattande etikett eller namnen på de användare som har behörigheten Hantera för målet visas i [!UICONTROL Åtkomst till Hantera] i [!UICONTROL Målinformation] -panelen.
+1. Klicka på [!UICONTROL **Dela**]. En etikett för hela systemet eller namnen på de användare som har behörigheten Hantera för målet visas i fältet [!UICONTROL Åtkomst till Hantera] på panelen [!UICONTROL Målinformation].
 
 ## Rapport om målinformation
 
 Du kan skapa målrapporter eller projektrapporter som innehåller information om associerade mål i [!DNL Workfront]. Det finns flera sätt att visa målinformation i rapporter.
 
-* Skapa en målrapport i området Rapporter. Du kan visa olika information om målet i målrapporten (till exempel: namn, ägare, datum, förlopp osv.) som innehåller följande:
+* Skapa en målrapport i området Rapporter. Du kan visa olika information om målet i målrapporten (till exempel namn, ägare, datum, förlopp osv.), som innehåller följande:
 
-   * **Målhierarki**—Visar alla överordnade mål och hur de kopplas till varandra.
-   * **Är företagsmål**- Anger om din organisation har utsetts till ägare av ett mål.
-   * **Ägartyp**- Anger om ägaren till ett mål är en användare, ett team eller en grupp.
+   * **Målhierarki** - Visar alla överordnade mål och hur de ansluter till varandra.
+   * **Är företagsmål** - Anger om din organisation har angetts som ägare av ett mål.
+   * **Ägartyp** - Anger om ägaren till ett mål är en användare, ett team eller en grupp.
 
 * Skapa en projektrapport som visar målinformation, inklusive följande:
-   * **Målhierarki**—Visar alla överordnade mål och hur de kopplas till varandra.
-   * **Mål**- Det här är ett samlingsfält som visar alla mål som är kopplade till ett projekt.
-   * **Antal länkade mål**—Antalet mål som är associerade med projektet.
+   * **Målhierarki** - Visar alla överordnade mål och hur de ansluter till varandra.
+   * **Mål** - Det här är ett samlingsfält som visar alla mål som är associerade med ett projekt.
+   * **Antal länkade mål** - Antalet mål som är associerade med projektet.

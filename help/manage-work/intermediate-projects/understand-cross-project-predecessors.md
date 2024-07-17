@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Förstå föregångare inom projekt mellan olika projekt
 
-Föregångare mellan projekt är ett enkelt sätt att skapa samband mellan aktiviteter i olika projekt. Ett byggföretag kan till exempel ha ett projekt som kallas **Bygg Access Road till Summerges Housing Development** och ett annat projekt som heter **Bygg modellstartsida i Sommaren**. Genom att göra den första uppgiften i **Bygg modell - startsida** har en projektledare för den senaste aktiviteten i **Bygg Access Road** ser du till att vägen är på plats innan du börjar bygga hemmet. Eftersom aktiviteterna är länkade, om **Bygg Access Road** projektglidningar, **Bygg modell - startsida** planerat startdatum justeras automatiskt därefter.
+Föregångare mellan projekt är ett enkelt sätt att skapa samband mellan aktiviteter i olika projekt. Ett byggföretag kan till exempel ha ett projekt som heter **Build Access Road till Summerges Housing Development** och ett annat projekt som kallas **Build Model Home i Summerges**. Genom att göra den första aktiviteten i **Startsida för build-modell** har en föregångare till den sista aktiviteten i **Bygg Access Road** kontrollerar du att vägen finns innan du börjar bygga hemmet. Eftersom aktiviteterna är länkade kommer startdatumet för **Build Model Home** automatiskt att ändras om projektet **Build Access Road** glider.
 
 >[!PREREQUISITES]
 >
@@ -37,4 +37,4 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on)
 
-Så här skapar du **Föregångare och efterföljare mellan projekt** visa och **Föregångare och efterföljare mellan projekt** som används i videon finns i [Förstå det grundläggande textläget för vyer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en) självstudiekurs, var säker och ta de nödvändiga självstudiekurserna som finns där, om du behöver det.
+Om du vill veta mer om hur du skapar vyn **Föregångare och efterföljare** för flera projekt och rapporten **Föregångare och efterföljare** för flera projekt som används i videon kan du titta i självstudiekursen [Förstå grundläggande textläge för vyer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en) och vara säker på att du använder de nödvändiga självstudiekurserna som finns där, om du behöver det.

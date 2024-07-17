@@ -1,6 +1,6 @@
 ---
 title: Koppla samman mål manuellt
-description: Lär dig hur du manuellt kopplar mål till varandra i [!DNL Workfront Goals].
+description: Lär dig hur du manuellt kopplar mål till varandra i  [!DNL Workfront Goals].
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Koppla samman mål manuellt
 
-Det första sättet att justera mål i [!DNL Workfront Goals] är en metod som går från början till slut. Detta tar ett underordnat mål och kopplar det till ett överordnat mål. Detta är särskilt användbart för enskilda medarbetare som har personliga mål som de vill anpassa till teamets mål. Tack vare den här möjligheten kan enskilda medarbetare se hur deras arbete passar in i det större arbetet i organisationen. Det ger också en synlighet för ledningen när det gäller hur det enskilda arbetet utvecklas och hur ett team arbetar i förhållande till den övergripande företagsstrategin.
+Det första sättet att justera mål i [!DNL Workfront Goals] är att gå nerifrån och upp. Detta tar ett underordnat mål och kopplar det till ett överordnat mål. Detta är särskilt användbart för enskilda medarbetare som har personliga mål som de vill anpassa till teamets mål. Tack vare den här möjligheten kan enskilda medarbetare se hur deras arbete passar in i det större arbetet i organisationen. Det ger också en synlighet för ledningen när det gäller hur det enskilda arbetet utvecklas och hur ett team arbetar i förhållande till den övergripande företagsstrategin.
 
 Det finns vissa tidsbegränsningar när du justerar mål:
 

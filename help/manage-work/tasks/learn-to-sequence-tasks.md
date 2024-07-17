@@ -46,4 +46,4 @@ Overview of task dependency types
 
 * [Förstå varaktigheter för uppgifter](/help/manage-work/tasks/understand-task-durations.md)
 * [Förstå planerade timmar](/help/manage-work/tasks/understand-planned-hours.md)
-* [Förstå [!UICONTROL Arbetsinsats]](/help/manage-work/tasks/understand-work-effort.md)
+* [[!UICONTROL Arbetsinsats]](/help/manage-work/tasks/understand-work-effort.md)

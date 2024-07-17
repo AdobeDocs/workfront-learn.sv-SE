@@ -1,6 +1,6 @@
 ---
-title: Introduktion till kurser i milstolpar
-description: Se hur milstolpar kan hjälpa dig att behålla [!DNL  Workfront] projekt som går framåt.
+title: Introduktion till milstolpar
+description: Lär dig hur milstolpar kan hjälpa dig att hålla  [!DNL  Workfront] projekt igång.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # Milstolpar: Introduktion till kurser
 
-Kursen är avsedd för projektledare, planerare och andra som hanterar projekt i [!DNL Workfront]. Vi rekommenderar att du slutför programmet Planner Fundamentals eller har en bra grund när du skapar projekt i [!DNL Workfront] innan du börjar kursen.
+Kursen är utformad för projektledare, planerare och andra som hanterar projekt i [!DNL Workfront]. Vi rekommenderar att du slutför programmet Grundläggande om plan eller har en bra grund när du skapar projekt i [!DNL Workfront] innan du börjar den här kursen.
 
-I den här videon får du lära dig hur milstolpar kan hjälpa dig att behålla [!DNL  Workfront] projekt som går framåt.
+I den här videon får du lära dig hur milstolpar kan hjälpa dig att få [!DNL  Workfront] projekt att fortsätta.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on)

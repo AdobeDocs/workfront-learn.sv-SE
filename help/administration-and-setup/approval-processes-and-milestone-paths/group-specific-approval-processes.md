@@ -18,21 +18,21 @@ ht-degree: 0%
 
 # Förstå gruppspecifika godkännandeprocesser
 
-Både system- och gruppadministratörer kan skapa godkännandeprocesser i [!DNL Workfront]. Systemadministratörer kan skapa processer som kan användas i hela [!DNL Workfront] eller bara för en viss grupp. Gruppadministratörer kan bara skapa eller redigera processer för den grupp de hanterar.
+Både system- och gruppadministratörer kan skapa godkännandeprocesser i [!DNL Workfront]. Systemadministratörer kan skapa processer som ska användas i hela [!DNL Workfront]-systemet, eller processer som bara ska användas för en viss grupp. Gruppadministratörer kan bara skapa eller redigera processer för den grupp de hanterar.
 
-För en godkännandeprocess som kan användas av alla i [!DNL Workfront], kontrollera att [!UICONTROL &quot;Den här godkännandeprocessen kan användas av&quot;] fältet är inställt på [!UICONTROL Alla grupper].
+För en godkännandeprocess som kan användas av alla i [!DNL Workfront] kontrollerar du att fältet [!UICONTROL &quot;Den här godkännandeprocessen kan användas av&quot;]&quot; är inställt på [!UICONTROL Alla grupper].
 
-![[!UICONTROL Redigera godkännandeprocess] fönster med gruppfält markerat](assets/admin-fund-approval-processes-1.png)
+Fönstret ![[!UICONTROL Redigera godkännandeprocess] med gruppfältet markerat](assets/admin-fund-approval-processes-1.png)
 
-De statusvärden som är tillgängliga i [!UICONTROL &quot;Starta godkännandeprocessen när statusen är inställd på&quot;] -menyn beror på vad som har valts i fältet &quot;används av&quot;. Med [!UICONTROL Alla grupper] Om du väljer det här alternativet är endast systemomfattande låsta statusvärden tillgängliga.
+Vilka statusar som är tillgängliga i [!UICONTROL &quot;Starta godkännandeprocess när statusen är inställd på&quot;]&quot; beror på valet i fältet&quot;används av&quot;. Om [!UICONTROL Alla grupper] är markerade är endast systemomfattande låsta statusar tillgängliga.
 
-Om du vill begränsa en godkännandeprocess för en viss grupp väljer du den gruppens namn i listan för [!UICONTROL &quot;Den här godkännandeprocessen kan användas av&quot;] fält.
+Om du vill begränsa en godkännandeprocess för en viss grupp väljer du den gruppens namn i listan för fältet [!UICONTROL &quot;Den här godkännandeprocessen kan användas av&quot;]&quot;.
 
-![[!UICONTROL Redigera godkännandeprocess] fönster med gruppfält utökat](assets/admin-fund-approval-processes-2.png)
+Fönstret ![[!UICONTROL Redigera godkännandeprocess] med gruppfältet utökat](assets/admin-fund-approval-processes-2.png)
 
-The [!UICONTROL Alla grupper] är inte tillgängligt för gruppadministratörer.
+Alternativet [!UICONTROL Alla grupper] är inte tillgängligt för gruppadministratörer.
 
-När en viss grupp är markerad visas bara de statusar som är tillgängliga för den gruppen i [!UICONTROL &quot;Starta godkännandeprocessen när statusen är inställd på&quot;] -menyn.
+När en viss grupp har valts visas endast de statusar som är tillgängliga för den gruppen i [!UICONTROL &quot;Starta godkännandeprocess när statusen är inställd på&quot;]&quot;.
 
-![[!UICONTROL Redigera godkännandeprocess] fönster med statusfältet markerat](assets/admin-fund-approval-processes-3.png)
+Fönstret ![[!UICONTROL Redigera godkännandeprocess] med statusfältet markerat](assets/admin-fund-approval-processes-3.png)
 

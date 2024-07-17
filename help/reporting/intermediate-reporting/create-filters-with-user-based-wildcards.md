@@ -29,7 +29,7 @@ I den här videon får du lära dig att:
 
 >[!TIP]
 >
->Använd fältkällan och namnet för Tilldelningsanvändare >> ID när du skapar filter som tittar på information om uppgifter eller ärenden.  Det här alternativet söker efter alla användare som har tilldelats uppgiften eller utgåvan, inte bara&quot;ägaren&quot; eller den primära tilldelade personen.
+>Använd fältkällan och namnet för Tilldelningsanvändare >> ID när du skapar filter som tittar på information om uppgifter eller ärenden.  Med det här alternativet kan du titta på alla   användare som tilldelats uppgiften eller utgåvan, inte bara ägaren eller den primära tilldelaren.
 
 >[!TIP]
 >
@@ -41,14 +41,14 @@ I den här videon får du lära dig att:
 
 ## Aktivitet
 
-Du har lite extra tid den här veckan, så du vill se om det finns någon i ditt team som kan behöva lite hjälp med sina uppdrag. Skapa ett uppgiftsfilter för att hitta uppgifter som förfaller den här veckan och som inte har slutförts.
+Du har lite extra tid den här veckan, så du vill se om någon i ditt team kan behöva lite hjälp med sina uppdrag. Skapa ett uppgiftsfilter för att hitta uppgifter som förfaller den här veckan och som inte har slutförts.
 
 ## Svar
 
 Du är toppen med att hjälpa dina teamkamrater! När filtret är inställt som bilden nedan hittar du uppgifter:
 
-* Detta har inte slutförts (vilket innebär att de inte har en [!UICONTROL Slutförd] status eller status som motsvarar [!UICONTROL Slutförd]).
-* I projekt med en [!UICONTROL Aktuell] status (du vill trots allt inte hitta uppgifter för projekt som ännu inte startats);
+* Den har inte slutförts (vilket innebär att de inte har en [!UICONTROL fullständig]-status eller status som motsvarar [!UICONTROL fullständig]);
+* Detta är i projekt med statusen [!UICONTROL Aktuell] (du vill trots allt inte hitta aktiviteter för projekt som inte har startats än);
 * som är tilldelade någon i ditt hemteam, enligt Workfront gruppinställningar,
 * Och som har ett avslutsdatum någon gång den här veckan (den här regeln använde det fördefinierade datumfiltret för att definiera &quot;den här veckan&quot;).
 

@@ -1,6 +1,6 @@
 ---
 title: Byt upp den
-description: Lär dig vilka switchfunktioner och switchmoduler som är och när du ska använda en switch-funktion jämfört med en switch-modul i [!DNL Adobe Workfront Fusion].
+description: Lär dig vilka switchfunktioner och switchmoduler som är och när du ska använda en switch-funktion jämfört med en switch-modul i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

@@ -49,13 +49,13 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Minska antalet anpassade rapporter du skapar genom att utnyttja filter, vyer och grupperingar i en objektlista för att få de data du behöver.
 
-**Här är varför**
+**Det här är varför**
 
 Att skapa engångsrapporter för varje datasegment som du vill se är tidskrävande och klumpar ihop Workfront-systemet.
 
-Instruktioner om hur du skapar rapporter med uppmaningar finns i kapitlet&quot;Hur du konfigurerar och använder rapportmeddelanden&quot; i [Förstå rapportinställningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) video.
+Instruktioner om hur du skapar rapporter med uppmaningar finns i kapitlet&quot;Hur du konfigurerar och använder rapportuppmaningar&quot; i videon [Förstå rapportinställningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
 
-Instruktioner om hur du skapar rapporter med anpassade uppmaningar finns i [Skapa egna uppmaningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
+Instruktioner om hur du skapar rapporter med anpassade uppmaningar finns i [Skapa anpassade uppmaningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
 
 </br>
 </br>
@@ -64,7 +64,7 @@ Instruktioner om hur du skapar rapporter med anpassade uppmaningar finns i [Skap
 
 Använd listkontrollerna i layoutmallar för att dölja onödiga filter, vyer och grupperingar för vanliga objekt (projekt, uppgifter, program osv.).
 
-**Här är varför**
+**Det här är varför**
 
 Mindre är mer. Alternativen för att dölja filter, visa och gruppera listor som inte är relevanta för dina användares dagliga arbetsflöden minskar listorna, vilket gör det enklare för användarna att hitta det de behöver snabbare.
 
@@ -77,7 +77,7 @@ Instruktioner om hur du döljer filter, vyer och grupperingar med layoutmallar f
 
 Utbyt egna filter, vyer och grupperingar som är relevanta för organisationens arbetsflöden och processer med listkontrollerna för layoutmallar.
 
-**Här är varför**
+**Det här är varför**
 
 Om du har skapat filter, vyer och grupperingar som visar information som är specifik för användarnas dagliga processer är det enkelt att dela dessa via layoutmallarna. Detta garanterar att alla som är tilldelade layoutmallen har alternativ för filtrering, visning och gruppering som är relevanta för deras arbetsflöden.
 
@@ -92,7 +92,7 @@ Instruktioner om hur du delar filter, vyer och grupperingar med layoutmallar fin
 
 När du skapar filter för projektstatus, aktivitetsstatus eller utgivningsstatus ska du använda (objekt)>>Status är lika med fältets käll-/fältnamn med modifieraren Lika, i stället för Project>>Statusfältets källa/fältnamn.
 
-**Här är varför**
+**Det här är varför**
 
 Genom att använda (objekt)>>Liknar med, inkluderas alla anpassade statusvärden som har den specifika statusen tilldelad i fältet Likater med i statusinställningarna. Om du ställer in filtret som (objekt)>>Status > Likhet måste du välja specifika lägen för filtret. Detta kan utgöra en underhållsutmaning om du behöver ta hänsyn till de nya statusvärdena i olika filter. Varje filter måste öppnas och uppdateras med den nya statusen.
 

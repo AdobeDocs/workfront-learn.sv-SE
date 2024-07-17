@@ -1,6 +1,6 @@
 ---
 title: Förstå datumtyper och förloppsstatus
-description: Lär dig hur du visar olika datumtyper i [!DNL  Workfront] och använd förloppsstatus för att hjälpa dig att spåra arbetets förlopp.
+description: Lär dig hur du visar olika datumtyper i [!DNL  Workfront] och använder förloppsstatus för att spåra arbetsförloppet.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -22,14 +22,14 @@ ht-degree: 0%
 
 I den här videon får du lära dig att:
 
-* Välj en vy att jämföra [!DNL Workfront's] olika datumtyper
+* Välj en vy för att jämföra [!DNL Workfront's] olika datumtyper
 * Använd förloppsstatus för att spåra arbetets förlopp
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Som framgår i videon är det viktigt för andra att ändra status från **[!UICONTROL Nytt]** till **[!UICONTROL Pågår]** när de startar en uppgift så att [!UICONTROL Faktiskt startdatum] kommer att ha rätt. Men om de glömmer att göra det när de startar uppgiften kan de gå tillbaka och redigera [!UICONTROL Faktiskt startdatum] när som helst.
+>Som framgår av videon är det viktigt för andra att ändra status från **[!UICONTROL Nytt]** till **[!UICONTROL Pågår]** när de startar en aktivitet så att det [!UICONTROL faktiska startdatumet] blir korrekt. Men om de glömmer att göra detta när de startar aktiviteten kan de när som helst gå tillbaka och redigera det [!UICONTROL faktiska startdatumet].
 
 
 <!---

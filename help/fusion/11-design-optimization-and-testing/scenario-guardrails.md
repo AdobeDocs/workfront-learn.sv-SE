@@ -1,6 +1,6 @@
 ---
 title: Skyddsräcken för scenarier
-description: Läs om scenarioskyddsutkast, modulskyddsräcken, filskyddsutkast och webkrokskyddsräcken i [!DNL Adobe Workfront Fusion].
+description: Läs mer om scenarioskyddsutkast, modulskyddsräcken, filskyddsutkast och webkrokskyddsräcken i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -33,6 +33,6 @@ I den här videon får du lära dig mer om:
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
 
-[Adobe Workfront Fusion - prestandaräknare](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)
+[Adobe Workfront Fusion - prestandaskydd](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)

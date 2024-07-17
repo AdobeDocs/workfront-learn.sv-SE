@@ -22,7 +22,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig:
 
-* Hitta layoutmallar i [!UICONTROL Inställningar] area
+* Hitta layoutmallar i området [!UICONTROL Inställningar]
 * Börja skapa layoutmallar i Workfront.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on)

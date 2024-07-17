@@ -29,17 +29,17 @@ I den här videon får du lära dig att:
 
 >[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on)
 
-## Vad du behöver veta om [!UICONTROL Alternativ] section
+## Vad du behöver veta om avsnittet [!UICONTROL Alternativ]
 
-The [!UICONTROL Alternativ] -avsnittet kan vara dolt av systemadministratören om de vill att du ska använda de standardinställningar som de har angett. Om [!UICONTROL Alternativ] -avsnittet visas, här betyder alternativen:
+Avsnittet [!UICONTROL Alternativ] kan vara dolt av systemadministratören om de vill att du ska använda de standardvärden som de har angett. Om avsnittet [!UICONTROL Alternativ] visas, så här betyder alternativen:
 
-**Behåll det ursprungliga problemet och knyt lösningen till det här projektet**
+**Behåll det ursprungliga problemet och koppla dess upplösning till det här projektet**
 
-Om du väljer det här alternativet markeras det ursprungliga problemet som löst när projektet är klart. Om det här alternativet är **not** markerat tas den ursprungliga utgåvan bort när projektet skapas.
+Om du väljer det här alternativet markeras det ursprungliga problemet som löst när projektet är klart. Om det här alternativet är **inte** markerat tas den ursprungliga utgåvan bort när projektet skapas.
 
-**Tillåt (användarens namn) åtkomst till det här projektet**
+**Tillåt (användarens namn) att få åtkomst till det här projektet**
 
-Om det här alternativet är markerat får den person som gjorde begäran (eller för vem som gjorde begäran) automatiskt åtkomst till det nya projektet när det har skapats. Om det här alternativet är **not** om du väljer det här alternativet får de inte automatiskt några rättigheter.
+Om det här alternativet är markerat får den person som gjorde begäran (eller för vem som gjorde begäran) automatiskt åtkomst till det nya projektet när det har skapats. Om det här alternativet är **inte** markerat får de inte automatiskt någon behörighet.
 
 ![En bild av en projektskärm med konverteringsalternativ](assets/conversion-options.png)
 
@@ -58,7 +58,7 @@ Om du tar med ett anpassat formulär i en projektmall tilldelas det automatiskt 
 
 Om du vill öka effektiviteten i ditt arbete och göra det enklare att konvertera problem i en snabb miljö kan du konvertera ett ärende till en aktivitet eller ett projekt från en problemlista i ett projekt, en rapport eller en kontrollpanel. Välj bara ett problem och klicka sedan på den 3-punktsmeny som visas.
 
-![En bild av en projektskärm med olika alternativ för problemkonvertering](assets/convert-from-a-list.png)
+![En bild av en projektskärm med alternativ för problemkonvertering](assets/convert-from-a-list.png)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

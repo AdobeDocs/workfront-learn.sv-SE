@@ -1,6 +1,6 @@
 ---
 title: Förstå meddelanden om varumärkesanslutning
-description: Lär dig hur du visar meddelanden i appen, ändrar aviseringsinställningarna och skapar en adressbok i Brand Connect of [!UICONTROL WORKFRONT DAM].
+description: Lär dig hur du visar meddelanden i appen, ändrar aviseringsinställningarna och skapar en adressbok i Brand Connect för [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

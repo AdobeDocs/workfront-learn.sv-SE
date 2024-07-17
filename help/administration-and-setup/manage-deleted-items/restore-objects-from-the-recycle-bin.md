@@ -12,34 +12,34 @@ jira: KT-10100
 exl-id: 72eafec6-b4fc-454a-9372-4df1cdcba745
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
 # Återställ objekt från papperskorgen
 
-Projektarbetet genomgår många förändringar. Du kan ta bort något, bara för att 30 minuter senare inse att uppgiften behövdes eller att dokumentet var viktigt för det problem du försöker lösa.
+Projektarbetet förändras på många olika sätt. Du kan ta bort något, bara för att 30 minuter senare inse att uppgiften behövdes eller att dokumentet var viktigt för det problem du försöker lösa.
 
 När objektet tas bort placerar Workfront det i papperskorgen i upp till 30 dagar. Systemadministratören kan återställa objektet till dess ursprungliga position i Workfront, tillsammans med all information (uppdateringar, loggade timmar, dokument osv.).
 
 ## Återställa ett objekt
 
-1. Välj **Inställningar** området i **Huvudmeny**.
-1. Klicka **Papperskorgen** i den vänstra panelen.
-1. Välj **Nyligen borttaget**.
+1. Välj området **Inställningar** i **Huvudmenyn**.
+1. Klicka på **Papperskorgen** i den vänstra panelen.
+1. Välj **Nyligen borttagen**.
 
-![Nyligen borttaget avsnitt i Papperskorgen i inställningsområdet](assets/admin-fund-recycle-bin-1.png)
+![Avsnittet Senast borttaget i papperskorgen under installationen](assets/admin-fund-recycle-bin-1.png)
 
 Varje återställningsbart objekt har en flik som gör det enklare att hitta det objekt som ska återställas.
 
 1. Klicka på objektets flik.
 1. Markera rutan intill objekt som ska återställas.
-1. Klicka på **Återställ** -knappen.
+1. Klicka på knappen **Återställ**.
 
 ![Objekt markerade i papperskorgen](assets/admin-fund-recycle-bin-2.png)
 
-Objektet/objekten som återställs visas kortfattat i en [!UICONTROL Pågår] -avsnitt. När skärmen uppdateras visas inte längre objekten på skärmen eftersom de har återställts. Objekten visas där de fanns tidigare [!DNL Workfront]som du kan verifiera på [!UICONTROL Nyligen återställt] skärm.
+Objektet/objekten som återställs visas kort i ett [!UICONTROL Pågår] -avsnitt. När skärmen uppdateras visas inte längre objekten på skärmen eftersom de har återställts. Objekten visas där de tidigare fanns i [!DNL Workfront], som du kan verifiera på skärmen [!UICONTROL Senast återställda].
 
 ![Nyligen återställt avsnitt i papperskorgen i inställningsområdet](assets/admin-fund-recycle-bin-3.png)
 

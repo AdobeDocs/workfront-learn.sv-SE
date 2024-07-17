@@ -36,7 +36,7 @@ Du måste vara medveten om att någon i teamet har gått med på att arbeta med 
 
 Så här ska filtret se ut:
 
-![En bild av skärmen för att skapa ett uppgiftsfilter](assets/opening-built-in-task-filters-1.png)
+![En bild av skärmen för att skapa ett aktivitetsfilter](assets/opening-built-in-task-filters-1.png)
 
 Ställ in kolumnvyn så att den innehåller de fält som du är intresserad av eller vill kunna redigera direkt. Du kan till exempel inkludera en uppdragskolumn så att du kan tilldela en teammedlem till en uppgift direkt från rapporten.
 
@@ -44,4 +44,4 @@ Du kanske vill gruppera listan baserat på namnet på det team som tilldelats f�
 
 Så här ska rapporten se ut:
 
-![En bild av en uppgiftsrapport](assets/opening-built-in-task-filters-2.png)
+![En bild av en aktivitetsrapport](assets/opening-built-in-task-filters-2.png)

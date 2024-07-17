@@ -1,5 +1,5 @@
 ---
-title: Förstå [!UICONTROL Gantt] visa
+title: Förstå [!UICONTROL Gantt]-vyn
 description: Lär dig använda Gantt-schemat för att snabbt se dina uppgifter och projekt på en hög nivå med en överraskande detaljrikedom.
 activity: use
 team: Technical Marketing
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ---
 
-# Förstå [!UICONTROL Gantt] visa
+# Förstå [!UICONTROL Gantt]-vyn
 
 I den här videon får du lära dig hur du använder:
 
@@ -35,4 +35,4 @@ Du kan läsa mer online med artikeln [Kom igång med Gantt-schemat](https://expe
 * [Kom igång med att hantera ett projekt](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Spåra projektets övergripande förlopp](/help/manage-work/projects/track-overall-project-progress.md)
 * [Spåra arbetets förlopp med projektstatistik](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Förstå [!UICONTROL Styrelse] visa](/help/manage-work/projects/understand-the-board-view.md)
+* [Förstå vyn för [!UICONTROL anslagstavlan]](/help/manage-work/projects/understand-the-board-view.md)

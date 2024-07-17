@@ -1,6 +1,6 @@
 ---
-title: Förstå [!UICONTROL WORKFRONT DAM]
-description: Lär dig hur du söker efter och visar resurser och hur mappstrukturen påverkar resursordningen och åtkomsten i [!UICONTROL WORKFRONT DAM].
+title: '[!UICONTROL Workfront DAM]'
+description: Lär dig hur du söker efter och visar resurser och hur mappstrukturen påverkar resursorganisation och åtkomst i [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 ---
 
-# Förstå [!UICONTROL WORKFRONT DAM]
+# [!UICONTROL Workfront DAM]
 
-[!UICONTROL WORKFRONT DAM] är en DAM-lösning (Digital Asset Management) som tagits fram särskilt för att hantera, styra och publicera marknadsförings- och kreativa resurser. Den kan användas tillsammans med arbetsflöden som du redan har i [!DNL Workfront], där du kan hantera projekt, uppgiftstilldelningar och annat arbete. Använd [!DNL Workfront] för att skapa resursförfrågningar och sedan hantera produktion och granskning av resurser. Kuratera, lagra och distribuera färdiga och godkända resurser med [!UICONTROL WORKFRONT DAM].
+[!UICONTROL Workfront DAM] är en DAM-lösning (Digital Asset Management) som är särskilt utformad för att hantera, kontrollera och publicera marknadsförings- och kreativa resurser. Den kan användas tillsammans med arbetsflöden som du redan har i [!DNL Workfront], där du kanske hanterar projekt, uppgiftstilldelningar och annat arbete. Använd [!DNL Workfront] för att skapa resursbegäranden och sedan hantera produktionen och granskningen av resurser. Kuratera, lagra och distribuera slutförda och godkända resurser med [!UICONTROL Workfront DAM].
 
 
-Som systemadministratör ansvarar du för att konfigurera [!UICONTROL WORKFRONT DAM] och underhålla den. Ni behöver era intressenter för att få insikt i deras processer så att ni kan ge dem ett system som passar deras behov. Bland dessa intressenter kan nämnas:
+Som systemadministratör ansvarar du för att konfigurera [!UICONTROL Workfront DAM] och underhålla den. Ni behöver era intressenter för att få insikt i deras processer så att ni kan ge dem ett system som passar deras behov. Bland dessa intressenter kan nämnas:
 
 * Interna kunder, t.ex. säljchefer, reklamrepresentanter eller marknadsföringsspecialister
 * Produktionschef
@@ -31,7 +31,7 @@ Som systemadministratör ansvarar du för att konfigurera [!UICONTROL WORKFRONT 
 
 I den här videon kommer du att:
 
-* Få en översikt över [!UICONTROL WORKFRONT DAM]
+* Få en översikt över [!UICONTROL Workfront DAM] på hög nivå
 * Söka efter och visa resurser
 * Upptäck hur mappstrukturen påverkar resursorganisation och åtkomst
 

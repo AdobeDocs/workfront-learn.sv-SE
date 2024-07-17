@@ -1,6 +1,6 @@
 ---
 title: Använda filter
-description: Lär dig hur du använder filter mellan moduler och i en modul och granskar körningshistorik, allt i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du använder filter mellan moduler och inom en modul och granskar körningshistorik, allt i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

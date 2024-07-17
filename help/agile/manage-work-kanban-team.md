@@ -1,6 +1,6 @@
 ---
 title: Hantera arbetet som ett Kanban-team
-description: Lär dig hur du hanterar arbete och ditt team via Kanban-teamsidan.
+description: Lär dig hur du hanterar arbete och ditt team via Kanban-teamets sida.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
@@ -9,14 +9,16 @@ thumbnail: manage-work-kanban.png
 exl-id: 05656ae0-46b2-4034-ac25-d936090d134c
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
 
 # Hantera arbetet som ett Kanban-team
 
-Hantera arbetet som ett Kanban-team Lägg till artiklar i kanban-eftersläpningen Det finns flera sätt att lägga till artiklar i Creative Marketing teams eftersläpning.
+Hantera arbetet som ett Kanban-team
+Lägg till artiklar i kanban-eftersläpningen
+Det finns flera sätt att lägga till artiklar i Creative Marketing teams eftersläpning.
 
 Teamet kan lägga till artiklar direkt från sin eftersläpning.
 De kan även tilldelas uppgifter i ett projekt. Om Creative Marketing-teamet har dirigerade förfrågningar visas de på teamets begärandeflik. Dessa visas i teamets eftersläpning om teamet väljer begäran och konverterar den till en artikel.
@@ -39,10 +41,10 @@ Teammedlemmar kan även uppdatera korten direkt i storyboard för att återspegl
 
 Observera att du använder en pågående arbetsbegränsning på fem artiklar. När du tittar på din styrelse ser du att när du flyttar uppgifter till statuskolumner visas antalet uppgifter i varje ruta överst till höger i varje statuskolumn.
 
-![Kanban-PIA-begränsningar](assets/kanban-03.png)
+![Kanban-WIP-begränsningar](assets/kanban-03.png)
 
 Om du överskrider gränsen i en statuskolumn som är lika med Nytt eller Pågår visas ett felmeddelande som anger att du har överskridit gränsen för pågående arbete.
 
 ![Gränserna för PIA har överskridits](assets/kanban-04.png)
 
-Om ditt team beslutar att de kan hantera fler eller färre objekt samtidigt kan du (och andra teammedlemmar med redigeringsbehörighet) ändra antalet pågående arbeten direkt från storyboard genom att klicka på Pågående arbete-numret och redigera det så att det återspeglar ditt nya beslut.
+Om ditt team beslutar att de kan hantera fler eller färre objekt samtidigt, kan du (och andra teammedlemmar med redigeringsbehörighet) ändra Work in Progress-numret direkt från storyboard genom att klicka på PIA-numret och redigera det så att det återspeglar ditt nya beslut.

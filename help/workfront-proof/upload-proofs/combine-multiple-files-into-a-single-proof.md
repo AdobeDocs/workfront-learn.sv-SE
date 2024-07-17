@@ -1,6 +1,6 @@
 ---
 title: Kombinera flera filer till ett enda korrektur
-description: Lär dig effektivisera korrekturläsningen genom att kombinera flera filer till ett enda korrektur i [!DNL  Workfront].
+description: Lär dig effektivisera korrekturläsningen genom att kombinera flera filer till ett enda korrektur i  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -12,7 +12,7 @@ jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
 source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -29,19 +29,19 @@ Lösning - få en person att ladda upp hela PDF och kombinera dem till ett enda 
 
 Så här kombinerar du korrektur:
 
-1. Öppna [!UICONTROL Dokument] del av projektet, uppgiften eller utleveransen ska bifogas.
+1. Öppna avsnittet [!UICONTROL Dokument] i projektet, aktiviteten eller utfärda korrekturet som ska bifogas.
 2. Dra och släpp filerna i överföringsområdet eller bläddra till dem. [!DNL Workfront] har stöd för att kombinera upp till 50 filer.
-3. Växla på alternativet för [!UICONTROL Kombinera alla kompatibla filer till ett enda korrektur].
+3. Aktivera alternativet [!UICONTROL Kombinera alla kompatibla filer till ett enda korrektur].
 4. Ange ett namn för det kombinerade korrekturet. Detta är obligatoriskt.
 5. Om du vill kan du ändra ordningen som filerna kombineras med dra och släpp i överföringslistan.
 6. Lägg till korrekturmottagare, ange en deadline osv.
-7. Klicka [!UICONTROL Skapa korrektur] för att slutföra överföringen.
+7. Klicka på [!UICONTROL Skapa korrektur] för att slutföra överföringen.
 
-![En bild av [!UICONTROL Nytt korrektur] fönster med den överförda fillistan och [!UICONTROL Enkelt provtryck] markerade avsnitt.](assets/combine-proofs.png)
+![En bild av fönstret [!UICONTROL Nytt korrektur] med den överförda fillistan och [!UICONTROL Enkelt korrektur] markerade.](assets/combine-proofs.png)
 
-När korrekturet har överförts visas det som en ZIP-fil i [!UICONTROL Dokument] -fliken.
+När korrekturet har överförts visas det som en ZIP-fil på fliken [!UICONTROL Dokument].
 
-Inget annat krävs för att visa den kombinerade filen. Klicka bara [!UICONTROL Öppna korrektur] som vanligt och korrekturet öppnas i korrekturläsaren.
+Inget annat krävs för att visa den kombinerade filen. Klicka bara på [!UICONTROL Öppna korrektur] som vanligt så öppnas korrekturet i korrekturläsaren.
 
 ![En bild av korrekturläsaren med ett flersidigt korrektur synligt.](assets/combine-proofs-2.png)
 
@@ -49,7 +49,7 @@ Inget annat krävs för att visa den kombinerade filen. Klicka bara [!UICONTROL 
 
 Det går inte att kombinera filer när det finns multimediefiler som videoklipp, animeringar och interaktiva URL:er i listan.
 
-![En bild av ett felmeddelande som förklarar att du inte kan kombinera videofiler.](assets/combine-proofs-error.png)
+![En bild på ett felmeddelande som förklarar att du inte kan kombinera videofiler.](assets/combine-proofs-error.png)
 
 
 ## Din tur

@@ -1,6 +1,6 @@
 ---
 title: Delegera uppgifter, ärenden och godkännanden
-description: Lär dig hur du delegerar godkännanden för projekt, uppgifter, utgåvor och tidkort till en annan Workfront-användare. Lär dig även hur du delegerar uppgifter och utfärdar tilldelningar.
+description: Lär dig delegera godkännanden för projekt, uppgifter, utgåvor och tidkort till en annan Workfront-användare. Lär dig även hur du delegerar uppgifter och utfärdar tilldelningar.
 activity: use
 feature: Approvals
 type: Tutorial
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Delegera uppgifter, ärenden och godkännanden
 
-Lär dig hur du delegerar godkännanden för projekt, uppgifter, utgåvor och tidkort till en annan Workfront-användare. Lär dig även hur du delegerar uppgifter och utfärdar tilldelningar.
+Lär dig delegera godkännanden för projekt, uppgifter, utgåvor och tidkort till en annan Workfront-användare. Lär dig även hur du delegerar uppgifter och utfärdar tilldelningar.
 
 ## Delegera godkännanden
 
@@ -47,24 +47,24 @@ Du kan delegera uppgifter och utgåvor som tilldelats dig till andra användare 
 
 Aktivitets- och utgivningsdelegering måste aktiveras av en grupp- eller systemadministratör innan den kan användas. Detta görs i [!UICONTROL Inställningar > Projektinställningar > Åtgärder och problem > Delegering]. Om du aktiverar det här alternativet kan alla användare med en Granska eller högre licens delegera sina tilldelade uppgifter och utgåvor.
 
-![Skärmbild [!UICONTROL Inställningar] inställningar för delegering](assets/delegation-1.png)
+![Skärmbild med [!UICONTROL Inställningar] för delegering](assets/delegation-1.png)
 
 ### Så här delegerar du uppgifter och utgivningstilldelningar
 
-Navigera till [!UICONTROL Startsida] och klicka [!UICONTROL Delegera]anger du sedan användaren som du delegerar alla dina tilldelade uppgifter till och datumintervallet. Du kan utse en användare med en licens för granskning eller högre.
+Navigera till [!UICONTROL Hem] och klicka på [!UICONTROL Delegera]. Ange sedan användaren som du delegerar alla dina tilldelade uppgifter till och datumintervallet. Du kan utse en användare med en licens för granskning eller högre.
 
-![Skärmbild som visar delegeringsfliken i [!UICONTROL Startsida]](assets/delegation-2.png)
+![Skärmbild som visar delegeringsfliken i [!UICONTROL Hem]](assets/delegation-2.png)
 
 ### Så här anger du om en uppgift eller ett ärende har delegerats
 
-Du kan se när uppgifter eller problem har delegerats i [!UICONTROL Startsida] eller i uppgifts- eller problemvyn.
+Du kan se när aktiviteter eller utgåvor har delegerats i [!UICONTROL Hem] eller i aktivitets- eller problemvyn.
 
-![Skärmbild som visar delegerad aktivitetstilldelning i [!UICONTROL Startsida]](assets/delegation-4.png)
-![Skärmbild som visar delegerad uppgiftstilldelning i uppgiftsvyn](assets/delegation-3.png)
+![Skärmbild som visar delegerad aktivitetstilldelning i [!UICONTROL Hem]](assets/delegation-4.png)
+![Skärmbild som visar delegerad aktivitetstilldelning i uppgiftsvyn ](assets/delegation-3.png)
 
 ### E-postmeddelanden som gäller för delegerat arbete
 
 Din grupp eller systemadministratör kan aktivera e-postmeddelanden som meddelar dig när du har delegerat dina uppgifter och problem och när någon har delegerat uppgifter och ärenden till dig.
 
-![Skärmbild [!UICONTROL Inställningar] e-postaviseringsalternativ för delegering](assets/delegation-5.png)
-![Skärmbild som visar e-post för arbetsdelegering](assets/delegation-6.png)
+![Skärmbild som visar [!UICONTROL Inställningar] e-postmeddelandealternativ för delegering](assets/delegation-5.png)
+![Skärmbild som visar ett e-postmeddelande om delegering av arbete](assets/delegation-6.png)

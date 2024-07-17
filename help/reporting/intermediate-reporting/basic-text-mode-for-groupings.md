@@ -23,15 +23,15 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Förstå rapportelement](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
->* [Förstå rapporteringskomponenter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [Förstå rapportkomponenter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
 >* [Skapa en grundläggande gruppering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
 
 
 >[!TIP]
 >
->* Vi rekommenderar att du tittar på det inspelade webbinariet för att få en bättre förståelse för textläget [Fråga experten - Introduktion till rapportering i textläge](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), som är en timme lång.
->* Om du vill veta mer om textläge rekommenderar vi att du tittar på [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) självstudiekurser, som tillsammans är fem och en halv timme långa.
->* Klicka här för att komma åt [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
+>* För att få en mer ingående förståelse för textläget rekommenderar vi att du tittar på den inspelade webbinarihändelsen [Fråga experten - Introduktion till textlägesrapportering](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), som är en timme lång.
+>* Om du vill veta mer om textläge rekommenderar vi att du tittar på självstudiekurserna [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) som tillsammans är fem och en halv timmars långa.
+>* Klicka här för att komma åt [[!UICONTROL API-utforskaren]](https://developer.adobe.com/workfront/api-explorer/)
 
 I den här videon får du lära dig:
 
@@ -55,7 +55,7 @@ group.0.namekeyargkey.1=name
 group.0.valueformat=string
 ```
 
-![En skärmbild som visar projektuppgifter grupperade av fyra överordnade](assets/4-parents-grouping.png)
+![En skärmbild som visar projektaktiviteter grupperade av 4 överordnade](assets/4-parents-grouping.png)
 
 
 ## Aktivitet - Procent slutförd gruppering
@@ -77,7 +77,7 @@ group.0.valueformat=doubleAsString
 textmode=true
 ```
 
-![En skärmbild som visar projektuppgifter grupperade efter procent färdigt](assets/percent-complete-grouping.png)
+![En skärmbild som visar projektaktiviteter grupperade efter procent färdigt](assets/percent-complete-grouping.png)
 
 ## Aktivitet - statusEquatesWith, sedan status
 
@@ -101,7 +101,7 @@ group.1.valueformat=val
 textmode=true
 ```
 
-![En skärmbild som visar projektuppgifter grupperade efter statusEquatesWith](assets/status-equates-with.png)
+![En skärmbild som visar projektaktiviteter grupperade efter statusEquatesWith](assets/status-equates-with.png)
 
 
 ## Godkännandebevis - gruppera efter projektnamn
@@ -112,7 +112,7 @@ group.0.valuefield=documentVersion:document:project:name
 group.0.displayname=Project Name
 ```
 
-![En skärmbild som visar Korrektur för godkännanden grupperade efter projektnamn](assets/proof-approvals-grouped-by-project-name.png)
+![En skärmbild som visar korrekturgodkännanden grupperade efter projektnamn](assets/proof-approvals-grouped-by-project-name.png)
 
 
 ## Godkännandebevis - gruppera efter dokumentnamn
@@ -123,5 +123,5 @@ group.0.valuefield=documentVersion:document:name
 group.0.valueformat=HTML
 ```
 
-![En skärmbild som visar Korrektur för godkännanden grupperade efter projektnamn](assets/proof-approvals-grouped-by-doc-name.png)
+![En skärmbild som visar korrekturgodkännanden grupperade efter projektnamn](assets/proof-approvals-grouped-by-doc-name.png)
 

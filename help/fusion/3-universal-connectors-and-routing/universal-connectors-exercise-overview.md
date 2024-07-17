@@ -1,6 +1,6 @@
 ---
 title: Översikt över Universal Connectors
-description: Lär dig utnyttja kraften i universella anslutningar, ansluta till ett externt API och extrahera information från en array, allt i [!DNL Adobe Workfront Fusion].
+description: Lär dig utnyttja kraften i universella anslutningar, ansluta till ett externt API och extrahera information från en array, allt i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

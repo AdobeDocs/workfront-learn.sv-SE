@@ -1,6 +1,6 @@
 ---
 title: Förstå teamets kapacitet
-description: Lär dig hur teamets kapacitetstabell [!UICONTROL Förbättrad analys] visar när ett hemteam var övertilldelat eller undertilldelat.
+description: Lär dig hur teamkapacitetstabellen i [!UICONTROL Förbättrad analys] visar när ett hemteam är övertilldelat eller undertilldelat.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -40,8 +40,8 @@ I diagrammet ser du:
 
 ## Navigera till diagrammet
 
-1. Klicka på [!UICONTROL Folk] i den vänstra panelen.
-1. Använd [!UICONTROL Filter] för att välja ett eller flera hemteam att undersöka.
+1. Klicka på fliken [!UICONTROL Personer] i den vänstra panelen.
+1. Använd [!UICONTROL filtret] för att välja ett eller flera hemteam att undersöka.
 1. Teamkapaciteten visas.
 
 ## Använda diagrammet

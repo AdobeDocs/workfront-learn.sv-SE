@@ -1,6 +1,6 @@
 ---
 title: Genomgång av routrar
-description: Lär dig hur du använder en router för att skicka Pokemon jämfört med superhjältar i paket längs rätt väg i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du använder en router för att skicka Pokemon kontra superhjältar i paket längs rätt sökväg i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -32,7 +32,7 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 
 ## URL för övning
 
-* Superhero API-webbplats: `https://www.superheroapi.com/`
+* Superhero-API-webbplats: `https://www.superheroapi.com/`
 * Första URL för övning: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
 * Andra URL för övning: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
@@ -56,7 +56,7 @@ Fram tills nu har du arbetat med ett mycket enkelt API (Application Programming 
 
 Workfront och många programvarusystem byggs med en REST-API (Representational State Transfer), som är den enklaste och mest vanliga typen av API idag. Det finns dock några andra, till exempel:
 
-* SOAP (Simple Object Access Protocol) (Workfront Proof API är SOAP-baserat)
+* SOAP (Simple Object Access Protocol) (Workfront Proof API är SOAP)
 * FTP (File Transfer Protocol)
 * SFTP (Secure File Transfer Protocol)
 * Om du vill veta mer gör du en webbsökning efter API-typer och nyckelord av intresse.
@@ -95,14 +95,14 @@ Denna övning bygger på vad du lärde dig under genomgången, men lösningen ti
 
 Skapa variabeln&quot;Stat (nivå)&quot; i modulen Ange flera variabler för Pokemon-tecken. Mappa namnet på Pokemonstatistik till den här variabeln. Använd funktionen för arrayvärden för att ändra hur arrayen visas, så att varje station blir en ny rad enligt nedan.
 
-**Tips:** Det finns bara sex olika Pokemonstatistik med motsvarande nivå.
+**Tips!** Det finns bara sex olika Pokemon-statistik med motsvarande nivå.
 
-![En bild av Stats](assets/universal-connectors-and-routing-5.png)
+![En bild av statistik](assets/universal-connectors-and-routing-5.png)
 
-**Utmaning:** Se om du kan använda arrayformlerna för att få funktioner att visa på samma sätt som ovan som olika rader i stället för en sträng med värden avgränsade med kommatecken. Skärmbilden nedan ger ett tips.
+**Utmaning:** Se om du kan använda matrisformler för att få funktioner att visa på samma sätt som ovan som olika rader i stället för en sträng med värden avgränsade med kommatecken. Skärmbilden nedan ger ett tips.
 
 ![En bild av ett arraynamn](assets/universal-connectors-and-routing-6.png)
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

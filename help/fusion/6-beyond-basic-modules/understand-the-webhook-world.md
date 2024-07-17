@@ -1,6 +1,6 @@
 ---
 title: Förstå webbkrokvärlden
-description: Lär dig hur du använder webhooks som utlösare och hur du skapar köer för inkommande data med webhooks, allt i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du använder webhooks som utlösare och hur du skapar köer för inkommande data med webhooks i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

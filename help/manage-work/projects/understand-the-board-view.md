@@ -1,6 +1,6 @@
 ---
-title: Förstå [!UICONTROL Styrelse] visa
-description: Lär dig använda [!UICONTROL Styrelse] på projektstartsidan.
+title: Förstå vyn för [!UICONTROL anslagstavlan]
+description: Lär dig hur du använder vyn [!UICONTROL Board] på projektstartsidan.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 ---
 
-# Förstå [!UICONTROL Styrelse] visa
+# Förstå vyn för [!UICONTROL anslagstavlan]
 
 I den här videon får du lära dig:
 
-* Var hittar du [!UICONTROL Styrelse] visa
-* Så här använder du [!UICONTROL Styrelse] visa
+* Var du hittar vyn [!UICONTROL Board]
+* Så här använder du vyn [!UICONTROL Board]
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on)
@@ -34,4 +34,4 @@ I den här videon får du lära dig:
 * [Kom igång med att hantera ett projekt](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Spåra projektets övergripande förlopp](/help/manage-work/projects/track-overall-project-progress.md)
 * [Spåra arbetets förlopp med projektstatistik](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Förstå [!UICONTROL Gantt] visa](/help/manage-work/projects/understand-the-gantt-view.md)
+* [Förstå [!UICONTROL Gantt]-vyn](/help/manage-work/projects/understand-the-gantt-view.md)

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 I den här videon kommer du att:
 
-* Se [!UICONTROL Visa efter jobbroll]visa
+* Se [!UICONTROL Visa efter jobbroll]vy
 * Lär dig hur resursinformation visas i den här vyn
 
 
@@ -34,21 +34,21 @@ Din organisation kanske inte använder, eller är redo att använda, affärsäre
 
 Så här ändrar du kolumnerna som visas och beräkningen av Net-kolumnen så att den baseras på planerade timmar:
 
-* Klicka på listrutan Timmar och välj Anpassa.
+* Klicka på menyn Timmar och välj Anpassa.
 
-![Alternativet Anpassa i listruta](assets/NetHours01.png)
+![Anpassa alternativ i listruta](assets/NetHours01.png)
 
 * I rutan Anpassa visade mått anger du vilka kolumner som ska visas och markerar kryssrutan bredvid Använd planerade värden (PLN) i NET-beräkningar.
 
-![Använd planerade värden i alternativet för NETTO-beräkningar](assets/NetHours02.png)
+![Använd planerade värden i alternativet NET-beräkningar](assets/NetHours02.png)
 
-**Anteckning**: Du kan redigera kolumner och beräkningar för de olika vytyperna i Resursplanering genom att välja ett alternativ till vänster i rutan.
+**Obs!**: Du kan redigera kolumner och beräkningar för de olika vytyperna i resursplaneraren genom att välja ett alternativ till vänster i rutan.
 
-![Visa textalternativ](assets/NetHours03.jpg)
+![Visa typalternativ](assets/NetHours03.jpg)
 
 * När du klickar på Spara stängs rutan och skärmen uppdateras.
 
-![Resursplaneringsverktyg](assets/NetHours04.jpg)
+![Resursplaneringsverktyget](assets/NetHours04.jpg)
 
 Resursplaneraren visar vad du behöver veta om tillgång och efterfrågan utan komplexa kalkylblad och kommunikation i realtid.
 

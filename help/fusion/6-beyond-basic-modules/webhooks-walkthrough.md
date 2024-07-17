@@ -1,6 +1,6 @@
 ---
 title: Genomgång av webbhooks
-description: Lär dig hur du använder en webkrok för att skapa en app för att avgöra om en kund är gammal nog att köpa alkohol, allt i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du använder en webkrok för att skapa en app för att avgöra om en kund är gammal nog att köpa alkohol, allt i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Det här scenariot skapar en bekväm butiksapp så att de enkelt kan avgöra om en kund är gammal nog att köpa alkohol eller inte. Kassören behöver bara bokföra kundens namn och födelsedatum OCH en verifierad klienttoken till en angiven URL. När detta anges utlöses vårt scenario för att beräkna det lämpliga svaret och returnera det till den som gjorde begäran.
 
-![En bild som använder modulen Byt](assets/beyond-basic-modules-5.png)
+![En bild som använder växlingsmodulen](assets/beyond-basic-modules-5.png)
 
 ## Genomgång av webbhooks
 
@@ -43,7 +43,7 @@ Om du vill följa med i genomgången måste du ladda ned den kostnadsfria Postma
 1. Välj formulärdata under fliken Behörighet.
 1. Skapa tre nycklar för Name, Birthdate och clientToken.
 
-![En bild som använder modulen Byt](assets/beyond-basic-modules-6.png)
+![En bild som använder växlingsmodulen](assets/beyond-basic-modules-6.png)
 
 ## Din tur
 
@@ -57,9 +57,9 @@ Skapa en Workfront-webkrok som väntar på nya uppdateringar och loggar sedan da
 
 **Tips**: Använd utlösarmodulen Workfront Watch Events för att skapa din webkrok. Uppdateringar i Workfront kallas också anteckningar.
 
-**Utmaning**: Kan du hitta och lägga till den URL som uppdateringen gjordes till för enkel åtkomst?
+**Utmaning**: Kan du hitta och lägga till URL:en som uppdateringen gjordes för enkel åtkomst?
 
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

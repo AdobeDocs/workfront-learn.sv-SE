@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Planera ett projekt - granskning
 
-Skaffa [!DNL  Workfront] projekt snabbt kommer igång med en projektmall. Planera sedan projektet genom att först fokusera på följande fem områden:
+Kom igång snabbt med dina [!DNL  Workfront]-projekt genom att använda en projektmall. Planera sedan projektet genom att först fokusera på följande fem områden:
 
 1. Uppgifter
 1. Varaktighet
@@ -26,7 +26,7 @@ Skaffa [!DNL  Workfront] projekt snabbt kommer igång med en projektmall. Planer
 1. Föregående
 1. Uppdrag
 
-När allt är klart ändrar du projektstatus till Aktuell för att göra projektet tillgängligt. I takt med att projektet fortskrider vill du hålla reda på hur arbetet går till, vilka problem som uppstår, vilka frågor som behöver besvaras och mycket mer. Kom ihåg ... att du kan hitta och hantera all information i [!DNL Workfront]!
+När allt är klart ändrar du projektstatus till Aktuell för att göra projektet tillgängligt. I takt med att projektet fortskrider vill du hålla reda på hur arbetet går till, vilka problem som uppstår, vilka frågor som behöver besvaras och mycket mer. Kom ihåg ... att du kan hitta och hantera all den informationen i [!DNL Workfront]!
 
 <!---
 footer urls for the LP

@@ -1,6 +1,6 @@
 ---
 title: Bortom grundläggande genomgång av mappningar
-description: Ändra vissa projektfält i scenariot som du skapade tidigare med mappningspanelens formler i [!DNL Adobe Workfront Fusion].
+description: Ändra några projektfält i scenariot som du skapade tidigare med mappningspanelens formler i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -53,4 +53,4 @@ Skapa en uppgift i varje projekt som du skapade som en del av föregående genom
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

@@ -67,7 +67,7 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Använd mallar när du skapar projekt.
 
-**Här är varför**
+**Det här är varför**
 
 Med projektmallar slipper du gissa sig till projektledare (och andra som skapar projekt) vad gäller vilka uppgifter ett projekt ska innehålla, hur tidslinjen ska struktureras osv. Mallar är det mest effektiva sättet att snabba upp projektskapandet.
 
@@ -82,7 +82,7 @@ Denna enhetlighet i projekten ger exaktare data, vilket är viktigt när ni fatt
 
 Skapa en namnkonvention för projektmallar.
 
-**Här är varför**
+**Det här är varför**
 
 Enhetliga namn gör mallarna enklare att hitta. Det hjälper även projektledare och andra att skapa projekt att välja rätt mall när det finns mallar med liknande namn i flera team eller avdelningar.
 
@@ -93,7 +93,7 @@ Enhetliga namn gör mallarna enklare att hitta. Det hjälper även projektledare
 
 Skapa en utvald grupp användare som kan skapa och uppdatera projektmallar.
 
-**Här är varför**
+**Det här är varför**
 
 Att ha välbyggda, enhetliga projektmallar är avgörande för god arbetshantering och korrekt rapportering. Begränsa antalet användare som kan redigera mallar för att undvika oavsiktliga eller ej godkända ändringar.
 
@@ -104,13 +104,13 @@ Att ha välbyggda, enhetliga projektmallar är avgörande för god arbetshanteri
 
 Använd Projektdelning på en projektmall för att automatiskt ge åtkomst till projekt som skapats med den mallen.
 
-**Här är varför**
+**Det här är varför**
 
 Tillgång till särskilda projekt beviljas genom själva projektet. Om samma grupp av personer alltid behöver åtkomst till projekt som skapats med en viss mall lägger du till dem under alternativet Projektdelning i mallen. Det är inte bara så att du kan styra åtkomsten till projekt så snart de har skapats, det effektiviserar skalbarheten om behörigheterna behöver ändras i framtiden.
 
 Instruktioner om hur du delar projekt som skapats med en mall finns i kapitlet&quot;Dela projekt som skapats med en mall&quot; i [Dela en projektmall](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html).
 
-**Anteckning**: Malldelning ger åtkomst till själva mallen. En användare måste ha minst behörigheten Visa för att kunna skapa projekt med mallen.
+**Obs!**: Malldelning ger åtkomst till själva mallen. En användare måste ha minst behörigheten Visa för att kunna skapa projekt med mallen.
 
 </br>
 </br>
@@ -119,7 +119,7 @@ Instruktioner om hur du delar projekt som skapats med en mall finns i kapitlet&q
 
 Tilldela roller eller team för uppgifter, inte individer.
 
-**Här är varför**
+**Det här är varför**
 
 När en enskild användare ändrar positioner eller lämnar organisationen måste du uppdatera projektmallar som innehåller den personen manuellt. Detta tar tid för system- eller gruppadministratörer eller projektledare.
 
@@ -134,7 +134,7 @@ Dessutom används jobbroller av Workfront resursplaneringsverktyg för att hjäl
 
 Undvik att bli för detaljerad när du skapar uppgifter i en projektmall. Begränsa antalet uppgifter i en projektmall till de som behövs för att slutföra arbetet.
 
-**Här är varför**
+**Det här är varför**
 
 Överkomplicerade projektmallar ger en sämre upplevelse för användarna - projektledare, resurshanterare, teammedlemmar med mera. För många uppgifter gör projekttidslinjen svår att hantera, med överlappande deadlines och flera uppgifter tilldelade till samma roller eller personer.
 
@@ -146,7 +146,7 @@ Undvik att bli för detaljerad när du skapar uppgifter i en projektmall. Begrä
 
 Använd uppgiftsbeskrivningen för att hämta de små stegen i uppgiften, i stället för att dela upp dem i flera uppgifter.
 
-**Här är varför**
+**Det här är varför**
 
 Om flera uppgifter på en rad tilldelas till samma jobbroll/person, är det en indikation på att dessa uppgifter kan kombineras. För många uppgifter som tilldelats en användare kan få dem att känna att det finns mer arbete att slutföra, vilket kan påverka Workfront användning.
 
@@ -157,7 +157,7 @@ Om flera uppgifter på en rad tilldelas till samma jobbroll/person, är det en i
 
 Se till att malluppgifterna innehåller varaktigheter, planerade timmar och föregående aktiviteter.
 
-**Här är varför**
+**Det här är varför**
 
 Dessa tre saker - varaktighet, planerad tid och föregångare - är byggstenarna i projektets tidslinje. Detta är nyckeln till att veta hur lång tid det kommer att ta och när det behöver göras. Workfront resurshanteringsverktyg använder varaktighet och planerade timmar, plus jobbrolltilldelningar, för att beräkna resurskapacitet, tillgänglighet och mycket annat.
 
@@ -171,7 +171,7 @@ Om du är osäker på hur du ska beräkna varaktighet eller planerade timmar fö
 
 Förkonfigurera projektinformation och bifoga anpassade formulär i mallen.
 
-**Här är varför**
+**Det här är varför**
 
 Se till att information som är standard för alla projekt är ifylld i projektmallen. Detta snabbar inte bara upp projektframtagningen, utan säkerställer också att det finns nödvändig information och att den är konsekvent i alla projekt.
 
@@ -186,7 +186,7 @@ Instruktioner om hur du bifogar ett anpassat formulär till ett objekt, t.ex. en
 
 Granska och uppdatera projektmallar regelbundet.
 
-**Här är varför**
+**Det här är varför**
 
 När processer och team förändras bör projektmallarna uppdateras. Upprätta ett regelbundet avbrott, t.ex. kvartalsvis, för att kontrollera och se vilka mallar som inte används aktivt. Du kan inaktivera dessa, så de finns fortfarande i Workfront men visas inte i mallurvalslistor.
 
@@ -200,7 +200,7 @@ Instruktioner om hur du inaktiverar en projektmall finns i [Inaktivera en projek
 Kontrollera mallarna så att de har all information de behöver innan du delar dem och andra börjar använda dem.
 
 
-**Här är varför**
+**Det här är varför**
 
 Eftersom mallarna kommer att användas gång på gång för att skapa projekt måste du se till att allt är korrekt konfigurerat. Detta leder till enhetlighet i alla projekt och korrekta data för rapportering.
 
@@ -228,11 +228,11 @@ Förutom aktivitetsinställningar som varaktighet och planerade timmar kan du gr
 
 När du justerar alternativet Schemaläge för en mall granskar och uppdaterar du uppgiftsbegränsningarna.
 
-**Här är varför**
+**Det här är varför**
 
 Om du blandar olika uppgiftsbegränsningar i ett projekt kan det orsaka oväntade och förvirrande datumberäkningar. Om du t.ex. väljer Startdatum för alternativet Schemaläge tilldelas alla aktiviteter som skapas i det projektet som standard aktivitetsbegränsningen Så snart som möjligt. Om du senare byter till alternativet Schemaläge till Slutförandedatum har alla skapade uppgifter som standard en Aktivitetsbegränsning som är så sen som möjligt. Om du har en oavsiktlig blandning av uppgifter med var och en av dessa begränsningar kan det leda till att planerade datum på projekttidslinjen blir förvirrande.
 
-Mer information om aktivitetskontraktioner och hur du använder dem finns i [Förstå och hantera varaktighetstyper och uppgiftsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
+Mer information om aktivitetskontraktioner och hur du använder dem finns i [Förstå och hantera varaktighetstyper och aktivitetsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
 
 </br>
 </br>
@@ -241,7 +241,7 @@ Mer information om aktivitetskontraktioner och hur du använder dem finns i [Fö
 
 Kontrollera projektteamet i mallen och ta bort användare som inte kommer att arbeta med projektet.
 
-**Här är varför**
+**Det här är varför**
 
 När du skapar en mall från ett befintligt projekt, såvida du inte väljer alternativet Rensa tilldelningar när du skapar, tar Workfront över de personer som har tilldelats uppgifter/ärenden i projektet i avsnittet Personer. När du arbetar med mallen kanske du vill ta bort personer som tidigare tilldelats arbete eller ändra ett uppdrag som du själv har gjort i mallen.
 

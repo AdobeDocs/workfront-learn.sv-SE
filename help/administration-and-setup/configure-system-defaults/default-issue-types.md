@@ -33,7 +33,7 @@ Det finns fyra standardutgivningsstatusar som inte kan tas bort:
 * Stängd
 * Parkerad
 
-Sex andra statusar som är vanliga för att hantera problem medföljer [!DNL Workfront]:
+Sex andra statusar som är vanliga för problemhantering levereras med [!DNL Workfront]:
 
 * Återöppnad
 * Väntar på feedback
@@ -49,17 +49,17 @@ need URL in paragraph below
 
 Status för ett problem kan visas och ändras i [!UICONTROL Ärendeinformation]. Du kan även ändra utgåvan av en status i utgåvans sidhuvud längst till höger.
 
-![[!UICONTROL Status] i sidhuvudet och [!UICONTROL Ärendeinformation] page](assets/admin-fund-issue-details-status.png)
+![[!UICONTROL Status] i sidhuvudet och [!UICONTROL Ärendeinformation] sida ](assets/admin-fund-issue-details-status.png)
 
-Du kan lägga till [!UICONTROL Status] kolumn till en vy eller anpassad rapport, så att den blir synlig och snabb att ändra.
+Du kan lägga till kolumnen [!UICONTROL Status] i en vy eller anpassad rapport, så att den blir synlig och snabb att ändra.
 
-![[!UICONTROL Status] kolumn i en [!UICONTROL Visa]](assets/admin-fund-issue-status-view.png)
+![[!UICONTROL Status]-kolumn i en [!UICONTROL vy]](assets/admin-fund-issue-status-view.png)
 
 <!---
 link the bullets below to the articles
 --->
 
-Låt oss titta närmare på grunderna om status för frågor:
+Låt oss titta närmare på grunderna om status i följande frågor:
 
 * Ändra en befintlig status
 * Systemets standardstatus

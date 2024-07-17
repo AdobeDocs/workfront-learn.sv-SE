@@ -26,7 +26,7 @@ Få en bättre förståelse för att arbeta med universella REST-anslutningar oc
 
 Om du använder ett Pokemon-tecken i ett kalkylblad kan du anropa Poke API via en HTTP-anslutning för att samla in och publicera mer information om det tecknet.
 
-![Introduktion till universella anslutningar Bild 1](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-1.png)
+![Introduktion till universella anslutningar, bild 1](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-1.png)
 
 ## Steg som ska följas
 
@@ -39,9 +39,9 @@ Om du använder ett Pokemon-tecken i ett kalkylblad kan du anropa Poke API via e
 1. Konfigurera din Workfront-anslutning och inkludera det dokument-ID som du kopierade från Workfront URL.
 1. Byt namn på den här modulen till&quot;Hämta leveransmanifest&quot;.
 
-   ![Introduktion till universella anslutningar Bild 9](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-9.png)
+   ![Introduktion till universella anslutningar bild 9](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-9.png)
 
-   **Tolka data i leveransmanifestet.**
+   **Tolka leveransmanifestdata.**
 
 1. Lägg till en till modul och välj Analysera CSV.
 1. Konfigurera CSV för parse för 11 kolumner. Markera rutan CSV innehåller rubriker. Välj kommaavgränsartyp och skicka data från modulen Hämta dokument i CSV-fältet.
@@ -54,21 +54,21 @@ Om du använder ett Pokemon-tecken i ett kalkylblad kan du anropa Poke API via e
    **Hämta Pokemon-data med den universella kopplingen.**
 
 1. Lägg till en HTTP Make a Request-modul.
-1. I URL-fältet använder du `https://pokeapi.co/api/v2/pokemon/[Character]`, där [Tecken] är mappad till kolumn 3 från CSV-modulen Parse.
+1. I URL-fältet använder du `https://pokeapi.co/api/v2/pokemon/[Character]`, där [Character] mappas till Column 3 från CSV-modulen Parse.
 1. Markera kryssrutan Tolka svar.
 1. Markera Visa avancerade inställningar och markera sedan kryssrutan intill &quot;Utvärdera alla lägen som fel&quot;.
 1. Klicka på OK och byt namn på modulen&quot;Hämta Pokemoninformation&quot;.
 
-   **Mappningspanelen bör se ut så här:**
+   **Mappningspanelen ska se ut så här:**
 
-   ![Introduktion till universella anslutningar bild 3](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-3.png)
+   ![Introduktion till universella anslutningar, bild 3](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-3.png)
 
    **I den här delen av övningen vill du bara bearbeta rad 1 i CSV-filen.**
 
 1. Lägg till ett filter före din Get Pokemon info-modul. Ge den namnet&quot;Endast rad 1&quot;.
 1. Ange villkoret så att ID-nummer 1 bara kan skickas. ID-nummer 1 finns på rad 1 och ID-fältet finns i kolumn 1 i CSV-filen.
 
-   ![Introduktion till universella anslutningar Bild 4](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-4.png)
+   ![Introduktion till universella anslutningar bild 4](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-4.png)
 
 1. Spara scenariot.
 1. Klicka på Run Once (Kör en gång) och observera felmeddelandet som du får i modulen HTTP Make a request.
@@ -79,11 +79,11 @@ Om du använder ett Pokemon-tecken i ett kalkylblad kan du anropa Poke API via e
 
    ![Introduktion till universella anslutningar bild 5](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-5.png)
 
-1. Använd mappningspanelen i fältet HTTP Make a request URL för att skapa [Tecken] fältmarkera alla gemener med **nedre** funktion.
+1. Använd mappningspanelen i fältet HTTP Make a request URL för att göra fältet [Character] till alla gemener med funktionen **lower** .
 
-   ![Introduktion till universella anslutningar Bild 6](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-6.png)
+   ![Introduktion till universella anslutningar bild 6](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-6.png)
 
-   **Mappa tillbaka information från API:t med modulen Ange flera variabler.**
+   **Mappa tillbaka information från API:t med hjälp av modulen Ange flera variabler.**
 
 1. Lägg till modulen Ange flera variabler efter Hämta Pokemon-information. Kartnamn, höjd, vikt och egenskaper.
 1. Eftersom fältet Abilities är en array måste du komma ihåg att använda mappningsfunktionen för att komma åt namnet på varje funktion i arrayen.

@@ -1,6 +1,6 @@
 ---
-title: Förstå [!UICONTROL Affärsärende]
-description: Lär dig använda [!UICONTROL Affärsärende] i Workfront för att utvärdera begärda projekt och jämföra dem med andra projekt i din portfolio.
+title: Förstå [!UICONTROL affärsärendet]
+description: Lär dig hur du använder [!UICONTROL affärsärendet] i Workfront för att utvärdera begärda projekt och jämföra dem med andra projekt i din portfölj.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -18,65 +18,65 @@ ht-degree: 0%
 
 ---
 
-# Förstå [!UICONTROL Affärsärende]
+# Förstå [!UICONTROL affärsärendet]
 
-Som chef är det ditt mål att se till att projekten bidrar till företagets övergripande mål och initiativ på ett positivt sätt. För att kunna fatta välgrundade beslut behöver du information från projektledarna om vad de behöver för att kunna gå vidare med sina projekt. Detta kan du göra med [!UICONTROL Affärsärende].
+Som chef är det ditt mål att se till att projekten bidrar till företagets övergripande mål och initiativ på ett positivt sätt. För att kunna fatta välgrundade beslut behöver du information från projektledarna om vad de behöver för att kunna gå vidare med sina projekt. Detta kan du göra genom [!UICONTROL affärsärendet].
 
-## Vad är en [!UICONTROL Affärsärende]?
+## Vad är ett [!UICONTROL affärsärende]?
 
-Tänk på en [!UICONTROL Affärsärende] som en plan eller ett förslag för det arbete som behöver utföras. Den innehåller preliminära uppskattningar på hög nivå som hjälper er att planera och hantera portföljer. Det är där potentiella kostnader, resurser och risker läggs in för att skapa ett&quot;fall&quot; för varför projektet skulle gynna företaget.
+Tänk på ett [!UICONTROL affärsärende] som en plan eller ett förslag för det arbete som behöver utföras. Den innehåller preliminära uppskattningar på hög nivå som hjälper er att planera och hantera portföljer. Det är där potentiella kostnader, resurser och risker läggs in för att skapa ett&quot;fall&quot; för varför projektet skulle gynna företaget.
 
-## [!UICONTROL Affärsärende] fält som rekommenderas för projektprioritering
+## [!UICONTROL Affärsfall]-fält rekommenderas för projektprioritering
 
-Varje avsnitt i [!UICONTROL Affärsärende] ger unik och viktig information om projektet. Låt oss titta på avsnitten som matar information till [!UICONTROL Portfolio Optimizer] som hjälper dig att prioritera projekten i din portfolio.
+Varje avsnitt i [!UICONTROL affärsärendet] innehåller unik och viktig information om projektet. Låt oss titta på avsnitten som matar in information till verktyget [!UICONTROL Portfolio Optimizer] som hjälper dig att prioritera projekten i din portfölj.
 
 ## [!UICONTROL Projektinformation]
 
-Största delen av informationen som anges i [!UICONTROL Projektinformation] -avsnittet innehåller allmän projektinformation, t.ex. projektsponsorn och det program som projektet tillhör.
+Den mesta informationen som anges i avsnittet [!UICONTROL Projektinformation] omfattar allmän projektinformation, till exempel projektets sponsor och det program som projektet tillhör.
 
-Men det finns en del information som kan påverka projektets prioritering -[!UICONTROL Planerad förmån].
+Det finns dock en informationsdel som kan påverka projektets prioritering -[!UICONTROL Planerad förmån].
 
-![En bild av [!UICONTROL Planerad förmån] området i [!UICONTROL Projektinformation] i [!UICONTROL Affärsärende]](assets/05-portfolio-management4.png)
+![En bild av området [!UICONTROL Planerad förmån] i avsnittet [!UICONTROL Projektinformation] i [!UICONTROL Affärsärende]](assets/05-portfolio-management4.png)
 
-The [!UICONTROL Planerad förmån] representerar det beräknade belopp i USD som ditt företag kan ha nytta av om projektet slutförs.
+Den [!UICONTROL planerade förmånen] representerar det beräknade belopp som ditt företag kan ha nytta av om projektet har slutförts.
 
 Det här är ett av avsnitten som kan vara en startpunkt för att få ditt företag att gå framåt med det här projektet. Om du kan visa att projektet kommer att bidra avsevärt till företagets resultat, är chansen högre att projektet kommer att föras vidare snabbare.
 
 ## [!UICONTROL Utgifter]
 
-[!UICONTROL Utgifter] representerar de icke-arbetskostnader som kan uppstå under ett projekts livslängd.
+[!UICONTROL Utgifter] representerar icke-arbetskostnader som kan uppstå under ett projekts livslängd.
 
-![En bild av [!UICONTROL Utgifter] i [!UICONTROL Affärsärende]](assets/06-portfolio-management5.png)
+![En bild av avsnittet [!UICONTROL Utgifter] i [!UICONTROL Affärsärende]](assets/06-portfolio-management5.png)
 
 Exempelvis kan utgifter för en användarkonferens omfatta betalning för en plats, artiklar för presentväskor eller skyltar för en handelsplatslobby.
 
 ## [!UICONTROL Resursbudgetering]
 
-The [!UICONTROL Resursbudgetering] kan du beräkna vilken arbetsinsats du tror kommer att behövas för att projektet ska kunna gå vidare. Informationen hämtas från [!DNL Workfront's] [!UICONTROL Resursplanering].
+I avsnittet [!UICONTROL Resursbudgetering] kan du beräkna vilken arbetsinsats du tror kommer att behövas för att projektet ska kunna gå vidare. Informationen hämtas från [!DNL Workfront's] [!UICONTROL Resursplanering].
 
-![En bild av [!UICONTROL Resursbudgetering] i [!UICONTROL Affärsärende]](assets/07-portfolio-management6.png)
+![En bild av avsnittet [!UICONTROL Resursbudgetering] i [!UICONTROL Affärsärende]](assets/07-portfolio-management6.png)
 
 Genom att ange beräknade behov för varje jobbroll skapar detta en möjlig budget som behövs för projektet och ger insikt i hur stor del av portföljens budget som kan användas för projektet.
 
 >[!NOTE]
 >
->Du måste ha konfigurerade resurspooler i [!DNL Workfront] för att använda det här avsnittet av [!UICONTROL Affärsärende].
+>Du måste ha konfigurerade resurspooler i [!DNL Workfront] för att kunna använda det här avsnittet av [!UICONTROL affärsärendet].
 
 ## [!UICONTROL Risker]
 
-Du hoppas alltid att projektet kommer att flyta smidigt. Men det är viktigt att identifiera risker och planera för dem därefter. Det är där [!UICONTROL Risker] i [!UICONTROL Affärsärende] kan hjälpa.
+Du hoppas alltid att projektet kommer att flyta smidigt. Men det är viktigt att identifiera risker och planera för dem därefter. Det är där avsnittet [!UICONTROL Risker] i [!UICONTROL Affärsärende] kan hjälpa.
 
-![En bild av [!UICONTROL Risker] i [!UICONTROL Affärsärende]](assets/08-portfolio-management7.png)
+![En bild av avsnittet [!UICONTROL Risker] i [!UICONTROL Affärsärende]](assets/08-portfolio-management7.png)
 
-Du borde brainstorma med ditt team och identifiera eventuella risker för projektet. För risker där du kan uppskatta kostnaden om risken uppstår och sannolikheten för att den inträffar, ska du vara säker och ange dessa värden. Workfront kommer att multiplicera den potentiella kostnaden med sannolikheten och lägga den i en [!UICONTROL Potentiell risk] som kommer att dras av från projektets [!UICONTROL Planerad förmån] vid beräkning av [!UICONTROL Nettovärde].
+Du borde brainstorma med ditt team och identifiera eventuella risker för projektet. För risker där du kan uppskatta kostnaden om risken uppstår och sannolikheten för att den inträffar, ska du vara säker och ange dessa värden. Workfront multiplicerar den potentiella kostnaden med sannolikheten och placerar den i en [!UICONTROL potentiell risk]-fond som subtraheras från projektets [!UICONTROL planerade förmån] när dess [!UICONTROL nettovärde] beräknas.
 
 ## [!UICONTROL Styrkort]
 
-[!UICONTROL Styrkort] fastställa hur väl ett föreslaget projekt överensstämmer med de övergripande mål och initiativ som fastställts för antingen portföljen eller företaget.
+[!UICONTROL Med styrkort] kan du avgöra hur väl ett föreslaget projekt passar ihop med de övergripande mål och initiativ som angetts för antingen portföljen eller företaget.
 
-Varje styrkort har en lista med frågor och svar som har värden kopplade till sig. När styrkortet är ifyllt, [!DNL Workfront] kan beräkna hur anpassat projektet är till organisationens förbestämda mål.
+Varje styrkort har en lista med frågor och svar som har värden kopplade till sig. När styrkortet har fyllts i kan [!DNL Workfront] beräkna hur justerat projektet är med organisationens förbestämda mål.
 
-![En bild av [!UICONTROL Styrkort] i [!UICONTROL Affärsärende]](assets/09-portfolio-management8.png)
+![En bild av avsnittet [!UICONTROL Styrkort] i [!UICONTROL Affärsärende]](assets/09-portfolio-management8.png)
 
 >[!NOTE]
 >
@@ -84,13 +84,13 @@ Varje styrkort har en lista med frågor och svar som har värden kopplade till s
 
 ## [!UICONTROL Affärsärende] krävs inte
 
-The [!UICONTROL Affärsärende] är flexibel. Du kan fylla i bara några få avsnitt eller inga alls. Inget av fälten är obligatoriska. Men ju mer information du fyller i desto enklare är det att analysera och prioritera projekt som varierar för samma budget eller resurser.
+[!UICONTROL Affärsärendet] är flexibelt. Du kan fylla i bara några få avsnitt eller inga alls. Inget av fälten är obligatoriska. Men ju mer information du fyller i desto enklare är det att analysera och prioritera projekt som varierar för samma budget eller resurser.
 
-När [!UICONTROL Affärsärende] är ifylld klickar du på **[!UICONTROL Skicka]** i sammanfattningspanelen till höger om fönstret. Detta ändrar projektstatus till [!UICONTROL Begärd]. Nu kan du börja använda [!UICONTROL Optimering för Portfolio] att prioritera projekt i samma portfölj.
+När [!UICONTROL Affärsärende] har fyllts i klickar du på knappen **[!UICONTROL Skicka]** på sammanfattningspanelen till höger i fönstret. Detta ändrar projektstatus till [!UICONTROL Begärd]. Nu kan du använda [!UICONTROL Portfolio-optimering] för att prioritera projekt i samma portfölj.
 
 >[!NOTE]
 >
->Justeringspoängen i [!UICONTROL Affärsärende] sammanfattningspanelen genereras när du fyller i styrkortet. Justeringspoängen är ett av värdena som används vid beräkning av [!UICONTROL Portfolio Optimizer] poäng.
+>Justeringspoängen i sammanfattningspanelen [!UICONTROL Affärsärende] genereras när du fyller i styrkortet. Justeringspoängen är ett av de värden som används för att beräkna poängen för [!UICONTROL Portfolio Optimizer].
 
 <!-- 
 Learn more graphic and links to documentation articles

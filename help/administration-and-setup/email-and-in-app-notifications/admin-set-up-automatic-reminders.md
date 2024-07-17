@@ -31,15 +31,15 @@ De kan skickas till ett eller flera av följande:
 * Användarens chef.
 * Direktörens chef.
 
-Automatiska påminnelser är inte vanliga men de kan vara användbara om din organisation har problem med och vill att användarna ska hållas ansvariga för att de ska kunna slutföra arbetet i tid.
+Automatiska påminnelser kan vara användbara även om de inte används så ofta, om din organisation har problem med och vill att användarna ska kunna hållas ansvariga för att de slutför arbetet i tid.
 
-Automatiska påminnelser kan ställas in i [!UICONTROL E-post] i [!UICONTROL Inställningar] område. Du behöver bara bestämma:
+Automatiska påminnelser kan ställas in i avsnittet [!UICONTROL E-post] i området [!UICONTROL Inställningar] . Du behöver bara bestämma:
 
 * Vem behöver få den automatiska påminnelsen.
 * Hur lång tid före/efter det att arbetet ska utföras om meddelandet ska skickas.
 
-![[!UICONTROL Automatiska påminnelser] window in [!UICONTROL Inställningar]](assets/admin-fund-automatic-reminders-1.png)
+Fönstret ![[!UICONTROL Automatiska påminnelser] i [!UICONTROL Inställningar]](assets/admin-fund-automatic-reminders-1.png)
 
-Nu har de automatiska påminnelserna tillämpats och skickas ut så snart villkoren är uppfyllda. Dessutom kan användare inte inaktivera automatiska påminnelser i sina [!UICONTROL Mina inställningar] -fönstret.
+Nu har de automatiska påminnelserna tillämpats och skickas ut så snart villkoren är uppfyllda. Dessutom kan användare inte inaktivera automatiska påminnelser i fönstret [!UICONTROL Mina inställningar] .
 
 ![[!UICONTROL Automatisk påminnelse] e-postmeddelande](assets/admin-fund-automatic-reminders-2.png)

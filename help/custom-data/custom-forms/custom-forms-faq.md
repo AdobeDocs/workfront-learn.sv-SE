@@ -10,19 +10,19 @@ team: Technical Marketing
 jira: KT-10058
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
 # Vanliga frågor om anpassade formulär
 
-**Kan jag byta visningstyp för ett fält efter att jag har skapat det? Kan jag till exempel byta från en nedrullningsbar meny till kryssrutor?**
+**Kan jag byta visningstyp för ett fält efter att jag har skapat det? Kan jag till exempel ändra från en nedrullningsbar meny till kryssrutor?**
 
 Ja. Visningstypen kan växlas till en annan, liknande visningstyp, t.ex. text till stycke, listruta till kryssrutor eller alternativknappar. Mer information om hur du ändrar visningstypen finns i artikeln Skapa ett anpassat formulär.
 
 
-**Kan jag använda samma anpassade formulär för flera objekt? Till exempel ett formulär som jag har skapat för en uppgift till ett projekt?**
+**Kan jag använda samma anpassade formulär för flera objekt? Ett formulär som jag har skapat för en aktivitet till ett projekt?**
 
 Nej. Anpassade formulär har en personlig relation till ett objekt. Du kan dock kopiera det anpassade formuläret och ändra objektet till det som behövs.
 
@@ -32,12 +32,12 @@ Nej. Anpassade formulär har en personlig relation till ett objekt. Du kan dock 
 Ja. På så sätt kommer alla projekt som skapas från den mallen att ha det anpassade formuläret kopplat till sig redan.
 
 
-**Finns det någon gräns för hur många fält jag kan ha i ett anpassat formulär?**
+**Finns det en gräns för hur många fält jag kan ha i ett anpassat formulär?**
 
 Du kan lägga till upp till 500 fält i ett anpassat formulär. Prestandaförsämring kan dock inträffa när det finns mer än 100 fält i ett formulär, beroende på hur komplext det anpassade formuläret är. Exempel på komplexa formulär är formulär med överlappande parametrar, beräknade anpassade datafält och alternativ för flera värden i ett givet fält.
 
 
-**Finns det någon gräns för hur många anpassade formulär jag kan bifoga till ett projekt?**
+**Finns det en gräns för hur många anpassade formulär jag kan koppla till ett projekt?**
 
 Ja. Du kan bifoga upp till 10 anpassade formulär till ett objekt. Mer information finns i den här artikeln, Använda anpassad Forms på objekt.
 

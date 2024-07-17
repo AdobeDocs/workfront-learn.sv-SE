@@ -23,7 +23,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig:
 
-* Så undviker du oavsiktligt inklusive **ej** projektgruppsmedlemmar i ett mallprojektteam.
+* Så här undviker du oavsiktligt att ta med **icke** projektgruppsmedlemmar i ett mallprojektteam.
 * Redigera mallprojektteamet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)

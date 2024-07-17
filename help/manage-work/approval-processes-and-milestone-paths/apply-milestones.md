@@ -1,6 +1,6 @@
 ---
 title: Använd milstolpar
-description: Lär dig hur du använder milstolpbanor på en [!DNL  Workfront] projektera och associera viktiga uppgifter som milstolpar i projektet.
+description: Lär dig hur du använder milstolpesökvägar i ett [!DNL  Workfront] projekt och associerar nyckelaktiviteter som milstolpesteg i projektet.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -14,7 +14,7 @@ exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -31,5 +31,5 @@ I den här videon får du lära dig att:
 
 >[!TIP]
 >
->Mer information om hur du skapar en vy för milstolpe finns i Vyn milstolpe i [Skapa en grundvy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+>Mer information om hur du skapar en milstolpevy finns i Vyaktiviteten för milstolpe i [Skapa en grundvy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
 

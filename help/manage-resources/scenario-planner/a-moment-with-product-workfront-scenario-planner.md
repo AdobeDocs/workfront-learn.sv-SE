@@ -1,6 +1,6 @@
 ---
-title: Introduktion till [!DNL Scenario Planner]
-description: Se hur [!DNL Scenario Planner] kan hjälpa er att anpassa besluten efter företagets resultat. Lär dig navigera [!DNL Scenario Planner].
+title: Introduktion till  [!DNL Scenario Planner]
+description: Lär dig hur  [!DNL Scenario Planner]  kan hjälpa dig att anpassa besluten efter resultatet för din verksamhet. Lär dig navigera  [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ---
 
-# En stund med produkten: Introduktion till [!DNL Scenario Planner]
+# Ett ögonblick med produkt: Introduktion till [!DNL Scenario Planner]
 
 I den här videon kommer du att:
 
-* Få en navigeringsöversikt [!DNL Scenario Planner]
-* Förstå hur [!DNL Scenario Planner] kan hjälpa er att anpassa besluten efter företagets resultat.
+* Hämta en navigeringsöversikt för [!DNL Scenario Planner]
+* Förstå hur [!DNL Scenario Planner] kan hjälpa till att anpassa beslut till resultatet för din verksamhet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12&learn=on)

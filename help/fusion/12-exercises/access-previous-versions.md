@@ -1,6 +1,6 @@
 ---
 title: Få tillgång till tidigare versioner
-description: Lär dig hur du återgår till en tidigare version av en [!UICONTROL Fusion] scenario.
+description: Lär dig hur du återgår till en tidigare version av ett [!UICONTROL Fusion] -scenario.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -26,7 +26,7 @@ Lär dig hur du återgår till en tidigare version av ett scenario.
 
 Upptäck hur du kan återställa tidigare versioner efter att du har gjort ändringar i ett scenario och sparat det flera gånger.
 
-![Åtkomst till tidigare versioner, bild 1](../12-exercises/assets/accessing-previous-versions-walkthrough-1.png)
+![Öppna föregående versioner, bild 1](../12-exercises/assets/accessing-previous-versions-walkthrough-1.png)
 
 ## Steg som ska följas
 
@@ -34,15 +34,15 @@ Upptäck hur du kan återställa tidigare versioner efter att du har gjort ändr
 1. Lägg till variabeln Set efter modulen Create Workfront projects. Ge variabeln namnet&quot;Test&quot;.
 1. Dra det till en ny plats och spara scenariot.
 
-   ![Åtkomst till tidigare versioner, bild 2](../12-exercises/assets/accessing-previous-versions-walkthrough-2.png)
+   ![Öppna föregående versioner, bild 2](../12-exercises/assets/accessing-previous-versions-walkthrough-2.png)
 
 1. Lägg till en Repeater-modul, bryt länken till den tidigare modulen och spara scenariot igen.
 
-   ![Åtkomst till tidigare versioner, bild 3](../12-exercises/assets/accessing-previous-versions-walkthrough-3.png)
+   ![Öppna föregående versioner, bild 3](../12-exercises/assets/accessing-previous-versions-walkthrough-3.png)
 
 1. Ta bort alla dina moduler och spara.
 1. Klicka på menyn med tre punkter i verktygsfältet och klicka på alternativet Tidigare versioner. I listan visas datum- och tidsstämplar för varje version som sparas.
 
-   ![Åtkomst till tidigare versioner, bild 4](../12-exercises/assets/accessing-previous-versions-walkthrough-4.png)
+   ![Öppna föregående versioner, bild 4](../12-exercises/assets/accessing-previous-versions-walkthrough-4.png)
 
 1. Välj en tidigare version och lägg märke till hur scenariot i designern återgår till där du sparade.

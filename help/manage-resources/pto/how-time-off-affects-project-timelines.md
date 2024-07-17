@@ -18,11 +18,11 @@ ht-degree: 0%
 
 # Hur ledig tid påverkar projektets tidslinjer
 
-Om en tilldelad användares tid över faktorer till projekttidslinjen beror på en projektinställning som kallas [!UICONTROL Användningstid av]. Den här inställningen avgör om tidpunkten för den primära tilldelaren av uppgiften justerar de planerade datumen för aktiviteten i projektet.
+Huruvida en tilldelad användares tid över faktorer till projekttidslinjen är beroende av en projektinställning som kallas [!UICONTROL användartid av]. Den här inställningen avgör om tidpunkten för den primära tilldelaren av uppgiften justerar de planerade datumen för aktiviteten i projektet.
 
-Vi tittar på vad som händer med en projekttidslinje när varje inställning är markerad - C[!UICONTROL Se till att användaren har ledig tid i aktivitetsvaraktighet] eller [!UICONTROL Ignorera användartid för aktivitetsvaraktighet].
+Låt oss titta på vad som händer med en projekttidslinje när var och en av inställningarna är markerad - C[!UICONTROL överväg användarens tid när aktiviteten varar] eller [!UICONTROL Ignorera användarens tid när aktiviteten varar].
 
-![Inställning för användartid](assets/toapt_01.png)
+![Inställningen för användartid är inaktiverad](assets/toapt_01.png)
 
 ## Överväg användarens ledig tid i aktivitetsvaraktigheter
 
@@ -34,19 +34,19 @@ I det här exemplet har den primära tilldelaren för uppgiften dagar kvar marke
 
 Projektledaren vill tilldela den här personen till en aktivitet som har planerade datum som överlappar användarens lediga tid.
 
-![projektuppgift med datum](assets/toapt_03.png)
+![projektaktivitet med datum](assets/toapt_03.png)
 
 När den här användaren tilldelas till uppgiften justeras de planerade datumen automatiskt. Nu har aktivitetens planerade slutförandedatum förlängts med flera dagar för att passa användarens ledig tid. Det är viktigt att notera att den här ändringen kan påverka planerade datum för andra uppgifter i projektet och eventuellt projektets planerade slutförandedatum.
 
-![projektuppgift med förfallodatum](assets/toapt_04.png)
+![projektaktivitet med förfallodatum](assets/toapt_04.png)
 
-## [!UICONTROL Ignorera användartid för aktivitetsvaraktighet]
+## [!UICONTROL Ignorera användartid för aktivitetsvaraktigheter]
 
 Med det här alternativet behålls de planerade datumen för aktiviteten som de ursprungligen var planerade, även om den primära tilldelande har en ledig tid under aktivitetens varaktighet.
 
-Teammedlemmen har dagar lediga i sin kalender.
+Teammedlemmen har dagar borta markerade i sin kalender.
 
-![fotokalender med avmarkerade datum](assets/toapt_05.png)
+![pto-kalender med inaktiverade datum](assets/toapt_05.png)
 
 Projektledaren tilldelar dem en uppgift som överlappar ledigt. När användaren har tilldelats förblir de planerade aktivitetsdatumen som de ursprungligen var planerade.
 
@@ -60,20 +60,20 @@ Så här ändrar du inställningen för användartid av i ett projekt:
 
 * Öppna projektet genom att klicka på dess namn i Workfront.
 
-* Välj [!UICONTROL Redigera] från menyn med tre punkter i sidhuvudet till höger om projektnamnet.
+* Välj [!UICONTROL Redigera] på menyn med tre punkter i sidhuvudet till höger om projektnamnet.
 
-* Bläddra till [!UICONTROL Projektinställningar] -avsnittet och hitta [!UICONTROL Användningstid av] fält.
+* Bläddra till avsnittet [!UICONTROL Projektinställningar] och hitta fältet [!UICONTROL Användartid av].
 
-* Välj det alternativ du vill använda för det här projektet - [!UICONTROL Överväg användarens ledig tid i aktivitetsvaraktigheter] eller I[!UICONTROL ignorera användarens aktivitetsvaraktighet].
+* Välj det alternativ som du vill använda för det här projektet: [!UICONTROL Överväg användarens tid i aktivitetsvaraktigheter] eller I[!UICONTROL Ignorera användarens tid i aktivitetsvaraktigheter].
 
-* Klicka på [!UICONTROL Spara] i fönstrets övre högra hörn.
+* Klicka på knappen [!UICONTROL Spara] i fönstrets övre högra hörn.
 
-![Överväg användarens ledig tid i aktivitetsvaraktigheter](assets/toapt_07.png)
+![Överväg att lägga till användarens tid i varaktigheter för aktiviteter](assets/toapt_07.png)
 
 
-**Anteckning**: Den här inställningen är inte tillgänglig när du väljer [!UICONTROL Projektinformation] på projektsidans vänstra panelmeny.
+**Obs!**: Den här inställningen är inte tillgänglig om du väljer [!UICONTROL Projektinformation] på projektsidans vänstra panelmeny.
 
-En global inställning för detta finns i projektinställningarna i [!UICONTROL Inställningar] -menyn. Den här inställningen hanteras av systemadministratören. Gruppadministratörer kan eventuellt justera den här inställningen för de grupper som de hanterar.
+En global inställning för detta finns i projektinställningarna på menyn [!UICONTROL Inställningar] . Den här inställningen hanteras av systemadministratören. Gruppadministratörer kan eventuellt justera den här inställningen för de grupper som de hanterar.
 
 Workfront rekommenderar att inställningen är den inställning du vill att de flesta av dina projekt ska hantera time off i organisationen.
 

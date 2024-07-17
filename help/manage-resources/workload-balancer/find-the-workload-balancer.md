@@ -21,15 +21,15 @@ ht-degree: 0%
 
 Att veta vilka resurser som är tillgängliga och hur de ska distribueras kan vara en utmaning för alla. Därför skapade Workfront [!DNL Workload Balancer].
 
-Syftet är att ge er bättre insikt i och hantering av den dagliga och veckovisa arbetsbördan för de personer ni hanterar. Detta hjälper er att göra bättre uppdrag baserat på roll och tillgänglighet i flera projekt.
+Syftet är att ge er bättre insikt i och hantering av den dagliga och veckovisa arbetsbördan för de personer ni hanterar. Detta hjälper er att göra bättre uppdrag, baserat på roll och tillgänglighet, i flera projekt.
 
-![resurser på huvudmenyn](assets/Find_01.png)
+![Resurser på huvudmenyn](assets/Find_01.png)
 
-* Klicka [!UICONTROL Resurser] i [!UICONTROL Huvudmeny].
-* Gå till [!UICONTROL Schemaläggning] i området Resurshantering.
-* Klicka på [!UICONTROL &quot;Utjämning av arbetsbelastning&quot;] som visas.
+* Klicka på [!UICONTROL Resurser] på [!UICONTROL Huvudmenyn].
+* Gå till avsnittet [!UICONTROL Schemaläggning] i området Resurshantering.
+* Klicka på avsnittet [!UICONTROL &quot;Utjämning av arbetsbelastning&quot;] som visas.
 
-![arbetsbelastningsutjämningssektion](assets/Find_02.png)
+![arbetsbelastningsutjämningsavsnitt](assets/Find_02.png)
 
 ## Områden i arbetsbelastningsutjämnaren
 

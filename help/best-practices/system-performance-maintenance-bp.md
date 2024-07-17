@@ -8,7 +8,7 @@ jira: KT-10927
 exl-id: c3f32975-96f4-4e62-8c3a-5b985b45bbbf
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '636'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -63,7 +63,7 @@ Granska versionsinformationen före releasedatum.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Versionsinformationen talar om vilka nya funktioner och verktyg som kommer till Workfront. Genom att granska anteckningarna och gå runt med de nya funktionerna i förhandsgranskningssandlådan får du möjlighet att lära dig mer om, öva med och lösa eventuella buggar med nya förbättringar innan de släpps till produktion.
 
@@ -76,7 +76,7 @@ Skapa olika typer av undantagsrapporter som markerar saknade eller felaktiga dat
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Rapporterna innehåller information om vilka användare som ska inaktiveras, vilka projekt som ska slutföras i procent av 100 % men som inte markerats som fullständiga, vilka mallar som aldrig har använts osv.
 
@@ -97,6 +97,6 @@ Håll projekten korta.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Varje gång du sparar ett projekt, eller en uppgift i projektet, körs en tidslinjeberäkning som uppdaterar alla beroenden. Beroende på antalet uppgifter i projektet kan omberäkningen ta lång tid att köra.

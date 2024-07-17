@@ -11,7 +11,7 @@ jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -24,25 +24,25 @@ ht-degree: 0%
 
 * [!UICONTROL Felrapport]
 * [!UICONTROL Ändra ordning]
-* [!UICONTROL Problem]
+* [!UICONTROL Utgåva]
 * [!UICONTROL Begäran]
 
 Vad händer om de befintliga problemtyperna inte matchar organisationens behov av problemhantering? Eller så använder din organisation en annan terminologi?
 
-Det finns t.ex. ett team som vill spåra projektrisker med hjälp av problem. Som systemadministratör vet du att din organisation inte spårar felrapporter. Så du kan ändra namnet på en oanvänd utgåva, som [!UICONTROL Felrapporter], till projektrisker.
+Det finns t.ex. ett team som vill spåra projektrisker med hjälp av problem. Som systemadministratör vet du att din organisation inte spårar felrapporter. Så du kan ändra namnet på en oanvänd utgåva, som [!UICONTROL Felrapporter], till Projektrisker.
 
 Ärendetyperna har bytt namn på hela systemet, så ändringen gäller alla användare.
 
-1. Klicka **[!UICONTROL Inställningar]** i **[!UICONTROL Huvudmeny]**.
-1. Expandera **[!UICONTROL Projektinställningar]** i den vänstra menypanelen.
+1. Klicka på **[!UICONTROL Konfigurera]** på **[!UICONTROL Huvudmenyn]**.
+1. Expandera avsnittet **[!UICONTROL Projektinställningar]** på den vänstra menypanelen.
 1. Välj **[!UICONTROL Status]**.
-1. Välj **[!UICONTROL Problem]** -fliken.
+1. Välj fliken **[!UICONTROL Problem]**.
 1. Kontrollera att menyn i det övre högra hörnet är inställd på [!UICONTROL Systemstatus].
 1. Håll markören bredvid en problemtyp högst upp i listan. Klicka på pennikonen för att aktivera fältredigering.
 1. Byt namn på problemtypen.
 1. Klicka utanför fältet som du vill spara.
 
-![[!UICONTROL Problem] -fliken i [!UICONTROL Status] sida in [!UICONTROL Inställningar]](assets/admin-fund-issue-types.png)
+![[!UICONTROL Problem] på fliken [!UICONTROL Status] på sidan [!UICONTROL Inställningar]](assets/admin-fund-issue-types.png)
 
 >[!NOTE]
 >
@@ -56,15 +56,15 @@ Customize default issue types
 ## Ändra termen&quot;problem&quot; i Workfront
 
 Vissa organisationer använder en annan term än&quot;issue&quot; för att hänvisa till oplanerade arbetsuppgifter. Problemet är standardtermen och visas i alla program - menyer, rapporter, fältnamn osv.
-Workfront-administratörer kan använda layoutmallsfunktionen för att byta namn på problemobjektet så att det matchar organisationens terminologi. Den nya termen visas sedan [!DNL Workfront] för dem som är tilldelade layoutmallen.
+Workfront-administratörer kan använda layoutmallsfunktionen för att byta namn på problemobjektet så att det matchar organisationens terminologi. Den nya termen visas sedan i hela [!DNL Workfront] för dem som är tilldelade layoutmallen.
 
-![[!UICONTROL Terminologi] fönster med [!UICONTROL Problem] markerad](assets/admin-fund-issue-custom-terminology.png)
+![[!UICONTROL Terminologi] fönster med [!UICONTROL Problem] markerat](assets/admin-fund-issue-custom-terminology.png)
 
 <!---
 paragraph below needs a hyperlink
 --->
 
-Lär dig hur system- och gruppadministratörer kan skapa layoutmallar på inlärningsvägen, Grundläggande om administratörer i den nya [!DNL Workfront] upplevelse: Del 3 Kontroll- och gränssnittsupplevelse.
+Lär dig hur system- och gruppadministratörer kan skapa layoutmallar i utbildningsvägen, Grundläggande om administratörer i den nya [!DNL Workfront]-upplevelsen: Del 3 Kontroll- och gränssnittsupplevelse.
 
 <!---
 learn more URLs

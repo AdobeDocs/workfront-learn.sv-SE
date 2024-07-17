@@ -8,7 +8,7 @@ jira: KT-10912
 exl-id: 1975b52d-f3db-4800-a6e7-72faeb8916b7
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -51,7 +51,7 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Använd namnkonventioner för jobbroller som används i hela organisationen.
 
-**Här är varför**
+**Det här är varför**
 
 Jobbroller är globala. Om du vill differentiera och hantera jobbroller med samma namn i olika grupper inom organisationen är namnkonventioner den bästa metoden. Använd en namngivningskonvention som passar dina behov, men kom ihåg att göra det enkelt.
 
@@ -62,7 +62,7 @@ Jobbroller är globala. Om du vill differentiera och hantera jobbroller med samm
 
 Tilldela uppgifter till jobbroller när du skapar projektmallar.
 
-**Här är varför**
+**Det här är varför**
 
 När enskilda användare tilldelas till uppgifter i projektmallar kan detta orsaka personalproblem när en användare flyttar roller eller lämnar organisationen. Detta gör att det tar längre tid att underhålla mallen och projektet.
 
@@ -75,9 +75,9 @@ Genom att ha jobbroller tilldelade till uppgifter kan du dessutom förutse dina 
 
 Skapa inte jobbroller efter jobbtitlar.
 
-**Här är varför**
+**Det här är varför**
 
-Jobbroller representerar den kompetensuppsättning en användare har för att slutföra en uppgift. Jobbtitlar återspeglar inte alltid användarens skicklighet eller typ av arbete de utför.
+Jobbroller representerar den kompetensuppsättning som en användare har för att slutföra en uppgift. Jobbtitlar återspeglar inte alltid användarens skicklighet eller typ av arbete de utför.
 
 </br>
 </br>
@@ -86,9 +86,9 @@ Jobbroller representerar den kompetensuppsättning en användare har för att sl
 
 När du skapar jobbroller ska du se till att de inte är för detaljerade.
 
-**Här är varför**
+**Det här är varför**
 
-Du kan associera en användare med flera jobbroller, men du kanske inte behöver någon jobbroll för varje kunskap som en användare har. Basera jobbrollerna på dina behov för att tilldela uppgifter och den detaljnivå du behöver i resurshanteringsrapporter.
+Du kan associera en användare med flera jobbroller, men du kanske inte behöver någon jobbroll för varje kunskap som en användare har. Basera jobbrollerna på dina behov av att tilldela uppgifter och den detaljnivå du behöver i resurshanteringsrapporter.
 
 </br>
 </br>
@@ -97,7 +97,7 @@ Du kan associera en användare med flera jobbroller, men du kanske inte behöver
 
 Skapa bara liknande jobbroller när en tydlig distinktion behövs.
 
-**Här är varför**
+**Det här är varför**
 
 I de flesta fall finns det inget behov av att flera jobbroller representerar samma kompetensuppsättning. Du behöver dock flera roller om:
 

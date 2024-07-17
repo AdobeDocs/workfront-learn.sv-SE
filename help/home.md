@@ -28,9 +28,9 @@ See other user landing pages to get ideas.
 
 Upptäck de senaste uppdateringarna av självstudiekurserna för varje produktrelease från Workfront. Det här är vad som uppdaterades i den senaste versionen:
 
-* Favoriter och ikon för senaste har delats upp i den övre navigeringen i Workfront. I <a href="/help/manage-work/projects/find-projects.md">Hitta projekt</a> självstudiekurs.
+* Favoriter och ikon för senaste har delats upp i den övre navigeringen i Workfront. En kort sammanfattning av alla finns i självstudiekursen <a href="/help/manage-work/projects/find-projects.md">Hitta projekt</a>.
 
-* Konfigurera ett anpassat formulär så att det fungerar med flera objekttyper. Se hur i <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">skapa och dela ett eget formulär</a> självstudiekurs.
+* Konfigurera ett anpassat formulär så att det fungerar med flera objekttyper. Se hur du gör i självstudiekursen <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">Skapa och dela ett anpassat formulär</a>.
 
 </div>
 
@@ -66,7 +66,7 @@ Upptäck de senaste uppdateringarna av självstudiekurserna för varje produktre
          <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Gör en förfrågan</strong></a>
       </div>
       <p>
-         <em>Lär dig hur du gör, visar och redigerar begäranden.</em>
+         <em>Lär dig hur du skapar, visar och redigerar begäranden.</em>
       </p>
 
 <td>

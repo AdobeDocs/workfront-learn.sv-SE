@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -43,6 +43,6 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Aktivera Workfront färdiga dokumentintegreringar om du använder dokumentlagringssystem från tredje part.
 
-**Här är varför**
+**Det här är varför**
 
 Med Workfront molnbaserade dokumentintegreringar kan du länka filer till Workfront-objekt. Det innebär att du inte behöver exportera en kopia av ett dokument och överföra det till Workfront, vilket resulterar i att flera versioner av en fil flyter runt.

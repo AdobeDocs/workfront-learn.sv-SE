@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -34,7 +34,7 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 * Rita ett eget formulär - på ett whiteboard eller på ett papper - innan du skapar det i Adobe Workfront.
 
-* Koppla anpassade formulär till en projektmall om de projekt som skapas med den mallen alltid behöver särskilda anpassade formulär. Du kan till och med fylla i fält som sällan ändras eller som kräver specifik information.
+* Koppla anpassade formulär till en projektmall om de projekt som skapas med den mallen alltid behöver särskilda anpassade formulär. Du kan även fylla i fält som sällan ändras eller som kräver specifik information.
 
 * Skapa ett anpassat formulär för att spåra information om externa kunder eller leverantörer som du har lagt till i ditt Workfront-system som företag.
 
@@ -77,7 +77,7 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Rita ett eget formulär - på ett whiteboard eller på ett papper - innan du skapar det i Adobe Workfront.
 
-**Här är varför**
+**Det här är varför**
 
 Se till att du har fält för all nödvändig information och att fälten är ordnade på ett sätt som gör det enkelt för användarna att fylla i formuläret. Genom att diagramma formuläret kan du också avgöra om vissa fält kan döljas eller visas med hjälp av visningslogik.
 
@@ -86,9 +86,9 @@ Se till att du har fält för all nödvändig information och att fälten är or
 
 **Bästa praxis**
 
-Koppla anpassade formulär till en projektmall om de projekt som skapas med den mallen alltid behöver särskilda anpassade formulär. Du kan till och med fylla i fält som sällan ändras eller som kräver specifik information.
+Koppla anpassade formulär till en projektmall om de projekt som skapas med den mallen alltid behöver särskilda anpassade formulär. Du kan även fylla i fält som sällan ändras eller som kräver specifik information.
 
-**Här är varför**
+**Det här är varför**
 
 På så sätt är formuläret redan bifogat och en del av informationen är redan ifylld, vilket gör att det går snabbare att skapa projekt och säkerställer att dessa anpassade fält fylls i korrekt och fullständigt i alla tillämpliga projekt.
 
@@ -99,9 +99,9 @@ På så sätt är formuläret redan bifogat och en del av informationen är reda
 
 Skapa ett anpassat formulär för att spåra information om externa kunder eller leverantörer som du har lagt till i ditt Workfront-system som företag.
 
-**Här är varför**
+**Det här är varför**
 
-Använd det anpassade formuläret för att spåra adressen, namnet på den primära kontakten osv. så att det är lätt att komma åt inifrån Workfront. Man kan också lägga in denna blankettinformation i rapporter.
+Använd det anpassade formuläret för att spåra adressen, namnet på den primära kontakten osv. så att det är enkelt att komma åt det inifrån Workfront. Man kan också lägga in denna blankettinformation i rapporter.
 
 </br>
 </br>
@@ -110,7 +110,7 @@ Använd det anpassade formuläret för att spåra adressen, namnet på den prim�
 
 Skapa ett enda anpassat&quot;allmänt&quot; eller&quot;universellt&quot; formulär som innehåller gemensamma fält och beräkningsfält, i stället för att knyta de enskilda fälten till flera formulär. På så sätt kan ni samla in företagsövergripande information på ett konsekvent sätt.
 
-**Här är varför**
+**Det här är varför**
 
 Ett&quot;allmänt&quot; formulär gör det enklare att underhålla fälten eftersom de alla finns på ett och samma ställe. Du kan uppdatera ett enstaka formulär istället för att låta dessa fält finnas i flera olika formulär, som sedan måste uppdateras individuellt.
 
@@ -121,7 +121,7 @@ Ett&quot;allmänt&quot; formulär gör det enklare att underhålla fälten efter
 
 Lägg till avsnittsbrytningar i ett anpassat formulär så att det är ordnat och enkelt att förstå.
 
-**Här är varför**
+**Det här är varför**
 
 Genom att gruppera relaterad information i avsnitt kan användarna navigera i formuläret.
 
@@ -132,7 +132,7 @@ Genom att gruppera relaterad information i avsnitt kan användarna navigera i fo
 
 Håll de anpassade formulären kortare för att säkerställa att formuläret är fullständigt ifyllt och att du får all information du behöver.
 
-**Här är varför**
+**Det här är varför**
 
 Långa formulär kan vara skrämmande för användarna och ofta leda till att formuläret inte fylls i fullständigt. Detta resulterar i sin tur i ofullständig uppdragsinformation och felaktiga data för rapportering.
 
@@ -145,7 +145,7 @@ Om ett anpassat formulär har många fält placerar du relaterade fält sida vid
 
 Använd fördefinierade alternativ för anpassade fält, t.ex. alternativknappar och listrutor, för att begränsa svarsalternativen genom att kräva att användarna väljer mellan specifika alternativ.
 
-**Här är varför**
+**Det här är varför**
 
 Med ett fördefinierat fält klickar man bara på en ruta eller väljer en meny och ser till att alla svar på frågan är identiska.
 
@@ -158,7 +158,7 @@ Enhetliga och korrekta data är avgörande för en korrekt rapportering. Inkonse
 
 Se till att fältetiketterna är tydligt skrivna och beskrivande.
 
-**Här är varför**
+**Det här är varför**
 
 På så sätt förstår den som fyller i det anpassade formuläret vilken information som efterfrågas.
 
@@ -169,7 +169,7 @@ På så sätt förstår den som fyller i det anpassade formuläret vilken inform
 
 Lägg till information i fältet Instruktioner i anpassade fält för att ange vilken information personen som fyller i fältet måste ange.
 
-**Här är varför**
+**Det här är varför**
 
 Den här informationen visas som ett popup-fönster när du hovrar över ? Ikon bredvid ett fält i ett anpassat formulär. Inkludera vilka data som ska anges i fältet, inklusive eventuell nödvändig formatering för textfält.
 
@@ -182,7 +182,7 @@ Genom att ge användaren mer information kan du minska antalet ytterligare konve
 
 Använd visningslogik för att visa nödvändiga fält när ett annat fält fylls i på ett visst sätt. Använd hopplogik i anpassade formulär för att dölja fält som inte är relaterade till typen av begäran.
 
-**Här är varför**
+**Det här är varför**
 
 Om du bara visar de fält som behövs, eller döljer fält som inte är det, skapas ett renare, anpassat formulär och användarna blir mindre förvirrade när de fyller i anpassade formulär. Detta bidrar också till ett generellt kortare formulär, som är mindre skrämmande för användare och främjar en högre svarsfrekvens.
 
@@ -195,9 +195,9 @@ Med hjälp av visningslogik kan du också minska antalet anpassade formulär som
 
 Minska antalet beräkningar som krävs i ett anpassat formulär genom att dra den beräknade informationen från ett annat formulär.
 
-**Här är varför**
+**Det här är varför**
 
-Du har till exempel ett beräkningsfält med namnet&quot;Antal tillgångar&quot; i ett utleveransformulär som beräknar antalet tillgångar som är kopplade till artikeln. Detta används i en begärandekö. Du behöver den här informationen för att överföra den till projektet när begäran konverteras. Skapa en kopia av utgivningsformuläret och spara det som ett projektformulär. Lägg sedan till namnet på det beräknade fältet för utleverans i projektformulärets beräkningsruta. I det här exemplet anger projektformulärets beräkningsfält&quot;Antal resurser&quot; bokstavligen&quot;Antal resurser&quot;. Detta förhindrar att Workfront försöker köra beräkningen på nytt i projektet och använder istället värdet från det anpassade formuläret.
+Du har t.ex. ett beräkningsfält med namnet&quot;Antal Assets&quot; i ett utleveransformulär som beräknar antalet tillgångar som är kopplade till artikeln. Detta används i en begärandekö. Du behöver den här informationen för att överföra den till projektet när begäran konverteras. Skapa en kopia av utgivningsformuläret och spara det som ett projektformulär. Lägg sedan till namnet på det beräknade fältet för utleverans i projektformulärets beräkningsruta. I det här exemplet anger projektformulärets beräkningsfält&quot;Antal Assets&quot; bokstavligen&quot;Antal Assets&quot;. Detta förhindrar Workfront från att försöka köra beräkningen på nytt i projektet och använder istället värdet från det anpassade formuläret.
 
 </br>
 </br>
@@ -206,7 +206,7 @@ Du har till exempel ett beräkningsfält med namnet&quot;Antal tillgångar&quot;
 
 Använd befintliga fält från fältbiblioteket som har samma syfte, när det är tillämpligt.
 
-**Här är varför**
+**Det här är varför**
 
 Två fält i Workfront kan inte ha samma namn. Om fältet har ett gemensamt namn finns det en risk att fältet redan finns. Kontrollera fältbiblioteket innan du skapar nya fält för att se om fältet redan finns.
 
@@ -219,9 +219,9 @@ När du använder fält som du inte har skapat måste du komma ihåg att ändrin
 
 Använd obligatoriska fält för att säkerställa att information som är viktig för din process eller organisation hämtas.
 
-**Här är varför**
+**Det här är varför**
 
-Ofullständiga data i ett anpassat formulär kan fördröja arbetet och påverka rapporteringen. Den obligatoriska fältindikatorn (en röd * bredvid fältnamnet) påminner användaren om att specifik information krävs innan du redigerar och sedan sparar det anpassade formuläret eller officiellt skickar en begäran.
+Ofullständiga data i anpassade formulär kan fördröja arbetet och påverka rapporteringen. Den obligatoriska fältindikatorn (en röd * bredvid fältnamnet) påminner användaren om att specifik information krävs innan du redigerar och sedan sparar det anpassade formuläret eller officiellt skickar en begäran.
 
 Obligatoriska fält bör dock användas sparsamt och försiktigt. Att ha alla fält som behövs kan hindra användare från att fylla i fälten med användbar och fullständig information. När du redigerar ett anpassat formulär i området Detaljer kan ett ofullständigt obligatoriskt fält förhindra att ett anpassat formulär sparas.
 
@@ -232,7 +232,7 @@ Obligatoriska fält bör dock användas sparsamt och försiktigt. Att ha alla f�
 
 Var försiktig när du ändrar fältnamn i ett anpassat formulär, eftersom detta kan påverka beräkningsfält som anropar det fältet.
 
-**Här är varför**
+**Det här är varför**
 
 När du ändrar namnet på ett fält måste namnet uppdateras där det används i ett beräknat anpassat fält i ett anpassat formulär eller i en beräkning som är inbyggd i textläge. Om du ändrar ett fältnamn kan du knäcka beräkningar och få felaktig information.
 
@@ -243,7 +243,7 @@ När du ändrar namnet på ett fält måste namnet uppdateras där det används 
 
 Granska anpassade formulär och fält regelbundet - t.ex. en gång per kvartal - som en del av ditt vanliga systemunderhåll av Workfront.
 
-**Här är varför**
+**Det här är varför**
 
 Anpassade formulär och fält är inte användbara om de inte samlar in de data som organisationen behöver för att få jobbet gjort.
 
@@ -260,7 +260,7 @@ Läs mer om hur du inaktiverar och tar bort anpassade formulär och anpassade f�
 
 Inaktivera anpassade formulär som inte behövs i stället för att ta bort dem.
 
-**Här är varför**
+**Det här är varför**
 
 När du tar bort ett anpassat formulär tar du bort alla anpassade data som har angetts via det anpassade formuläret.
 När du inaktiverar ett anpassat formulär behålls alla associerade historiska data. Det innebär att du kan fortsätta att rapportera om den här informationen.
@@ -274,7 +274,7 @@ Om du inaktiverar det går det inte heller att visa formuläret i listrutor där
 
 Dölj anpassade fält som inte längre behövs i ett anpassat formulär under en avsnittsbrytning. Gör sedan avsnittet synligt endast för systemadministratörer.
 
-**Här är varför**
+**Det här är varför**
 
 När du tar bort ett befintligt anpassat fält tas det inte bara bort från ett anpassat formulär, utan alla data i det fältet tas också bort när det anpassade fältet används. Detta innebär att historiska data, som kan behövas för rapporter, tas bort.
 
@@ -288,7 +288,7 @@ Om du vill förhindra dataförlust döljer du det onödiga fältet i det anpassa
 Begränsa vilka som får skapa egna formulär i Workfront.
 
 
-**Här är varför**
+**Det här är varför**
 
 Genom att ha en utvald grupp personer som kan skapa anpassade formulär kan du styra antalet anpassade formulär som skapas i din Workfront-instans.
 

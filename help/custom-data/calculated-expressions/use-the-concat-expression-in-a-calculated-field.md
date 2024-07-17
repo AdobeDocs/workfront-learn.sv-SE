@@ -23,6 +23,6 @@ ht-degree: 0%
 I den här videon lär du dig:
 
 * Vad CONCAT-uttrycket gör
-* Skapa ett CONCAT-textuttryck i ett beräkningsfält
+* Så här skapar du ett CONCAT-textuttryck i ett beräkningsfält
 
 >[!VIDEO](https://video.tv.adobe.com/v/335178/?quality=12&learn=on)

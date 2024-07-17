@@ -15,7 +15,7 @@ feature-set: Workfront
 topic: Integrations
 source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -33,13 +33,13 @@ Integrera Workfront med Creative Cloud för att hitta och uppdatera materialet d
 
 Du måste installera rätt plugin-program för det Adobe Creative Cloud-program du använder:
 
-* För Photoshop, se [Installera och öppna Adobe Workfront för Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
-* XD finns på [Installera och öppna Adobe Workfront för XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
-* För InDesign, Illustrator, Premiere Pro och After Effects, se [Installera och öppna Adobe Workfront för design och video](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
+* För Photoshop, se [Installera och öppna Adobe Workfront för Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
+* XD finns i [Installera och öppna Adobe Workfront för XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
+* Mer InDesign, Illustrator, Premiere Pro och After Effects finns i [Installera och öppna Adobe Workfront för design och video](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
 
 >[!NOTE]
 >
->**Premiere Pro** och **After Effects** för närvarande går det inte att ladda upp video, granska och godkänna i Workfront via plugin-programmet.
+>**Premiere Pro** och **After Effects** - videouppladdning samt granskning och godkännande i Workfront är för närvarande inte tillgängliga via plugin-programmet.
 
 
 I den här videon får du lära dig att göra följande inifrån ditt Creative Cloud-program:

@@ -25,7 +25,7 @@ Om du arbetar med en mall och behöver skapa ett projekt med den mallen klickar 
 
 I informationsfönstret kan du ändra inställningarna för det nya projektet.
 
-![Sidan Projekt skapas](assets/direct-template-02.png)
+![Sidan Skapa projekt](assets/direct-template-02.png)
 
 >[!NOTE]
 >

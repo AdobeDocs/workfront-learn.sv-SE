@@ -26,10 +26,10 @@ ht-degree: 0%
 Du kan redigera information i ett anpassat formulär när formuläret har kopplats till ett objekt.
 
 1. Navigera till objektet som du vill redigera information om det anpassade formuläret för.
-1. Klicka [Objekttyp] **[!UICONTROL Detaljer]** i den vänstra panelen.
+1. Klicka på [Objekttyp] **[!UICONTROL Detaljer]** i den vänstra panelen.
 1. Expandera det anpassade formuläret genom att klicka på pilen bredvid namnet.
-1. Klicka på ett enskilt fält i det anpassade formuläret för att gå till redigeringsläge i det fältet. Du kan också klicka på [!UICONTROL Redigera] i det övre högra hörnet om du vill redigera alla anpassade formulär eller redigera avsnitt i de anpassade formulären.
+1. Klicka på ett enskilt fält i det anpassade formuläret för att gå till redigeringsläge i det fältet. Du kan också klicka på ikonen [!UICONTROL Redigera] i det övre högra hörnet om du vill redigera alla anpassade formulär eller redigera avsnitt i de anpassade formulären.
 1. Typinformation i ett enda anpassat fält, även om obligatoriska fält i andra anpassade formulär för objektet ännu inte är ifyllda.
-1. Klicka **[!UICONTROL Spara ändringar]**.
+1. Klicka på **[!UICONTROL Spara ändringar]**.
 
-![Fönstret Uppgiftsinformation som visar ett anpassat formulär som redigeras](assets/custom-forms-edit-a-custom-form.jpg)
+![Fönstret Uppgiftsinformation visar ett anpassat formulär som redigeras](assets/custom-forms-edit-a-custom-form.jpg)

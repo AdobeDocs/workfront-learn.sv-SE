@@ -26,7 +26,7 @@ Många organisationer bestämmer sig för att köpa en resurshanteringsprogramva
 
 Så hur tar du bort tråkigheten i resursen för att få klarhet om resurskapaciteten?
 
-Det första som kommer att bli verklighet är att dina resursproblem inte kommer att lösas över en natt eller på en månad. Att lära sig förstå och sedan hantera resurser är en skicklighet som tar tid och kraft att överordnad.
+Det första som kommer att bli verklighet är att dina resursproblem inte kommer att lösas över en natt eller på en månad. Att lära sig förstå och sedan hantera resurser är en skicklighet som tar tid och kraft att bemästra.
 
 Vissa av er kanske är längre på vägen till behärskning av resurshantering än ni tror. Ta en titt på varje steg i Resource Maturity Model och se om du känner igen din organisation i någon av dem.
 
@@ -39,7 +39,7 @@ Vissa av er kanske är längre på vägen till behärskning av resurshantering �
 
 Såg du din organisation i en av de här faserna? Om du gjorde det, bra. Därifrån kan ni börja planera resten av resurshanteringsresan.
 
-&lt;!Along with this learning path, you’ll find a guide, Resource maturity growth, that presents ideas on how to progress from one resource management stage to another.&gt;
+&lt;!Tillsammans med den här inlärningsvägen hittar du en guide, mognadstillväxt för resurser, med idéer om hur man går från en resurshanteringsfas till en annan.&gt;
 
 Om du inte gjorde det, inga bekymmer. Även med de här definitionerna kan det vara svårt att bestämma exakt var du är.
 
@@ -49,6 +49,6 @@ Ta en ärlig titt på och diskutera var ni befinner er i era resurshanteringspro
 * Vem spårar kapacitet?
 * Är våra personalresurser organiserade och, om så är fallet, hur?
 * Finns det en eller flera personer som delar upp resurser i prioriterat arbete?
-* Hur prioriterar man det arbetet?
+* Hur prioriteras det arbetet?
 
 Ta del av svaren och se hur långt organisationen har kommit i fråga om resurser. Detta ger er en plats att börja med när ni tänker på hur resurshanteringen ska fungera för er organisation.

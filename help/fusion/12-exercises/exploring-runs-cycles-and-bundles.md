@@ -33,7 +33,7 @@ Använd olika scenariokonfigurationer för att utforska körningar och cykler.
 1. Klona scenariot med namnet&quot;Dela variabler mellan routningssökvägar&quot;. Ge det nya scenariot namnet&quot;Dela variabler mellan routningssökvägar - Cycles test&quot;.
 1. Ta bort modulen Skicka ett e-postmeddelande eftersom den inte behövs för testet.
 
-   **Ställ in ditt scenario så att 3 cykler bearbetas per körning. Bearbeta 5 projekt i varje cykel.**
+   **Konfigurera ditt scenario så att 3 cykler bearbetas per körning. Bearbeta 5 projekt i varje cykel.**
 
 1. Klicka på utlösarmodulen och ändra fältet Maximal till 5, så att endast 5 projekt bearbetas i varje cykel.
 1. I sökvillkoren tar du bort det andra filtret som begränsar sökningen till ett enda projekt.

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Bifoga påminnelsemeddelanden till arbetsobjekt
 
-Händelse- och prenumerationsmeddelanden är inte den enda typ av meddelanden som du kan få via Workfront. Påminnelsemeddelanden kan bifogas till specifika projekt, uppgifter, utgåvor och/eller tidrapporter för att tala om när något förfaller eller har förfallit.
+Händelse- och prenumerationsmeddelanden är inte den enda typ av meddelanden som du kan ta emot via Workfront. Påminnelsemeddelanden kan bifogas till specifika projekt, uppgifter, utgåvor och/eller tidrapporter för att tala om när något förfaller eller har förfallit.
 
 Påminnelsemeddelanden skapas från början av systemadministratörer men bifogas till specifika arbetsobjekt vid behov.
 
@@ -30,7 +30,7 @@ Dessa meddelanden används som ett sätt att fortsätta arbeta framåt och smidi
 
 När påminnelsen har skapats och är tillgänglig för användning, måste den bifogas till det objekt som du vill att påminnelsen ska skickas om.
 
-![[!UICONTROL Påminnelsemeddelande] i [!UICONTROL Redigera uppgift] window](assets/admin-fund-user-notifications-17.png)
+![[!UICONTROL Påminnelsemeddelande] i fönstret [!UICONTROL Redigera uppgift]](assets/admin-fund-user-notifications-17.png)
 
 >[!TIP]
 >

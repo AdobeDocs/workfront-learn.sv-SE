@@ -1,6 +1,6 @@
 ---
 title: Överföra ett videoklipp
-description: Lär dig hur du överför en video för korrektur i [!DNL  Workfront].
+description: Lär dig hur du överför en video för korrektur i  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -12,14 +12,14 @@ jira: KT-10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
 # Överföra ett videoklipp
 
-[!DNL Workfront’s] korrekturfunktioner är inte bara för statiska filer som PDF, kalkylblad och bilder. [!DNL Workfront] har stöd för över 150 filtyper, inklusive video- och webbhämtningar som är upp till 4 GB.
+[!DNL Workfront’s] korrekturfunktioner är inte bara för statiska filer som PDF, kalkylblad eller bilder. [!DNL Workfront] stöder fler än 150 filtyper, inklusive video- och webbhämtningar som är upp till 4 GB stora.
 
 Kom ihåg att det tar längre tid att överföra större filer. Kontrollera att din internetanslutning är stabil innan du påbörjar en stor överföring, eftersom ett avbrott kan avsluta överföringsprocessen.
 
@@ -31,15 +31,15 @@ Bland de videotyper som stöds finns MOV, MP4 och H.264. <!-- Check the supporte
 
 ![En bild av en markering i en videokorrekturfil.](assets/upload-a-proof-of-a-video.png)
 
-Överföra en video i [!DNL Workfront] följer samma steg som när du överför en statisk fil.
+När du överför en video i [!DNL Workfront] följer du samma steg som när du överför en statisk fil.
 
 * Öppna projektet, aktiviteten eller utgåvan som videon ska överföras till.
-* Välj [!UICONTROL **Dokument**] från den vänstra panelmenyn.
-* Från [!UICONTROL **Lägg till ny**] knapp, markera [!UICONTROL **Korrektur**].
+* Välj [!UICONTROL **Dokument**] på den vänstra panelmenyn.
+* Välj [!UICONTROL **Korrektur**] från knappen [!UICONTROL **Lägg till nytt**].
 * Dra och släpp videofilen till överföringsområdet eller använd bläddringsfunktionen.
 * Tilldela ett grundläggande eller automatiserat arbetsflöde.
 * Ange en deadline.
-* Klicka [!UICONTROL **Skapa korrektur**] till slut.
+* Klicka på [!UICONTROL **Skapa korrektur**] för att slutföra.
 
 ## Din tur
 

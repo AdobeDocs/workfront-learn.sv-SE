@@ -1,6 +1,6 @@
 ---
 title: Redigera ett korrekturarbetsflöde
-description: Lär dig hur du uppdaterar en korrekturdeadline, lägger till användare i ett befintligt arbetsflöde och byter ett befintligt arbetsflöde till ett automatiserat arbetsflöde i [!DNL  Workfront].
+description: Lär dig hur du uppdaterar en korrekturdeadline, lägger till användare i ett befintligt arbetsflöde och växlar ett befintligt arbetsflöde till ett automatiskt arbetsflöde i  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -34,7 +34,7 @@ I den här videon får du lära dig att:
 >
 >Glöm inte att påminna medarbetare som har tilldelats ett korrekturarbetsflöde om att du arbetar med korrektur som en del av din Workfront-utbildning.
 
-1. Hitta ett bevis som du har överfört till Workfront. Använd fönstret Korrektur för att göra följande: skicka ut deadline med en dag och ändra en granskare till en granskare och godkännare.
+1. Hitta ett bevis som du har överfört till Workfront. Använd fönstret Korrektur för arbetsflöde för att göra följande: skicka ut tidsgränsen en dag och ändra en granskare till en granskare och godkännare.
 1. Kontrollera att korrekturet har ett automatiskt arbetsflöde tilldelat och lägg sedan till en mall i korrekturet.
 
 

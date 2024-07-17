@@ -30,36 +30,36 @@ I den här videon får du lära dig:
 
 ## Skapa team
 
-Team kan också skapas och inställningar upprättas via [!UICONTROL Team] område på [!DNL Workfront].
+Team kan också skapas och inställningar upprättas via [!UICONTROL Teams] i [!DNL Workfront].
 
-1. Välj **[!UICONTROL Team]** från **[!UICONTROL Huvudmeny]**.
+1. Välj **[!UICONTROL Team]** på **[!UICONTROL Huvudmenyn]**.
 1. Välj **[!UICONTROL Skapa team]**.
 1. Ge teamet ett namn.
 1. Ange om teamet är ett Agile-team genom att aktivera växlingsknappen.
-1. Associera teamet med en [!DNL Workfront] grupp, om så önskas.
+1. Associera teamet med en [!DNL Workfront]-grupp, om du vill.
 1. Lägg till teammedlemmarna.
-1. Klicka **[!UICONTROL Skapa]**.
+1. Klicka på **[!UICONTROL Skapa]**.
 
-![Gruppmeny på [!UICONTROL Team] page](assets/admin-fund-create-team.png)
+![Team-menyn på sidan [!UICONTROL Teams]](assets/admin-fund-create-team.png)
 
-När teamet har skapats redigerar du inställningarna genom att välja teamet i listan och klicka på [!UICONTROL Teaminställningar] till höger i fönstret.
+När teamet har skapats redigerar du inställningarna genom att markera teamet i listan och klicka på [!UICONTROL Teaminställningar] till höger i fönstret.
 
-Justera inställningarna, till exempel för att tilldela en layoutmall, eller lägg till fler teammedlemmar. Dessutom kan du anpassa [!UICONTROL Arbeta på den] och knappen Klar som teamet kommer att se om sina uppgifter och utfärda arbetsuppgifter.
+Justera inställningarna, till exempel för att tilldela en layoutmall, eller lägg till fler teammedlemmar. Du kan dessutom anpassa knappen [!UICONTROL Arbeta med ] och knappen Klar som gruppen ska se om sina uppgifter och utfärda arbetstilldelningar.
 
-![[!UICONTROL Redigera team] window](assets/admin-fund-team-settings.png)
+![[!UICONTROL Redigera team] fönster](assets/admin-fund-team-settings.png)
 
-Som standard är [!UICONTROL Arbeta på den] knappar [!DNL Workfront] du arbetar med uppgiften utan att ändra aktivitetens status till Pågår (eller motsvarande status). Att ha [!DNL Workfront] ändrar status automatiskt, ändrar [!UICONTROL Arbeta på den] knapp till [!UICONTROL Starta] -knappen. Markera bara rutan i teaminställningarna.
+Som standard anger knappen [!UICONTROL Arbeta på den] att du ska arbeta med uppgiften utan att ändra aktivitetens status till Pågår (eller motsvarande status). [!DNL Workfront] Om du vill att [!DNL Workfront] automatiskt ska ändra status ändrar du knappen [!UICONTROL Arbeta med ] till en [!UICONTROL Start] -knapp. Markera bara rutan i teaminställningarna.
 
-När [!UICONTROL Starta] när någon klickar på knappen ändras aktivitetens eller problemets status från Nytt, som är markerat i gruppinställningarna. [!DNL Workfront] loggar också ett faktiskt startdatum för uppgiften.
+När du klickar på knappen [!UICONTROL Start] ändras aktivitetens eller ärendets status från Nytt, som är markerat i gruppinställningarna. [!DNL Workfront] loggar också ett faktiskt startdatum för aktiviteten.
 
-![[!UICONTROL Arbeta på den] avsnitt i [!UICONTROL Redigera team] window](assets/admin-fund-start-button-team.png)
+![[!UICONTROL Arbeta med det] i [!UICONTROL Redigera team]-fönstret](assets/admin-fund-start-button-team.png)
 
 Var noga med att spara ändringarna när du är klar.
 
 
 >[!NOTE]
 >
->Du kan även redigera ett teams inställningar i [!UICONTROL Team] i [!UICONTROL Inställningar] sida.
+>Du kan också redigera ett teams inställningar under [!UICONTROL Team] på sidan [!UICONTROL Konfigurera].
 
 <!---
 learn more URLs

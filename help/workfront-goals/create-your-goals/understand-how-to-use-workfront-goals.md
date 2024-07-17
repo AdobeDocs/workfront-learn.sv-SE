@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Workfront Goals] Översikt
+# [!DNL Workfront Goals] - översikt
 
 I den här videon får du lära dig att:
 

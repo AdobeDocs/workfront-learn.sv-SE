@@ -31,7 +31,7 @@ I den här videon får du lära dig att:
 
 ## Aktivitet: Skapa ett projektfilter
 
-Du vill se alla aktiva projekt som du äger, där&quot;aktiv&quot; betyder projektstatus lika med Planering eller Aktuell. I området Projekt skapar du ett projektfilter med namnet&quot;Aktiva projekt jag äger&quot;.
+Du vill se alla aktiva projekt som du äger, där&quot;aktiv&quot; betyder projektstatusen är lika med Planering eller Aktuell. I området Projekt skapar du ett projektfilter med namnet&quot;Aktiva projekt jag äger&quot;.
 
 ## Svar
 

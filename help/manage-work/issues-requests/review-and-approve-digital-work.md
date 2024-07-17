@@ -1,6 +1,6 @@
 ---
 title: Granska och godkänn digitalt arbete
-description: Lär dig att hitta och godkänna projekt, uppgifter, ärenden, dokument och korrektur i [!DNL Workfront Home].
+description: Lär dig att hitta och godkänna projekt, uppgifter, utgåvor, dokument och korrektur i  [!DNL Workfront Home].
 activity: use
 feature: Work Management
 thumbnail: 335108.jpeg
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig att:
 
-* Sök godkännanden i [!DNL Workfront Home]
+* Hitta godkännanden i [!DNL Workfront Home]
 * Godkänna projekt, uppgifter och ärenden
 * Godkänn dokument
 * Godkänn korrektur

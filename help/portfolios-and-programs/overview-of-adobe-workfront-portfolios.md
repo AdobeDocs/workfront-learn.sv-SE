@@ -28,17 +28,17 @@ Att tänka på och planera projekt är inte en särskilt svår uppgift - det är
 
 En portfölj är en samling projekt som är fullständiga för samma resurser, budget, schema och prioritet. En marknadsföringsbyrå kan till exempel använda en portfölj för att gruppera alla projekt för en viss kund.
 
-Navigera till **[!UICONTROL Portfolio]** från [!UICONTROL Huvudmeny]klickar du sedan på ett portföljnamn för att öppna det.
+Navigera till avsnittet **[!UICONTROL Portfolio]** från [!UICONTROL huvudmenyn] och klicka sedan på ett portföljnamn för att öppna det.
 
-Du kan använda **[!UICONTROL Nytt projekt]** för att enkelt lägga till ett befintligt projekt i portföljen. Du kan också skapa ett nytt projekt direkt i portföljen.
+Du kan använda knappen **[!UICONTROL Nytt projekt]** för att enkelt lägga till ett befintligt projekt i portföljen. Du kan också skapa ett nytt projekt direkt i portföljen.
 
-![En bild av den nedrullningsbara menyn för [!UICONTROL Nytt projekt] knapp](assets/01-portfolio-management3.png)
+![En bild av listrutan för knappen [!UICONTROL Nytt projekt]](assets/01-portfolio-management3.png)
 
 När projekten har lagts till i portföljen kan du använda sammanfattningsinformationen i sidhuvudet för att få en högnivåvy över hur den här samlingen av projekt bidrar, antingen positivt eller negativt, till portföljens övergripande mål.
 
 ![En bild av portföljens sammanfattningsinformation i sidhuvudet](assets/02-portfolio-management1.png)
 
-Du kan använda verktyget för portföljoptimering (även [!UICONTROL Portfolio Optimizer]) för att prioritera projekt baserat på nettovärde, justering, kostnad, risk och avkastning.
+Du kan använda portföljoptimeringsverktyget (även [!UICONTROL Portfolio Optimizer]) för att prioritera projekt baserat på nettovärde, justering, kostnad, risk och avkastning.
 
 ![En bild av hur du prioriterar projekt i en portfölj](assets/03-portfolio-management2.png)
 
@@ -50,25 +50,25 @@ När en portfölj skapas har bara portföljskaparen eller portföljförvaltaren 
 
 Öppna portföljen och klicka på menyn med tre punkter och välj sedan **[!UICONTROL Delning]**. Lägg till de personer, team, jobbroller, grupper eller företag som ska ha tillgång till dem. Bestäm sedan vilken typ av åtkomst de ska ha - hantera eller visa.
 
-![En bild av [!UICONTROL Delning] i en [!DNL Workfront] portfolio](assets/04-portfolio-management11.png)
+![En bild av alternativet [!UICONTROL Delning] i en [!DNL Workfront] portfölj ](assets/04-portfolio-management11.png)
 
 ## Skapa en portfölj
 
-Klicka på **[!UICONTROL Portfolio]** på huvudmenyn.
+Om du vill skapa en portfölj klickar du på **[!UICONTROL Portfolio]** på huvudmenyn.
 
 ![En bild av huvudmenyn ](assets/create-portfolio-1.png)
 
-Klicka på **[!UICONTROL New Portfolio]**.
+Klicka på **[!UICONTROL Nytt Portfolio]** i området Portfolio.
 
-![En bild av området Portfolio ](assets/create-portfolio-2.png)
+![En bild av Portfolio ](assets/create-portfolio-2.png)
 
-Namnge portföljen och klicka sedan på **[!UICONTROL Nytt projekt]** för att lägga till ett projekt i portföljen. Du kan skapa ett nytt projekt på flera olika sätt, precis som du kan med **[!UICONTROL Projekt]** område. Alla nya projekt som du skapar härifrån hör till den här portföljen. Du kan också klicka på **[!UICONTROL Befintligt projekt]** om du vill välja befintliga projekt från en lista.
+Namnge portföljen och klicka sedan på **[!UICONTROL Nytt projekt]** för att lägga till ett projekt i portföljen. Du kan skapa ett nytt projekt på flera olika sätt, precis som i området **[!UICONTROL Projekt]** . Alla nya projekt som du skapar härifrån hör till den här portföljen. Du kan också klicka på **[!UICONTROL Befintligt projekt]** om du vill välja befintliga projekt från en lista.
 
 ![En bild av den nya projektmenyn ](assets/create-portfolio-3.png)
 
 ## Skapa ett program i en portfölj
 
-Välj **[!UICONTROL Program]** tabben och klicka sedan på **[!UICONTROL Nytt program]** om du vill skapa ett nytt program i den här portföljen, eller klicka på **[!UICONTROL Befintligt program]** att stjäla befintliga program från andra portföljer.
+Välj fliken **[!UICONTROL Program]** och klicka sedan på **[!UICONTROL Nytt program]** för att skapa ett nytt program i den här portföljen, eller klicka på **[!UICONTROL Befintligt program]** för att stjäla befintliga program från andra portföljer.
 
 ![En bild av den nya programmenyn ](assets/create-portfolio-4.png)
 

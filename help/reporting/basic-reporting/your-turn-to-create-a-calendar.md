@@ -42,7 +42,7 @@ Inkludera en annan kalendergrupp med namnet&quot;Ofullständiga problem&quot; so
 1. Ställ in fältet På kalendern till Endast slutdatum.
 1. Ställ in värdet Nej för fältet Växla till faktiska datum när det är tillgängligt.
 
-   ![En bild av skärmen där objekt läggs till i en kalender](assets/calendar-activity-1.png)
+   ![En bild av skärmen som lägger till objekt i en kalender](assets/calendar-activity-1.png)
 
 1. I avsnittet Vad vill du lägga till i kalendern? väljer du Åtgärder.
 1. Lägg till tre filterregler:
@@ -53,7 +53,7 @@ Inkludera en annan kalendergrupp med namnet&quot;Ofullständiga problem&quot; so
 
 1. Klicka på Spara.
 
-   ![En bild av skärmen där objekt läggs till i en kalender](assets/calendar-activity-2.png)
+   ![En bild av skärmen som lägger till objekt i en kalender](assets/calendar-activity-2.png)
 
 1. Skapa en andra gruppering genom att klicka på Lägg till i kalender.
 1. Klicka på Lägg till avancerade objekt under den här grupperingen.
@@ -71,6 +71,6 @@ Inkludera en annan kalendergrupp med namnet&quot;Ofullständiga problem&quot; so
 
 1. Klicka på Spara.
 
-   ![En bild av skärmen där objekt läggs till i en kalender](assets/calendar-activity-3.png)
+   ![En bild av skärmen som lägger till objekt i en kalender](assets/calendar-activity-3.png)
 
 Eftersom du har använt $$USER.ID i filtren kan du dela den här kalendern med andra och de kan se sina egna ofullständiga uppgifter och problem.

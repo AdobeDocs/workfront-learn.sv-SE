@@ -1,6 +1,6 @@
 ---
 title: Konfigurera en metadatamall
-description: Lär dig hur du sparar tid med metadatamallar, skapar en metadatamall och använder en mall för en mapp i [!UICONTROL WORKFRONT DAM].
+description: Lär dig hur du sparar tid med metadatamallar, konfigurerar en metadatamall och tillämpar en mall på en mapp i [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

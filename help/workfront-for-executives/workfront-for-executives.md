@@ -26,10 +26,10 @@ Läs om hur Workfront kan hjälpa er att hantera arbetet i er organisation.
 
 Som företagsledare kan Adobe Workfront
 
-* Håll dig informerad om hur arbetet fortskrider **rapporter och kontrollpaneler**
-* Ge dig ett enkelt sätt att **kommunicera med projektintressenter med hjälp av uppdateringar**
+* Håll dig informerad om hur arbetet fortskrider genom **rapporter och instrumentpaneler**
+* Ge dig ett enkelt sätt att **kommunicera med projektintressenter med uppdateringar**
 * Ge dig ett enkelt sätt att **göra en arbetsförfrågan**
-* Ge dig ett enkelt sätt att se **objekt som väntar på ditt godkännande**
+* Gör det enkelt att se **objekt som väntar på ditt godkännande**
 
 ## Rapporter och kontrollpaneler
 
@@ -51,7 +51,7 @@ Ledarna kan komma åt de olika instrumentpanelerna som är tillgängliga via den
 
 ![En bild av sidan Kontrollpaneler](assets/workfront-4-executives-2.png)
 
-* **Alla instrumentpaneler**: Visar de kontrollpaneler som du eller andra användare har skapat och som du har behörighet att åtminstone visa.
+* **Alla instrumentpaneler**: Visar de instrumentpaneler som du eller andra användare har skapat och som du har behörighet att åtminstone visa.
 * **Mina instrumentpaneler**: Visar de instrumentpaneler som du har skapat.
 * **Delade instrumentpaneler**: Visar de instrumentpaneler som har skapats av andra användare och delats med dig.
 
@@ -59,7 +59,7 @@ Med en kontrollpanel kan chefer granska saker som&quot;Kostnader, intäkter och 
 
 Rapporterna i Workfront kan bidra till att öka personalens ansvar. Nyckeln till att utnyttja rapporter är att skapa ett tydligt arbetsflöde för hur organisationen använder dem. Se till att alla har en tydlig förståelse för vilka rapporter som används för att mäta framgång.
 
-![Exempel på rapporter på en Dashboard i Workfront ](assets/workfront-4-executives-3.png)
+![Exempel på rapporter i en instrumentpanel i Workfront ](assets/workfront-4-executives-3.png)
 
 Exempel på rapporter på en Dashboard i Workfront
 
@@ -84,7 +84,7 @@ I den här videon får du lära dig att:
 
 ## Objekt som väntar på ditt godkännande
 
-I [!UICONTROL Startsida] kan du enkelt hitta objekt som väntar på ditt godkännande.
+I [!UICONTROL Hem] kan du enkelt hitta objekt som väntar på ditt godkännande.
 
 ![En bild av startsidan](assets/workfront-4-executives-5.png)
 

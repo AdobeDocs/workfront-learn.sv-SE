@@ -1,6 +1,6 @@
 ---
 title: Avancerad rapportering, del 1
-description: Förstå en granskning av framtagning av rapporter, en introduktion till [!UICONTROL API Explorer] och textläge samt en djupgående studie av textlägesfilter.
+description: Förstå en granskning av rapportskapande, en introduktion till [!UICONTROL API-utforskaren] och textläge samt en ingående studie av textlägesfilter.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 3409632.png
@@ -13,7 +13,7 @@ exl-id: dec3d807-41b2-47a6-b4ff-476313b6fc07
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ ht-degree: 0%
 I den här videon får du lära dig:
 
 * Granskning av rapportskapande
-* Använda API Explorer och textläge
+* Använda API-utforskaren och textläge
 * En ingående studie av textlägesfilter
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409632/?quality=12&learn=on)
 
 ## Praktiska länkar
 
-[[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
+[[!UICONTROL API-utforskaren]](https://developer.adobe.com/workfront/api-explorer/)
 
 [Avancerad rapporteringsmanual](/help/assets/advanced-reporting-manual.pdf)

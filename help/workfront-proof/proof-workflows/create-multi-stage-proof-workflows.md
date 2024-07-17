@@ -1,6 +1,6 @@
 ---
 title: Kom igång med automatiserade arbetsflöden
-description: Se vad ett automatiserat korrekturarbetsflöde innebär [!DNL  Workfront] och hur det skiljer sig från ett grundläggande arbetsflöde.
+description: Lär dig vad ett automatiserat korrekturarbetsflöde är i [!DNL  Workfront]  och hur det skiljer sig från ett grundläggande arbetsflöde.
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

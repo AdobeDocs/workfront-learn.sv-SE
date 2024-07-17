@@ -1,6 +1,6 @@
 ---
 title: Förstå inställningarna för en flödesbegäran
-description: Läs om hur förfrågningsflödet behandlas i [!DNL  Workfront] fungerar. Skapa sedan routningsregler, ämnesgrupper och köämnen.
+description: Lär dig hur förfrågningsflödet i [!DNL  Workfront] fungerar. Skapa sedan routningsregler, ämnesgrupper och köämnen.
 activity: delpoy
 feature: Work Management
 type: Tutorial

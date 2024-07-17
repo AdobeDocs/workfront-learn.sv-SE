@@ -1,6 +1,6 @@
 ---
 title: Förstå riktlinjer för rådgivning
-description: Lär er hur ni kan ge era rekommendationer för att effektivisera verksamheten genom att använda [!UICONTROL Förbättrad analys] i Workfront.
+description: Lär dig hur du kan ge rekommendationer som hjälper din organisation att arbeta effektivare genom att använda [!UICONTROL Förbättrad analys] i Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png

@@ -1,6 +1,6 @@
 ---
 title: Förstå diagramavsnittet
-description: Lär dig hur du läser och tolkar målhälsodiagrammet och målstatusdiagrammet i [!DNL-mål].
+description: Lär dig hur du läser och tolkar målhälsodiagrammet och målstatusdiagrammet i [!DNL]   Mål].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## Hälsa för diagram och mål
 
-The [!UICONTROL Diagram] kan du visa den övergripande statusen och förloppet för dina mål. Håll utkik efter trender över tid och se en översikt över hur era mål utvecklas under en viss tidsperiod. De två standardscheman är målhälsodiagrammet och mållägesförloppet. Den här informationen är viktig för att företagets mål ska kunna anpassas efter strategiska initiativ.
+I avsnittet [!UICONTROL Diagram] kan du visa den övergripande statusen och förloppet för dina mål. Håll utkik efter trender över tid och se en översikt över hur era mål utvecklas under en viss tidsperiod. De två standardscheman är målhälsodiagrammet och mållägesförloppet. Den här informationen är viktig för att företagets mål ska kunna anpassas efter strategiska initiativ.
 
 I den här videon får du lära dig att:
 

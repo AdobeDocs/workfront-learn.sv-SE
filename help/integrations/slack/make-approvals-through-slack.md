@@ -1,6 +1,6 @@
 ---
-title: Godkänn genom [!DNL Slack]
-description: Lär dig att godkänna via Slack
+title: Godkänn via  [!DNL Slack]
+description: Lär dig hur du gör godkännanden via Slack
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Godkänn genom [!DNL Slack]
+# Godkänn via [!DNL Slack]
 
 I den här videon får du lära dig att:
 
-* Godkänn genom [!DNL Slack]
+* Godkänn via [!DNL Slack]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335119/?quality=12&learn=on)

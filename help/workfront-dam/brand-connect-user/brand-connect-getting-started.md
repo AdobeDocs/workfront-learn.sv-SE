@@ -1,6 +1,6 @@
 ---
 title: Förstå navigering och sökning som användare
-description: Läs om vad varumärket ansluter till [!UICONTROL WORKFRONT DAM] och navigera.
+description: Lär dig mer om vad varumärkesanslutningen i [!UICONTROL Workfront DAM] är och hur du navigerar i den.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -31,9 +31,9 @@ I den här videon får du lära dig:
 
 En grundläggande sökning söker efter filnamn, metadatafält, nyckelord och resursinnehåll (beroende på resurstyp). Den innehåller inte mappnamn.
 
-De flesta sökresultat är exakta träffar. Ett undantag från den här&quot;exakta matchningsregeln&quot; är när [!UICONTROL Brand Connect] söker i filnamnsfältet. [!UICONTROL Brand Connect] returnerar partiella filnamnsmatchningar i stället för exakta filnamnsmatchningar.
+De flesta sökresultat är exakta träffar. Ett undantag till den här regeln om exakt matchning är när [!UICONTROL varumärkesanslutningen] söker igenom filnamnsfältet. [!UICONTROL Brand Connect] returnerar partiella filnamnsmatchningar i stället för exakta filnamnsmatchningar.
 
-## Avancerad sökning i [!UICONTROL Brand Connect]
+## Avancerad sökning i [!UICONTROL varumärkesanslutning]
 
 Även om de grundläggande sökfunktionerna ofta hittar de resurser du behöver kan du behöva använda ytterligare sökparametrar då och då.
 
@@ -71,4 +71,4 @@ Varumärkesriktlinjer är en uppsättning regler som förklarar hur organisation
 * Uppdelningar av företagets primära och sekundära färger.
 * Exempel på bildstil och foton som fungerar bra med varumärket.
 
-När du loggat in [!UICONTROL Brand Connect]öppnar du riktlinjerna genom att klicka på Varumärkesriktlinjer i det övre navigeringsfältet.
+När du är inloggad på [!UICONTROL Brand Connect] kan du få tillgång till riktlinjerna genom att klicka på Varumärkesriktlinjer i det övre navigeringsfältet.

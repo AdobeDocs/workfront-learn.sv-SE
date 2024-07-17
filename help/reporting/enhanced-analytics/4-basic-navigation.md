@@ -1,6 +1,6 @@
 ---
 title: Förstå grundläggande navigering
-description: Lär dig navigera till [!UICONTROL Analyser] och se en översikt över arbetsscheman och personscheman i Workfront.
+description: Lär dig navigera till [!UICONTROL Analytics]-området och se en översikt över arbetsscheman och persondiagram i Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335057.png
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Förstå grundläggande navigering
 
-Navigera till [!UICONTROL Analyser] i Workfront använder du [!UICONTROL Huvudmeny] -knappen.
+Använd knappen [!UICONTROL Huvudmeny] för att navigera till [!UICONTROL Analytics] i Workfront.
 
-![En bild på hur du hittar [!UICONTROL Analyser] i WORKFRONT [!UICONTROL huvudmeny]](assets/Navigate-NWE.png)
+![En bild på hur funktionen [!UICONTROL Analytics] hittas i Workfront [!UICONTROL huvudmeny]](assets/Navigate-NWE.png)
 
 I den här videon ser du:
 

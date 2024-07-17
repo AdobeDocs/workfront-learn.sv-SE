@@ -1,6 +1,6 @@
 ---
 title: Stäng ett mål när det är klart
-description: Lär dig hur du stänger ett mål i [!DNL-mål].
+description: Lär dig hur du stänger ett mål i [!DNL]   Mål].
 activity: use
 feature: Workfront Goals
 type: Tutorial

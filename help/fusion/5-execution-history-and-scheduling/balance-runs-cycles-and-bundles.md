@@ -1,6 +1,6 @@
 ---
 title: Balansera körningar, cykler och paket
-description: Läs om hur du balanserar körningar, cykler och paket [!DNL Adobe Workfront Fusion].
+description: Lär dig vilken balansering av körningar, cykler och paket som finns i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

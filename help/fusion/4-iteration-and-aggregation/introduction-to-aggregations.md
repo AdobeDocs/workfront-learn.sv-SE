@@ -1,6 +1,6 @@
 ---
 title: Introduktion till aggregeringar
-description: Lär dig vad aggregatorer är, hur du använder aggregerare och de olika typerna av aggregerare i [!DNL Adobe Workfront Fusion].
+description: Lär dig vilka aggregerare som är, hur du använder aggregerare och de olika typerna av aggregerare i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

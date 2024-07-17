@@ -11,9 +11,10 @@ team: Technical Marketing
 last-substantial-update: 2023-06-27T00:00:00Z
 jira: KT-13530
 doc-type: video
-source-git-commit: e91207d73b7a25f05a5b2cde0606b57291e695b0
+exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -33,10 +34,8 @@ I den här videon får du lära dig följande om varaktighetstyper och aktivitet
 >[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on)
 
 
-Information om hur du skapar en vy för varaktighetstyper och uppgiftsbegränsningar finns i vyn Varaktighet och uppgiftsbegränsningar i [Skapa en grundvy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+Mer information om hur du skapar en vy för varaktighetstyper och aktivitetsbegränsningar finns i Vyaktiviteten för varaktighetstyper och aktivitetsbegränsningar i [Skapa en grundvy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
 
-Mer information om varaktighetstyper finns i [Typ av aktivitetsvaraktighet och varaktighet](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=en).
+Mer information om varaktighetstyper finns i [Typer av aktivitetsvaraktighet och varaktighet](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=en).
 
-Mer information om uppgiftsbegränsningar finns i [Aktivitetsbegränsningar](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=en).
-
-
+Mer information om uppgiftsbegränsningar finns i [Åtgärdsbegränsningar](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=en).

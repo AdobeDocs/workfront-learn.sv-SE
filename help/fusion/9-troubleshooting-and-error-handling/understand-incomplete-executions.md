@@ -1,6 +1,6 @@
 ---
 title: Förstå ofullständiga körningar
-description: Lär dig vad ofullständiga körningar är och hur du hanterar ett fel som resulterar i en ofullständig körning i [!DNL Adobe Workfront Fusion].
+description: Lär dig vad ofullständiga körningar är och hur du hanterar ett fel som resulterar i en ofullständig körning i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -45,4 +45,4 @@ Om ett fel inträffar i någon annan modul och det inte finns någon kopplad fel
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

@@ -1,6 +1,6 @@
 ---
 title: Förstå datalager
-description: Lär dig hur du använder datalager som en beständig datauppsättning och hur datastrukturer stöder ett datalager i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du använder datalager som en beständig datauppsättning och hur datastrukturer stöder ett datalager i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

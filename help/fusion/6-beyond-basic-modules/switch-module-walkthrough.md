@@ -1,6 +1,6 @@
 ---
 title: Genomgång av modulen Byt
-description: Lär dig hur du använder modulen Byt när du behöver utföra mer komplexa eller dynamiska dataomvandlingar i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du använder modulen Byt när du behöver utföra mer komplexa eller dynamiska dataomformningar i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Lär dig hur du använder modulen Byt när du behöver utföra mer komplexa eller dynamiska dataomformningar.
 
-![En bild som använder modulen Byt](assets/beyond-basic-modules-4.png)
+![En bild som använder växlingsmodulen](assets/beyond-basic-modules-4.png)
 
 ## Genomgång av modulen Byt
 
@@ -34,4 +34,4 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

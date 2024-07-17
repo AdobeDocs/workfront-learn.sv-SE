@@ -1,6 +1,6 @@
 ---
 title: Så här uppdaterar du en begäran
-description: Lär dig hur du hittar de förfrågningar du har skickat och gör en uppdatering av dem.
+description: Lär dig hur du hittar de förfrågningar du har skickat och gör en uppdatering av dessa förfrågningar.
 activity: use
 type: Tutorial
 team: Technical Marketing

@@ -1,6 +1,6 @@
 ---
 title: Konfigurera dina Workfront Fusion-övningsfiler
-description: Lär dig hur du hämtar övningsfilerna och överför dessa filer till en mapp i Workfront, i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du hämtar övningsfilerna och överför dessa filer till en mapp i Workfront, i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Lär dig hur du konfigurerar dina Fusion-övningsfiler.
 
-1. Ladda ned [Fusion-övningsfiler](/help/assets/fusion-exercise-files.zip).
+1. Hämta [Fusion-övningsfilerna](/help/assets/fusion-exercise-files.zip).
 
 1. Titta på videon och lär dig hur du överför dessa filer till en mapp i Workfront.
 

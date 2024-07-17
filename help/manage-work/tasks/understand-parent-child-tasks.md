@@ -23,7 +23,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig:
 
-* Hur uppgifter struktureras i en [!DNL Workfront] projekt
+* Så här struktureras uppgifter i ett [!DNL Workfront]-projekt
 
 >[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on)
 

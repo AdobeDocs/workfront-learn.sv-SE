@@ -8,7 +8,7 @@ jira: KT-10926
 exl-id: c3a4fe42-339c-4063-ad67-045868bbc6b1
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -54,7 +54,7 @@ När du byter namn på Workfront standardstatus bör du behålla det ursprunglig
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Vissa åtgärder i Workfront aktiveras av systemets standardstatus. Om du ändrar avsikten för en status kan det påverka hur Workfront fungerar i vissa situationer, påverka rapporter osv.
 
@@ -73,7 +73,7 @@ Om du skapar en anpassad projektstatus för Avbrutet, jämför du statusen med D
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Om du jämför Avbrutet med Fullständigt kan du inte använda statusen för att avbryta ett projekt om inte alla aktiviteter är markerade som slutförda och alla utgåvor stängs. Om du jämför Avbrutet med Annullerat kan du avbryta projektet utan att ändra något i historikposten.
 
@@ -87,9 +87,9 @@ Minimera globala anpassade statusvärden.
 
 
 
-**Här är varför**
+**Det här är varför**
 
-Mindre är mer. Förutom att skapa onödigt underhåll skapar för många anpassade statusar förvirring, särskilt när du arbetar med korsfunktionella projekt. Gör i stället en anpassad statusgrupp specifik. På så sätt blir Workfront-miljön renare och bättre lämpad för expansion i andra grupper i framtiden. Samarbeta med era styrnings-/tillsynskommittéer och intressenter för att identifiera vilka statusar era grupper behöver använda.
+Mindre är mer. Förutom att skapa onödigt underhåll skapar för många anpassade statusar förvirring, särskilt när du arbetar med korsfunktionella projekt. Gör i stället en anpassad statusgrupp specifik. På så sätt blir Workfront-miljön renare och bättre lämpad för utbyggnad till andra grupper i framtiden. Samarbeta med er styrnings-/tillsynskommitté och intressenter för att identifiera vilka statusar era grupper behöver använda.
 
 
 </br>
@@ -101,6 +101,6 @@ Använd inte projektstatus i stället för uppgifter för att ange ett projekts 
 
 
 
-**Här är varför**
+**Det här är varför**
 
-Håll projektstatus enkel för att indikera högnivåfaser av progression, som Planning, Aktuell, Fullständig osv. Låt uppgifterna, uppgiftsstatusvärdena och procentandelen slutförda uppgifter visa hur arbetet fortskrider generellt i projektet. Dessa indikatorer för aktivitetsnivå räknas in i projektets Procent färdigt, projektvillkoren och projektets förloppsstatus, som alla är bättre och exaktare indikatorer på projektstatus än projektstatus. Dessutom ger den här informationen på aktivitetsnivå bättre projektrapportering.
+Håll projektstatus enkel för att indikera högnivåfaser av progression, som Planning, Aktuell, Fullständig osv. Låt uppgifterna, uppgiftsstatusvärdena och procentandelen slutförda uppgifter visa hur arbetet fortskrider generellt i projektet. Dessa indikatorer för aktivitetsnivå räknas in i projektets Procent färdigt, projektvillkoren och projektets förloppsstatus, som alla är bättre och exaktare indikatorer för projektstatus än projektstatus. Dessutom ger den här informationen på aktivitetsnivå bättre projektrapportering.

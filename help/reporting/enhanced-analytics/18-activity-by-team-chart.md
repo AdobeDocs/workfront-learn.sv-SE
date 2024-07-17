@@ -1,6 +1,6 @@
 ---
 title: Förstå aktiviteten per teamdiagram
-description: Activity by team chart in [!UICONTROL Förbättrad analys] gör att du kan förstå hur organisationens hemteam tillbringar sin tid i Workfront.
+description: Med aktivitetsdiagrammet per team i [!UICONTROL Förbättrad analys] kan du förstå hur organisationens hemteam tillbringar sin tid i Workfront.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -42,6 +42,6 @@ I diagrammet ser du:
 
 ## Navigera till diagrammet
 
-1. Klicka på [!UICONTROL Folk] i den vänstra panelen.
-1. Använd [!UICONTROL Filter] för att välja ett eller flera hemteam att undersöka.
+1. Klicka på fliken [!UICONTROL Personer] i den vänstra panelen.
+1. Använd [!UICONTROL filtret] för att välja ett eller flera hemteam att undersöka.
 1. Aktivitets-för-team-diagrammet visas överst i personschemat.

@@ -39,7 +39,7 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 * Lägg till en påminnelse till Adobe Workfront-systemadministratörens kalender om att uppdatera scheman vid en viss tidpunkt varje år.
 
 
-Instruktioner om hur du skapar och hanterar scheman finns i [Skapa och hantera tidsplaner](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) självstudie.
+Instruktioner om hur du skapar och hanterar scheman finns i självstudiekursen [Skapa och hantera scheman](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md).
 
 </br>
 </br>
@@ -52,7 +52,7 @@ Begränsa antalet scheman du skapar i Adobe Workfront.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Skapa inte dussintals scheman för olika grupper, team eller individer. Färre scheman innebär mindre underhåll av system- eller gruppadministratörer.
 
@@ -75,13 +75,13 @@ Det totala antalet arbetstimmar i schemat för varje arbetsdag ska vara lika med
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Om de totala arbetstiderna inte stämmer överens kan det leda till felaktigt beräknade datum- och tidsberäkningar på projekttidslinjen och i rapporter.
 
 Om systeminställningen till exempel är åtta timmar per dag och schemat som tilldelats ett projekt bara har sju arbetstimmar per dag, kommer du att märka att en aktivitet med en dagslängd tar mer än en dag att slutföra, eftersom den försöker passa in på åtta timmar.
 
-**Anteckning**: Systemets globala projektinställningar görs i Inställningar > Projektinställningar > Tidslinjeberäkningar > Vanliga timmar per arbetsdag.
+**Obs!**: Systemets globala projektinställningar görs i Inställningar > Projektinställningar > Tidslinjeberäkningar > Vanliga timmar per arbetsdag.
 
 </br>
 </br>
@@ -91,6 +91,6 @@ Om systeminställningen till exempel är åtta timmar per dag och schemat som ti
 
 Lägg till en påminnelse till Adobe Workfront-systemadministratörens kalender om att uppdatera scheman vid en viss tidpunkt varje år.
 
-**Här är varför**
+**Det här är varför**
 
 Uppdatera scheman i din Workfront-instans med nationella helgdagar, helger och andra dagar som användare inte arbetar. Gör detta vid en fast tidpunkt varje år, antingen i slutet av året eller när helgerna frigörs av personalavdelningen, så att projekttidslinjer, resursplanering osv. återspeglar den korrekta tillgängligheten.

@@ -1,6 +1,6 @@
 ---
 title: Skapa ett IF-textuttryck
-description: Lär dig vad ett IF-uttryck gör och hur du använder det i ett beräkningsfält i [!DNL Workfront].
+description: Lär dig vad ett IF-uttryck gör och hur du använder det i ett beräkningsfält i  [!DNL Workfront].
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User

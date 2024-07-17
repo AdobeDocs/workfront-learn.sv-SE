@@ -22,7 +22,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig att:
 
-* Få åtkomst till de arbetsobjekt du ombetts granska via sidan Mina uppdateringar
+* Få åtkomst till de arbetsobjekt du ombetts att granska via sidan Mina uppdateringar
 * Genomföra en granskning av godkännandebegäranden
 * Använd avsnittet Meningar för att visa uppdateringar som du har tagit med i
 * Svara på uppdateringar

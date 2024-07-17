@@ -1,6 +1,6 @@
 ---
 title: God praxis - Agile
-description: Utforska rekommendationer från Adobe Workfront experter om Agile.
+description: Utforska rekommendationer om god praxis från Adobe Workfront experter om Agile.
 feature: Agile
 role: Admin, Leader, User
 level: Beginner
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -52,7 +52,7 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Om du just har börjat med Agile, börja med en enkel anslagstavla.
 
-**Här är varför**
+**Det här är varför**
 
 Börja med att placera ditt arbete i en bräda och dra arbetsobjekten mellan, så blir det enklare att öva och ge dig mer struktur senare när du börjar organisera och utvärdera arbetsuppgiftens prioritet
 
@@ -65,7 +65,7 @@ Börja med att placera ditt arbete i en bräda och dra arbetsobjekten mellan, s�
 Tala genom arbetsflödet som ett team innan du skapar kolumner i styrelsen - men behåll det enkelt!
 
 
-**Här är varför**
+**Det här är varför**
 
 Många gånger skapar team för mycket komplexitet i styrelsen och skapar ett extra arbete som inte ger något mervärde. Börja med bara några spalter som arbetet går igenom och justera sedan allt eftersom.
 
@@ -76,7 +76,7 @@ Många gånger skapar team för mycket komplexitet i styrelsen och skapar ett ex
 
 Gör dina inställningar i kortvyn.
 
-**Här är varför**
+**Det här är varför**
 
 Det är lätt att glömma vilket arbete som egentligen är högsta prioritet eftersom dagliga avbrott kan kännas mer brådskande. Håll ett öga på era ursprungliga åtaganden genom att titta på styrelsen.
 
@@ -87,7 +87,7 @@ Det är lätt att glömma vilket arbete som egentligen är högsta prioritet eft
 
 Skapa en rapport för genomsnittlig hastighet (artiklar som flyttats för att slutföras under en iteration eller tidsram) och använd den för att göra teamets planering mer exakt.
 
-**Här är varför**
+**Det här är varför**
 
 Det är lätt att vara alltför optimistisk över hur mycket vi kan få gjort samtidigt. Om vi tittar på hastigheten regelbundet och är mer realistiska när det gäller våra åtaganden blir det lättare att bygga upp en verklig förutsägbarhet och skyddar oss från överbelastning av arbetet
 
@@ -98,6 +98,6 @@ Det är lätt att vara alltför optimistisk över hur mycket vi kan få gjort sa
 
 Generera din eftersläpning i projektvyn - du kan kalla det Epic, Feature, Campaign eller något annat. Om du har flera projekt använder du programvyn och aktiverar grupp efter projekt. Om du vill se den övergripande prioriteten för ditt team stänger du av grupperingen.
 
-**Här är varför**
+**Det här är varför**
 
 En eftersläpning på en anslagstavla kanske inte representerar allt arbete som krävs för att skapa ett större värde. Genom att titta på Project kan teamet fokusera på det högre värde ni försöker leverera till kunden. Därifrån kan ni förfina och prioritera arbetet och dra in det i en styrelse.

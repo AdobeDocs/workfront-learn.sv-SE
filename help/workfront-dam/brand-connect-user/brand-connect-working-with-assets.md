@@ -1,6 +1,6 @@
 ---
 title: Arbeta med resurser som användare
-description: Lär dig hur du visar resurser i Brand Connect och visar data om en resurs, inklusive metadata och nyckelord i [!UICONTROL WORKFRONT DAM].
+description: Lär dig hur du visar resurser i Brand Connect och visar data om en resurs, inklusive metadata och nyckelord i [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

@@ -43,14 +43,14 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Använd portfolior och program för att hantera projekt och rapporter.
 
-**Här är varför**
+**Det här är varför**
 
 När du använder portföljer och program kan du använda ytterligare verktyg från Workfront effektivare. I en rapport kanske du bara vill visa en uppsättning projekt som har samma mål eller som är vrida för samma budget. Genom att organisera projekt i en portfölj och/eller ett program kan du enkelt filtrera dessa projekt efter den portföljen i stället för att använda flera andra kriterier för att begränsa rapporten.
 
 Dessutom kan ni använda ytterligare verktyg, till exempel Utilization-rapporten, som hjälper er att förstå hur och var användare arbetar, eller Portfolio Optimizer, som gör det enklare att prioritera projekt och anpassa dem till företagets övergripande mål och strategier.
 
-För att förstå hur du filtrerar en lista över projekt efter en viss portfölj, se&quot;Aktivitet 1 - Alla projekt i marknadsföringsportföljen&quot; i [Skapa grundläggande filteraktiviteter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html).
+Mer information om hur du filtrerar en lista med projekt efter en viss portfölj finns i&quot;Aktivitet 1 - alla projekt i marknadsföringsportföljen&quot; i [Skapa grundläggande filteraktiviteter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html).
 
-Mer information om användningsrapporten finns i artikeln [Följ upp framsteg, kostnader och intäkter med användningsrapporten](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=en#track-progress-cost-and-revenue-with-the-utilization-report).
+Mer information om användningsrapporten finns i artikeln [Spåra förlopp, kostnad och intäkter med användningsrapporten](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=en#track-progress-cost-and-revenue-with-the-utilization-report).
 
-Mer information om optimering av Portfolio finns i [Använd Portfolio Optimizer för att prioritera och hantera arbete](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
+Mer information om optimering för Portfolio finns i [Använd optimering för Portfolio för att prioritera och hantera arbete](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).

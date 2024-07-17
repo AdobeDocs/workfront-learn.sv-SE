@@ -24,14 +24,14 @@ Villkorsstyrd formatering görs genom att kolumnregler skapas. Med kolumnregler 
 
 I den här videon får du lära dig:
 
-* Vilken villkorsstyrd formatering finns i en vy
+* Vilken villkorlig formatering finns i en vy
 * Skapa och ändra villkorsstyrd formatering
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
 ## Sammanfattning
 
-Så här skapar du villkorsstyrd formatering:
+Så här skapar du villkorlig formatering:
 
 1. Välj den kolumn där du vill att formateringen ska visas
 1. Bestäm vilka villkor du vill att formateringen ska ändras
@@ -44,7 +44,7 @@ Så här skapar du villkorsstyrd formatering:
 
 ## Aktivitet: Lägga till villkorsstyrd formatering i en vy
 
-Skapa en uppgiftsvy med namnet&quot;Standard + Progress&quot; genom att använda den befintliga standardvyn och lägga till den villkorliga formateringen i [!UICONTROL Namn] kolumn.
+Skapa en uppgiftsvy med namnet &quot;Standard + Progress&quot; genom att använda den befintliga standardvyn och lägga till den här villkorsstyrda formateringen i kolumnen [!UICONTROL Name].
 
 1. Lägg till en kolumnregel som ändrar fältets bakgrund till rött när aktivitetens förloppsstatus är Sent.
 1. Lägg till en kolumnregel som ändrar fältets bakgrundsfärg till gult när förloppsstatusen är Bakom eller Vid risk.
@@ -55,20 +55,20 @@ Detta hjälper dig att hitta problematiska uppgifter utan att inkludera kolumnen
 
 ![En bild av skärmen för att skapa en ny kolumnregel](assets/conditional-formatting-exercise.png)
 
-1. Gå till **[!UICONTROL Visa]** nedrullningsbar meny och välj **[!UICONTROL Ny vy]**.
+1. I en uppgiftslistrapport går du till listrutan **[!UICONTROL Visa]** och väljer **[!UICONTROL Ny vy]**.
 1. Ge din vy namnet&quot;Standard + Progress&quot;.
 1. Använd de standardkolumner som anges.
-1. Välj [!UICONTROL Aktivitetsnamn] kolumn. Det här är kolumnen som du vill använda villkorsstyrd formatering på, så den visas som röd eller gul om aktivitetens förloppsstatus inte är I tid.
-1. Klicka **[!UICONTROL Avancerade alternativ]** i det övre högra hörnet i fönstret för Report builder.
-1. Klicka **[!UICONTROL Lägg till en regel för den här kolumnen]**.
-1. Starta kolumnregeln genom att ändra [!UICONTROL Uppgift] > [!UICONTROL Namn] längst upp i fönstret till [!UICONTROL Uppgift] > [!UICONTROL Status för förlopp]. Klicka bara på **[!UICONTROL X]** ikon bredvid [!UICONTROL Uppgift] > [!UICONTROL Namn] för att ta bort den från fältet.
-1. Skriv&quot;progress&quot; i fältet och välj sedan [!UICONTROL Status för förlopp] under [!UICONTROL Uppgift] fältkälla.
-1. Välj **[!UICONTROL Sena]** i fältet till höger om [!UICONTROL Jämn] kvalificerare.
-1. Välj en bakgrund med rött i [!UICONTROL Textfärg] rad.
-1. Klicka **[!UICONTROL Lägg till regel]** för att spara kolumnregeln.
-1. Klicka nu **[!UICONTROL Lägg till kolumnregel]** igen för att lägga till en annan regel.
-1. Precis som tidigare, ta bort [!UICONTROL Uppgift] > [!UICONTROL Namn] från villkorsfältet. Ersätt den med [!UICONTROL Status för förlopp] under [!UICONTROL Uppgift] fältkälla.
-1. Markera båda [!UICONTROL Risk] och [!UICONTROL Bakom] i fältet till höger om kvalificeraren.
-1. Välj en bakgrund med gult i dialogrutan [!UICONTROL Textfärg] rad.
-1. Klicka **[!UICONTROL Lägg till regel]** för att spara kolumnregeln.
-1. Klicka **[!UICONTROL Spara vy]** för att spara vyn.
+1. Markera kolumnen [!UICONTROL Aktivitetsnamn]. Det här är kolumnen som du vill använda villkorsstyrd formatering på, så den visas som röd eller gul om aktivitetens förloppsstatus inte är I tid.
+1. Klicka på **[!UICONTROL Avancerade alternativ]** i det övre högra hörnet i rapportbyggarfönstret.
+1. Klicka på **[!UICONTROL Lägg till en regel för kolumnen]**.
+1. Starta kolumnregeln genom att ändra [!UICONTROL Aktivitet] > [!UICONTROL Namn] överst i fönstret till [!UICONTROL Aktivitet] > [!UICONTROL Förloppsstatus]. Klicka bara på ikonen **[!UICONTROL X]** bredvid [!UICONTROL Aktivitet] > [!UICONTROL Namn] för att ta bort den från fältet.
+1. Skriv progress i fältet och välj sedan [!UICONTROL Progress Status] under fältkällan [!UICONTROL Task].
+1. Välj **[!UICONTROL Sena]** i fältet till höger om kvalificeraren [!UICONTROL Jämn].
+1. Välj en röd bakgrund i raden [!UICONTROL Textfärg].
+1. Klicka på **[!UICONTROL Lägg till regel]** för att spara kolumnregeln.
+1. Klicka nu på **[!UICONTROL Lägg till kolumnregel]** igen om du vill lägga till en annan regel.
+1. Precis som tidigare tar du bort [!UICONTROL Aktivitet] > [!UICONTROL Namn] från villkorsfältet. Ersätt den med [!UICONTROL Förloppsstatus] under fältkällan [!UICONTROL Aktivitet].
+1. Markera både [!UICONTROL Vid risk] och [!UICONTROL Bakom] i fältet till höger om kvalificeraren.
+1. Välj en gul bakgrund på raden [!UICONTROL Textfärg].
+1. Klicka på **[!UICONTROL Lägg till regel]** för att spara kolumnregeln.
+1. Klicka på **[!UICONTROL Spara vy]** för att spara vyn.

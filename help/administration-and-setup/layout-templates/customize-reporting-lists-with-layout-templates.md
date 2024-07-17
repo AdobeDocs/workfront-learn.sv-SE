@@ -34,7 +34,7 @@ Genom att ställa in standardfilter, vyer och/eller grupperingar för användarn
 
 Som system- eller gruppadministratör kan du bestämma vad användare ska se när de tittar på en lista över projekt, uppgifter, problem osv. genom att ange ett standardfilter, en standardvy och/eller en gruppering via en layoutmall.
 
-![Layoutmall [!UICONTROL Listor] window](assets/admin-fund-layout-template-default-lists-1-1.JPG)
+![Layoutmall [!UICONTROL Listor] fönster](assets/admin-fund-layout-template-default-lists-1-1.JPG)
 
 >[!NOTE]
 >
@@ -43,14 +43,14 @@ Som system- eller gruppadministratör kan du bestämma vad användare ska se nä
 
 Om du vill ange en liststandard kan du antingen:
 
-* Håll muspekaren över ett alternativ som redan visas och klicka på [!UICONTROL Ange som standard].
+* Håll muspekaren över ett alternativ som redan finns i listan och klicka på [!UICONTROL Ange som standard].
 
-![Layoutmall [!UICONTROL Listor] fönster med [!UICONTROL Ange som standard] visible](assets/admin-fund-layout-template-default-lists-1-2.JPG)
+![Layoutmall [!UICONTROL Listar] fönster med [!UICONTROL Ange som standard] visible](assets/admin-fund-layout-template-default-lists-1-2.JPG)
 
-* Eller lägg till ett eget filter, en egen vy eller en gruppering och markera kryssrutan bredvid [!UICONTROL Ange standard].
+* Eller lägg till ett eget filter, en anpassad vy eller gruppering och markera kryssrutan bredvid [!UICONTROL Ange standard].
 
-![[!UICONTROL Lägg till en befintlig vy] window](assets/admin-fund-layout-template-default-lists-1-3.JPG)
+![[!UICONTROL Lägg till en befintlig vy] fönster](assets/admin-fund-layout-template-default-lists-1-3.JPG)
 
-När du är klar ser du [!UICONTROL Standard] -tagg.
+När du är klar visas taggen [!UICONTROL Default].
 
-![[!UICONTROL Standard] tagg bredvid listalternativ](assets/admin-fund-layout-template-default-lists-1-4.JPG)
+![[!UICONTROL Default] -tagg bredvid listalternativ](assets/admin-fund-layout-template-default-lists-1-4.JPG)

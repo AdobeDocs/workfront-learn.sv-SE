@@ -1,6 +1,6 @@
 ---
 title: Konfigurera integreringen i Workfront
-description: Lär dig hur du aktiverar [!UICONTROL WORKFRONT DAM] integrering på systemadministratörens åtkomstnivå.
+description: Lär dig hur du aktiverar integreringen [!UICONTROL Workfront DAM] på systemadministratörens åtkomstnivå.
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 # Konfigurera integreringen i Workfront
 
-Aktivera [!UICONTROL WORKFRONT DAM] integrering från Workfront **[!UICONTROL Inställningar]** område. Du måste ha en [!UICONTROL Workfront] systemadministratörens åtkomstnivå.
+Aktivera integreringen av [!UICONTROL Workfront DAM] från Workfront **[!UICONTROL Setup]**. Du måste ha en [!UICONTROL Workfront]-systemadministratörsåtkomstnivå.
 
-![En skärmbild av [!UICONTROL Molnleverantörer] konfigurationssida](assets/01-configure-the-integration-in-workfront.png)
+![En skärmbild av konfigurationssidan [!UICONTROL Cloud Providers]](assets/01-configure-the-integration-in-workfront.png)
 
-1. Klicka **[!UICONTROL Inställningar]** i [!UICONTROL Huvudmeny].
-1. Klicka på i den vänstra panelen **[!UICONTROL Dokument]** välj **[!UICONTROL Molnleverantörer]**.
-1. Markera rutan bredvid [!UICONTROL WORKFRONT DAM].
+1. Klicka på **[!UICONTROL Konfigurera]** på [!UICONTROL Huvudmenyn].
+1. Klicka på **[!UICONTROL Dokument]** i den vänstra panelen och välj sedan **[!UICONTROL Cloud Providers]**.
+1. Markera rutan bredvid [!UICONTROL Workfront DAM].
 1. Spara ändringen.
 
 <!--

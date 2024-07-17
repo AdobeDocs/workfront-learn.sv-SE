@@ -1,6 +1,6 @@
 ---
 title: Vanliga routningsmönster
-description: Lär dig skillnaden mellan olika routersökvägar och icke-exklusiva sökvägar i [!DNL Adobe Workfront Fusion].
+description: Lär dig skillnaden mellan routersökvägar som utesluter varandra och som inte är exklusiva i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

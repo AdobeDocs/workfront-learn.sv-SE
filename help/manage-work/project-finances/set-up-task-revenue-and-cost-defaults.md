@@ -29,7 +29,7 @@ Inkomsttypen och kostnadstypen används för att beräkna planerad och faktisk e
 * Fast en timme
 * Fast intäkt
 
-**Och fyra standardkostnadstyper finns:**
+**Och fyra standardkostnadstyper är tillgängliga:**
 
 * Ingen kostnad
 * Fast en timme
@@ -42,11 +42,11 @@ Inkomsttypen och kostnadstypen används för att beräkna planerad och faktisk e
 
 ## Ange standardvärden för intäkter och kostnader
 
-Välj **[!UICONTROL Inställningar]** på huvudmenyn.
+Välj **[!UICONTROL Konfigurera]** på huvudmenyn.
 
-1. Klicka **[!UICONTROL Projektinställningar]** i den vänstra panelmenyn.
-1. Klicka sedan på **[!UICONTROL Uppgifter och problem]**.
-1. I [!UICONTROL Ny aktivitetsstandard] markerar du [!UICONTROL Intäktstyp] och [!UICONTROL Kostnadstyp].
+1. Klicka på **[!UICONTROL Projektinställningar]** på den vänstra panelmenyn.
+1. Klicka sedan på **[!UICONTROL Åtgärder och problem]**.
+1. Välj önskad [!UICONTROL intäktstyp] och [!UICONTROL kostnadstyp] i avsnittet [!UICONTROL Ny aktivitetsstandard].
 1. Klicka på Spara när du är klar.
 
-![En bild av hur du ställer in intäkter och standardkostnader](assets/setting-up-finances-3.png)
+![En bild av hur du ställer in standardvärden för intäkter och kostnader](assets/setting-up-finances-3.png)

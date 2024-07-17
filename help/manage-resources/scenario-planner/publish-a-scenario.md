@@ -1,6 +1,6 @@
 ---
-title: Publicera ett scenario
-description: Ta reda på vilket scenario som fungerar bäst för din organisation med [!DNL Scenario Planner]. Learn how to publish the scenario and turn the plan into a [!DNL Workfront] projekt.
+title: Så här Publish en scenario
+description: Ta reda på vilket scenario som fungerar bäst för din organisation med hjälp av  [!DNL Scenario Planner]. Learn how to publish the scenario and turn the plan into a [!DNL Workfront] projekt.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # Publicera ett scenario
 
-När du har fastställt vilket scenario som passar bäst för organisationens behov och mål kan du omvandla planen till [!DNL Workfront] [!DNL Scenario Planner] till slutprodukter, eller projekt, i [!DNL Workfront].
+När du har fastställt vilket scenario som bäst passar organisationens behov och dess mål kan du omvandla den planen i [!DNL Workfront] [!DNL Scenario Planner] till slutprodukter, eller projekt, i [!DNL Workfront].
 
-Håll muspekaren över ett scenario-kort och välj [!UICONTROL Gå till Publicera] som visas. Från [!UICONTROL Publicera initiativ] väljer du någon av de satsningar du vill publicera som ett projekt och klickar sedan på [!UICONTROL Publicera initiativ] längst ned.
+Håll muspekaren över ett scenariokort och välj knappen [!UICONTROL Gå till Publish] som visas. På sidan [!UICONTROL Publish-initiativ] väljer du de initiativ du vill publicera som ett projekt och klickar sedan på knappen [!UICONTROL Publish-initiativ] längst ned.
 
-Dessa initiativ konverteras nu till projekt som du hittar i [!UICONTROL Projekt] Område under deras ursprungliga initiativnamn. Dessa initiativ är nu arbetsprojekt som kan ändras och aktiveras efter behov. En ny [!DNL Scenario Planner] visas i [!UICONTROL Projektinformation] som innehåller information om arbetsrollerna för det initiativ som genererade projektet och dess varaktighet.
+Dessa initiativ konverteras nu till projekt som du kan hitta i området [!UICONTROL Projekt] under de ursprungliga initialnamnen. Dessa initiativ är nu arbetsprojekt som kan ändras och aktiveras efter behov. Ett nytt [!DNL Scenario Planner]-område visas i avsnittet [!UICONTROL Projektinformation] som innehåller information om jobbrollerna för det initiativ som genererade projektet och dess varaktighet.

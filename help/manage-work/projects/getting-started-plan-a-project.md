@@ -1,6 +1,6 @@
 ---
 title: Kom igång med projektplaneringen
-description: Lär dig de fem huvudkomponenterna i ett projekt, vad statusen innebär, hur en [!UICONTROL Visa] kan hjälpa dig att se relevant information och hur du ställer in start- eller förfallodatum.
+description: Lär dig de fem huvudkomponenterna i ett projekt, vad statusen innebär, hur en [!UICONTROL vy] kan hjälpa dig att se relevant information och hur du ställer in start- eller förfallodatum.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335086.jpeg
@@ -25,7 +25,7 @@ I den här videon får du lära dig:
 
 * De fem huvudkomponenterna i ett projekt
 * Vad planeringsstatusen betyder
-* Så här [!UICONTROL Visa] kan hjälpa dig att se den information du behöver
+* Så här kan en [!UICONTROL vy] hjälpa dig att se den information du behöver
 * Ange start- eller slutförandedatum
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on)
@@ -38,4 +38,4 @@ I den här videon får du lära dig:
 * [Förstå varaktigheter för uppgifter](/help/manage-work/tasks/understand-task-durations.md)
 * [Lär dig att sekvensera uppgifter](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Förstå planerade timmar](/help/manage-work/tasks/understand-planned-hours.md)
-* [Förstå [!UICONTROL Arbetsinsats]](/help/manage-work/tasks/understand-work-effort.md)
+* [[!UICONTROL Arbetsinsats]](/help/manage-work/tasks/understand-work-effort.md)

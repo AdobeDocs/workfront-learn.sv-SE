@@ -51,14 +51,14 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 Du bör använda rapportuppmaningar för att begränsa resultatet av en rapport, i stället för att skapa flera, liknande rapporter eller skapa komplicerade filterstrukturer i en rapport.
 
 
-**Här är varför**
+**Det här är varför**
 
 Minska antalet rapporter du behöver skapa - och utöka användningen av de rapporter du skapar - genom att ta med frågor, särskilt om de rapporter du kör ofta.
 
 Med uppmaningar kan du göra &quot;i nuet&quot;-filtertillägg i en rapport utan att redigera rapportens filterinställningar. Du har till exempel en rapport som söker efter uppgifter med en viss status som tilldelats ett visst team. Lägg till uppmaningar i den här&quot;grundläggande&quot; rapporten som gör att du kan begränsa tidsramen för aktivitetens förfallodatum, visa endast uppgifter som har bifogade dokument eller identifiera uppgifter som har ett visst anpassat formulär bifogat.
 
 
-**Anteckning**: Vissa användare kan hitta frågor som förvirrar. I så fall kan flera rapporter med tydliga rubriker vara en bättre lösning för dem.
+**Obs!**: Vissa användare kanske tycker att uppmaningar är förvirrande. I så fall kan flera rapporter med tydliga rubriker vara en bättre lösning för dem.
 
 
 </br>
@@ -68,7 +68,7 @@ Med uppmaningar kan du göra &quot;i nuet&quot;-filtertillägg i en rapport utan
 
 Snabba upp framtagningen av rapporter genom att kopiera en liknande befintlig rapport för att bygga din nya rapport utifrån.
 
-**Här är varför**
+**Det här är varför**
 
 Det här är inte bara en tidsbesparande åtgärd, den säkerställer att den nya rapporten innehåller de filter, vyer och grupperingar som du behöver från den ursprungliga rapporten.
 
@@ -79,7 +79,7 @@ Det här är inte bara en tidsbesparande åtgärd, den säkerställer att den ny
 
 Använd användarbaserade jokertecken för att skapa dynamiska rapporter så att användaren som tittar på rapporten ser information som är relevant för dem.
 
-**Här är varför**
+**Det här är varför**
 
 Användarbaserade jokertecken gör rapporter mer flexibla så att rapportförfattare kan skapa en enda rapport som kan delas med flera användare. Det är inte bara användarbaserade jokertecken som ger anpassad, anpassad information för den inloggade användaren som visar den anpassade rapporten, utan det innebär att du kan minska antalet rapporter som behöver skapas och underhållas.
 
@@ -92,6 +92,6 @@ Instruktioner om hur du använder användarbaserade jokertecken i rapporter finn
 
 Skapa vyer för redigering online.
 
-**Här är varför**
+**Det här är varför**
 
 Med infogad redigering kan användare ändra information om ett objekt direkt från en rapport eller lista. Detta är en tidsbesparande funktion eftersom användarna inte behöver öppna objektet för att kunna göra ändringar eller studsa från objekt till objekt när de uppdaterar flera objekt. Se till att användarna vet att redigering online är bekvämt och snabbt (två saker som bidrar till att Workfront används).

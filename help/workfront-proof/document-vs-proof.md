@@ -1,6 +1,6 @@
 ---
 title: Förstå skillnaden mellan ett dokument och ett korrektur
-description: Lär dig skillnaden mellan ett dokument och ett korrektur i [!DNL  Workfront].
+description: Lär dig skillnaden mellan ett dokument och ett korrektur i  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

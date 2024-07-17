@@ -1,6 +1,6 @@
 ---
 title: Välkommen till avancerad rapportering
-description: Lär dig använda [!UICONTROL API Explorer] och textläge för att skapa avancerade filter, vyer och grupperingar som är mer omfattande än funktionerna i [!UICONTROL Rapporteringsgränssnitt].
+description: Lär dig hur du använder [!UICONTROL API-utforskaren] och textläget för att skapa avancerade filter, vyer och grupperingar som går utöver funktionerna i [!UICONTROL rapporteringsgränssnittet].
 activity: use
 feature: Text Mode Reporting
 thumbnail: 3409632.png
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 # Välkommen till avancerad rapportering
 
-Lär dig använda [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/) och textläge för att skapa avancerade filter, vyer och grupperingar som är mer omfattande än funktionerna i [!UICONTROL Rapporteringsgränssnitt].
+Lär dig hur du använder [[!UICONTROL API-utforskaren]](https://developer.adobe.com/workfront/api-explorer/) och textläget för att skapa avancerade filter, vyer och grupperingar som går utöver funktionerna i [!UICONTROL rapporteringsgränssnittet].
 
 Tre självstudiekurser utgör avancerad rapportering. De är avancerade rapporteringsdelar 1, 2 och 3. Tillsammans består de av 5 timmars och 33 minuters utbildning.
 
-Förutom de videor du vill ladda ned [Avancerad rapporteringsmanual](/help/assets/advanced-reporting-manual.pdf) för referens och övningar.
+Utöver de videoklipp du vill hämta [handboken för avancerad rapportering](/help/assets/advanced-reporting-manual.pdf) för referens och övningar.
 
-**Avancerad rapportering, del 1** innehåller en granskning av hur du skapar rapporter, en introduktion till [!UICONTROL API Explorer] och textläge samt en djupgående studie av textlägesfilter.
+**Avancerad rapportdel 1** innehåller en granskning av hur du skapar rapporter, en introduktion till [!UICONTROL API-utforskaren] och textläge samt en ingående studie av textlägesfilter.
 
-**Avancerad rapportering, del 2** innehåller en ingående studie av textlägesvyer, ytterligare information om strukturen för textläge, beräknade anpassade data och beräknade kolumner.
+**Avancerad rapportdel 2** innehåller en ingående studie av textlägesvyer, ytterligare information om strukturen för textläge, beräknade anpassade data och beräknade kolumner.
 
-**Avancerad rapportering, del 3** innehåller en ingående studie av grupperingar i textläge, beräknade aggregat och beräknade grupperingar.
+**Avancerad rapportdel 3** innehåller en ingående studie av grupperingar i textläge, beräknade aggregat och beräknade grupperingar.
 
 ## Förutsättningar
 
@@ -38,18 +38,18 @@ Innan du tittar på dessa självstudiekurser bör du ha en:
 * Bra insikt i hur man använder Workfront. Det innebär att du har varit en seriös Workfront-användare i minst 3 till 6 månader.
 * En god förståelse för de objekt som du vill inkludera i rapporter.
 * En god förståelse för att använda anpassade formulär, särskilt beräknade anpassade fält.
-* A [!UICONTROL Plan] licenstyp med behörighet att skapa rapporter och filter aktiverat.
+* En [!UICONTROL Plan]-licenstyp med behörighet att skapa rapporter och filter aktiverat.
 * Du borde ha gått dessa kurser:
    * [[!UICONTROL Grundläggande rapportelement]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)
-   * [[!UICONTROL Skapa anpassade rapporter och kontrollpaneler]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
-   * [[!UICONTROL Skapa mellanfilter]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
+   * [[!UICONTROL Skapa anpassade rapporter och instrumentpaneler]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
+   * [[!UICONTROL Skapa mellanliggande filter]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
 * Du bör också ha tagit dessa självstudiekurser:
    * [[!UICONTROL Förstå det grundläggande textläget för vyer]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en)
-   * [[!UICONTROL Grundläggande textläge för grupperingar]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en)
+   * [[!UICONTROL Förstå grundläggande textläge för grupperingar]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en)
 
 ## Målgrupper
 
-Målgruppen för självstudiekurserna är [!UICONTROL Plan] licensiera användare som för närvarande skapar anpassade rapporter och som vill veta hur man använder textläge för att göra mer än det rapporterande användargränssnittet har utformats för.
+Målgruppen för de här självstudiekurserna är [!UICONTROL Plan]-licensanvändare som för närvarande skapar anpassade rapporter och som vill veta hur man använder textläge för att göra mer än det rapportanvändargränssnitt som har utformats för att göra.
 
 ## Var kom de här självstudiekurserna ifrån?
 

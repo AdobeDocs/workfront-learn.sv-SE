@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -47,7 +47,7 @@ Använd uttryck för textlägesvärden i stället för beräknade anpassade fäl
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Värdeuttryck för textläge beräknas när rapporten körs och beräknas om när rapporten uppdateras. Det innebär att ni alltid har aktuella data och korrekta rapporter.
 
@@ -65,6 +65,6 @@ Använd beräkningar i en textlägesberäkning i rapportens beskrivning.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Om du inkluderar beräkningar av textläge i rapportens beskrivning kan andra förstå hur beräkningen skapades och vilken typ av information den ska visa. Det påminner också systemadministratörerna om hur rapporten skapades ifall det skulle behövas uppdateringar i framtiden.

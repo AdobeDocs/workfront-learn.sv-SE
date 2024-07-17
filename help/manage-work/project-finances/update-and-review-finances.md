@@ -1,6 +1,6 @@
 ---
 title: Uppdatera och granska ekonomi
-description: Lär dig hur du granskar ekonomisk information om ett projekt i [!DNL  Workfront].
+description: Lär dig hur du granskar ekonomisk information som är kopplad till ett projekt i  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -19,32 +19,32 @@ ht-degree: 0%
 
 # Uppdatera och granska ekonomi
 
-Om din organisation använder [!DNL Workfront] för att hålla reda på projektrelaterad ekonomisk information kan kostnadsgranskning och faktureringsposter vara en del av processen för att avsluta ett projekt.
+Om din organisation använder [!DNL Workfront] för att hålla reda på projektrelaterad ekonomisk information kan det vara en del av processen att granska utgifter och skapa faktureringsposter för att stänga ett projekt.
 
 >[!NOTE]
 >
->Många [!DNL Workfront] kunderna hanterar sina utgifter och sina projektkostnader i ett tredjepartssystem, i stället för i [!DNL Workfront]. Du kan alltså ha olika processer eller riktlinjer för att uppdatera och granska ekonomisk information innan du avslutar ett projekt.
+>Många [!DNL Workfront]-kunder hanterar sina utgifter och projektekonomiska resurser i ett tredjepartssystem, i stället för i [!DNL Workfront]. Du kan alltså ha olika processer eller riktlinjer för att uppdatera och granska ekonomisk information innan du avslutar ett projekt.
 
 
 ## Utgifter
 
-Utgifter kan loggas på enskilda uppgifter eller själva projektet. Oavsett vilken artikel utgiften är inloggad på kan du visa alla utgifter i [!UICONTROL Utgifter] del av själva projektet.
+Utgifter kan loggas på enskilda uppgifter eller själva projektet. Oavsett vilket objekt utgiften är inloggad på kan du visa alla utgifter i avsnittet [!UICONTROL Utgifter] i själva projektet.
 
-![[!UICONTROL Utgifter] del av ett projekt](assets/expense-section.png)
+![[!UICONTROL Utgifter] i ett projekt](assets/expense-section.png)
 
 ## Faktureringsposter
 
-Faktureringsposter används i [!DNL Workfront] för att samla fakturerbara timmar, fakturerbara kostnader, fakturerbara intäkter och ytterligare fakturerbara belopp i en enda post och belopp. De exporteras ofta från [!DNL Workfront] till ett fakturerings- eller redovisningssystem från tredje part.
+Faktureringsposter används i [!DNL Workfront] för att samla fakturerbara timmar, fakturerbara utgifter, fakturerbara intäkter och ytterligare fakturerbara belopp i en enda post och belopp. Dessa exporteras ofta från [!DNL Workfront] till ett fakturerings- eller redovisningssystem från tredje part.
 
-Du måste ha tillgång till ekonomiska data i [!DNL Workfront] för att skapa och visa faktureringsposter.
+Du måste ha tillgång till ekonomiska data i [!DNL Workfront] för att kunna skapa och visa faktureringsposter.
 
 ## Ekonomisk information
 
-En titt på [!UICONTROL Ekonomi] information i [!UICONTROL Projektinformation] gör att du kan se faktiska siffror för fördelar, intäkter och kostnader.
+En snabbtitt på informationen [!UICONTROL Ekonomi] i [!UICONTROL Projektinformation] så att du kan se faktiska siffror för nytta, intäkter och kostnad.
 
-![Avsnittet Ekonomi i [!UICONTROL Projektinformation] fönster i ett projekt](assets/finance-section-project-details.png)
+![Ekonomiavsnittet i fönstret [!UICONTROL Projektinformation] i ett projekt](assets/finance-section-project-details.png)
 
-Den mesta finansiella informationen i [!UICONTROL Projektinformation] skapas när projektet skapas och de siffror du ser här baseras på den informationen. När du stänger ett projekt finns det alltså ingenting du behöver uppdatera eller lägga till i den ekonomiska informationen.
+Den mesta ekonomiska informationen i [!UICONTROL projektinformationen] ställs in när projektet skapas, och siffrorna som visas här baseras på den informationen. När du stänger ett projekt finns det alltså ingenting du behöver uppdatera eller lägga till i den ekonomiska informationen.
 
 <!---
 learn more urls

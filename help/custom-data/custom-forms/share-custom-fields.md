@@ -19,19 +19,19 @@ ht-degree: 0%
 
 # Dela anpassade fält
 
-Som standard är ett anpassat fält i [!DNL Workfront] kan redigeras av alla som har en planlicens med behörighet att redigera anpassade formulär. Du kan begränsa dessa behörigheter och bestämma om användare ska kunna hantera eller endast visa det anpassade fältet.
+Som standard är ett anpassat fält i [!DNL Workfront] redigerbart av alla som har en planlicens med behörighet att redigera anpassade formulär. Du kan begränsa dessa behörigheter och bestämma om användare ska kunna hantera eller endast visa det anpassade fältet.
 
 Som standard har ett nytt anpassat fält redigeringsbehörighet, vilket innebär att användare kan se fältet och redigera dess värde. Men om du inte vill att den ska redigeras eller tas bort av andra, ändrar du behörigheterna i fältet.
 
-1. Klicka på **[!UICONTROL Delningsfält]**.
-1. Ändra [!UICONTROL Redigerbar systemomfattande] till [!UICONTROL Gör detta synligt för hela systemet] genom att klicka på **inställningsikon**.
+1. Klicka på **[!UICONTROL Dela fält]**.
+1. Ändra [!UICONTROL Redigerbar systemomfattande] till [!UICONTROL Gör den här synliga systemomfattande] genom att klicka på **inställningsikonen**.
 
-![[!UICONTROL Gör detta synligt för hela systemet] i [!UICONTROL Delningsfält] underflik](assets/custom-forms-field-sharing-1.png)
+![[!UICONTROL Gör det här synliga systemomfattande]-alternativet i underfliken [!UICONTROL Dela]](assets/custom-forms-field-sharing-1.png)
 
 Om du vill att specifika användare, team, roller, grupper eller företag ska kunna redigera eller ta bort fältet i den anpassade formulärbyggaren, ger du dem behörighet att hantera.
 
-![[!UICONTROL Delningsfält] underfliken i [!UICONTROL Fältinställningar] i det anpassade formulärverktyget](assets/custom-forms-field-sharing-2.png)
+![[!UICONTROL Dela fält] på fliken [!UICONTROL Fältinställningar] i det anpassade formulärbyggaren](assets/custom-forms-field-sharing-2.png)
 
-Alla anpassade fält skapas med standarddelning av [!UICONTROL Redigerbar systemomfattande]. Du kan redigera delning gruppvis för att ta bort eller ändra det här alternativet i [!UICONTROL Fält] -fliken i [!UICONTROL Anpassad Forms] i [!UICONTROL Inställningar] område.
+Alla anpassade fält skapas med standarddelning av [!UICONTROL Redigerbar systemomfattande]. Du kan redigera delning gruppvis för att ta bort eller ändra det här alternativet på fliken [!UICONTROL Fält] i avsnittet [!UICONTROL Anpassad Forms] i området [!UICONTROL Inställningar].
 
-![[!UICONTROL Anpassad fältåtkomst] window](assets/custom-forms-field-sharing-3.png)
+![[!UICONTROL Anpassad fältåtkomst] fönster](assets/custom-forms-field-sharing-3.png)

@@ -1,6 +1,6 @@
 ---
-title: Förstå [!UICONTROL Arbetsinsats]
-description: Lär dig använda [!UICONTROL Arbetsinsats] för att få en ungefärlig uppskattning av planerade timmar på projekttidslinjen.
+title: '[!UICONTROL Arbetsinsats]'
+description: Lär dig hur du kan använda [!UICONTROL Arbetsinsats] för att få en ungefärlig uppskattning av planerade timmar på projekttidslinjen.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ---
 
-# Förstå [!UICONTROL Arbetsinsats]
+# [!UICONTROL Arbetsinsats]
 
 I den här videon får du lära dig:
 
@@ -29,7 +29,7 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on)
 
-Mer information om [!UICONTROL Arbetsinsats], se [Översikt över arbetsinsats](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) artikel.
+Mer information om [!UICONTROL Arbetsinsats] finns i artikeln [Översikt över arbetsinsatser](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en).
 
 ## Rekommenderade självstudiekurser i detta ämne
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -47,7 +47,7 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Upprätta en namnkonvention för anpassade fält som används med integreringar från tredjepartssystem.
 
-**Här är varför**
+**Det här är varför**
 
 Se till att alla som skapar anpassade formulär känner till namnkonventionen, så att de inte oavsiktligt använder ett fält som är reserverat för en integrering. Beroende på era integreringar och arbetsflöden kan användning av samma fält på flera sätt leda till att data ändras eller skrivs över, vilket kan leda till felaktiga data i rapporter.
 
@@ -59,7 +59,7 @@ Se till att alla som skapar anpassade formulär känner till namnkonventionen, s
 
 Spåra alla anpassade fält som används i integreringar med ett Workfront-projekt.
 
-**Här är varför**
+**Det här är varför**
 
 Ett projekt är det perfekta stället att logga egna fältnamn, vilken integrering de används med osv. Det hjälper dig att undvika att skapa redundanta anpassade fält eller att använda samma anpassade fält med flera integreringar.
 
@@ -71,6 +71,6 @@ Ett projekt är det perfekta stället att logga egna fältnamn, vilken integreri
 
 Lägg till objektets ID-fält i rapporter som används av systemadministratören.
 
-**Här är varför**
+**Det här är varför**
 
-Systemadministratörer behöver ofta referera till objekt i Workfront med sina ID-nummer när de använder API:er eller andra integreringar. Inkludera ID-fältet i vyer för de objekt du arbetar med (projekt, uppgifter, ärenden, mallar, anpassade formulär osv.) för att göra det enkelt att komma åt och kopiera.
+Systemadministratörer behöver ofta referera till objekt i Workfront med hjälp av deras ID-nummer när de använder API:er eller andra integreringar. Inkludera ID-fältet i vyer för de objekt du arbetar med (projekt, uppgifter, ärenden, mallar, anpassade formulär osv.) för att göra det enkelt att komma åt och kopiera.

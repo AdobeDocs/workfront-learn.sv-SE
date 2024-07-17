@@ -22,8 +22,8 @@ En liten ikon anger att en användare har markerat en viss tid i sin personliga 
 
 När du tilldelar från projektplanen genom att skriva in en användares namn blir namnet nedtonat och en liten blå varningsikon bredvid användarens avatarbild.
 
-![nedtonad användare för foto](assets/toat_01.png)
+![nedtonad användare för pto](assets/toat_01.png)
 
 Om du tilldelar från uppgiftssidhuvudet visas en liten blå flygplansikon bredvid personens avatar som varnar om att de har fått en ledig tid under den här uppgiften.
 
-![användaruppgiftstilldelning](assets/toat_02.png)
+![tilldelning av användaraktivitet](assets/toat_02.png)

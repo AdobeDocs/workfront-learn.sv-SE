@@ -36,4 +36,4 @@ Tack vare den här genomskinligheten och den enhetliga riktningen kan alla gå f
 
 ## Vanlig feedback
 
-Den sista stora fördelen med att använda Agile är den feedbackslinga som är inbyggd i slutet av varje iteration (kom ihåg: en upprepning är en viss tid som teamet måste arbeta med att slutföra specifika leveranser). Tack vare feedbackloopen kan teamet se tillbaka på de senaste veckorna för att avgöra vilka problem som uppstod, hur planen kan komma att ändras framåt, vad kunden nu behöver om tidigare behov har ändrats och vilka lärdomar teamet har dragit.
+Den största fördelen med att använda Agile är den feedback-slinga som finns i slutet av varje iteration (kom ihåg: en iteration är en tidsmängd då teamet måste arbeta för att slutföra specifika leveranser). Tack vare feedbackloopen kan teamet se tillbaka på de senaste veckorna för att avgöra vilka problem som uppstod, hur planen kan komma att ändras framåt, vad kunden nu behöver om tidigare behov har ändrats och vilka lärdomar teamet har dragit.

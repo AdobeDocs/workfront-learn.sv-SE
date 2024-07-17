@@ -1,6 +1,6 @@
 ---
 title: Varför ska jag använda kalendertiden?
-description: Få en glimt i hur ni ser vilka teammedlemmar som är tillgängliga för att slutföra det tilldelade arbetet och vilka som inte är det.
+description: Få en glimt i hur ni ser vilka teammedlemmar som är tillgängliga för att slutföra arbetet och vilka som inte är det.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 # Varför ska jag använda kalendertiden?
 
-När projektledare och projektledare tilldelar uppgifter i Workfront kan man vara säker på vilka teammedlemmar som kan slutföra arbetet och på så sätt slutföra projektet i tid.
+När projektledare och projektledare tilldelar uppgifter i Workfront kan man vara säker på vilka teammedlemmar som kan slutföra det tilldelade arbetet och på så sätt slutföra projektet i tid.
 
 Exakta tillgänglighetsdata spelar också in i den aktuella och framtida arbetsplaneringen när resurshanterarna granskar allokeringen i Workfront resursplanerings- och hanteringsverktyg.
 
-![fotokalender](assets/pto_01.png)
+![till kalender](assets/pto_01.png)
 
 Användare av Workfront Work- och Plan-licenser kan använda den personliga kalendertiden för att ange när de inte är tillgängliga under normal arbetstid. Även en halv dag kan påverka slutförandet av uppgifter som tilldelats dem.
 
-**Anteckning**: Workfront är inte utformat för att replikera eller ersätta din organisations befintliga system för att hantera, periodisera eller spåra ledig tid. Följ riktlinjerna från er organisation för att begära och hantera ledig tid.
+**Obs!** Workfront är inte utformat för att replikera eller ersätta din organisations befintliga system för att hantera, periodisera eller spåra ledig tid. Följ riktlinjerna från er organisation för att begära och hantera ledig tid.
 
 
 ## Markera din tid som ledig
@@ -51,4 +51,4 @@ Din personliga tid i kalendern finns på din användarsida i Workfront, som du k
 
 Din lediga tid anges med blå rutor i kalendern. Den här gången visas den även på andra platser i Workfront för att underlätta projekt- och resursplanering.
 
-**Proffstips**: Om en uppgift redan har tilldelats dig och du sedan markerar en ledig tid i kalendern, skickas inget meddelande till projektledaren som talar om att du inte är tillgänglig. Var noga med att uppdatera projektledaren med en ny tidpunkt som kan påverka aktuella projekt eller det arbete du har tilldelats.
+**Pro-tip**: Om en aktivitet redan har tilldelats dig och du sedan markerar en ledig tid i kalendern, skickas inget meddelande till projektledaren som talar om att du inte är tillgänglig. Var noga med att uppdatera projektledaren med en ny tidpunkt som kan påverka aktuella projekt eller det arbete du har tilldelats.

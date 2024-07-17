@@ -1,6 +1,6 @@
 ---
 title: Gräv djupare in i navigeringen
-description: Lär dig snabbt se hur mycket tid arbetare tillbringar varje projekt i [!UICONTROL Förbättrad analys].
+description: Lär dig hur du snabbt ser hur mycket tid arbetare tillbringar varje projekt i [!UICONTROL Förbättrad analys].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png

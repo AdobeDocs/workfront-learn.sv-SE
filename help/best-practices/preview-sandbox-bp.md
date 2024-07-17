@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -43,11 +43,11 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Definiera, diagram och testa ändringar av befintliga Workfront-processer eller inställningar i förhandsgranskningssandlådemiljön innan du gör uppdateringar i Production-instansen.
 
-**Här är varför**
+**Det här är varför**
 
 Sandlådemiljön för förhandsgranskning fungerar som en kopia av din livemiljö. Även om det inte rekommenderas att skapa en hel ny miljö i sandlådan innan du skapar den i Production-instansen, eftersom detta skapar extra arbete, är det bra att använda den som testmiljö för ändringar som du vill implementera.
 
 Genom att utföra UAT-tester (User accept testing) och involvera utvalda användare under testfasen av en ändring kan du få en bättre förståelse för användarnas behov och arbetsflöden. Detta är ett bra sätt att förbättra Workfront arbetsflöden och få bättre acceptans inom er organisation.
 
 
-**Anteckning**: Alla ändringar som du vill implementera i Workfront behöver inte skapas i förhandsvisningssandlådemiljön först. Många Workfront-ändringar, som att skapa en ny begärandekö eller projektmall, kan göras i produktionsmiljön. En bra tumregel när du testar i ProductionInstance är att styra synligheten för dina objekt tills du är redo att publicera till en större publik. Se till att du tar bort allt som du inte tänker använda så att systemet förblir rent och hanterbart.
+**Obs!** Alla ändringar som du vill implementera i Workfront behöver inte skapas i förhandsvisningssandlådemiljön först. Många Workfront-ändringar, som att skapa en ny begärandekö eller projektmall, kan göras i produktionsmiljön. En bra tumregel när du testar i ProductionInstance är att styra synligheten för dina objekt tills du är redo att publicera till en större publik. Se till att du tar bort allt som du inte tänker använda så att systemet förblir rent och hanterbart.

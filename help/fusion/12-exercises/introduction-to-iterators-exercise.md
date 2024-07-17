@@ -26,7 +26,7 @@ Lär dig att använda appar av iterationstyp och utföra åtgärder på varje in
 
 Titta på ett specifikt projekt i Workfront och titta sedan på alla uppgifter i det projektet. Du använder stegningsverktygets modul för att räkna antalet uppgifter i projektet. Slutligen använder du variabeln Set för att subtrahera antalet underordnade från Antal öppna ärenden för att skapa ett numeriskt värde för varje aktivitetspaket.
 
-![Introduktion till iteratorer Bild 1](../12-exercises/assets/introduction-to-iterators-walkthrough-1.png)
+![Introduktion till iteratorbild 1](../12-exercises/assets/introduction-to-iterators-walkthrough-1.png)
 
 ## Steg som ska följas
 
@@ -58,9 +58,9 @@ Titta på ett specifikt projekt i Workfront och titta sedan på alla uppgifter i
 1. Lägg till en Set-variabelmodul. Ange variabelnamnet till &quot;Slumpmässig matematik&quot;.
 1. I fältet Variabelvärde subtraherar du antalet öppna underordnade från antalet öppna opTasks.
 
-   **Det borde se ut så här:**
+   **Det ska se ut så här:**
 
-   ![Introduktion till iteratorer Bild 2](../12-exercises/assets/introduction-to-iterators-walkthrough-2.png)
+   ![Introduktion till iteratorbild 2](../12-exercises/assets/introduction-to-iterators-walkthrough-2.png)
 
 1. Byt namn på den här modulen till &quot;Slumpmässig matematik&quot;.
 1. Spara scenariot och klicka på Kör en gång.

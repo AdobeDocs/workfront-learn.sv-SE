@@ -1,6 +1,6 @@
 ---
 title: Genomgång av datalager
-description: Lär dig hur du använder till ett datalager för att synkronisera företagsnamn mellan en lista över företag och Workfront med [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du använder i ett datalager för att synkronisera företagsnamn mellan en lista över företag och Workfront med  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -46,4 +46,4 @@ Datalager är inte utformade för att användas som datalager eller loggning. Da
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

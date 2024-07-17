@@ -13,7 +13,7 @@ exl-id: b7f8ccb5-457f-4d89-bb57-5d9d6e169191
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ En del saker som gruppadministratörer kan göra i Workfront är:
 * Skapa godkännandeprocesser för gruppen.
 * Skapa arbetsflödesstatus på gruppnivå.
 * Få åtkomst till projekt, program och portföljer som är kopplade till gruppen från gruppsidan.
-* Hantera projekt, uppgifter och ärenden på gruppnivå.
+* Hantera inställningar för projekt, uppgifter och utgåvor på gruppnivå.
 * Hantera tidrapportinställningar på gruppnivå.
 * Hantera händelsemeddelanden på gruppnivå.
 * Logga in som andra gruppmedlemmar.
@@ -53,4 +53,4 @@ En del saker som gruppadministratörer kan göra i Workfront är:
 
 Som system- eller gruppadministratör kan du skapa undergrupper inom de grupper och undergrupper som du administrerar. Dessa undergrupper kan tilldelas egna gruppadministratörer.
 
-**Anteckning**: Det finns en gräns på 14 nivåer av undergrupper under en grupp.
+**Obs!**: Det finns en gräns på 14 nivåer för undergrupper under en grupp.

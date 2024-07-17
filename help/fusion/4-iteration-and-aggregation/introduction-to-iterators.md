@@ -1,6 +1,6 @@
 ---
 title: Introduktion till iteratorer
-description: Lär dig hur iteration och aggregering används och om olika typer av iteratorer i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur iteration och aggregering används och om olika typer av iteratorer i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

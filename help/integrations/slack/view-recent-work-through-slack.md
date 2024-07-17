@@ -1,5 +1,5 @@
 ---
-title: Visa senaste arbeten via [!DNL Slack]
+title: Visa senaste arbete via  [!DNL Slack]
 description: Lär dig hur du kan visa det senaste arbetet i Slack
 activity: use
 feature: Workfront Integrations and Apps
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Visa senaste arbeten via [!DNL Slack]
+# Visa senaste arbete via [!DNL Slack]
 
 I den här videon får du lära dig att:
 
-* Visa senaste arbeten via [!DNL Slack]
+* Visa senaste arbete via [!DNL Slack]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12&learn=on)

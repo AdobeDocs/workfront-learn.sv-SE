@@ -22,7 +22,7 @@ ht-degree: 0%
 
 I den här videon kommer du att:
 
-* Se [!UICONTROL Visa efter användare]visa
+* Se [!UICONTROL Visa efter användare]vy
 * Lär dig hur resursinformation visas i den här vyn
 
 

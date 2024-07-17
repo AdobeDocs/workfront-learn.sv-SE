@@ -1,6 +1,6 @@
 ---
 title: Förstå Brand Portal
-description: Lär dig hur du får tillgång till Brand Portal i [!UICONTROL WORKFRONT DAM], skapa mappar, ange förfallodatum för enskilda resurser och redigera resursinställningar.
+description: Lär dig hur du får åtkomst till Brand Portal i [!UICONTROL Workfront DAM], skapar mappar, anger förfallodatum för enskilda resurser och redigerar resursinställningar.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -30,9 +30,9 @@ I den här videon får du lära dig att:
 
 ## Resursmappar
 
-Mappar har flera syften i [!UICONTROL WORKFRONT DAM]. För det första är de ett sätt att ordna resurser. För det andra används de för att ge olika grupper av användare åtkomst till resurserna i mapparna.
+Mappar har flera syften i [!UICONTROL Workfront DAM]. För det första är de ett sätt att ordna resurser. För det andra används de för att ge olika grupper av användare åtkomst till resurserna i mapparna.
 
-Vissa användare bläddrar bland mapparna för att hitta resurser de vill ha i stället för att söka. En logisk, genomtänkt mappstruktur dirigerar användarna till rätt plats. Några [!UICONTROL WORKFRONT DAM] kunderna organiserar mappar per avdelning, filtyp, ämne, produkt, händelse eller arbetsflöde. Men det som fungerar för en organisation kanske inte fungerar för en annan.
+Vissa användare bläddrar bland mapparna för att hitta resurser de vill ha i stället för att söka. En logisk, genomtänkt mappstruktur dirigerar användarna till rätt plats. Vissa [!UICONTROL Workfront DAM]-kunder organiserar mappar per avdelning, filtyp, ämne, produkt, händelse eller arbetsflöde. Men det som fungerar för en organisation kanske inte fungerar för en annan.
 
 Mappar är också det sätt som användare får åtkomst till resurser på. Användare är ordnade i grupper, och sedan får grupper behörighet att komma åt mapparna. Behörigheter för mappar kan variera mellan olika grupper - visa endast, överföra resurser, hämta resurser, redigera resurser osv.
 

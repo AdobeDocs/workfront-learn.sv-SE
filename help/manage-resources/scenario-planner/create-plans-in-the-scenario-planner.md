@@ -1,6 +1,6 @@
 ---
-title: Skapa en plan i [!DNL Scenario Planner]
-description: Lär dig hur du skapar en plan i [!DNL Scenario Planner].
+title: Så här skapar du en plan i  [!DNL Scenario Planner]
+description: Lär dig hur du skapar en plan i  [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -20,16 +20,16 @@ ht-degree: 0%
 
 # Skapa planer i [!DNL Scenario Planner]
 
-I den här videon får du lära dig att skapa en plan i [!DNL Scenario Planner].
+I den här videon får du lära dig hur du skapar en plan i [!DNL Scenario Planner].
 
 >[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on)
 
-## Beräkna jobbrollsinformation för en plan
+## Beräkna information om jobbroll för en plan
 
 När du skapar en plan kan du ange om jobbrollsinsatsen ska beräknas i heltidsanställda eller timmar. Systemets standardvärde är FTE, men det kan ändras när du skapar en plan.
 
-![Välj [!UICONTROL FTE] eller [!UICONTROL Timmar] i [!UICONTROL Ny plan] window](assets/scenario-planner-1.png)
+![Välj [!UICONTROL FTE] eller [!UICONTROL Timmar] i fönstret [!UICONTROL Ny plan]](assets/scenario-planner-1.png)
 
 När planen har skapats anges alla nummer som lagts till för jobbroller i planen, planens scenarier och eventuella initiativ och visas i det valda formatet. Formatet visas högst upp i kolumner som kräver jobbrollsinformation.
 
-![Visa information i [!UICONTROL FTE] eller [!UICONTROL Timmar] i [!DNL Scenario Planner]](assets/scenario-planner-2.png)
+![Visa information i [!UICONTROL FTE] eller [!UICONTROL timmar] i [!DNL Scenario Planner]](assets/scenario-planner-2.png)

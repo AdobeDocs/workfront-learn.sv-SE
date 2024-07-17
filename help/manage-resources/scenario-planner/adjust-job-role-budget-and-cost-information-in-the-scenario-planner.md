@@ -1,6 +1,6 @@
 ---
-title: Uppdatera planinformation i [!DNL Scenario Planner]
-description: Lär dig hur du ändrar eller uppdaterar jobbroll, budget eller kostnadsinformation efter att en plan eller ett initiativ har skapats i [!DNL Scenario Planner].
+title: Uppdatera planinformation i  [!DNL Scenario Planner]
+description: Lär dig hur du ändrar eller uppdaterar jobbroll, budget eller kostnadsinformation efter att en plan eller ett initiativ har skapats i  [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User

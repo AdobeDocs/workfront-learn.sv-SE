@@ -1,6 +1,6 @@
 ---
 title: Förstå routrar
-description: Lär dig vad routrar är och varför du ska använda dem, hur datapaket skickar ned routersökvägar och hur du lägger till och använder routrar, allt i [!DNL Adobe Workfront Fusion].
+description: Lär dig vad routrar är och varför du ska använda dem, hur datapaket skickar ned routersökvägar och hur du lägger till och använder routrar, allt i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

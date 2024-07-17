@@ -1,6 +1,6 @@
 ---
 title: Granska och godkänna ett korrektur
-description: Lär dig hur du får åtkomst till och kommenterar ett korrektur, använder markeringar för att ange nödvändiga ändringar, svarar på korrekturkommentarer och fattar beslut om ett korrektur i [!DNL Workfront].
+description: Lär dig hur du får åtkomst till och kommenterar ett korrektur, använder markeringar för att ange nödvändiga ändringar, svarar på korrekturkommentarer och fattar ett beslut om ett korrektur i  [!DNL Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -32,53 +32,53 @@ När du vet vad som förväntas kan du komma igång med att granska ett korrektu
 
 När en mediefil är klar för granskning och godkännande får du ett e-postmeddelande.
 
-![En bild av ett nytt korrekturmeddelande som begär granskning och godkännande av två korrektur i [!DNL  Workfront].](assets/new-proof-emails.png)
+![En bild på ett nytt korrekturmeddelande som begär granskning och godkännande av två korrektur i [!DNL  Workfront].](assets/new-proof-emails.png)
 
 Det är viktigt att komma ihåg att den här korrekturlänken är unik för dig. Om du delar länken med någon taggas alla kommentarer och markeringar de gör med ditt namn.
 
-The [!UICONTROL Nytt korrektur] e-postmeddelandet innehåller även viktig information om korrekturet:
+E-postmeddelandet [!UICONTROL Nytt korrektur] innehåller även viktig information om korrekturet:
 
 * Namnet på korrekturet är ämnesraden i e-postmeddelandet.
 * Miniatyrbilden ger dig en snabb överblick över vad du kommer att granska.
 * Versionsnumret talar om vilken version av beviset du ska titta på.
 * Och viktigast av allt är att deadline visas på två ställen i e-postmeddelandet, precis ovanför avsnittet med korrekturinformation och i det grå fältet för arbetsflödessteget du är en del av.
 
-När du är redo att börja granska behöver du bara klicka på den blå [!UICONTROL Gå till korrektur] så öppnas filen automatiskt i [!DNL Workfront] korrekturläsare.
+När du är redo att starta granskningen behöver du bara klicka på den blå [!UICONTROL Gå till korrektur] så öppnas filen automatiskt i [!DNL Workfront] korrekturläsaren.
 
-### Öppna ett bevis från [!UICONTROL Startsida]
+### Öppna ett korrektur från [!UICONTROL Home]
 
-Om du jobbar i [!DNL Workfront] och har ombetts att godkänna ett bevis hittar du ett uppdrag i [!UICONTROL Arbetslista] av [!DNL Workfront] [!UICONTROL Startsida]. Det är praktiskt att bara välja [!UICONTROL Godkännanden] från [!UICONTROL Filter]så att du kan fokusera på den typen av arbete.
+Om du arbetar i [!DNL Workfront] och har ombetts att godkänna ett korrektur hittar du ett uppdrag i [!UICONTROL Arbetslistan] i [!DNL Workfront] [!UICONTROL Hem]. Det är praktiskt att bara välja [!UICONTROL Godkännanden] i [!UICONTROL Filter] så att du kan fokusera på den typen av arbete.
 
-![En bild av [!DNL Workfront] [!UICONTROL Startsida] med [!UICONTROL Godkännanden] filtret är aktiverat och ett korrektur har valts i listan.](assets/open-proof-from-home.png)
+![En bild av [!DNL Workfront] [!UICONTROL Hem] med filtret [!UICONTROL Godkännanden] aktiverat och ett korrektur valt från listan.](assets/open-proof-from-home.png)
 
-Observera att korrektur visas i [!DNL Workfront] [!UICONTROL Startsida] bara om du har tilldelats behörighet att godkänna det. Om du precis blivit ombedd att endast granska beviset visas det inte i [!DNL Workfront] [!UICONTROL Startsida] när du väljer [!UICONTROL Godkännanden]i filterlistan.
+Observera att korrektur endast visas i [!DNL Workfront] [!UICONTROL Hem] om du har tilldelats behörighet att godkänna det. Om du precis har ombetts att endast granska korrekturet visas det inte i [!DNL Workfront] [!UICONTROL Hem] när du väljer [!UICONTROL Godkännanden] i filterlistan.
 
-Välj korrekturgodkännande i dialogrutan [!UICONTROL Arbetslista]och klickar sedan på [!UICONTROL Gå till korrektur] för att öppna den i korrekturläsaren.
+Markera korrekturgodkännandet i [!UICONTROL arbetslistan] och klicka sedan på länken [!UICONTROL Gå till korrektur] för att öppna det i korrekturläsaren.
 
-Beroende på korrektur- och projektarbetsflöden kan en uppgiftstilldelning visas i [!DNL Workfront] [!UICONTROL Startsida] istället för en begäran om godkännande. I det här fallet öppnar du beviset från [!UICONTROL Dokument] i själva aktiviteten (se nedan för instruktioner).
+Beroende på korrektur- och projektarbetsflödena i din organisation kan en aktivitetstilldelning visas i [!DNL Workfront] [!UICONTROL Hem] i stället för en begäran om godkännande av korrektur. I det här fallet öppnar du korrekturet från [!UICONTROL Dokument] i själva aktiviteten (se nedan för instruktioner).
 
-Du kan också hitta korrektur att granska på en [!DNL Workfront] Instrumentpanel som skapats specifikt för ditt team eller din organisation för att hantera korrekturarbetsflöden.
+Du kan också hitta korrektur att granska på en [!DNL Workfront]-kontrollpanel som skapats specifikt för ditt team eller din organisation för att hantera korrekturarbetsflöden.
 
 ### Öppna ett korrektur från ett projekt, en uppgift eller en utgåva
 
-Om du vanligtvis arbetar med projekt, uppgifter eller problem i [!DNL Workfront]kanske du föredrar att öppna korrekturet direkt från [!DNL Documents] i det objektet.
+Om du vanligtvis arbetar med projekt, aktiviteter eller problem i [!DNL Workfront] kanske du föredrar att öppna korrekturet direkt från avsnittet [!DNL Documents] i det objektet.
 
-![En bild av [!UICONTROL Dokument] avsnitt i en [!DNL  Workfront] med [!UICONTROL Öppna korrektur]länk markerad.](assets/open-proof-from-documents.png)
+![En bild av avsnittet [!UICONTROL Dokument] hittades i en [!DNL  Workfront]-aktivitet med länken [!UICONTROL Öppna korrektur]markerad.](assets/open-proof-from-documents.png)
 
 1. Klicka på namnet på projektet, aktiviteten eller utgåvan.
-2. Klicka [!UICONTROL Dokument] på den vänstra panelmenyn på objektets sida.
-3. Sök efter korrekturet i [!UICONTROL Dokument] lista.
-4. Klicka på [!UICONTROL Öppna korrektur] för att öppna korrekturläsaren.
+2. Klicka på [!UICONTROL Dokument] på den vänstra panelmenyn på objektets sida.
+3. Hitta korrekturet i listan [!UICONTROL Dokument].
+4. Klicka på länken [!UICONTROL Öppna korrektur] för att öppna korrekturläsaren.
 
 ## Godkänna ett korrektur
 
-När du har öppnat ett korrektur ser du en **Fatta beslut** överst, bredvid **Lägg till kommentar**. Om du inte är godkännare för det här korrekturet visas inte den här knappen.
+När du har öppnat ett korrektur visas knappen **Fatta beslut** längst upp, bredvid **Lägg till kommentar**. Om du inte är godkännare för det här korrekturet visas inte den här knappen.
 
-![En bild på den första knappen för beslutsfattande.](assets/make-decision-1.png)
+![En bild av den första Beslutsknappen.](assets/make-decision-1.png)
 
-När du är redo att fatta ett beslut klickar du på **Fatta beslut** för att se dina valmöjligheter. Välj ett alternativ och klicka sedan på det andra **Fatta beslut** knappen nedan.
+När du är redo att fatta ett beslut klickar du på knappen **Fatta beslut** för att visa dina beslutsalternativ. Välj ditt val och klicka sedan på den andra knappen **Fatta beslut** nedan.
 
-![En bild på den andra beslutsknappen.](assets/make-decision-2.png)
+![En bild av den andra beslutsknappen.](assets/make-decision-2.png)
 
 ## Granska och godkänna ett korrektur
 

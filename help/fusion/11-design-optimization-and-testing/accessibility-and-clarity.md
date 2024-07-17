@@ -61,7 +61,7 @@ Gå sedan till det övre högra hörnet, klicka på Alternativ och välj Skapa s
 
 ### Skapa en mall
 
-Du kan skapa en mall i avsnittet Teammallar. Mallen som du skapar är tillgänglig för dig och ditt team, men när du klickar på knappen Publicera kan du dela den med personer utanför ditt team.
+Du kan skapa en mall i avsnittet Teammallar. Mallen som du skapar är tillgänglig för dig och ditt team, men när du klickar på knappen Publish kan du dela den med personer utanför ditt team.
 
 ![En bild av ett scenario med felhantering](assets/design-optimization-and-testing-7.png)
 
@@ -73,4 +73,4 @@ Markera kryssrutan Använd i guiden om du vill lägga till instruktioner som är
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

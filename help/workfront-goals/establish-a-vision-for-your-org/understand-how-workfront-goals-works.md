@@ -1,5 +1,5 @@
 ---
-title: Förstå hur [!DNL Workfront Goals] verk
+title: Förstå hur [!DNL Workfront Goals] fungerar
 description: Lär dig mer om hur du uttrycker vad och varför under planeringsfasen, exempelmål och omfattningen av påverkan.
 activity: use
 feature: Workfront Goals,Get Started with Workfront
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Förstå hur [!DNL Workfront Goals] verk
+# Förstå hur [!DNL Workfront Goals] fungerar
 
 I den här videon får du lära dig mer om:
 
@@ -29,7 +29,7 @@ I den här videon får du lära dig mer om:
 
 ## Utse ansvariga personer
 
-Innan du börjar konfigurera [!DNL Workfront Goals]måste ni identifiera de personer i organisationen som kommer att vara ansvariga för att ha lett till att varje mål har uppnåtts.
+Innan du börjar konfigurera [!DNL Workfront Goals] måste du identifiera de personer i organisationen som ska vara ansvariga för att ha lett till varje mål.
 
 Det finns några sätt att göra detta på. [!DNL Workfront] rekommenderar att du skissar upp organisationsschemat. Det kommer sannolikt att finnas flera skikt av målägare. Börja med ledarskap på toppnivå och identifiera sedan de team och teammedlemmar som ansvarar för att utföra det arbete som krävs för att leverera önskat resultat. De behöver en kontext över vilka mål de arbetar mot för att kunna producera sitt bästa.
 
@@ -41,7 +41,7 @@ Ta sedan ett steg tillbaka och titta på era medarbetare. Bestäm vem som behöv
 
 ![Tomt organisationsschema](assets/01-workfront-goals-blank-org-chart.png)
 
-Vi visar hur du konfigurerar och konfigurerar dina inställningar i [!DNL Workfront Goals], del 2: Skapa och hantera dina mål.
+Vi visar dig hur du konfigurerar och konfigurerar dina inställningar i [!DNL Workfront Goals], del 2: Skapa och hantera dina mål.
 
 <!--
 URL for part 2 reference above

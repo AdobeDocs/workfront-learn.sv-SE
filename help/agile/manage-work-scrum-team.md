@@ -17,9 +17,9 @@ ht-degree: 0%
 
 # Hantera arbetet som ett Scrum-team
 
-Nu när ni har skapat ert Creative Marketing-teamet kan ni ta steget in i skorna på den överordnad kretsen och se hur deras upplevelse ser ut.
+Nu när ni har skapat ert Creative Marketing-teamet kan ni ta ett steg in i skorna på scrommästaren för att se hur deras upplevelser ser ut.
 
-Som överordnad är ditt mål att avgöra vad ditt team behöver arbeta med först. Du organiserar artiklarna i eftersläpningen enligt den prioritet som produktägaren har. Om teamet har tagit emot gruppförfrågningar från projekt eller begärandeköer visas de redan i eftersläpningen. Du kan även behöva lägga till artiklar som inte specifikt hör till ett projekt som redan finns i Adobe Workfront.
+Som trumf är ditt mål att avgöra vad ditt team behöver arbeta med först. Du organiserar artiklarna i eftersläpningen enligt den prioritet som produktägaren har. Om teamet har tagit emot gruppförfrågningar från projekt eller begärandeköer visas de redan i eftersläpningen. Du kan även behöva lägga till artiklar som inte specifikt hör till ett projekt som redan finns i Adobe Workfront.
 
 ## Hantera din eftersläpning
 
@@ -28,12 +28,12 @@ I den här videon får du lära dig att:
 - Skapa ett smidigt teamprojekt för eftersläpning
 - Skapa en ny artikel
 
-I den här videon får du lära dig att: skapa ett smidigt teamprojekt för eftersläpning och skapa en ny berättelse.
+I den här videon får du lära dig hur du skapar ett smidigt teameftersläpningsprojekt och skapar en ny berättelse.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on)
 
 Agile-teamet kommer att slå ihop eftersläpningen. Det betyder i princip tre saker.
 
-- För det första kommer överordnad att hjälpa teamet att förstå vad produktägaren förväntar sig av vad som ska göras.
+- För det första hjälper systemadministratören teamet att förstå vad produktägaren förväntar sig av vad som ska göras.
 - För det andra kommer teammedlemmarna att uppskatta hur lång tid det tar att slutföra varje berättelse.
 - För det tredje använder teamet den här informationen för att fatta välgrundade beslut om vad man ska arbeta med och när man ska arbeta med det.

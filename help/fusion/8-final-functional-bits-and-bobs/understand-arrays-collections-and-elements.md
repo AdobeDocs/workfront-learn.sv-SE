@@ -1,6 +1,6 @@
 ---
 title: Förstå arrayer, samlingar och element
-description: Lär dig hur data kan ordnas i arrayer, samlingar och element och hur du arbetar med enkla och komplexa arrayer i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur data kan ordnas i arrayer, samlingar och element, och hur du arbetar med enkla och komplexa arrayer, i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Introduktion och teknikstrategi
-description: Läs om kraften och flexibiliteten i [!DNL Adobe Workfront Fusion]och hur du kommer igång med din egen Fusion-instans.
+description: Lär dig mer om kraften och flexibiliteten i  [!DNL Adobe Workfront Fusion] och hur du kommer igång med din egen Fusion-instans.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Introduktion och teknikstrategi
 
-Läs om kraften och flexibiliteten i [!DNL Adobe Workfront Fusion]och hur du kommer igång med din egen Fusion-instans.
+Lär dig mer om kraften och flexibiliteten i [!DNL Adobe Workfront Fusion] och hur du kommer igång med din egen Fusion-instans.
 
 ## Vad är Adobe Workfront Fusion?
 
@@ -40,7 +40,7 @@ Din Fusion-systemadministratör skickar en ny användarinbjudan, som består av 
 Om du är administratör för Fusion-system vill du läsa följande självstudiekurser för att lära dig hur du skapar team och lägger till nya användare.
 
 * [Förstå organisationer, team och användare](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=en)
-* [Administration genomgång](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=en)
+* [Administrationsgenomgång](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=en)
 
 ## Introduktion och teknikstrategi
 

@@ -1,6 +1,6 @@
 ---
 title: Lär dig fyra sätt att skapa ett projekt
-description: Lär dig hur du skapar ett projekt från en mall, skapar ett projekt från grunden, kopierar ett befintligt projekt eller importerar ett [!DNL Microsoft Project] -fil.
+description: Lär dig hur du skapar ett projekt från en mall, skapar ett projekt från grunden, kopierar ett befintligt projekt eller importerar en [!DNL Microsoft Project] fil.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335084.jpeg
@@ -27,7 +27,7 @@ I den här videon får du lära dig att:
 * Skapa ett projekt från en mall
 * Skapa ett projekt från grunden
 * Kopiera ett befintligt projekt
-* Importera en [!DNL Microsoft Project] fil
+* Importera en [!DNL Microsoft Project]-fil
 
 >[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)
 

@@ -8,7 +8,7 @@ jira: KT-10921
 exl-id: dbb961f9-c207-49f1-9545-ec127f983c15
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '1480'
+source-wordcount: '1482'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -72,7 +72,7 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Ta med en beskrivning för varje element i en begärandekö - begärandeköprojektet, ämnesgrupper, köämnen och routningsregler.
 
-**Här är varför**
+**Det här är varför**
 
 Med beskrivningar kan gruppadministratörer, framtida systemadministratörer och andra som underhåller begärandeköer veta exakt vad varje del av begärandekön gör.
 
@@ -87,7 +87,7 @@ Beskrivningen behöver inte vara lång, bara en kort kommentar om syftet med ell
 
 Skapa en projektstatus med namnet &quot;Begärankö&quot; eller &quot;Operativ&quot; som motsvarar &quot;Aktuell&quot; för att skilja begärandeköprojekt från andra projekt.
 
-**Här är varför**
+**Det här är varför**
 
 En frågekö som finns i ett projekt och som måste ha samma status som Aktuell för att kön ska vara aktiv.
 
@@ -100,7 +100,7 @@ För att kunna skilja en begäran från faktiska arbetsprojekt med statusen&quot
 
 Skapa en utgivningsstatus med namnet&quot;Avvisat&quot; när du använder utgivningsgodkännanden och ange statusen&quot;Avvisat&quot; för alternativet Om avvisat.
 
-**Här är varför**
+**Det här är varför**
 
 Genom att använda statusen&quot;Avvisat&quot; klargörs det att begäran granskades och avvisades.
 
@@ -111,11 +111,11 @@ Genom att använda statusen&quot;Avvisat&quot; klargörs det att begäran gransk
 
 Tilldela anpassade&quot;universella&quot; formulär till köer för att hämta in så mycket data som möjligt i hela företaget.
 
-**Här är varför**
+**Det här är varför**
 
 Ett anpassat universellt formulär samlar in den standardinformation som behövs för begäran, oavsett vilken typ av begäran som skickas.
 
-Ett anpassat &quot;universellt&quot; formulär minskar antalet anpassade formulär som du behöver skapa och underhålla. Det säkerställer också att alla förfrågningar samlar in samma information på samma sätt, vilket leder till enhetlig rapportering och dataanalys.
+Ett anpassat &quot;universellt&quot; formulär minskar antalet anpassade formulär som du behöver för att skapa och underhålla. Det säkerställer också att alla förfrågningar samlar in samma information på samma sätt, vilket leder till enhetlig rapportering och dataanalys.
 
 </br>
 </br>
@@ -124,7 +124,7 @@ Ett anpassat &quot;universellt&quot; formulär minskar antalet anpassade formul�
 
 Undvik att dela begärandeköer med&quot;alla&quot;.  Ställ in köinformationsinställningarna så att användarna bara ser de köer som är relevanta för deras behov.
 
-**Här är varför**
+**Det här är varför**
 
 I de flesta fall behöver en begärandekö bara delas med en viss uppsättning personer, som ett team, en leverantör, kunder osv. När beställarna bara ser det de behöver i listan över begärandeköer blir det enkelt att hitta och navigera.
 
@@ -136,7 +136,7 @@ I de flesta fall behöver en begärandekö bara delas med en viss uppsättning p
 
 Bygg och tilldela en kontrollpanel med begärandekörapporter så att trafikansvariga, systemadministratörer och tilldelade användare kan arbeta direkt med problem.
 
-**Här är varför**
+**Det här är varför**
 
 Att ge användarna snabb och enkel åtkomst till inkommande förfrågningar innebär att arbetet inte går förlorat i flytten.
 
@@ -148,7 +148,7 @@ Att ge användarna snabb och enkel åtkomst till inkommande förfrågningar inne
 Använd layoutmallar för att ta bort inställningsalternativen för begärandekön från den vänstra panelmenyn för projekt för användare som inte behöver skapa köer.
 
 
-**Här är varför**
+**Det här är varför**
 
 Detta garanterar att alla begärandeköer går igenom rätt process för att skapas (t.ex. granskas av en styrkommitté) och konfigureras korrekt av antingen en system- eller gruppadministratör.
 
@@ -161,7 +161,7 @@ Dessutom är det här ett sätt att ordna kölistan och fokusera på de typer av
 
 Skapa en kö för systemadministratörsförfrågningar där användare kan ställa Workfront-relaterade frågor, göra förfrågningar om systeminställningar, schemalägga ny användarutbildning osv.
 
-**Här är varför**
+**Det här är varför**
 
 Detta är en central plats där användare kan skicka frågor och där administratörer kan samla in, övervaka och besvara Workfront-relaterade frågor.
 
@@ -175,7 +175,7 @@ Dessutom kan den här informationen användas för att visa ledarskap för tid, 
 
 Granska begärandeköer regelbundet för att identifiera och ta bort delning av köer som inte används.
 
-**Här är varför**
+**Det här är varför**
 
 Med en regelbunden granskning av inställningarna och objekten i ditt Adobe Workfront-system blir det enklare att hålla det rent och fritt från onödiga objekt. Om en kö inte längre används eller övervakas bör du se till att användarna inte längre kan komma åt den, så att arbetsförfrågningar inte hamnar i ett tomrum.
 
@@ -187,7 +187,7 @@ Med en regelbunden granskning av inställningarna och objekten i ditt Adobe Work
 
 Använd ämnesgrupper för att ordna mer än 10 köämnen i en begärandekö för att skapa kortare och enklare listor.
 
-**Här är varför**
+**Det här är varför**
 
 Ämnesgrupper gör användarna mer benägna att använda och skapar mindre förvirring genom att minska den inledande listan med alternativ att välja bland. På så sätt kan användarna enkelt hitta det de söker utan att överbelasta dem när de försöker skicka in en förfrågan.
 
@@ -200,7 +200,7 @@ Dessutom ger det systemadministratörer och/eller begärandeköhanterare möjlig
 
 Styr det totala antalet begäranköer som är tillgängliga för användare genom att dela upp en begärandekö med ämnesgrupper och köämnen, i stället för att skapa flera köer.
 
-**Här är varför**
+**Det här är varför**
 
 Alltför många begärandeköer gör det svårt för användarna att hitta det de behöver.
 
@@ -215,7 +215,7 @@ Skapa flera begärandeköer om olika åtkomst behövs för olika begärandeköer
 
 Ställ in routningsregler för varje köämne. Ange som minimum en standardregel för routning.
 
-**Här är varför**
+**Det här är varför**
 
 Routningsregler säkerställer att någon alltid tilldelas den inkommande begäran så att arbetet inte faller igenom sprickorna.
 
@@ -226,9 +226,9 @@ Routningsregler säkerställer att någon alltid tilldelas den inkommande begär
 
 Utnyttja ämnesgrupper och köämnen när selektiv routning behövs.
 
-**Här är varför**
+**Det här är varför**
 
-Routningsregler kan inte tillämpas på fält i ett anpassat formulär. Så om olika typer av förfrågningar måste dirigeras till olika team/individer, ska varje typ av begäran ha ett eget ämne i grupp/kö så att arbetet kan dirigeras korrekt.
+Routningsregler kan inte tillämpas på fält i ett anpassat formulär. Så om olika typer av förfrågningar måste dirigeras till olika team/individer, ska varje typ av begäran ha ett eget ämne i grupp/kö så att arbetet kan dirigeras på rätt sätt.
 
 </br>
 </br>
@@ -237,7 +237,7 @@ Routningsregler kan inte tillämpas på fält i ett anpassat formulär. Så om o
 
 Skicka förfrågningar till ett team istället för till en individ.
 
-**Här är varför**
+**Det här är varför**
 
 När förfrågningar skickas till teamet ger det hela teamet insyn i de förfrågningar som görs och vad det kommande arbetet kan innebära. Alla kan se Team-sidan för nya objekt eller hålla reda på vad som är nytt med en rapport på en kontrollpanel.
 

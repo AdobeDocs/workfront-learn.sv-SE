@@ -19,22 +19,22 @@ ht-degree: 0%
 
 # Förstå finansiell åtkomst
 
-Om din organisation samlar in ekonomiska data med [!DNL Workfront]Som systemadministratör är det ditt ansvar att skydda och hantera vem som har åtkomst för att visa och redigera informationen.
+Om din organisation samlar in ekonomiska data med [!DNL Workfront] är det din skyldighet att skydda och hantera vem som har åtkomst att visa och redigera informationen.
 
 Två saker är nödvändiga för att en användare ska kunna visa eller redigera ekonomisk information:
 
-1. Åtkomsträttigheter måste aktiveras i [!UICONTROL Åtkomstnivå].
+1. Åtkomstbehörighet måste aktiveras på [!UICONTROL åtkomstnivå].
 2. Tillstånd att använda dessa åtkomsträttigheter måste beviljas objekt för objekt.
 
 En användare kan till exempel få behörighet att visa ekonomiska data på åtkomstnivå, men kan bara visa ekonomiska data för en uppgift som både delas med användaren och finansiell visning aktiveras när uppgiften delas.
 
-Det är alltså möjligt för en användare med [!UICONTROL Åtkomstnivå] behörighet att visa ekonomiska uppgifter för att kunna se ekonomiska resultat för vissa objekt och inte för andra, beroende på dessa objekts individuella delningsalternativ. Ingen användare kan dock visa ekonomiska data för något objekt såvida de inte har den behörighet som de har i sina [!UICONTROL Åtkomstnivå].
+Det är därför möjligt för en användare med [!UICONTROL åtkomstnivå] att visa ekonomiska resurser för att kunna visa ekonomiska resurser på vissa objekt och inte andra, beroende på de enskilda delningsalternativen för dessa objekt. Ingen användare kan dock visa ekonomiska data för något objekt om de inte har behörighet för dem i sin [!UICONTROL åtkomstnivå].
 
-## [!UICONTROL Åtkomstnivå] inställningar
+## [!UICONTROL Åtkomstnivå]-inställningar
 
-Allmän tillgång till finansiella uppgifter ges först av [!DNL Workfront] licenstyp.
+Allmän åtkomst till ekonomiska data beviljas först av licenstypen [!DNL Workfront].
 
-**[!UICONTROL Plan] licenser kan**
+**[!UICONTROL Planera] licenser kan:**
 
 * Hantera faktureringsposter
 * Hantera och visa rollfakturering och kostnadstariffer
@@ -42,40 +42,40 @@ Allmän tillgång till finansiella uppgifter ges först av [!DNL Workfront] lice
 * Hantera utgifter
 * Visa och redigera ekonomi
 
-**[!UICONTROL Arbete] licenser kan**
+**[!UICONTROL Licenser för arbete] kan:**
 
 * Hantera utgifter
 * Visa finanser
 
-**[!UICONTROL Granska] licenser kan**
+**[!UICONTROL Granska] licenser kan:**
 
 * Visa finanser
 
-**Behörigheter kan ändras av [!UICONTROL Åtkomstnivå]. De tre alternativen för åtkomst av finansiella data är:**
+**Behörigheter kan ändras av [!UICONTROL åtkomstnivån]. De tre alternativen för åtkomst av ekonomiska data är:**
 
-* [!UICONTROL Ingen åtkomst] — Användaren kan inte se ekonomisk information.
-* [!UICONTROL Visa] — Användare kan granska och dela informationen.
-* [!UICONTROL Redigera] — Användare kan skapa, redigera, ta bort och dela informationen. (Endast tillgängligt för en planlicens.)
+* [!UICONTROL Ingen åtkomst] - Användaren kan inte se ekonomisk information.
+* [!UICONTROL Visa] - Användaren kan granska och dela informationen.
+* [!UICONTROL Redigera] - Användaren kan skapa, redigera, ta bort och dela informationen. (Endast tillgängligt för en planlicens.)
 
-![En bild som visar allmänna alternativ för finansiella data på åtkomstnivå](assets/setting-up-finances-8.png)
+![En bild som visar allmänna alternativ för ekonomiska data på en åtkomstnivå](assets/setting-up-finances-8.png)
 
-Observera att [!UICONTROL Visa] och [!UICONTROL Redigera] det finns ytterligare inställningar för [!UICONTROL Plan] licens. Klicka på kugghjulet på [!UICONTROL Visa] för dessa alternativ:
+Observera att alternativen [!UICONTROL Visa] och [!UICONTROL Redigera] har ytterligare inställningar för en [!UICONTROL plan]-licens. Klicka på kugghjulet på knappen [!UICONTROL Visa] för följande alternativ:
 
 **[!UICONTROL Visa]**
 
 * Visa fakturering och kostnadstariffer för roller
 * Visa fakturering och kostnadstariffer för användare
 
-![En bild som visar visningsalternativ för finansiella data på åtkomstnivå](assets/setting-up-finances-9.png)
+![En bild som visar visningsalternativ för ekonomiska data på en åtkomstnivå](assets/setting-up-finances-9.png)
 
 **[!UICONTROL Redigera]**
 
-Dessa två alternativ är tillgängliga under [!UICONTROL Redigera] alternativ, tillsammans med:
+Dessa två alternativ är tillgängliga under alternativet [!UICONTROL Redigera], tillsammans med:
 
 * Redigera rollfakturering och kostnadstariffer
-* Redigera fakturering och kostnadstariffer för användare
+* Redigera fakturering och kostnadstariffer
 
-![En bild som visar redigeringsalternativ för finansiella data på åtkomstnivå](assets/setting-up-finances-10.png)
+![En bild som visar redigeringsalternativ för finansiella data på en åtkomstnivå](assets/setting-up-finances-10.png)
 
 >[!NOTE]
 >

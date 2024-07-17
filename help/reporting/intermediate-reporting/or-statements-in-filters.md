@@ -27,7 +27,7 @@ I det här exemplet har vi tre kriterier, eller regler, för ett projektfilter:
 1. Projektet måste finnas i Events Marketing-portföljen.
 1. Projektet måste vara ett aktivt projekt, vilket innebär att det måste ha statusen Aktuell.
 
-![En bild av hur du skapar ett filter med AND-programsatser i [!DNL Workfront]](assets/or-statement-1.png)
+![En bild på hur du skapar ett filter med AND-programsatser i [!DNL Workfront]](assets/or-statement-1.png)
 
 Projekten i resultatlistan uppfyller alla tre kriterierna, vilket gör att du kan begränsa sökresultaten så att du kan se exakt den information du behöver.
 
@@ -41,11 +41,11 @@ ELLER-programsatser utökar eller ökar mängden information som filtret hittar,
 
 Låt oss titta på en enkel ELLER-sats - projekt som du är projektledare (ägare) för ELLER-projekt som du har skapat.
 
-![En bild av hur du skapar ett filter med OR-programsatser i [!DNL Workfront]](assets/or-statement-3.png)
+![En bild på hur du skapar ett filter med OR-programsatser i [!DNL Workfront]](assets/or-statement-3.png)
 
 När du har konfigurerat båda filterreglerna klickar du på OCH mellan dem och växlar till OR.
 
-![En bild av hur du skapar ett filter med OR-programsatser i [!DNL Workfront]](assets/or-statement-4.png)
+![En bild på hur du skapar ett filter med OR-programsatser i [!DNL Workfront]](assets/or-statement-4.png)
 
 Alternativet ELLER mellan de två filterreglerna utökar sökvillkoren och anger för Workfront att hitta projekt som uppfyller det ena eller det andra av dessa alternativ. Ditt namn finns i projektägarfältet eller du är den person som skapade projektet.
 
@@ -53,7 +53,7 @@ Alternativet ELLER mellan de två filterreglerna utökar sökvillkoren och anger
 
 Nu tittar vi på en OR-sats som innehåller flera filterregler på varje sida av OR-satsen. Detta använder samma två regler som tidigare, men lägger till en regel. Projekt måste också ha statusen Aktuell.
 
-![En bild av hur du skapar ett filter med OR-programsatser i [!DNL Workfront]](assets/or-statement-5.png)
+![En bild på hur du skapar ett filter med OR-programsatser i [!DNL Workfront]](assets/or-statement-5.png)
 
 Observera att Workfront&quot;grupperade&quot; filterreglerna på varje sida av ELLER (det finns en grå ruta runt dem). Detta innebär att Workfront kör reglerna på varje sida av OR tillsammans och söker efter projekt som uppfyller båda dessa kriterier eftersom de är förenade med AND.
 
@@ -75,7 +75,7 @@ Utan de vanliga filterreglerna kanske du inte får de sökresultat du förvänta
 
 Om du till exempel bara placerar regeln &quot;projektstatus är lika med aktuell&quot; på en sida av ELLER, fungerar den bara med de andra filterreglerna i det avsnittet. I bilden nedan ser du att regeln &quot;projektstatus är lika med aktuell&quot; endast finns i det övre avsnittet.
 
-![En bild av hur du skapar ett filter med OR-programsatser i [!DNL Workfront]](assets/or-statement-6.png)
+![En bild på hur du skapar ett filter med OR-programsatser i [!DNL Workfront]](assets/or-statement-6.png)
 
 Detta innebär att Workfront söker efter:
 

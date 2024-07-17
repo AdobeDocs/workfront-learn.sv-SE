@@ -36,20 +36,20 @@ Ring en webbtjänst om du vill returnera information om flera länder och identi
 
 1. Skapa ett nytt scenario och ge det namnet&quot;Avancerad aggregering&quot;.
 1. Ställ in utlösarmodulen på en HTTP - Gör en begärandemodul.
-1. Använd denna URL, `https://restcountries.com/v2/lang/es`, som ger er en lista över alla länder där spanska talas.
+1. Använd den här URL:en, `https://restcountries.com/v2/lang/es`, som ger dig en lista över alla länder där spanska talas.
 1. Låt metoden vara Get.
 1. Klicka i kryssrutan Tolka svar.
 1. Byt namn på den här modulen till Hämta länder.
 1. Klicka på Spara och kör en gång.
 
-   **Resultatet är ett enda paket, men det finns i en array med 24 samlingar, en för varje spansktalande land.**
+   **Utdata är ett enskilt paket, men de ingår i en array med 24 samlingar, en för varje spansktalande land.**
 
    ![Avancerad aggregeringsbild 3](../12-exercises/assets/advanced-aggregation-walkthrough-3.png)
 
-   **Du måste samla in information om underregioner för varje land, så du måste göra en extra HTTP-begäran.**
+   **Du måste samla in underregionsinformation för vart och ett av länderna, så du måste göra en ytterligare HTTP-begäran.**
 
 1. Lägg till ytterligare en begäran om att få information om underregioner. Det kommer bara att återlämna det första landet, men det är okej för tillfället. Lägg till ytterligare en HTTP Gör en begärandemodul och använd URL `https://restcountries.com/v2/name/{country name}`.
-1. Om du vill hämta namnet på det första landet går du till mappningspanelen och klickar på Data och sedan på Namn i arrayen. The [1] i datafältet betyder att det returnerar det första objektet i arrayen.
+1. Om du vill hämta namnet på det första landet går du till mappningspanelen och klickar på Data och sedan på Namn i arrayen. [1] i datafältet betyder att det returnerar det första objektet i arrayen.
 
    + Klicka på numret och ändra indexet om det behövs, men i det här fallet vill du bara ha det första objektet.
 
@@ -77,8 +77,8 @@ Ring en webbtjänst om du vill returnera information om flera länder och identi
 1. Lägg nu till en numerisk aggregator efter Hämta landsuppgifter för att gruppera och summera populationerna.
 1. Källmodulen är iteratorn.
 1. Sammanställningsfunktionen är SUM.
-1. Värdet är [data:population] i modulen Hämta landsuppgifter.
-1. Klicka på alternativet Visa avancerade inställningar längst ned och gruppera efter [data:underregion] i modulen Hämta landsuppgifter.
+1. Värdet är [data:population] från modulen Hämta landsuppgifter.
+1. Klicka på alternativet Visa avancerade inställningar längst ned och gruppera efter [data:subregion] i modulen Hämta landsuppgifter.
 
    ![Avancerad aggregeringsbild 7](../12-exercises/assets/advanced-aggregation-walkthrough-7.png)
 
@@ -86,7 +86,7 @@ Ring en webbtjänst om du vill returnera information om flera länder och identi
 
 1. Lägg till en textaggregator i slutet.
 1. Källmodulen är den numeriska aggregatorn.
-1. I textområdet anger du &quot;The total population of [NYCKEL] är [resultat].&quot;
+1. I textområdet infogar du &quot;Den totala populationen av [KEY] är [result].&quot;
 
    ![Avancerad aggregeringsbild 8](../12-exercises/assets/advanced-aggregation-walkthrough-8.png)
 

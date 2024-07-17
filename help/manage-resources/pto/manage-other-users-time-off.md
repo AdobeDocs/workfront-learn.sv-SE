@@ -26,18 +26,18 @@ Workfront rekommenderar att din organisation har en policy eller procedur för n
 
 Så här hanterar du en annan användares kalender:
 
-* Klicka på [!UICONTROL Huvudmeny] och väljer Användare.
+* Klicka på [!UICONTROL Huvudmenyn] och välj Användare.
 
 * Använd sökikonen för att hitta användaren eller bläddra igenom listan.
 
 * Klicka på användarens namn i listan.
 
-* Klicka [!UICONTROL Tid av] på den vänstra panelmenyn på användarens profilsida.
+* Klicka på [!UICONTROL Stäng av] på den vänstra panelmenyn på användarens profilsida.
 
 * Klicka på ett datum i kalendern.
 
-* Workfront antar att det är en hel dag ledigt. Om så är fallet klickar du på [!UICONTROL Spara] -knappen.
+* Workfront antar att det är en hel dag ledigt. Om så är fallet klickar du på knappen [!UICONTROL Spara].
 
-* Om du har flera dagar i följd ledigt ändrar du till sista dagen på kontoret. Klicka på [!UICONTROL Spara] -knappen.
+* Om du har flera dagar i följd ledigt ändrar du till sista dagen på kontoret. Klicka på knappen [!UICONTROL Spara].
 
-* Om du markerar en partiell dag avmarkerad avmarkerar du [!UICONTROL Hela dagen] box. Ange sedan timmarna som användaren ska arbeta den dagen (timmarna de är tillgängliga). Klicka på [!UICONTROL Spara] -knappen.
+* Om du markerar en partiell dag som ledig avmarkerar du kryssrutan [!UICONTROL Alla dagar]. Ange sedan timmarna som användaren ska arbeta den dagen (timmarna de är tillgängliga). Klicka på knappen [!UICONTROL Spara].

@@ -1,6 +1,6 @@
 ---
 title: Skapa ett begärandeflöde
-description: Lär dig konfigurera [!DNL  Workfront] köämnen, ämnesgrupper och routningsregler för att underlätta hanteringen av begäranden och arbetsflöden.
+description: Lär dig hur du konfigurerar  [!DNL  Workfront] köämnen, ämnesgrupper och routningsregler för att hantera begäranden och arbetsbelastning.
 activity: deploy
 feature: Work Management
 type: Tutorial

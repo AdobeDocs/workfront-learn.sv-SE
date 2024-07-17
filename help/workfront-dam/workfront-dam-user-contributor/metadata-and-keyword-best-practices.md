@@ -1,6 +1,6 @@
 ---
 title: Förstå metadata och nyckelordsrutiner
-description: Lär dig hur du använder metadata och nyckelord i [!UICONTROL WORKFRONT DAM] som beskriver en resurs för att öka sökbarheten för organisationens resurser.
+description: Lär dig hur du använder metadata och nyckelord i [!UICONTROL Workfront DAM] för att beskriva en resurs och öka sökbarheten för organisationens resurser.
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 Metadata är alla data som används för att beskriva en tillgång. Metadatafält har ett namn och användare kan redigera eller ändra informationen i många av dessa fält. Vissa metadatafält fylls i av programmet eller enheten som resursen kom från och kan inte redigeras.
 
-Om du använder konsekventa metadata blir det lättare att söka efter organisationens resurser. Dessutom hämtas resurser från [!UICONTROL WORKFRONT DAM] bevara sina metadata, vilket ger ett annat skyddslager för dina resurser om de lämnar dem [!UICONTROL WORKFRONT DAM].
+Om du använder konsekventa metadata blir det lättare att söka efter organisationens resurser. Dessutom behåller resurser som hämtats från [!UICONTROL Workfront DAM] sina metadata, vilket ger ett annat skyddslager för dina resurser om de lämnar [!UICONTROL Workfront DAM].
 
 Här följer några tips om hur du kan använda din organisations metadatainsatser:
 
-* Lägg alltid till ägar- eller kreditinformation till dina tillgångar för identifiering utanför [!UICONTROL WORKFRONT DAM].
+* Lägg alltid till ägar- eller kreditinformation till dina resurser för identifiering utanför [!UICONTROL Workfront DAM].
 * Lägg till användningsvillkor för rättighetshanterade resurser för att förhindra missbruk.
 * Lägg till metadata i dina resurser så snart du överför dem.
 * Implementera fördefinierade listrutemenyer för vanliga data för att förhindra inkonsekvenser.
@@ -36,7 +36,7 @@ Här följer några tips om hur du kan använda din organisations metadatainsats
 
 ## Metadatastrategi
 
-Organisationen har förmodligen utvecklat en metadatastrategi. Om du överför resurser till [!UICONTROL WORKFRONT DAM]är det viktigt att du tar reda på hur er organisation hanterar
+Organisationen har förmodligen utvecklat en metadatastrategi. Om du överför resurser till [!UICONTROL Workfront DAM] bör du ta reda på hur din organisation hanterar:
 
 * Vem ansvarar för att lägga till metadata.
 * Vilka metadata krävs.
@@ -50,7 +50,7 @@ Nyckelord är en delmängd av metadata. Nyckelord är ofta generiska, beskrivand
 
 Nyckelord är sökbara, så det är viktigt att nyckelord anges på resurser på ett konsekvent sätt.
 
-Din organisation kan implementera en nyckelordstonomi, som är en kontrollerad lista med nyckelord som du kan välja mellan när du redigerar en resurs i [!UICONTROL WORKFRONT DAM].
+Din organisation kan implementera en nyckelordstonomi, som är en kontrollerad lista med nyckelord som du kan välja mellan när du redigerar en resurs i [!UICONTROL Workfront DAM].
 
 Om din organisation tillåter dig att ange nyckelord manuellt bör du tänka på dessa tips.
 

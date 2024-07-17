@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -60,7 +60,7 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 Alla slutförda projekt ska ha en status som visar att de är slutförda.
 
 
-**Här är varför**
+**Det här är varför**
 
 Om du ser till att alla projekt som är slutförda har statusen Fullständigt (eller motsvarande) håller Workfront-instansen ren och aktuell. Genom att hålla projektstatusarna uppdaterade och stänga dem kan användarna enkelt se vilket arbete som redan har utförts så att de kan fokusera på de aktiva prioriteringarna. Det säkerställer också att rapportdata om projekt, uppgifter, resurser osv. är korrekta.
 
@@ -72,9 +72,9 @@ Om du ser till att alla projekt som är slutförda har statusen Fullständigt (e
 
 När du kopierar ett projekt anger du statusen för det nya projektet till Planering.
 
-**Här är varför**
+**Det här är varför**
 
-Planeringsstatusen (eller motsvarande) förhindrar att Workfront-meddelanden om tilldelningar, ändringar av tidslinjen osv. skickas innan projektet är klart. När du kopierar ett projekt visas en dialogruta med projektalternativ; ändra status här, medan andra alternativ justeras så att data inte kopieras från originalprojektet till den kopierade versionen.
+Planeringsstatusen (eller motsvarande) förhindrar att Workfront-meddelanden om tilldelningar, ändringar av tidslinjen osv. skickas innan projektet är klart. När du kopierar ett projekt visas en dialogruta med projektalternativ. Ändra status här och justera andra alternativ så att data inte kopieras från det ursprungliga projektet till den kopierade versionen.
 
 </br>
 </br>
@@ -84,7 +84,7 @@ Planeringsstatusen (eller motsvarande) förhindrar att Workfront-meddelanden om 
 Låt användarna registrera den faktiska tiden för uppgifter så att ni kan jämföra faktiska timmar med planerade timmar.
 
 
-**Här är varför**
+**Det här är varför**
 
 Att veta hur lång tid det tar att arbeta med en uppgift innebär att du kan uppdatera projektmallar för större precision i planeringen av framtida projekt. Det innebär också att resursuppskattningar, som använder Workfront resurshanteringsverktyg, blir mer korrekta.
 
@@ -95,7 +95,7 @@ Att veta hur lång tid det tar att arbeta med en uppgift innebär att du kan upp
 
 Använd aktivitetens varaktighet och föregångare när det är möjligt för att skapa och uppdatera en projekttidslinje, i stället för att välja specifika start- och slutdatum.
 
-**Här är varför**
+**Det här är varför**
 
 Genom att använda varaktighet och föregångare i kombination med flexibla uppgiftsbegränsningar (så snart som möjligt och så sent som möjligt) kan du automatiskt ändra tidslinjedatum som&quot;överlappar&quot; genom projektplanen. När en uppgifts varaktighet ökar med en dag ändras till exempel aktivitetens planerade slutförandedatum, vilket i sin tur ändrar slutförandedatumet för följande uppgifter.
 
@@ -109,7 +109,7 @@ Om du väljer specifika start- och slutdatum för uppgifter ändras aktivitetsbe
 
 Be användarna att uppdatera uppgiftsstatus, procent slutfört och faktiskt antal timmar varje dag (eller enligt ett bestämt schema varje vecka).
 
-**Här är varför**
+**Det här är varför**
 
 Rapporterna i Workfront är bara lika exakta som uppgifterna i Workfront. När information som indikerar arbetsförloppet - som status och procent färdigt - inte uppdateras regelbundet kommer rapporter som visar arbetsförloppet inte att vara korrekta. Att uppdatera dagligen ger största möjliga noggrannhet när det gäller rapporteringsdata i realtid.
 
@@ -123,7 +123,7 @@ Uppgiftsstatus används också för att meddela användare när tidigare arbete 
 
 Ställ in projektstatus på Planering när du uppdaterar projektplanen för att förhindra att meddelanden skickas automatiskt när ändringar görs.
 
-**Här är varför**
+**Det här är varför**
 
 Ändringar i projektplanen kan generera flera meddelanden när uppgiftstilldelningar, planerade start- och slutförandedatum och andra inställningar ändras. Detta kan vara störande för användarna och skapa förvirring om korrekta tilldelningar, deadlines osv.
 
@@ -137,7 +137,7 @@ Planeringsstatusen anger för Workfront att inga meddelanden om projektet ska sk
 Ta bort användare från projektteamet som inte har tilldelats arbete i projektet.
 
 
-**Här är varför**
+**Det här är varför**
 
 När du tilldelar någon en aktivitet eller ett problem i ett projekt läggs användaren till i projektgruppslistan i avsnitten Schemaläggning och Personer i projektet. De finns dock kvar i projektgruppslistan även om du har tagit bort dem från uppdraget. Detta kan skapa förvirring för användaren eftersom de som en del av projektteamet får meddelanden om aktiviteter i projektet och ser projektet i listan Projekt som jag är på.
 
@@ -151,6 +151,6 @@ Dessutom får projektmedlemmarna behörighet till projektet och dess uppgifter, 
 
 Placera Project Metrics överst i den vänstra panelmenyn så att användare som huvudsakligen använder Workfront kan visa data.
 
-**Här är varför**
+**Det här är varför**
 
 De flesta chefer, chefer och andra användare som inte hanterar projekt eller utför uppgifter skulle uppskatta att se den här nivån av projektstatistik när de först öppnar ett projekt. Använd en layoutmall för att flytta Project Metrics till toppen av den vänstra panelmenyn på en projektsida, så att den blir mer synlig och lättare att komma åt för användarna.

@@ -1,6 +1,6 @@
 ---
 title: Lägg till ett resultat i ett mål
-description: Lär dig hur du aktiverar ett mål genom att lägga till ett resultat i [!DNL Workfront Goals].
+description: Lär dig hur du aktiverar ett mål genom att lägga till ett resultat i  [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

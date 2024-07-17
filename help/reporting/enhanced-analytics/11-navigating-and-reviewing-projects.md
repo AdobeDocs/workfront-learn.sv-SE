@@ -14,7 +14,7 @@ exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ I den här videon får du lära dig:
 
 ## Flygplanskarta
 
-![En bild av ett färdplansdiagram med nummer som matchar punkterna nedan](assets/section-2-1.png)
+![En bild av ett färdplansdiagram med nummer som matchar punkter under](assets/section-2-1.png)
 
 I diagrammet ser du:
 
@@ -53,7 +53,7 @@ Om du ser den här informationen om dina projekt blir det lättare att avgöra:
 
 Projektvillkoret är en visuell representation av hur projektet fortskrider. Workfront fastställer villkoret baserat på förloppsstatus för uppgifter i projektet.
 
-![En bild av möjliga förloppsstatusar](assets/section-2-2.png)
+![En bild med möjliga förloppsstatusar](assets/section-2-2.png)
 
 Ett projekts villkor kan anges:
 
@@ -62,13 +62,13 @@ Ett projekts villkor kan anges:
 
 Workfront rekommenderar att du anger villkorstypen till Progress Status så att du får en tydlig indikation på projektets verkliga förlopp, baserat på förloppet för dina uppgifter.
 
-![En bild av möjliga förloppsstatusar](assets/section-2-3.png)
+![En bild med möjliga förloppsstatusar](assets/section-2-3.png)
 
 Om du anger Status för projektet kan det vara:
 
-* **På mål**- När förloppsstatusen för den sista aktiviteten på den kritiska sökvägen är I tid, kommer villkoret för projektet att vara På mål. Projektet är på väg att avslutas enligt schemat.
-* **Risk**- När förloppsstatusen för den sista uppgiften på den kritiska vägen är Efter eller Vid risk är projektets skick Vid risk. Projektet är på väg att avslutas sent, men är inte sent ännu.
-* **I problem**- När förloppsstatusen för den sista aktiviteten på den kritiska vägen är SENT, är projektets tillstånd I problem. Förfallodatumet har redan inträffat och projektet är nu försenat.
+* **På mål** - När förloppsstatusen för den senaste aktiviteten på den kritiska sökvägen är I tid, kommer projektvillkoret att vara På mål. Projektet är på väg att avslutas enligt schemat.
+* **Vid risk** - När förloppsstatusen för den sista aktiviteten på den kritiska sökvägen är Efter eller Vid risk är villkoret för projektet Vid risk. Projektet är på väg att avslutas sent, men är inte sent ännu.
+* **I problem** - När förloppsstatusen för den senaste aktiviteten på den kritiska sökvägen är Sent är projekttillståndet i problem. Förfallodatumet har redan inträffat och projektet är nu försenat.
 
 >[!NOTE]
 >

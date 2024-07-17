@@ -1,6 +1,6 @@
 ---
 title: Sök i Workfront via [!DNL Slack]
-description: Lär dig hur du söker [!DNL Workfront] via Slack
+description: Lär dig hur du söker i  [!DNL Workfront] via Slack
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial

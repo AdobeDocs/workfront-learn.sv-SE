@@ -1,6 +1,6 @@
 ---
-title: Förstå [!UICONTROL WORKFRONT DAM] som deltagare
-description: Se skillnaden mellan de tre [!UICONTROL WORKFRONT DAM] användarprofiler och navigering [!UICONTROL WORKFRONT DAM].
+title: Förstå [!UICONTROL Workfront DAM] som deltagare
+description: Lär dig skillnaden mellan de tre [!UICONTROL Workfront DAM]-användarprofilerna och hur du navigerar i [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ---
 
-# Förstå [!UICONTROL WORKFRONT DAM] som deltagare
+# Förstå [!UICONTROL Workfront DAM] som deltagare
 
 I den här videon får du lära dig:
 
-* Skillnaden mellan tre [!UICONTROL WORKFRONT DAM] användarprofiler
-* Navigera [!UICONTROL WORKFRONT DAM]
+* Skillnaden mellan de tre [!UICONTROL Workfront DAM]-användarprofilerna
+* Navigera till [!UICONTROL Workfront DAM]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335252/?quality=12&learn=on)

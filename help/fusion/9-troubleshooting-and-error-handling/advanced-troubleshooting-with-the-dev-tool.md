@@ -1,6 +1,6 @@
 ---
 title: Avancerad felsökning med utvecklingsverktyget
-description: Lär dig installera och använda [!DNL Adobe Workfront Fusion dev tool]och granska de olika avancerade designverktygen för scenarier som ingår.
+description: Lär dig hur du installerar och använder  [!DNL Adobe Workfront Fusion dev tool] och granskar de olika avancerade designverktygen för scenarier som ingår.
 activity: use
 team: Technical Marketing
 type: Tutorial

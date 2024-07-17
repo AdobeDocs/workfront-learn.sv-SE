@@ -12,47 +12,47 @@ jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
 
 # Förstå flera faktureringsräntor
 
-Inom [!DNL Workfront], kan projektledaren åsidosätta systemfaktureringstariffer inom ett specifikt projekt. Tidigare påverkades inte bara framtida timmar utan även timmar som redan var inloggade i projektet när den nya faktureringstakten tillämpades på projektet.
+Inom [!DNL Workfront] kan en projektledare åsidosätta systemfaktureringstariffer inom ett visst projekt. Tidigare påverkades inte bara framtida timmar utan även timmar som redan var inloggade i projektet när den nya faktureringstakten tillämpades på projektet.
 
-Med [!DNL Workfront]Med sin nya funktion för flera faktureringstaxor kan projektledaren bestämma vilken tidsperiod en faktureringstaxa ska tillämpas. På så sätt kan projektledaren avgöra när en avgift ska börja gälla om en frekvens har förhandlats fram eller ändrats.
+Med den nya funktionen för flera faktureringstaxor för [!DNL Workfront] kan projektledaren bestämma vilken tidsperiod en faktureringstaxa ska tillämpas. På så sätt kan projektledaren avgöra när en avgift ska börja gälla om en frekvens har förhandlats fram eller ändrats.
 
 ## Ändra faktureringstariff
 
-1. Gå till projektets landningssida. Välj **[!UICONTROL Faktureringstaxor]** från den vänstra panelen.
+1. Gå till projektets landningssida. Välj **[!UICONTROL Faktureringstariffer]** i den vänstra panelen.
 
-   ![En bild av markering [!UICONTROL Faktureringstaxor] in [!DNL Workfront]](assets/project-finances-1.png)
+   ![En bild på hur du väljer [!UICONTROL Faktureringstariffer] i [!DNL Workfront]](assets/project-finances-1.png)
 
-1. Från **[!UICONTROL Faktureringstaxor]** klickar du på **[!UICONTROL Lägg till faktureringsränta]** -knappen. Välj **[!UICONTROL Ny faktureringstakt]** i listrutan.
+1. Klicka på knappen **[!UICONTROL Lägg till faktureringstakt]** på fliken **[!UICONTROL Faktureringstariffer]** . Välj **[!UICONTROL Ny faktureringstakt]** i listrutan.
 
-   ![En bild av markering [!UICONTROL Ny faktureringstakt] in [!DNL Workfront]](assets/project-finances-2.png)
+   ![En bild på hur du väljer [!UICONTROL Ny faktureringsfrekvens] i [!DNL Workfront]](assets/project-finances-2.png)
 
-1. The [!UICONTROL Ny faktureringstakt] visas. Från **[!UICONTROL Jobbroll]** väljer du den jobbroll som den nya faktureringstakten ska tillämpas på.
+1. Dialogrutan [!UICONTROL Ny faktureringshastighet] visas. I listrutan **[!UICONTROL Jobbroll]** väljer du den jobbroll som den nya faktureringssatsen ska tillämpas på.
 
-   ![En bild av hur du väljer jobbroller med en ny faktureringsfrekvens i [!DNL Workfront]](assets/project-finances-3.png)
+   ![En bild av hur du väljer jobbroller i en ny faktureringsfrekvens i [!DNL Workfront]](assets/project-finances-3.png)
 
-1. När jobbrollen har valts [!UICONTROL Standardfaktureringshastighet] och [!UICONTROL Faktureringsränta 1] visas. Ange den nya faktureringstakten i dialogrutan [!UICONTROL Faktureringsränta 1] fält. Om den faktureringstariffen gäller för hela projektet (tidigare, nuvarande och framtida loggade timmar) klickar du på **[!UICONTROL Spara]** -knappen.
+1. När jobbrollen har valts visas fälten [!UICONTROL Standardfaktureringshastighet] och [!UICONTROL Faktureringshastighet 1]. Ange den nya faktureringstakten i fältet [!UICONTROL Faktureringstakt 1]. Om den faktureringstakten gäller för hela projektet (tidigare, nuvarande och framtida loggade timmar) klickar du på knappen **[!UICONTROL Spara]** .
 
-   ![En bild på hur du sparar en ny faktureringsränta som gäller för hela projektet i [!DNL Workfront]](assets/project-finances-5.png)
+   ![En bild på hur du sparar en ny faktureringsfrekvens som gäller för hela projektet i [!DNL Workfront]](assets/project-finances-5.png)
 
-1. Om den nya faktureringstariffen endast gäller för en viss tidsperiod klickar du på **[!UICONTROL Lägg till frekvens]** -knappen. The [!UICONTROL Faktureringstakt 1 slutdatum] och [!UICONTROL Faktureringsränta 2] visas. Ange slutdatum för [!UICONTROL Faktureringsränta 1]. Du kan inte ange ett startdatum för [!UICONTROL Faktureringsränta 1] eftersom systemet utgår ifrån att det börjar i början av projektet.
+1. Om den nya faktureringstariffen endast gäller för en viss tidsperiod klickar du på knappen **[!UICONTROL Lägg till kurs]** . Fälten [!UICONTROL Faktureringshastighet 1 Slutdatum] och [!UICONTROL Faktureringshastighet 2] visas. Ange slutdatum för [!UICONTROL faktureringstakt 1]. Du kan inte ange ett startdatum för [!UICONTROL Faktureringshastighet ] eftersom systemet antar att det startade i början av projektet.
 
-   ![En bild på hur du skapar en ny faktureringsränta som gäller för en viss tidsperiod, med början i början av projektet i [!DNL Workfront]](assets/project-finances-6.png)
+   ![En bild på hur du skapar en ny faktureringsfrekvens som gäller för en viss tidsperiod, med början i början av projektet i [!DNL Workfront]](assets/project-finances-6.png)
 
 1. Om så inte är fallet:
 
-   * Ange standardfaktureringssatsen för [!UICONTROL Faktureringsränta 1].
-   * Välj slutdatum för [!UICONTROL Faktureringsränta 1] ([!UICONTROL Standardfaktureringshastighet]).
-   * Startdatum för [!UICONTROL Faktureringsränta 2] ställs in automatiskt på dagen efter [!UICONTROL Faktureringsränta 1] slutar.
-   * Ange önskad faktureringstaxa i dialogrutan [!UICONTROL Faktureringsränta 2] -avsnitt.
-   * Fortsätt lägga till faktureringstariffer efter behov genom att klicka på **[!UICONTROL Lägg till frekvens]** -knappen.
+   * Ange standardfaktureringstakten för [!UICONTROL faktureringstariff 1].
+   * Välj slutdatum för [!UICONTROL faktureringshastighet 1] ([!UICONTROL standardfaktureringshastighet]).
+   * Startdatumet för [!UICONTROL Faktureringshastighet ] anges automatiskt till dagen efter att [!UICONTROL faktureringshastighet 1] avslutas.
+   * Ange önskad faktureringstaxa i avsnittet [!UICONTROL Faktureringstakt 2].
+   * Fortsätt att lägga till faktureringstariffer efter behov genom att klicka på knappen **[!UICONTROL Lägg till ränta]**.
    * När du är klar klickar du på **[!UICONTROL Spara]**.
-   * Alla faktureringspriser visas i [!UICONTROL Faktureringstaxor] -fliken i projektet.
+   * Alla faktureringstariffer visas på fliken [!UICONTROL Faktureringstariffer] i projektet.
 
-   ![En bild av hur du skapar nya faktureringstariffer som gäller för de olika tidsperioderna i [!DNL Workfront]](assets/project-finances-7.png)
+   ![En bild på hur du skapar nya faktureringsfrekvenser som gäller för olika tidsperioder i [!DNL Workfront]](assets/project-finances-7.png)

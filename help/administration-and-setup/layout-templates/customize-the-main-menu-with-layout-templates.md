@@ -1,6 +1,6 @@
 ---
-title: Anpassa [!UICONTROL Huvudmeny] med layoutmallar
-description: Lär dig hur du använder en layoutmall för att anpassa [!UICONTROL Huvudmeny].
+title: Anpassa [!UICONTROL huvudmenyn] med layoutmallar
+description: Lär dig hur du använder en layoutmall för att anpassa [!UICONTROL huvudmenyn].
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ---
 
-# Anpassa [!UICONTROL Huvudmeny] med layoutmallar
+# Anpassa [!UICONTROL huvudmenyn] med layoutmallar
 
 I den här videon får du lära dig att:
 
-* Konfigurera [!UICONTROL Huvudmeny]
-* Ta bort objekt från [!UICONTROL Huvudmeny]
-* Lägg till objekt i [!UICONTROL Huvudmeny]
+* Konfigurera [!UICONTROL huvudmenyn]
+* Ta bort objekt från [!UICONTROL huvudmenyn]
+* Lägg till objekt på [!UICONTROL huvudmenyn]
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on)

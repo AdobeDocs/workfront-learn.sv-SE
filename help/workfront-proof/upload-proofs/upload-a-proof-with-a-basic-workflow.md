@@ -1,6 +1,6 @@
 ---
 title: Överför ett korrektur med ett grundläggande arbetsflöde
-description: Lär dig hur du överför filer som korrektur, lägger till ett grundläggande korrekturarbetsflöde för granskning och godkännande av intressenter och anger deadlines för korrekturgranskning i [!DNL Workfront].
+description: Lär dig hur du överför filer som korrektur, lägger till ett grundläggande korrekturarbetsflöde för granskning och godkännande av intressenter och anger deadlines för korrekturgranskning i  [!DNL Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: adadfa42-1c41-4b45-a947-e0851b3117d3
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig att:
 
-* Överföra en fil i [!DNL Workfront] så det genererar ett korrektur
+* Överför en fil i [!DNL Workfront] så att ett korrektur skapas
 * Lägg till ett grundläggande korrekturarbetsflöde så att intressenter kan granska och godkänna resursen
 * Ange en deadline för korrekturgranskningen
 
@@ -37,7 +37,7 @@ I den här videon får du lära dig att:
 
 1. Hitta flera filer på datorn eller en server som du kan överföra. Det kan vara textdokument, bilder, kalkylblad osv.
 1. Överför två filer till övningsprojektet eller uppgiften med ett grundläggande arbetsflöde. Tilldela medarbetaren möjlighet att granska och godkänna korrekturet, med en deadline på 2:00 i morgon.
-1. Om du har tre korrektur att ladda upp och alla behöver olika deadlines, kan du då ladda upp dem alla samtidigt? Varför eller varför inte?
+1. Om du har tre korrektur att ladda upp och alla behöver olika deadlines, kan du då ladda upp alla samtidigt? Varför eller varför inte?
 1. Vilken korrekturroll spelar ni i gransknings- och godkännandeprocesserna i ert team?
 
 <!--

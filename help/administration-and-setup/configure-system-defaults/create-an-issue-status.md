@@ -18,34 +18,34 @@ ht-degree: 0%
 
 # Skapa en utleveransstatus
 
-[!DNL Workfront] rekommenderar att du ändrar befintliga problem i systemet innan du börjar skapa nya statusar. Detta begränsar antalet statusar som behöver underhållas.
+[!DNL Workfront] rekommenderar att du ändrar de befintliga utgivningsstatusarna i systemet innan du börjar skapa nya statusar. Detta begränsar antalet statusar som behöver underhållas.
 
-1. Klicka **[!UICONTROL Inställningar]** i **[!UICONTROL Huvudmeny]**.
-1. Expandera **[!UICONTROL Projektinställningar]** i den vänstra menypanelen.
+1. Klicka på **[!UICONTROL Konfigurera]** på **[!UICONTROL Huvudmenyn]**.
+1. Expandera avsnittet **[!UICONTROL Projektinställningar]** på den vänstra menypanelen.
 1. Välj **[!UICONTROL Status]**.
-1. Välj **[!UICONTROL Problem]** -fliken.
-1. Kontrollera att fältet i det övre högra hörnet är inställt på [!UICONTROL Systemstatus]. Detta garanterar att den nya statusen är tillgänglig globalt i din [!DNL Workfront] -instans.
-1. Välj **[!UICONTROL Överordnad lista]** för att se alla status för utgåvor. Här skapar eller ändrar du en status.
-1. Klicka **[!UICONTROL Lägg till en ny status]**.
+1. Välj fliken **[!UICONTROL Problem]**.
+1. Kontrollera att fältet i det övre högra hörnet är inställt på [!UICONTROL Systemstatus]. Detta garanterar att den nya statusen är tillgänglig globalt i din [!DNL Workfront]-instans.
+1. Välj **[!UICONTROL Huvudlista]** om du vill visa alla utgivningsstatus. Här skapar eller ändrar du en status.
+1. Klicka på **[!UICONTROL Lägg till en ny status]**.
 1. Fyll i fälten efter behov för din organisation - namn, beskrivning, färg, motsvarar, nyckel osv.
 1. Markera rutorna för den typ av problem som den här statusen kan användas med.
-1. Klicka **[!UICONTROL Spara]**.
+1. Klicka på **[!UICONTROL Spara]**.
 
-![Nytt statusfönster på [!UICONTROL Status] page](assets/admin-fund-create-issue-status.png)
+![Nytt statusfönster på sidan [!UICONTROL Status] ](assets/admin-fund-create-issue-status.png)
 
 ## Utfärda status och gruppadministratörer
 
-Gruppadministratörer kan skapa och anpassa utgivningsstatus för de grupper de hanterar. Detta ger en viss självständighet för deras grupp och ger dem de statusar de behöver för att fortsätta arbeta. Det eliminerar också behovet av en lång lista med systemomfattande status.
+Gruppadministratörer kan skapa och anpassa utgivningsstatus för de grupper som de hanterar. Detta ger en viss självständighet för deras grupp och ger dem de statusar de behöver för att fortsätta arbeta. Det eliminerar också behovet av en lång lista med systemomfattande status.
 
 Gruppadministratörer kan redigera befintliga statusvärden om systemadministratören har konfigurerat dem för att tillåta anpassning.
 
-Systemadministratörer kan hantera status för grupper genom att välja gruppnamnet i det övre högra hörnet i [!UICONTROL Status] -fönstret.
+Systemadministratörer kan hantera status för grupper genom att markera gruppnamnet i det övre högra hörnet av fönstret [!UICONTROL Status] .
 
-![Grupplistmeny på [!UICONTROL Status] page](assets/admin-fund-change-group-master-list.png)
+![Menyn Grupplista på sidan [!UICONTROL Status] ](assets/admin-fund-change-group-master-list.png)
 
-Gruppadministratörer kan klicka på [!UICONTROL Grupper] i [!UICONTROL Inställningar] öppnar du gruppen genom att klicka på namnet och sedan markera [!UICONTROL Status] i den vänstra panelmenyn. Se till att du väljer fliken Problem.
+Gruppadministratörer kan klicka i avsnittet [!UICONTROL Grupper] i området [!UICONTROL Inställningar], öppna gruppen genom att klicka på namnet och sedan välja [!UICONTROL Status] på den vänstra panelmenyn. Se till att du väljer fliken Problem.
 
-![[!UICONTROL Status] avsnitt i [!UICONTROL Grupp] page](assets/admin-fund-group-issue-statuses.png)
+![[!UICONTROL Status] avsnitt av [!UICONTROL Grupp] sida](assets/admin-fund-group-issue-statuses.png)
 
 <!---
 For detailed information on how managing statuses can be done by group administrators, see these articles:

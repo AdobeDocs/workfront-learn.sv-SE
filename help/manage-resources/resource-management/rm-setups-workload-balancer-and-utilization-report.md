@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Resurshanteringsinställningar, belastningsfördelning och användningsrapport
 
-[!DNL Workfront] erbjuder data för flera verktyg i [!DNL Workfront]för att underlätta resursbesluten och effektivisera processerna. Om du vill se vad som händer med dina resurser måste du se till att cheferna, användarna och projekten är korrekt konfigurerade. Dessa konfigurationer är användbara även om du inte tänker använda alla [!DNL Workfront's] resurshanteringsverktyg.
+[!DNL Workfront] erbjuder data, för flera verktyg i [!DNL Workfront], för att hjälpa till att underlätta dina resursbeslut och era processer. Om du vill se vad som händer med dina resurser måste du se till att cheferna, användarna och projekten är korrekt konfigurerade. De här konfigurationerna är användbara även om du inte tänker använda alla [!DNL Workfront's]-resurshanteringsverktyg.
 
 I det här avsnittet får du lära dig:
 
@@ -30,9 +30,9 @@ I det här avsnittet får du lära dig:
 
 Låt oss börja med att se till att rätt personer har tillgång till och kan administrera organisationens resurser.
 
-&lt;!Download the guide for step-by-step instructions.&gt;
+&lt;!Ladda ned guiden för steg-för-steg-instruktioner.&gt;
 
-![Resurshantering - konfigurera en sökare](assets/rm_setup01.png)
+![Resurshantering konfigurerar en sökare](assets/rm_setup01.png)
 
 
 ## Rapport över belastningsutjämnare och utnyttjande
@@ -41,4 +41,4 @@ Tillsammans med Resursplanering och Resurspooler har användarna tillgång till 
 
 Ingen annan inställning behövs för att komma åt eller hantera resurser med dessa verktyg.
 
-![Arbetsbelastningsutjämnare med utnyttjanderapport](assets/rm_setup02.png)
+![Arbetsbelastningsutjämnare med användningsrapport](assets/rm_setup02.png)

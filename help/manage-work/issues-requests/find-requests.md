@@ -1,6 +1,6 @@
 ---
 title: Söka efter och hantera förfrågningar
-description: Lär dig hur du kan använda kontrollpaneler, [!UICONTROL Startsida], [!UICONTROL Begäranden] området och [!UICONTROL Team] sida för att hitta inkommande begäranden som gjorts via en begärandekö.
+description: Lär dig hur du kan använda instrumentpaneler, [!UICONTROL Hem], området [!UICONTROL Förfrågningar] och sidan [!UICONTROL Team] för att söka efter inkommande förfrågningar som gjorts via en frågekö.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -25,15 +25,15 @@ I den här videon får du lära dig att hitta förfrågningar som du har tilldel
 
 Du får lära dig att hitta dessa förfrågningar på följande platser:
 
-* Workfront [!UICONTROL Startsida]
-* The [!UICONTROL Begäranden] area
-* The [!UICONTROL Team] page
+* Workfront [!UICONTROL Home]
+* Området [!UICONTROL Begäranden]
+* Sidan [!UICONTROL Teams]
 * I en anpassad kontrollpanel
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
 
-Om du vill lära dig hur du skapar anpassade rapporter och placerar dem i en kontrollpanel kan du läsa [Grundläggande kurs för att skapa rapport](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html).
+Om du vill lära dig hur du skapar anpassade rapporter och placerar dem i en kontrollpanel kan du läsa [Skapa grundläggande rapporter](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html).
 
 ## Rekommenderade självstudiekurser i detta ämne
 

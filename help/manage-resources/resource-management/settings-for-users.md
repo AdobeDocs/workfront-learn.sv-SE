@@ -22,7 +22,7 @@ ht-degree: 0%
 
 När det gäller att förstå vilka resurser som är tillgängliga finns det flera saker som måste användas för varje användare i [!DNL Workfront].
 
-I den här videosjälvstudien får du lära dig mer om inställningar för:
+I den här videosjälvstudiekursen får du lära dig mer om inställningar för:
 
 * Scheman
 * Ledig tid

@@ -1,6 +1,6 @@
 ---
 title: Ställ in den och hämta den
-description: Lär dig hur du delar data mellan olika banor och använder variablerna Set och Get i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du delar data mellan olika sökvägar och använder uppsättningar och Hämta variabler, allt i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

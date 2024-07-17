@@ -1,6 +1,6 @@
 ---
 title: Förstå felhanteringsdirektiv
-description: Läs mer om felhanteringsdirektiven som tillåter att körningen fortsätter och de som stoppar körningen i [!DNL Adobe Workfront Fusion].
+description: Läs mer om felhanteringsdirektiven som tillåter att körningen fortsätter och de som stoppar körningen i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -44,7 +44,7 @@ I den här videon får du lära dig:
 * Om det finns obearbetade paket fortsätter scenariokörningen normalt.
 * Scenariots körningsstatus är markerad som &quot;varning&quot;.
 
-![En bild av ett Break-direktiv](assets/troubleshooting-and-error-handling-3.png)
+![En bild av ett Bryt-direktiv](assets/troubleshooting-and-error-handling-3.png)
 
 ### Ignorera
 
@@ -52,7 +52,7 @@ I den här videon får du lära dig:
 * Om det finns obearbetade paket fortsätter scenariokörningen normalt.
 * Scenariots körningsstatus är markerad som &quot;success&quot;.
 
-![En bild av direktivet Ignore](assets/troubleshooting-and-error-handling-4.png)
+![En bild av direktivet Ignorera](assets/troubleshooting-and-error-handling-4.png)
 
 ## Direktiv - Scenariostopp
 

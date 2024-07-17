@@ -1,6 +1,6 @@
 ---
 title: Stänga ett projekt
-description: Lär dig vilken information som ska granskas och varför det är viktigt att ha uppdaterade data i ett projekt innan du stänger det i [!DNL  Workfront].
+description: Lär dig vilken information som ska granskas och varför det är viktigt att ha uppdaterat data i ett projekt innan du stänger det i  [!DNL  Workfront].
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig mer om:
 
-* Information som ska granskas i [!DNL Workfront] innan du stänger ett projekt
+* Information som ska granskas i [!DNL Workfront] innan ett projekt stängs
 * Varför det är viktigt att ha uppdaterade data
 * Frågor du kan ställa som hjälp att förbättra framtida projekt
 

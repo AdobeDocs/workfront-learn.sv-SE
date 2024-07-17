@@ -23,7 +23,7 @@ ht-degree: 0%
 I den här videon får du lära dig att:
 
 * Justera tidsbildrutorna för både tilldelade och ej tilldelade arbetsytor
-* Filtrera användarlistan i området Tilldelad arbetsyta
+* Filtrera användarlistan i området Tilldelat arbete
 * Filtrera otilldelad arbetsyta
 
 >[!VIDEO](https://video.tv.adobe.com/v/335163/?quality=12&learn=on)

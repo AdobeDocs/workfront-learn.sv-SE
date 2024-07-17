@@ -26,14 +26,14 @@ När du tittar på tillgängliga datum- och tidsuttryck hittar du flera alternat
 
 ![Exempeluttryck för datum och tid](assets/datetimeexpressions01.png)
 
-Det finns två datum- och tidsuttrycksuppsättningar som används oftast av [!DNL Workfront] kunder:
+Det finns två datum- och tidsuttrycksuppsättningar som används oftast av [!DNL Workfront]-kunder:
 
 * ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEARS OCH
 * DATEDIFF / VECKDAYDIFF
 
 ## Matematiska uttryck
 
-Matematiska uttryck tillåter [!DNL Workfront] att automatiskt utföra beräkningar, oavsett om de är enkla eller komplicerade.
+Med matematiska uttryck kan [!DNL Workfront] utföra beräkningar automatiskt, oavsett om de är enkla eller komplicerade.
 
 När du tittar på tillgängliga datum- och tidsuttryck kommer du att se att det finns flera tillgängliga alternativ.
 
@@ -44,4 +44,4 @@ Workfront-kunder använder vanligtvis dessa två matematiska uttrycksuppsättnin
 * SUB, SUM, DIV, PROD
 * ROUND
 
-<b>ANMÄRKNING</b>: En fullständig lista över uttryck och mer information om vart och ett finns på dokumentationssidan &quot;Calculated data expressions&quot;.
+<b>Obs!</b> En fullständig lista över uttryck och mer information om vart och ett finns på dokumentationssidan för beräknade datamängder.

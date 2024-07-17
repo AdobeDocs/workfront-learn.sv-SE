@@ -1,6 +1,6 @@
 ---
 title: Skapa mål
-description: Lär dig skapa mål i [!DNL Workfront Goals] med tre olika alternativ.
+description: Lär dig hur du skapar mål i [!DNL Workfront Goals] med tre olika alternativ.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -12,16 +12,16 @@ doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '885'
 ht-degree: 0%
 
 ---
 
 # Skapa mål
 
-I [!DNL Workfront Goals], chefer och företagsledare kan se hur hela organisationen utvecklas på varje nivå, ända ned till individen. [!DNL Workfront Goals] ger synlighet så att ni får viktiga åtgärdbara insikter för att lyfta fram de högsta prioriteringarna, identifiera riskmål, diagnostisera problem i realtid och proaktivt kurskorrigera.
+I [!DNL Workfront Goals] kan chefer och företagsledare se hur hela organisationen utvecklas på varje nivå, ända ned till individen. [!DNL Workfront Goals] ger synlighet så att du kan få viktiga åtgärdbara insikter för att förbättra de högsta prioriteterna, identifiera riskmål, diagnostisera problem i realtid och proaktivt kurskorrigera.
 
-[!DNL Workfront Goals] kan även enskilda medarbetare se hur deras arbete bidrar till helheten. Arbetet är mer meningsfullt när individer kan se var deras arbete är viktigt.
+[!DNL Workfront Goals] tillåter även enskilda medarbetare att se hur deras arbete bidrar till helheten. Arbetet är mer meningsfullt när individer kan se var deras arbete är viktigt.
 
 Det finns tre sätt att skapa mål med [!DNL Workfront]:
 
@@ -34,7 +34,7 @@ Här är några saker att tänka på när du skapar mål från grunden:
 
 I den här videon får du lära dig att:
 
-* Navigera i [!UICONTROL Mållista] för att lägga till ett nytt mål
+* Navigera i avsnittet [!UICONTROL Mållista] för att lägga till ett nytt mål
 
 >[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on)
 
@@ -54,32 +54,32 @@ Här är några saker att tänka på innan du kopierar mål:
 
 ### Kopiera ett mål
 
-1. Klicka på ett målnamn för att öppna **[!UICONTROL Målinformation]** -panelen.
+1. Klicka på ett målnamn för att öppna panelen **[!UICONTROL Målinformation]**.
 1. Klicka på ikonen med tre punkter bredvid målnamnet och välj sedan **[!UICONTROL Kopiera]**.
 1. Uppdatera någon av följande information för det kopierade målet:
-   * **Målnamn**- Det här är namnet på det nya målet. Standardvärdet är&quot;Kopia av&quot; följt av namnet på det ursprungliga målet.
-   * **Period**- Den tidsperiod under vilken du vill uppnå målet. Välj en tidsperiod i listrutan eller klicka på Definiera anpassade datum för att ange en anpassad tidsperiod. Standardperioden är alltid aktuellt kvartal.
-   * **Ägare**- Målets ägare. Detta kan vara en användare, ett team, en grupp eller ett företag. Standardvärdet är ägaren till det ursprungliga målet.
-   * **Beskrivning**—Ytterligare information om målet.
+   * **Målnamn** - Det här är namnet på det nya målet. Standardvärdet är&quot;Kopia av&quot; följt av namnet på det ursprungliga målet.
+   * **Period** - Den tidsperiod under vilken du vill uppnå målet. Välj en tidsperiod i listrutan eller klicka på Definiera anpassade datum för att ange en anpassad tidsperiod. Standardperioden är alltid aktuellt kvartal.
+   * **Ägare** - Målets ägare. Detta kan vara en användare, ett team, en grupp eller ett företag. Standardvärdet är ägaren till det ursprungliga målet.
+   * **Beskrivning** - Ytterligare information om målet.
 
-1. Kontrollera **[!UICONTROL Kopiera resultat]** om det ursprungliga målet hade lagt till resultat och du vill kopiera dem till det nya målet. Resultatet av det kopierade målet har samma ägare, namn och uppmätta värden som det ursprungliga målets resultat.
+1. Markera rutan **[!UICONTROL Kopiera resultat]** om det ursprungliga målet hade lagt till resultat och du vill kopiera dem till det nya målet. Resultatet av det kopierade målet har samma ägare, namn och uppmätta värden som det ursprungliga målets resultat.
 
-1. Klicka **[!UICONTROL Kopiera mål]**. Det kopierade målet sparas med statusen Utkast.
+1. Klicka på **[!UICONTROL Kopiera mål]**. Det kopierade målet sparas med statusen Utkast.
 
-   ![En bild av [!UICONTROL Målinformation] panel i [!DNL Workfront Goals] med [!UICONTROL Kopiera] option](assets/03-workfront-goals-copy-a-goal.png)
+   ![En bild av panelen [!UICONTROL Målinformation] i [!DNL Workfront Goals] med alternativet [!UICONTROL Kopiera]](assets/03-workfront-goals-copy-a-goal.png)
 
-1. Klicka på ikonen med tre punkter och välj sedan  **[!UICONTROL Aktivera]**, som uppdaterar målstatusen till Aktiv. Målet måste ha en associerad aktivitet eller ett associerat resultat för att&quot;aktivera&quot;.
+1. Klicka på ikonen med tre punkter och välj sedan **[!UICONTROL Aktivera]**, som uppdaterar målstatusen till Aktiv. Målet måste ha en associerad aktivitet eller ett associerat resultat för att&quot;aktivera&quot;.
 
 Om du har kopierat ett mål som inte har slutförts under en tidigare tidsperiod och vill fortsätta arbeta med det under följande tidsperiod gör du följande:
 
-1. Gå till det ursprungliga målet i dialogrutan **[!UICONTROL Mållista]**.
+1. Gå till det ursprungliga målet i **[!UICONTROL mållistan]**.
 1. Lägg till en uppdatering till målet för att ange att det kopierades och att ett mer aktuellt mål skapades.
 1. Stäng det ursprungliga målet om du vill behålla de framsteg som gjordes under den ursprungliga tidsperioden. Klicka på ikonen med tre punkter bredvid målnamnet och välj **[!UICONTROL Stäng]** på menyn.
-1. Uppdatera [!UICONTROL Inledande] värdet för det nya resultatet så att det matchar **[!UICONTROL Mål]** värdet på föregående resultat, så ditt nya målförlopp börjar beräkna från den punkt som uppnåddes under föregående period.
+1. Uppdatera värdet [!UICONTROL Inledande] för det nya resultatet så att det matchar värdet **[!UICONTROL Mål]** för det föregående resultatet, så att det nya målförloppet börjar beräkna från den punkt som uppnåddes under den föregående perioden.
 
 ## Konvertera ett resultat eller en aktivitet till ett mål
 
-Det sista alternativet för att skapa mål i [!DNL Workfront Goals] är genom att konvertera resultaten och/eller aktiviteterna för ett befintligt mål till ett annat mål. Det konverterade resultatet/aktiviteten blir ett underordnat mål till det ursprungliga målet.
+Det sista alternativet för att skapa mål i [!DNL Workfront Goals] är att konvertera resultaten och/eller aktiviteterna för ett befintligt mål till ett annat mål. Det konverterade resultatet/aktiviteten blir ett underordnat mål till det ursprungliga målet.
 
 Du kan göra detta när ett resultat/en aktivitet är större än förväntat och det skulle vara bra att omvandla resultatet/aktiviteten till ett faktiskt mål. Tänk på detta som en metod som går nerifrån och upp när det gäller att anpassa målen.
 

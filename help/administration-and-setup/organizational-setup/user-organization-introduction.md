@@ -26,12 +26,12 @@ I den här videon får du lära dig mer om:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on)
 
-Innan du kommer igång finns några viktiga termer att känna till när du utforskar användarorganisationer i [!DNL Workfront].
+Innan du börjar finns det några nyckeltermer att känna till när du utforskar användarorganisationer i [!DNL Workfront].
 
 | Företag | Grupp | Team |
 | --- | --- | --- |
-| <ul><li>En kommersiell verksamhet. internt eller externt</li><li>Största Workfront-organisationsenhet</li></ul> | <ul><li>En avdelning eller avdelning</li><li>Andra största Workfront-organisationsenhet</li></ul> | <ul><li>Små samlingar av personer som arbetar tillsammans i den dagliga verksamheten. team</li><li>Kan vara funktionell eller korsfunktionell</li><li>Den minsta Workfront-organisationsenheten</li></ul> |
-| Exempel <ul><li>Workfront</li><li>Google Amazon</li><li>JP Morgan Chase</li><li>Adobe</li></ul> | Exempel <ul><li>Ekonomi</li><li>Juridik</li><li>Marknadsföring</li><li>Operationer</li></ul> | Exempel <ul><li>Lön</li><li>Analys</li><li>Publicering</li><li>Produktion</li></ul> |
+| <ul><li>En kommersiell verksamhet; intern eller extern</li><li>Största Workfront-organisationsenhet</li></ul> | <ul><li>En avdelning eller avdelning</li><li>Andra största Workfront-organisationsenhet</li></ul> | <ul><li>Liten samling personer som arbetar tillsammans i den dagliga verksamheten; arbetsteam</li><li>Kan vara funktionell eller korsfunktionell</li><li>Den minsta Workfront-organisationsenheten</li></ul> |
+| Exempel <ul><li>Workfront</li><li>Google Amazon</li><li>JP Morgan Chase</li><li>Adobe</li></ul> | Exempel <ul><li>Ekonomi</li><li>Juridisk</li><li>Marknadsföring</li><li>Operationer</li></ul> | Exempel <ul><li>Lön</li><li>Analys</li><li>Publicering</li><li>Produktion</li></ul> |
 
 
 

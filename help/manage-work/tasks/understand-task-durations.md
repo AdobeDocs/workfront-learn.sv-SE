@@ -24,7 +24,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig:
 
-* Hur länge aktiviteten varar [!DNL Workfront]
+* Vilken aktivitetslängd har [!DNL Workfront]?
 * Hur varaktigheten påverkar start- och slutdatum för uppgifter
 * Hur varaktighet räknas in i projekttidslinjer
 * Rekommendationer för bästa praxis för användning av aktivitetsvaraktighet
@@ -35,5 +35,5 @@ I den här videon får du lära dig:
 
 * [Lär dig att sekvensera uppgifter](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Förstå planerade timmar](/help/manage-work/tasks/understand-planned-hours.md)
-* [Förstå [!UICONTROL Arbetsinsats]](/help/manage-work/tasks/understand-work-effort.md)
+* [[!UICONTROL Arbetsinsats]](/help/manage-work/tasks/understand-work-effort.md)
 

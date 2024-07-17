@@ -28,7 +28,7 @@ Det finns ett par inställningar för belastningsutjämnare:
 
 Du kan aktivera och inaktivera dem med hjälp av ikonen Inställningar för belastningsfördelning.
 
-![Inställningsikon för Utjämning av arbetsbelastning](assets/STC_01.png)
+![Inställningsikon för belastningsutjämnare för arbetsbelastning](assets/STC_01.png)
 
 ## Inkludera timmar från utleveranser
 
@@ -38,11 +38,11 @@ Workfront rekommenderar att du tar med frågor i listan över tilldelade använd
 
 Markera bara alternativet Inkludera timmar från problem i området Inställningar för belastningsutjämnare för arbetsbelastning.
 
-![inkludera timmar från ärenden](assets/STC_02.png)
+![inkludera timmar från problem](assets/STC_02.png)
 
 I området Tilldelad arbetsyta visas problemen som ljusa markeringsramar.
 
-![problem markera](assets/STC_03.png)
+![högdager för problem](assets/STC_03.png)
 
 ### Projektdatum
 
@@ -58,11 +58,11 @@ Eftersom beräknade datum baseras på förloppet och slutförandet av tidigare u
 
 Du kan växla mellan att visa planerade och planerade datum med alternativet Visa planerade datum i inställningarna för Utjämning av arbetsbelastning.
 
-![visa planerade datum](assets/STC_06.png)
+![visa projicerade datum](assets/STC_06.png)
 
 ### Slutförda uppgifter
 
-Slutförda uppgifter visas i Utjämning av arbetsbelastning tillsammans med de som för närvarande pågår eller som ska börja. För att få en bättre förståelse för vilka ytterligare arbetsmoment användarna kan utföra kanske du vill utesluta det färdiga arbetet.
+Slutförda uppgifter visas i Utjämning av arbetsbelastning tillsammans med de som för närvarande pågår eller som ska börja. Om du vill få en bättre förståelse för vilka ytterligare arbetsmoment som användarna kan utföra kan det vara bra att utesluta det färdiga arbetet.
 
 Avmarkera alternativet Visa slutfört arbete i inställningarna för Utjämning av arbetsbelastning.
 

@@ -1,6 +1,6 @@
 ---
 title: Genomgång av filter
-description: Lär dig hur du lägger till ett filter mellan de två modulerna i modulerna i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du lägger till ett filter mellan de två modulerna i modulerna i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -45,8 +45,8 @@ Denna övning bygger på vad du lärde dig under genomgången, men lösningen ti
 
 Ändra filtret som du skapade under genomgången av filter så att endast projekt som är&quot;gula&quot; tillåts och konfidensgraderingen är mindre än 100 eller så har ordet&quot;fas&quot; i projektnamnet och det planerade startdatumet är 2021. Ge filtret namnet&quot;Öva övningsfilter&quot;.
 
-**Utmaning:** Försök att skapa ett filter som bara tillåter att projekt med en jämn konfidensgrad passerar igenom. Behöver du en ledtråd? Titta in i matematiska formler.
+**Utmaning:** Försök skapa ett filter som bara tillåter att projekt med en jämn konfidensgrad passerar igenom. Behöver du en ledtråd? Titta in i matematiska formler.
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

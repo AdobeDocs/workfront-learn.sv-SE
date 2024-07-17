@@ -21,17 +21,17 @@ ht-degree: 0%
 
 Workfront har massor av bra verktyg som hjälper dig att få jobbet gjort. Men för mycket av en bra sak kan vara överväldigande.
 
-![Hem- och huvudmeny](assets/what-are-layout-templates-01.png)
+![Start- och huvudmenyn](assets/what-are-layout-templates-01.png)
 
 Med layoutmallar kan systemadministratörer och gruppadministratörer anpassa användarens upplevelse och låta dessa användare fokusera på det som är viktigt för dem.
 
-![Hem- och huvudmeny](assets/what-are-layout-templates-02.png)
+![Start- och huvudmenyn](assets/what-are-layout-templates-02.png)
 
 Större delen av organisationen loggar till exempel inte tid. Konsultteamet fakturerar dock kunderna, så de måste logga tid för att säkerställa korrekt fakturering. Med en layoutmall kan tidrapporter döljas för dem som inte behöver dem och visas för dem som gör det.
 
-![Hem- och huvudmeny](assets/what-are-layout-templates-03.png)
+![Start- och huvudmenyn](assets/what-are-layout-templates-03.png)
 
-![Hem- och huvudmeny](assets/what-are-layout-templates-04.png)
+![Start- och huvudmenyn](assets/what-are-layout-templates-04.png)
 
 
 ## Innan du bygger

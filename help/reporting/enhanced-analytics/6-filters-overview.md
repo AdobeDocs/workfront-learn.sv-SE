@@ -39,7 +39,7 @@ People charts är baserade på home teams. De visar aktiviteten i så många tea
 
 ## Ytterligare överväganden
 
-* I arbetsscheman är det bara **de första 50 projekten** är synliga. Sidan över om du vill se ytterligare grupper om 50. De fyra nyckeltalen beräknas dock för alla projekt inom datumintervallet. Om projektlistan är större än 50 och du vill se hela listan samtidigt fortsätter du lägga till filter för att få rätt delmängd av projekten.
+* I arbetsscheman visas bara de **första 50 projekten**. Sidan över om du vill se ytterligare grupper om 50. De fyra nyckeltalen beräknas dock för alla projekt inom datumintervallet. Om projektlistan är större än 50 och du vill se hela listan samtidigt fortsätter du lägga till filter för att få rätt delmängd av projekten.
 * Sökresultaten visas när du har skrivit minst **tre bokstäver** av söktermen.
-* Du kan **lägg bara till varje filter en gång**. När du t.ex. har lagt till Villkor och valt ett visst villkor, kan du inte lägga till fältet Villkor igen och välja ett annat alternativ. Du måste ta bort filtret och lägga till det igen med alla villkor. Undantaget är det anpassade formulärfiltret.
+* Du kan **lägga till varje filter endast en gång**. När du t.ex. har lagt till Villkor och valt ett visst villkor, kan du inte lägga till fältet Villkor igen och välja ett annat alternativ. Du måste ta bort filtret och lägga till det igen med alla villkor. Undantaget är det anpassade formulärfiltret.
 * Ta bort ett filter genom att klicka på X:et bredvid det högst upp i fönstret.

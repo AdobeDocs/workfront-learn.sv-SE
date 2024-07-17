@@ -1,6 +1,6 @@
 ---
 title: Logga och granska timmar
-description: Registrera utestående timmar och granska loggade timmar innan du stänger ett projekt i [!DNL  Workfront].
+description: Registrera utestående timmar och granska loggade timmar innan du stänger ett projekt i  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # Logga och granska timmar
 
-Om loggning av faktiskt arbetade timmar ingår i din organisations arbetsflöde kan du granska dessa timmar på [!UICONTROL Timmar] -avsnittet (välj det på den vänstra panelmenyn) i projektet. Detta visar alla timmar som är inloggade på enskilda uppgifter och själva projektet. Du kan även logga timmar från den här sidan.
+Om du loggar faktiskt arbetade timmar som en del av din organisations arbetsflöde kan du granska dessa timmar i avsnittet [!UICONTROL Timmar] (välj det på den vänstra panelmenyn) i projektet. Detta visar alla timmar som är inloggade på enskilda uppgifter och själva projektet. Du kan även logga timmar från den här sidan.
 
 ![Timmar med timposter](assets/planner-fund-log-and-review-hours.png)
 
 >[!NOTE]
 >
->Din organisation kan be dig godkänna timmar till [!DNL Workfront] tidrapporter. Kontrollera med din interna [!DNL Workfront] team för att se vilken process ni bör använda.
+>Din organisation kan be dig att godkänna timmar via [!DNL Workfront] tidrapporter. Kontakta ditt interna [!DNL Workfront]-team för att se vilken process du bör använda.
 
 <!---
 learn more url

@@ -1,6 +1,6 @@
 ---
 title: Lär dig fördelarna med korrektur
-description: Läs vad korrektur är och fördelarna med att använda digitalt korrektur i [!DNL  Workfront].
+description: Lär dig vad korrektur är och fördelarna med att använda digitalt korrektur i  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof,Get Started with Workfront
 type: Tutorial
@@ -29,12 +29,12 @@ I den här videon får du lära dig:
 
 ## Korrekturterminologi
 
-Innan du dykar upp i korrekturinställningar i [!DNL  Workfront], bekanta dig med den bevisspecifika terminologi som används. De här termerna används ofta i hela kursen.
+Innan du börjar dyka upp i korrekturinställningar i [!DNL  Workfront] bör du bekanta dig med den korrekturspecifika terminologi som används. De här termerna används ofta i hela kursen.
 
-* **Korrektur -** Digital version av en fil som kan granskas, markeras och godkännas via [!DNL Workfront's] korrekturläsare.
-* **Korrekturarbetsflöde —** Process för att skapa, dirigera och hantera ett korrektur inom [!DNL Workfront]. Stegen som följs för att slutföra dessa åtgärder.
-* **Korrekturmall eller automatiserad arbetsflödesmall —** Förformaterade arbetsflödessteg som snabbt kan tillämpas på ett korrektur. Inkludera granskare, godkännare, korrekturroller, e-postaviseringar och deadlines.
-* **Korrekturroll —** Definierar vad en användare kan göra med ett korrektur (t.ex. kommentarer, markeringar, godkännanden osv.)
-* **E-postavisering —** Meddelande om när det finns aktivitet på korrekturet.
-* **Korrekturanvändare —** Någon med en [!DNL Workfront] Planera eller arbeta med licenser som kan ladda upp, granska, godkänna, hantera osv., digitala korrektur.
+* **Korrektur -** Digital version av en fil som kan granskas, markeras och godkännas med [!DNL Workfront's] korrekturläsaren.
+* **Korrekturarbetsflöde -** Processen att skapa, dirigera och hantera ett korrektur i [!DNL Workfront]. Stegen som följs för att slutföra dessa åtgärder.
+* **Korrekturmall eller automatiserad arbetsflödesmall -** Förformaterade arbetsflödessteg som snabbt kan tillämpas på ett korrektur. Inkludera granskare, godkännare, korrekturroller, e-postaviseringar och deadlines.
+* **Korrekturroll -** Definierar vad en användare kan göra med ett korrektur (t.ex. kommentarer, markeringar, godkännanden osv.)
+* **E-postavisering -** Meddelande om att det finns aktivitet på korrekturet.
+* **Korrekturanvändare -** Någon med en [!DNL Workfront]-plan eller en arbetslicens som kan överföra, granska, godkänna, hantera osv., digitala korrektur.
 

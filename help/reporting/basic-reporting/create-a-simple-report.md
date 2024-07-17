@@ -37,23 +37,25 @@ Du vill spåra alla dina aktiva uppgifter i en enda rapport. Skapa en aktivitets
 
 ## Svar
 
-1. Gå till **[!UICONTROL Huvudmeny]** och markera **[!UICONTROL Rapporter]**.
-1. Klicka på **[!UICONTROL Ny rapport]** nedrullningsbar meny och välj **[!UICONTROL Uppgiftsrapport]**.
-1. I [!UICONTROL Kolumner (vy)]klickar du på **[!UICONTROL Använd en befintlig vy]** meny och välj **[!UICONTROL Standard]**.
+1. Gå till **[!UICONTROL huvudmenyn]** och välj **[!UICONTROL Rapporter]**.
+1. Klicka på listrutan **[!UICONTROL Ny rapport]** och välj **[!UICONTROL Aktivitetsrapport]**.
+1. I [!UICONTROL Kolumner (Visa)] klickar du på menyn **[!UICONTROL Använd befintlig vy]** och väljer **[!UICONTROL Standard]**.
 
-   ![En bild av skärmen för att skapa kolumner i en uppgiftsrapport](assets/simple-task-report-columns.png)
+   ![En bild av skärmen för att skapa kolumner i en aktivitetsrapport](assets/simple-task-report-columns.png)
 
-1. I **[!UICONTROL Grupperingar]** klickar du på **[!UICONTROL Tillämpa en befintlig gruppering]** meny och välj **[!UICONTROL Projekt]**.
+1. Klicka på menyn **[!UICONTROL Använd en befintlig gruppering]** på fliken **[!UICONTROL Grupperingar]** och välj **[!UICONTROL Projekt]**.
 
-   ![En bild av skärmen för att skapa grupperingar i en uppgiftsrapport](assets/simple-task-report-groupings.png)
+   ![En bild av skärmen för att skapa grupperingar i en aktivitetsrapport](assets/simple-task-report-groupings.png)
 
-1. I **[!UICONTROL Filter]** klickar du på **[!UICONTROL Använd ett befintligt filter]** och välj Mina aktuella uppgifter.
+1. Klicka på menyn **[!UICONTROL Använd ett befintligt filter]** på fliken **[!UICONTROL Filter]** och välj Mina aktuella uppgifter.
 
-   ![En bild av skärmen för att skapa filter i en uppgiftsrapport](assets/simple-task-report-filters.png)
+   ![En bild av skärmen för att skapa filter i en aktivitetsrapport](assets/simple-task-report-filters.png)
 
 1. Öppna **[!UICONTROL Rapportinställningar]** och ge rapporten namnet&quot;Mina aktuella uppgifter&quot;.
-1. I fältet Beskrivning anger du&quot;Ofullständiga uppgifter i Aktuella projekt där jag är aktivitetsägaren, grupperade efter projekt.&quot;
+1. I fältet Beskrivning anger du &quot;Ofullständig
+uppgifter i Aktuella projekt där jag är uppgiften
+ägare, grupperad efter projekt.&quot;
 
-   ![En bild av skärmen för rapportinställningar i en uppgiftsrapport](assets/simple-task-report-report-settings.png)
+   ![En bild av skärmen för rapportinställningar i en aktivitetsrapport](assets/simple-task-report-report-settings.png)
 
 1. Spara och stäng rapporten.

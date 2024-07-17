@@ -1,6 +1,6 @@
 ---
 title: Spåra förlopp från projekttidslinjen
-description: Lär dig hur du spårar arbetets förlopp från tidslinjen i projektet i [!DNL  Workfront] med procent färdigt, status, tilldelningar eller begränsningar.
+description: Lär dig hur du spårar arbetets förlopp från projekttidslinjen i  [!DNL  Workfront] med procent färdigt, status, tilldelningar eller begränsningar.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,14 +13,14 @@ jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
 # Spåra förlopp från projekttidslinjen
 
-Se till att arbetsmomenten går som de ska för att klara deadlines. När du skannar genom [!UICONTROL Uppgift] finns det flera funktioner i [!DNL  Workfront] som hjälper dig att övervaka arbetets förlopp och status.
+Se till att arbetsmomenten går som de ska för att klara deadlines. När du skannar igenom listan [!UICONTROL Aktivitet] finns det flera funktioner i [!DNL  Workfront] som hjälper dig att övervaka förloppet och statusen för arbetet.
 
 ## Procent färdigt
 
@@ -31,17 +31,17 @@ Procent färdigt för varje arbetsuppgift används ibland för att mäta hur arb
 >Även om procent färdigt för arbetsuppgifter måste uppdateras manuellt, beräknas procentandelen färdigt för en överordnad uppgift av Workfront baserat på procentandelen färdigt och antingen varaktigheten eller planerad tid för varje underordnad uppgift. Det innebär att du får bättre precision i procent om du delar upp stora uppgifter i mindre underaktiviteter.
 
 
-![Lista över projektuppgifter som visas [!UICONTROL Procent färdigt] kolumn](assets/planner-fund-task-percent-complete.png)
+![Projektuppgiftslista med kolumnen [!UICONTROL Procent färdigt]](assets/planner-fund-task-percent-complete.png)
 
 Det finns tre gånger när procentandelen ändras automatiskt:
 
-* När uppgiften [!UICONTROL Status] är inställt på Fullständig, ändras procentandelen till 100.
-* Om uppgiften [!UICONTROL Status] återgår till Nytt, procentandelen slutförd återställs till 0.
+* När aktiviteten [!UICONTROL Status] är inställd på Fullständig ändras procentandelen slutförd till 100.
+* Om aktiviteten [!UICONTROL Status] återställs till Nytt återställs procentandelen slutförd till 0.
 * I en överordnad aktivitet när procentandelen slutfört för en underordnad aktivitet ändras.
 
 ## Status
 
-Inkludera [!UICONTROL Status] kolumn i en [!UICONTROL Visa] för att snabbt se vilka åtgärder som har startats, vilka som pågår och vilka som är slutförda. Du kan till och med ställa in villkorsstyrd formatering i en [!UICONTROL Visa] om du vill färgkoda varje status, vilket gör informationen enklare att tolka.
+Inkludera kolumnen [!UICONTROL Status] i en [!UICONTROL vy] för att snabbt se vilka aktiviteter som har startats, vilka som pågår och vilka som är slutförda. Du kan till och med ställa in villkorsstyrd formatering i en [!UICONTROL vy] för att färgkoda varje status, vilket gör informationen enklare att tolka.
 
 ## Uppgiftstilldelningar
 
@@ -51,8 +51,8 @@ Granska uppgiftstilldelningarna när du granskar projektet. Arbetet kanske blev 
 
 Ibland ändras uppgiftsbegränsningarna och du inser inte det. Begränsningar kan påverka hur tidslinjen fungerar, så du bör se till att de är inställda så som du vill ha dem.
 
-![Projektuppgiftslista som visar aktivitetsbegränsningskolumn](assets/planner-fund-task-constraint.png)
+![Projektuppgiftslista med aktivitetsbegränsningskolumn](assets/planner-fund-task-constraint.png)
 
-Skapa en anpassad vy som innehåller [!UICONTROL Aktivitetsbegränsning] om du vill visa den här informationen i uppgiftslistan. Om du har planerat projektet från ett startdatum vill du att dina aktiviteter ska ha [!UICONTROL Så snart som möjligt] ([!UICONTROL ASAP]).
+Skapa en anpassad vy som innehåller kolumnen [!UICONTROL Aktivitetsbegränsning] om du vill visa den här informationen i uppgiftslistan. Om du planerade projektet från ett startdatum vill du att dina aktiviteter ska ha begränsningen [!UICONTROL Så snart som möjligt] ([!UICONTROL ASAP]).
 
-Mer information om uppgiftsbegränsningar finns i [Förstå och hantera varaktighetstyper och uppgiftsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
+Mer information om uppgiftsbegränsningar finns i [Förstå och hantera varaktighetstyper och aktivitetsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).

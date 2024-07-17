@@ -1,6 +1,6 @@
 ---
 title: Hantera förfrågningar
-description: Lär dig hur du söker efter begäranden som har skickats in via kontrollpaneler, [!UICONTROL Startsida], [!UICONTROL Begäranden] eller [!UICONTROL Team] sida in [!DNL  Workfront].
+description: Lär dig hur du söker efter begäranden som har skickats in via instrumentpaneler, [!UICONTROL Hem], området [!UICONTROL Förfrågningar] eller [!UICONTROL Teams]-sidan i [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,7 +13,7 @@ hidefromtoc: true
 exl-id: df831816-fc60-4c63-b46c-ec2ba49fb061
 source-git-commit: fa555822c372f09e0a99e9470a3f45c03f1ddf3c
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '35'
 ht-degree: 0%
 
 ---
@@ -22,5 +22,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Hantera förfrågningar** ingår nu i **[Söka efter och hantera förfrågningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html)**.
+>**Hantera begäranden** ingår nu i **[Sök och hantera begäranden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html)**.
 

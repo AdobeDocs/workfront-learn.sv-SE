@@ -18,11 +18,11 @@ ht-degree: 0%
 
 # Vad är Scrum-metoden och hur fungerar den?
 
-Scrum-metoden omfattar flexibilitetsmodellen men skiljer sig från andra metoder genom att den har definierat roller för dem som ingår i teamet - som produktägare, Scum Överordnad osv. - och definierade rutiner för att definiera och slutföra arbetet.
+Scrum-metoden omfattar flexibilitetsmodellen men skiljer sig från andra metoder genom att den har definierat roller för dem som ingår i teamet - som produktägare, SCum Master osv. - och definierade rutiner för att definiera och slutföra arbetet.
 
 ## Översikt över Scrum team
 
-När ni bestämmer er för om ni ska gå över till Scrum eller inte måste ni ta en titt på teamets struktur för att se om de enkelt kan gå över till den nya metoden. Ett Scrum-team har tre typer av medlemmar: en produktägare, en överordnad och teammedlemmar.
+När ni bestämmer er för om ni ska gå över till Scrum eller inte måste ni ta en titt på teamets struktur för att se om de enkelt kan gå över till den nya metoden. Ett Scrum-team har tre typer av medlemmar: en produktägare, en scrum master och teammedlemmar.
 
 ![Deltagare i Scrum-team](assets/scrumteammembers-01.png)
 
@@ -101,4 +101,4 @@ Med hjälp av ett storyboard flyttar team sina artiklar genom statuskolumner fö
 
 Ett nedladdningsbart diagram kan användas för att övervaka om teamet slutför artiklar med tillräckligt snabb eller snabb hastighet. Burndown-scheman kan användas för enskilda iterationer eller för hela produktversionen.
 
-![Nedsänkt diagram](assets/burndown-01.png)
+![Nedladdningsdiagram](assets/burndown-01.png)

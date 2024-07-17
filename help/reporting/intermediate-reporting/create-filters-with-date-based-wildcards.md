@@ -13,7 +13,7 @@ exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ I den här videon får du lära dig att:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
-## Aktivitetsfrågor
+## Aktivitetfrågor
 
 1. Hur skapar du filterregeln om du vill ha problem som har förfallodatumet i går eller idag?
 1. Hur skapar du filterregeln för att hitta projekt som förföll förra veckan?
@@ -40,6 +40,6 @@ I den här videon får du lära dig att:
 
 ## Svar
 
-1. Filtrera på planerat slutdatum för utleverans mellan [!UICONTROL $$TODAY-1d] och [!UICONTROL $$IDAG].
+1. Filtrera på det planerade slutdatumet för utgåvan mellan [!UICONTROL $$TODAY-1d] och [!UICONTROL $$TODAY].
 1. Filtrera på projektets planerade slutdatum mellan [!UICONTROL $$TODAYb-1w] och [!UICONTROL $$TODAYe-1w].
 1. I den här rapporten hittas uppgifter som tilldelats dig och som ännu inte är färdiga (med andra ord har ett procenttal som är mindre än 100) och som är försenade eller förfaller idag. Filterregeln för det planerade slutförandedatumet för aktiviteterna anger att du ska titta på aktiviteter som har ett förfallodatum som är lika med eller före dagens datum.

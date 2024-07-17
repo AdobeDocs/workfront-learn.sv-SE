@@ -36,6 +36,6 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
-Så här skapar du **Återrapportering från administratörsteamet** som används i videon finns i [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) självstudiekurs och sök efter aktiviteten **Skapa en feedback från administratörsteamet** följer videon.
+Om du vill lära dig hur du skapar den **feedback-rapport för administratörsteamet** som används i videon kan du läsa självstudiekursen [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) och leta efter aktiviteten **Skapa en feedback-rapport för administratörsteamet** efter videon.
 
-Mer information om hur du skapar ett anpassat formulär finns i [Skapa och dela ett anpassat formulär](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) självstudie.
+Om du vill lära dig hur du skapar ett anpassat formulär kan du läsa självstudiekursen [Skapa och dela ett anpassat formulär](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html).

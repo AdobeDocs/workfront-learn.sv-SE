@@ -1,6 +1,6 @@
 ---
 title: Fullständiga godkännanden
-description: Lär dig identifiera ofullständiga godkännanden och lösa dem så att du kan stänga projektet i [!DNL  Workfront].
+description: Lär dig hur du identifierar ofullständiga godkännanden och löser dem så att du kan stänga ditt projekt i  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -22,16 +22,16 @@ ht-degree: 0%
 
 Godkännanden av uppgifter och ärenden ingår i många arbetsflöden. Men olösta godkännanden hindrar dig från att ange projektstatus till Fullständigt.
 
-På [!UICONTROL Uppgift] väljer du en [!UICONTROL Visa] som innehåller [!UICONTROL Status] kolumn. En snabbtitt på den kolumnen visar om en uppgift med &quot;[!UICONTROL - Väntar på godkännande]&quot; efter statusens namn.
+I avsnittet [!UICONTROL Aktivitet] i ditt projekt väljer du en [!UICONTROL vy] som innehåller kolumnen [!UICONTROL Status]. En snabböversikt över den kolumnen visar om det finns ett ofullständigt godkännande för en aktivitet med &quot;[!UICONTROL  - Väntande godkännande ]&quot; efter statusens namn.
 
-![Projekt som visar ofullständigt godkännande](assets/approval-pending.png)
+![Projektet visar ofullständigt godkännande](assets/approval-pending.png)
 
 Du kan välja vad du vill göra:
 
-* **Slutför godkännandet -** Detta kan innebära att man måste påminna andra om godkännandet. Du kan se vem som har tilldelats som godkännare genom att öppna uppgiften och klicka på fliken Godkännanden.
-* **Ta bort godkännandet —** Om godkännandet inte behövs kan det vara enklare att bara ta bort det. Din förmåga att göra detta beror på din [!DNL Workfront] behörigheter.
-* **Ändra status —** Om godkännandet inte behövs kan du välja en status som inte har ett godkännande bifogat. Se bara till att statusen är lika med Fullständig.
+* **Slutför godkännandet -** Det kan betyda att andra påminns om det utestående godkännandet. Du kan se vem som har tilldelats som godkännare genom att öppna uppgiften och klicka på fliken Godkännanden.
+* **Ta bort godkännandet -** Om godkännandet inte behövs kan det vara enklare att bara ta bort det. Din förmåga att göra detta beror på dina [!DNL Workfront]-behörigheter.
+* **Ändra status -** Om godkännandet inte behövs kan du välja en status som inte har ett godkännande bifogat. Se bara till att statusen är lika med Fullständig.
 
-![Projekt som visar uppgiftsgodkännare](assets/task-approvers.png)
+![Projekt som visar aktivitetsgodkännare](assets/task-approvers.png)
 
-Om din organisation använder problem för att spåra problem, ändringsorder eller andra händelser under projekt följer du samma steg i [!UICONTROL Problem] del av projektet.
+Om din organisation använder problem för att spåra problem, ändringsorder eller andra händelser under projekt följer du samma steg i avsnittet [!UICONTROL Problem] i ditt projekt.

@@ -1,6 +1,6 @@
 ---
 title: Genomgång av felhantering
-description: Lär dig mer om hur standardfelhantering sker och hur du lägger till specifik felhantering i modulen med hjälp av direktiv i [!DNL Adobe Workfront Fusion].
+description: Lär dig mer om hur standardfelhantering utförs och hur du lägger till specifik felhantering i modulen med hjälp av direktiv i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -32,4 +32,4 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

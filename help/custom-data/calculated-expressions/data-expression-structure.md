@@ -1,6 +1,6 @@
 ---
 title: Lär dig datauttrycksstrukturen
-description: Lär dig de standardelement som används för att skapa uttryck i Adobe [!DNL Workfront].
+description: Lär dig de standardelement som används för att skapa uttryck i Adobe  [!DNL Workfront].
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User

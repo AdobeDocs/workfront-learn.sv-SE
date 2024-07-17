@@ -1,6 +1,6 @@
 ---
 title: Förstå organisationer, team och användare
-description: Lär dig hur du använder, skapar och navigerar mellan organisationer, team och användare i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du använder, skapar och navigerar mellan organisationer, team och användare i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

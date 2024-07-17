@@ -29,15 +29,15 @@ Workfront standardbasvaluta är USD. Det här är den valuta som ekonomisk infor
 
 ![En bild av hur du väljer valutakurser](assets/setting-up-finances-4.png)
 
-**Välj [!UICONTROL Inställningar] på huvudmenyn.**
+**Välj [!UICONTROL Konfigurera] på huvudmenyn.**
 
-1. Expandera **[!UICONTROL Projektinställningar]** i den vänstra menypanelen.
-1. Klicka **[!UICONTROL Växelkurser]**.
-1. Klicka på **[!UICONTROL Lägg till valuta]** -knappen.
+1. Expandera **[!UICONTROL Projektinställningar]** på den vänstra menypanelen.
+1. Klicka på **[!UICONTROL Växelkurser]**.
+1. Klicka på knappen **[!UICONTROL Lägg till valuta]**.
 1. Välj landsvaluta i listrutan.
 1. Ange önskad valutakurs för valutan.
-1. Om en annan valuta än US-dollarn är [!DNL Workfront] systemets basvaluta (standardvaluta), klicka på knappen bredvid valutanamnet.
-1. Klicka **[!UICONTROL Spara]** när alla valutor har lagts till.
+1. Om en annan valuta än USD ska vara [!DNL Workfront]-systemets basvaluta (standardvaluta) klickar du på knappen bredvid valutanamnet.
+1. Klicka på **[!UICONTROL Spara]** när alla valutor har lagts till.
 
 ![En bild av hur du lägger till en valuta i valutakurslistan](assets/setting-up-finances-5.png)
 

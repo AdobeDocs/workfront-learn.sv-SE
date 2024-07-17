@@ -1,6 +1,6 @@
 ---
 title: Mappningspanelen och formelredigeraren
-description: Läs mer om hur du använder mappningspanelen, formelredigeraren och vanliga formelexempel i [!DNL Adobe Workfront Fusion].
+description: Läs mer om hur du använder mappningspanelen, formelredigeraren och vanliga formelexempel i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

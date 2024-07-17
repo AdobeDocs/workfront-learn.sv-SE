@@ -1,6 +1,6 @@
 ---
 title: Gör djupare med tidsramar och ytterligare diagram
-description: Lär dig mer om ett projekt i flygplansdiagrammet så att Burndown-schemat och uppgifter i flygningsschemat visas i [!UICONTROL Förbättrad analys].
+description: Lär dig mer om hur du fördjupar dig i ett projekt i flygplansdiagrammet så att Burndown-schemat och uppgifter i flygdiagrammet visas i [!UICONTROL Förbättrad analys].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -14,7 +14,7 @@ exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---

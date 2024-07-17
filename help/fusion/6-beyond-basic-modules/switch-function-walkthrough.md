@@ -1,6 +1,6 @@
 ---
 title: Genomgång av switchfunktion
-description: Lär dig hur du använder funktionen Växla för att omforma ett värde till ett annat inom ett modulfält i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur du använder funktionen Växla för att omforma ett värde till ett annat inom ett modulfält i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -34,4 +34,4 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

@@ -1,6 +1,6 @@
 ---
 title: Uppdatera en begäran
-description: Lär dig hur du hittar de förfrågningar du har skickat och gör en uppdatering av förfrågningarna i [!DNL  Workfront].
+description: Lär dig hur du hittar de förfrågningar du har skickat och gör en uppdatering för dessa förfrågningar i  [!DNL  Workfront].
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -27,7 +27,7 @@ I den här videon får du lära dig att:
 * Sök efter förfrågningar som du har skickat in
 * Göra en uppdatering på sammanfattningspanelen
 * Öppna förfrågningssidan
-* Uppdatera en begäran i [!UICONTROL Uppdateringar] panel
+* Uppdatera en begäran på panelen [!UICONTROL Uppdateringar]
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
 

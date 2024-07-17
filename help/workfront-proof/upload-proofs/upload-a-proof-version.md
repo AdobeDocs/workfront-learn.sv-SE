@@ -1,6 +1,6 @@
 ---
 title: Överför en korrekturversion
-description: Lär dig hur du överför en ny version av ett korrektur och använder ett korrekturarbetsflöde på versionen i [!DNL  Workfront].
+description: Lär dig hur du överför en ny version av ett korrektur och använder ett korrekturarbetsflöde för versionen i  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -29,9 +29,9 @@ I den här videon får du lära dig att:
 
 ## Överför en version från korrekturläsaren
 
-Om du har ett korrektur öppet i korrekturläsaren kan du påbörja en versionsuppladdning direkt från versionsmenyn. Klicka på [!UICONTROL Ny version] länk som ska dirigeras direkt till[!UICONTROL ladda upp en ny version]&quot; och slutför överföringen.
+Om du har ett korrektur öppet i korrekturläsaren kan du påbörja en versionsuppladdning direkt från versionsmenyn. Klicka på länken [!UICONTROL Ny version] om du vill dirigera direkt till sidan [!UICONTROL Överför en ny version] och slutföra överföringen.
 
-![En bild av korrekturläsaren med versionsmenyn utökad i det övre vänstra hörnet och i [!UICONTROL Ny version] länk markerad.](assets/upload-version-from-viewer.png)
+![En bild av korrekturläsaren med versionsmenyn utökad i det övre vänstra hörnet och länken [!UICONTROL Ny version] markerad.](assets/upload-version-from-viewer.png)
 
 ## Din tur
 

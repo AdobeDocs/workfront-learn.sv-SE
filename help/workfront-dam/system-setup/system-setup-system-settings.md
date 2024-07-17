@@ -1,6 +1,6 @@
 ---
 title: Förstå systeminställningar
-description: Lär dig hur du upprättar globala inställningar, anger resursalternativ, anger mappinställningar, gör hämtningsregler och visar rapporter och granskningsloggar i [!UICONTROL WORKFRONT DAM].
+description: Lär dig hur du upprättar globala inställningar, anger resursalternativ, anger mappinställningar, gör hämtningsregler och visar rapporter och granskningsloggar i [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

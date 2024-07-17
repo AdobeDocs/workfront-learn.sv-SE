@@ -1,6 +1,6 @@
 ---
-title: Förstå Workfront för [!DNL Slack]
-description: Lär dig hur du får en introduktion till vad du kommer att lära dig av andra [!DNL Workfront] för Slack-videor.
+title: Förstå Workfront för  [!DNL Slack]
+description: Lär dig hur du får en introduktion till vad du kommer att lära dig av andra [!DNL Workfront] för Slack-videofilmer.
 activity: use
 feature: Workfront Integrations and Apps,Get Started with Workfront
 type: Tutorial
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 I den här videon kommer du att:
 
-* Få en introduktion till vad du kan lära dig av andra [!DNL Workfront] for [!DNL Slack] videor.
+* Få en introduktion till vad du kommer att lära dig av andra [!DNL Workfront] för [!DNL Slack]-videor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Mer information om hur du konfigurerar [!UICONTROL Workfront för Slack], se [Adobe Workfront för Slack](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=en).
+>Mer information om hur du konfigurerar [!UICONTROL Workfront för Slack] finns i [Adobe Workfront för Slack](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=en).
 

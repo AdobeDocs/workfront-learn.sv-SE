@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -47,9 +47,9 @@ Följ upp framsteg, kostnader och intäkter med användningsrapporten.
 
 
 
-**Här är varför**
+**Det här är varför**
 
-Få ut så mycket som möjligt av personalresurserna genom att analysera förloppet, kostnaden eller intäkterna för ett projekt, program eller en portfolio med hjälp av utnyttjanderapporten. Den här rapporten är ett oumbärligt verktyg för resurschefer, projektledare och andra personalchefer, eftersom det även kan jämföra planerade eller faktiska intäkter med kostnaderna så att ni kan fatta mer välgrundade beslut och fullt ut mäta de olika typer och det antal resurser som en viss uppgift eller ett visst projekt kan kräva.
+Få ut så mycket som möjligt av personalresurserna genom att analysera förloppet, kostnaden eller intäkterna för ett projekt, program eller en portfölj med hjälp av utnyttjanderapporten. Den här rapporten är ett oumbärligt verktyg för resurschefer, projektledare och andra personalchefer, eftersom det även kan jämföra planerade eller faktiska intäkter med kostnaderna så att ni kan fatta mer välgrundade beslut och fullt ut mäta de olika typer och det antal resurser som en viss uppgift eller ett visst projekt kan kräva.
 
 
 
@@ -64,6 +64,6 @@ Tilldela resurser till underordnade uppgifter i stället för till överordnade 
 
 
 
-**Här är varför**
+**Det här är varför**
 
 När utnyttjanderapporten skapas innehåller den timmar som loggats till projektet, underordnade uppgifter, utgåvor och överordnade uppgifter som har minst en tilldelning. Den spårar dock inte timmarna som loggats till överordnade uppgifter utan tilldelningar. Om du vill få en bra bild av det totala antalet timmar som har ägnats åt uppgifter, utleveranser eller projekt ska du inte använda överordnade uppgifter som arbetsuppgifter och tilldela användare enbart till underordnade uppgifter.

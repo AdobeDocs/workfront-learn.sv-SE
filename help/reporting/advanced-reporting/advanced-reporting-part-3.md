@@ -13,7 +13,7 @@ exl-id: 208af7e6-7625-4e81-bcb3-c3c7932828e5
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,6 @@ I den här videon får du lära dig:
 
 ## Praktiska länkar
 
-[[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
+[[!UICONTROL API-utforskaren]](https://developer.adobe.com/workfront/api-explorer/)
 
 [Avancerad rapporteringsmanual](/help/assets/advanced-reporting-manual.pdf)

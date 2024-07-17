@@ -1,6 +1,6 @@
 ---
 title: Saker att känna till om beräknade fältuttryck
-description: Få en glimt av koncept som är bra att känna till när du arbetar med anpassade beräkningsfält i [!DNL Workfront].
+description: Få en glimt i en lista med koncept som är bra att känna till när du arbetar med anpassade beräkningsfält i  [!DNL Workfront].
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
@@ -11,7 +11,7 @@ thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: '964'
 ht-degree: 0%
 
 ---
@@ -38,13 +38,13 @@ Timmar i Workfront-databasen lagras på några minuter. Om du refererar till fä
 
 Det rekommenderade sättet att skriva uttryck är att ha lite eller inget mellanrum mellan varje uttryck.
 
-* IF(ISBLANK(){description}),&quot;Ingen beskrivning&quot;,&quot;Har beskrivning&quot;)
+* IF(ISBLANK({description}),&quot;Ingen beskrivning&quot;,&quot;Har beskrivning&quot;)
 
 ![Uttryck utan mellanrum mellan fält](assets/T2K02.png)
 
 Om du vill se vad som pågår med mellanrum kan vissa mellanrum läggas till i uttrycken. Det extra utrymmet bör inte hindra uttrycket från att samla in eller beräkna ett värde i [!DNL Workfront].
 
-* IF (ISBLANK ({description}), &quot;Ingen beskrivning&quot;, &quot;Har beskrivning&quot; )
+* IF (ÄRBLANK ({description}), &quot;Ingen beskrivning&quot;, &quot;Har beskrivning&quot;)
 
 ![Uttryck med mellanrum mellan fält](assets/T2K03.png)
 
@@ -54,7 +54,7 @@ Det enda som inte kan ha blanksteg mellan dem är fälten och klamrarna. Annars 
 
 ## Citattecken måste vara raka
 
-När du använder citattecken i ett uttryck måste du se till att citattecknen är raka (&quot;). Om citattecknen är böjda (&quot;) visas [!DNL Workfront] systemet kommer att fortsätta visa meddelandet&quot;Ogiltigt anpassat uttryck&quot;.
+När du använder citattecken i ett uttryck måste du se till att citattecknen är raka (&quot;). Om citattecknen är böjda (&quot;) kommer systemet [!DNL Workfront] att fortsätta visa meddelandet&quot;Ogiltigt anpassat uttryck&quot;.
 
 ![Fel med böjda citattecken](assets/T2K05.png)
 
@@ -69,7 +69,7 @@ Uttryck kan uppdateras med alternativet Beräkna om uttryck på menyn Mer på et
 Du vill se hur många dagar ett problem har varit öppet. Skapa ett beräkningsfält med namnet&quot;Days Open&quot; med uttrycket DATEDIFF.
 
 * Fältnamn = Öppnade dagar
-* Expression = DATEDIFF({entryDate},$$IDAG)
+* Uttryck = DATEDIFF({entryDate},$$TODAY)
 
 När du har sparat dokumentet kan du se antalet dagar mellan när utgåvan skapades eller skrevs in i Workfront och dagens datum på informationssidan för ett objekt eller i en rapportvy.
 
@@ -83,7 +83,7 @@ Så här uppdaterar du ett fält med alternativet Beräkna om uttryck:
 * Klicka på menyn Mer.
 * Välj Beräkna om uttryck i listan.
 
-![Alternativet Beräkna om uttryck i objekt](assets/T2K06.png)
+![Alternativ för att beräkna om uttryck i objekt](assets/T2K06.png)
 
 Du kan också beräkna om flera uttryck samtidigt genom att använda funktionen&quot;massredigering&quot; i en lista eller rapport. Anta att du har skapat en rapport som visar en lista med problem med beräkningen Öppna dagar i en kolumn. Om du vill beräkna om alla utgåvor samtidigt:
 
@@ -93,25 +93,25 @@ Du kan också beräkna om flera uttryck samtidigt genom att använda funktionen&
 * Markera rutan Beräkna om anpassade uttryck längst ned i avsnittet Anpassad Forms.
 * Klicka på Spara ändringar.
 
-![Alternativet Beräkna om uttryck för flera objekt](assets/T2K07.png)
+![Alternativ för att beräkna om uttryck för flera objekt](assets/T2K07.png)
 
 Skärmen uppdateras för att visa uppdaterad information i beräkningsfältet.
 
-**Anteckning**: Även om det finns andra sätt att uppdatera, eller beräkna om, uttryck i ett beräkningsfält, är detta det snabbaste och enklaste sättet.
+**Obs!** Även om det finns andra sätt att uppdatera, eller beräkna om, uttryck i ett beräkningsfält, är detta det snabbaste och enklaste sättet.
 
 ## Beräkningar kan variera från formulär till formulär i samma fält
 
 När ett beräkningsfält sparas i ett anpassat formulär och det anpassade formuläret sparas, läggs beräkningsfältet till i fältbiblioteket så att det kan användas i andra anpassade formulär.
 
-Om du har ett beräkningsfält på formulär A och samma beräkningsfält på formulär B, är den första tanken att beräkningarna är exakt likadana. Så är inte alltid fallet. Det beräknade fältet i formulär A kan vara en helt annan metod för formulär B.
+Om du har ett beräkningsfält på formulär A och samma beräkningsfält på formulär B, är den första tanken att beräkningarna är exakt likadana. Så är inte alltid fallet. Det beräknade fältet i formulär A skulle kunna vara en helt annan metod för formulär B.
 
 När ett beräknat anpassat fält väljs från fältbiblioteket och läggs till i ett anpassat formulär, läggs fältet till men beräkningen är tom. En orsak till detta är att beräkningen kan referera till fält som inte finns för en annan objekttyp.
 
 Du har till exempel skapat ett beräkningsfält,&quot;Dagar att slutföra&quot;, som avgör hur lång tid det tog att slutföra en uppgift i ett projekt.
 
-* WEEKDAYDIFF({actualStartDate},{actualCompletionDate})
+* VECKODAYDIFF({actualStartDate},{actualCompletionDate})
 
-Du vill göra samma sak för en iteration. Du kan använda samma uttryck; De tillgängliga fälten för ett åtgärdsobjekt är dock inte alltid tillgängliga för ett upprepningsobjekt. Så [!DNL Workfront] ger dig möjlighet att skapa beräkningen med rätt objektfält.
+Du vill göra samma sak för en iteration. Du kan använda samma uttryck, men fälten som är tillgängliga för ett åtgärdsobjekt är inte alltid tillgängliga för ett upprepningsobjekt. [!DNL Workfront] ger dig alltså möjlighet att skapa beräkningen med rätt objektfält.
 
 **Pro-Tip**: Kopiera det beräknade uttrycket från rutan Beräkning till fältet Instruktioner när du skapar anpassade fält. Det här fältet raderas inte när ett beräknat anpassat fält läggs till i det anpassade formuläret från fältbiblioteket.
 

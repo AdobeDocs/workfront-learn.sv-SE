@@ -1,6 +1,6 @@
 ---
 title: Förstå begärandeköer
-description: Läs om hur frågeköer är strukturerade i [!DNL  Workfront] och hur man skickar in en begäran.
+description: Lär dig hur begärandeköer är strukturerade i [!DNL  Workfront] och hur du skickar en begäran.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -22,22 +22,22 @@ ht-degree: 0%
 
 I den här videon får du lära dig:
 
-* Skicka en begäran via en [!DNL  Workfront] begärandekö
+* Skicka en begäran via en [!DNL  Workfront]-begärandekö
 * Hur begärandeköer är strukturerade
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
 ## Begär att utkast sparas automatiskt
 
-När du börjar fylla i ett begärandeformulär [!DNL Workfront] sparar ett utkast automatiskt när du har fyllt i [!UICONTROL Ämne] fält. Det innebär att du inte förlorar data om du behöver navigera bort från [!UICONTROL Begäranden] området för att göra något annat eller om du behöver göra en paus mitt i din förfrågan för att samla in mer information.
+När du börjar fylla i ett begärandeformulär sparar [!DNL Workfront] ett utkast automatiskt när du har fyllt i fältet [!UICONTROL Ämne]. Det innebär att du inte förlorar data om du behöver navigera bort från området [!UICONTROL Begäranden] för att göra något annat eller om du behöver göra en paus mitt i din begäran för att samla in mer information.
 
-En indikation visas om att utkastet har sparats högst upp i fönstret. [!DNL Workfront] sparar ett utkast av din begäran, även om de obligatoriska fälten inte har fyllts i ännu.
+En indikation visas om att utkastet har sparats högst upp i fönstret. [!DNL Workfront] sparar ett utkast av din begäran, även om obligatoriska fält inte har fyllts i ännu.
 
-![bild av en begäran som skapar ett utkast](assets/queue-mgt-make-a-request-draft-1.png)
+![bild av ett utkast som skapar en begäran](assets/queue-mgt-make-a-request-draft-1.png)
 
-När du är redo att skicka begäran kan du hitta den i [!UICONTROL Utkast] -fliken. Klicka på namnet för att öppna det och fylla i formuläret. Klicka sedan på [!UICONTROL Skicka begäran] när du är klar.
+När du är redo att skicka begäran kan du hitta den på fliken [!UICONTROL Utkast]. Klicka på namnet för att öppna det och fylla i formuläret. Klicka sedan på [!UICONTROL Skicka begäran] när du är klar.
 
-![bild på återkallande av ett begärandeutkast](assets/queue-mgt-make-a-request-draft-2.png)
+![bild av återkallande av ett begärandeutkast](assets/queue-mgt-make-a-request-draft-2.png)
 
 ## Din tur
 
@@ -52,9 +52,9 @@ Låt oss titta lite på den information du just fick.
 * Navigera till begärandeområdet
 
 
-**Svar:** Navigera till begärandeområdet > Klicka på Ny begäran > Välj den typ av begäran som du vill göra > Fyll i informationen i formuläret > Klicka på Skicka begäran
+**Svar:** Navigera till begärandeområdet > Klicka på Ny begäran > Välj den typ av begäran som du behöver göra > Fyll i informationen i formuläret > Klicka på Skicka begäran
 
-**Fråga:** En förfrågan är en..
+**Fråga:** En begäran är verkligen en ...
 
 **Svar:** Problem
 

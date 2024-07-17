@@ -1,6 +1,6 @@
 ---
-title: Godkänna arbetet i [!UICONTROL Startsida]
-description: Lär dig hur du hittar godkännandebegäranden för projekt, uppgifter, utgåvor och korrektur i [!UICONTROL Arbetslista], godkänna eller avvisa arbetet i [!DNL  Workfront].
+title: Godkänn arbete i [!UICONTROL Hem]
+description: Lär dig hur du söker efter projekt-, uppgifts-, utgåva- och korrekturbegäranden om godkännande i [!UICONTROL arbetslistan] och sedan godkänna eller avvisa arbetet i  [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ---
 
-# Godkänn projekt, uppgifter, utgåvor eller korrektur i [!DNL Workfront] [!UICONTROL Startsida]
+# Godkänn projekt, aktiviteter, utgåvor eller korrektur i [!DNL Workfront] [!UICONTROL Hem]
 
 I den här videon får du lära dig att:
 
-* Hitta godkännanden i [!UICONTROL Arbetslista]
+* Sök efter godkännanden i [!UICONTROL arbetslistan]
 * Godkänn eller avvisa arbete
 * Granska ett korrektur
 

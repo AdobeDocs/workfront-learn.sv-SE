@@ -26,7 +26,7 @@ Lär dig hur du använder filtret mellan moduler för att bara tillåta vissa ty
 
 Lägg till ett filter mellan de två modulerna i Beyond Basic-mappningsscenariot för att endast skapa projekt som har en röd projektfärg i CSV-filen.
 
-![Filterbild 1](../12-exercises/assets/filters-walkthrough-1.png)
+![Filtrerar bild 1](../12-exercises/assets/filters-walkthrough-1.png)
 
 ## Steg som ska följas
 
@@ -41,7 +41,7 @@ Lägg till ett filter mellan de två modulerna i Beyond Basic-mappningsscenariot
 1. Mappa fältet Projektfärg (kolumn 3 i CSV-filen) i fältet Villkor. Välj operatorn Lika med (skiftlägesokänslig) och skriv sedan &quot;red&quot;.
 1. Klicka på OK.
 
-   ![Filtrera bild 3](../12-exercises/assets/filters-walkthrough-3.png)
+   ![Filterbild 3](../12-exercises/assets/filters-walkthrough-3.png)
 
    **Testa filtret och verifiera resultatet.**
 

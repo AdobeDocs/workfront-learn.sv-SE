@@ -1,6 +1,6 @@
 ---
-title: Uppdatera framsteg för resultat och aktiviteter som [!DNL Workfront Goals]
-description: Lär dig hur du uppdaterar framsteg för resultat och aktiviteter i [!DNL Workfront Goals].
+title: Uppdatera förloppet för resultat och aktiviteter i  [!DNL Workfront Goals]
+description: Lär dig hur du uppdaterar förloppet för resultat och aktiviteter i  [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

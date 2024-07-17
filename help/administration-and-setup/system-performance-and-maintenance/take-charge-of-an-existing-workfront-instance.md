@@ -12,7 +12,7 @@ thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
 source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Det underbara med Workfront är att det är så anpassningsbart. Utmaningen med 
 
 Men via vår lista Inherited Instance Checklist kan du lära dig allt du behöver veta om din instans.
 
-![Ärvd bild av kontrollista](assets/wf-inherited-instance-image.png)
+![Ärvd kontrollistbild för instans](assets/wf-inherited-instance-image.png)
 <br></br>
 
 I checklistan för ärvda instanser granskar du en omfattande uppsättning frågor, resurser och länkar för att få en tydlig förståelse för hur den har konfigurerats.
@@ -34,9 +34,9 @@ Både skissen och kalkylbladet är ordnade efter ämne, i stället för efter ti
 
 Där det är möjligt rekommenderar vi att du samarbetar med andra i organisationen för att granska och dokumentera dessa element och för att hålla dokumentationen uppdaterad om det finns några större förändringar. Framtida administratörer i din instans kommer att tacka dig!
 
-* <b>Ladda ned utkast</b>navigerar du till huvudmenyn i din egen Workfront-instans och väljer Utkast. Hitta skissen &quot;Inherited Instance Basics | Checklista&quot; och klicka på Installera. Välj produktion eller sandlådemiljö och fortsätt konfigurera. Mer information om hur du installerar och konfigurerar utkast finns [här](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+* <b>Om du vill hämta utkast</b> går du till huvudmenyn i din egen Workfront-instans och väljer Utkast. Hitta skissen &quot;Inherited Instance Basics | Checklista&quot; och klicka på Installera. Välj produktion eller sandlådemiljö och fortsätt konfigurera. Mer information om hur du installerar och konfigurerar utkast finns [här](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
 
-* <b>Så här hämtar du Excel</b> checklista, klicka [här](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+* <b>Klicka [här](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx) om du vill hämta Excel</b>-checklistan.
 
 Oavsett om du använder utkast- eller Excel-checklistan kan du tänka på den här processen i tre nyckelfaser - Discovery, Audit och Documentation. Beskrivningar och idealiska resultat visas nedan.
 
@@ -99,6 +99,6 @@ Genom att gå igenom varje fas, och med hjälp av checklistan för den ärvda in
 
 Ytterligare information finns nedan:
 * [Webbinarium: Tips för att ta över en ärvd instans](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
-* [Definiera mål för implementeringen av Workfront](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en)
+* [Definiera mål för din Workfront-implementering](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en)
 * [Blogginlägg: Executive Sponsorship and Value to Leadership](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
-* [Blogginlägg: Introduktion till Adobe Workfront KPI](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
+* [Blog Post: Introduktion till Adobe Workfront KPI:er](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)

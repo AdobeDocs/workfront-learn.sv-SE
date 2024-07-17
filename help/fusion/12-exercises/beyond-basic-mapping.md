@@ -38,9 +38,9 @@ Lär dig hur du använder mappningspanelens formler för att ändra eller konver
 
    **Nu ska vi använda mappningspanelen i modulen Skapa Workfront-projekt för att konfigurera projektnamn, planerat startdatum och prioritetsfält.**
 
-1. Klicka på modulen Skapa Workfront-projekt för att redigera inställningarna. Ändra namnfältet till &quot;[Mitt projektnamn] av [Sponsorn].&quot;
+1. Klicka på modulen Skapa Workfront-projekt för att redigera inställningarna. Använd mappningspanelen och ändra fältet Namn till [Mitt projektnamn] av [Sponsorn].
 
-   + The [Mitt projektnamn] är kolumn 1 från CSV-modulen Parse och [Sponsorn] är kolumn 6. Ordet &quot;by&quot; skrivs precis mellan de två.
+   + [Mitt projektnamn] är kolumn 1 från CSV-modulen Parse och [Sponsorn] är kolumn 6. Ordet &quot;by&quot; skrivs precis mellan de två.
 
 1. Gå sedan till planerat startdatum och använd formeln addDays för att lägga till 15 dagar i fältet, vilket beskrivs i Beyond basic mapping-genomgången.
 1. Hitta fältet Prioritet och växla knappen Karta längst upp till höger i fältet. Menyn med en lista ändras till ett tal. Skapa en if-programsats för att ge ett projekt etiketten High(4)-prioritet om CSV-filens konfidensgrad är mindre än 100, annars kan den vara Normal(2).

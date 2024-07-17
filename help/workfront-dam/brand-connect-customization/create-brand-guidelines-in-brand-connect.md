@@ -1,6 +1,6 @@
 ---
 title: Skapa varumärkesriktlinjer i Brand Connect
-description: Läs mer om varumärkesriktlinjerna och hur du skapar en sida med varumärkesriktlinjer i Brand Connect for [!UICONTROL Workfront DAM].
+description: Lär dig vilka varumärkesriktlinjer som finns och hur du skapar en sida med varumärkesriktlinjer i Brand Connect för [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

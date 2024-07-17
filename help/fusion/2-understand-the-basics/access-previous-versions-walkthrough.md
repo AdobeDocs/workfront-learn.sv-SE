@@ -1,6 +1,6 @@
 ---
 title: Genomgång av tidigare versioner
-description: Upptäck hur du kan återställa tidigare versioner efter att du har gjort ändringar i ditt scenario och sparat dem i [!DNL Adobe Workfront Fusion].
+description: Upptäck hur du kan återställa tidigare versioner efter att du har gjort ändringar i ditt scenario och sparat dem i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -43,18 +43,18 @@ Workfront rekommenderar att du tittar på genomgången av videon innan du förs�
 
 Utlösarmoduler kan bara användas som den första modulen och kan returnera noll, ett eller flera paket. Dessa behandlas individuellt i efterföljande moduler, såvida de inte slås samman.
 
-**Avsökningsutlösare (klocka vid utlösare)**- Specialfunktioner för att hålla reda på den senaste posten som bearbetats.
+**Avsökningsutlösare (klocka vid utlösare)** - Specialfunktioner för att hålla reda på den senaste posten som bearbetats.
 
-**Direktutlösare (blixt vid utlösare)**—Utlöses omedelbart baserat på webkrok.
+**Direktutlösare (blixt vid utlösare)** - Utlöses omedelbart baserat på webkrok.
 
-![En bild av en post som skapats och en sökmodul](assets/understand-the-basics-4.png)
+![En bild av en skapad post och en sökmodul](assets/understand-the-basics-4.png)
 
 ### Åtgärder och sökmoduler
 
-**Åtgärd**—Används för att utföra CRUD-åtgärder (Skapa, Läs, Uppdatera och Ta bort)
+**Åtgärd** - Används för att utföra CRUD-åtgärder (Skapa, Läs, Uppdatera och Ta bort)
 
-**Sökningar**- Används för att söka efter noll, en eller flera poster och returnerar dessa som paket, som bearbetas individuellt i efterföljande moduler, såvida de inte slås samman.
+**Sökningar** - Används för att söka efter noll, en eller flera poster och returnerar dessa som paket, som bearbetas individuellt i efterföljande moduler, såvida de inte slås samman.
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion - dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

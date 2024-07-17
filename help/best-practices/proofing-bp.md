@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -63,7 +63,7 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Skapa korrekturmallar för arbetsflöden.
 
-**Här är varför**
+**Det här är varför**
 
 Mallar snabbar inte bara upp och effektiviserar korrekturläsning och tilldelningsprocessen, de ger också ett enhetligt korrekturflöde för liknande typer av material. De ser också till att varje korrekturmottagare tilldelas rätt korrekturroll och e-postavisering och att en deadline har ställts in.
 
@@ -76,13 +76,13 @@ Inaktivera inställningen&quot;Skicka e-post från Workfront när en kommentar g
 
 
 
-**Här är varför**
+**Det här är varför**
 
 När den här inställningen är aktiverad (vilket den är som standard) kan användare få flera e-postmeddelanden för varje kommentar i ett korrektur - en från korrekturfunktionen och en från Workfront. De här dubblettmeddelandena orsakar e-postmeddelanden som stör och förvirrar, samt en fullständig e-postinkorg, vilket i slutänden kan leda till att användare ignorerar korrekturmeddelanden som de får. Det kan i sin tur betyda missade deadlines.
 
 
 
-**Anteckning**: Den här inställningen finns på Workfront huvudmeny > Inställningar > E-post > Granska och godkänn.
+**Obs!**: Den här inställningen finns på Workfront huvudmeny > Inställningar > E-post > Granska och godkänn.
 
 </br>
 </br>
@@ -93,13 +93,13 @@ Använd bara Skrivskyddat eller Granskare för inställningen &quot;Roller för 
 
 
 
-**Här är varför**
+**Det här är varför**
 
 De andra alternativen för den här inställningen kräver att du fattar ett korrekturbeslut, vilket kan leda till att korrekturläsningen inte fungerar som det ska. Vanligtvis behöver de som inte läggs till i korrekturarbetsflödet bara visa korrekturet eller göra kommentarer, inte godkänna korrekturet, så skrivskyddet eller granskningsalternativen är det bästa valet.
 
 
 
-**Anteckning**: Den här inställningen finns i Workfront huvudmeny > Inställningar > Granska och godkänn.
+**Obs!**: Den här inställningen finns på Workfront huvudmeny > Inställningar > Granska och godkänn.
 
 </br>
 </br>
@@ -110,13 +110,13 @@ Justera inställningarna så att användarna ser deadlines i 12-timmarsformat.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Välj alternativet F j, Y, gi:a i korrekturinställningarna för användare som vill se korrekturtider i AM/PM-format. För områden där en 12-timmarsklocka används är det här ett bra sätt att förtydliga tidsgränsen.
 
 
 
-**Anteckning**: Du hittar den här inställningen genom att gå till Workfront huvudmeny > Korrektur > Kontoinställningar > Användare > och redigera datumformatfältet för varje användare.
+**Obs!**: Du hittar den här inställningen genom att gå till Workfront huvudmeny > Korrektur > Kontoinställningar > Användare > och redigera datumformatsfältet för varje användare.
 
 </br>
 </br>
@@ -127,13 +127,13 @@ Fastställ en standardkorrekturdeadline som en del av systeminställningarna.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 När en standardgräns för korrektur har angetts - överföringsdatumet + x antal arbetsdagar - gäller att om den som skapat beviset glömmer att lägga till en deadline, tillämpar Workfront automatiskt denna deadline för varje korrektur som överförts.
 
 
 
-**Anteckning**: Du hittar den här inställningen genom att gå till Workfront huvudmeny > Korrektur > Kontoinställningar > Inställningar > Korrekturinställningar > Deadline (+ arbetsdagar).
+**Obs!**: Den här inställningen finns i fältet Workfront huvudmeny > Korrektur > Kontoinställningar > Inställningar > Korrekturinställningar > Deadline (+ arbetsdagar).
 
 </br>
 </br>
@@ -145,14 +145,14 @@ Dölj alternativet Ej relevant bevisbeslut.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Det här beslutsalternativet orsakar ofta förvirring bland godkännare, eftersom organisationer ofta inte definierar när alternativet Ej relevant ska användas. Alternativet Ej relevant anger vanligtvis att beviset inte är relevant för bevismottagaren och att de inte behöver fatta ett godkänt eller avvisat beslut. Om du väljer Inte relevant kan korrekturarbetsflödet fortsätta.
 
 
 Alternativet Ej relevant behövs inte i de flesta korrekturarbetsflöden.
 
-**Anteckning**: Du hittar den här inställningen genom att gå till Workfront huvudmeny > Korrektur > Kontoinställningar > Beslut.
+**Obs!**: Den här inställningen finns på Workfront huvudmeny > Korrektur > Kontoinställningar > Beslut.
 
 </br>
 </br>
@@ -163,13 +163,13 @@ Alternativet Ej relevant behövs inte i de flesta korrekturarbetsflöden.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Varje inställning för korrekturval innehåller ett specifikt värde/vikt som, om den beställs på nytt, kan skapa förvirring i dina korrekturkonfigurationer. Beslutsordningen och värde/vikt används som styrkande fasaktiveringsutlösare och vid rapportering.
 
 
 
-**Anteckning**: Du hittar den här inställningen genom att gå till Workfront huvudmeny > Korrektur > Kontoinställningar > Beslut.
+**Obs!**: Den här inställningen finns på Workfront huvudmeny > Korrektur > Kontoinställningar > Beslut.
 
 </br>
 </br>
@@ -180,13 +180,13 @@ Ange standardvärden för korrekturroller och e-postaviseringar.
 
 
 
-**Här är varför**
+**Det här är varför**
 
 Dessa inställningar fylls i automatiskt när du tilldelar ett korrekturarbetsflöde, snabbar upp processen och bidrar till att korrekturarbetsflödena blir enhetliga.
 
 
 
-**Anteckning**: Användarens standardinställningar hittar du genom att gå till Workfront huvudmeny > Korrektur > Kontoinställningar > Användare > och välja den användare som du vill ange standardinställningar för.
+**Obs!**: Användarens standardinställningar hittas genom att gå till Workfront huvudmeny > Korrektur > Kontoinställningar > Användare > och välja den användare som du vill ange standardinställningar för.
 
 </br>
 </br>
@@ -197,9 +197,9 @@ Ställ in korrekturförfattarens korrekturroll till Granskare.
 
 
 
-**Här är varför**
+**Det här är varför**
 
-Med korrekturrollen som granskare kan du försäkra dig om att den som skapar korrekturet kan göra kommentarer och komma åt kommentarer som andra lämnar. För det mesta behöver inte den som skapat beviset fatta beslut om ett bevis som de har överfört. Alla korrekturroller för godkännare, granskare och godkännare, författare eller moderator kräver ett beslut. Om korrekturförfattaren tilldelas en av dessa korrekturroller men aldrig fattar något beslut, kan detta påverka korrekturernas deadlines negativt.
+Med korrekturrollen som granskare kan du försäkra dig om att den som skapar korrekturet kan göra kommentarer och komma åt kommentarer som andra lämnar. För det mesta behöver inte den som skapar beviset fatta beslut om ett bevis som de har överfört. Alla korrekturroller för godkännare, granskare och godkännare, författare eller moderator kräver ett beslut. Om korrekturförfattaren tilldelas en av dessa korrekturroller men aldrig fattar något beslut, kan detta påverka korrekturernas deadlines negativt.
 
 </br>
 </br>
@@ -210,9 +210,9 @@ Undvik att använda korrekturrollen för godkännare.
 
 
 
-**Här är varför**
+**Det här är varför**
 
-Godkännarens korrekturroll tillåter inte användaren att kommentera det här korrekturet. Detta kan leda till att en användare avvisar korrekturet utan någon förklaring eftersom han/hon inte kunde göra några kommentarer. Använd korrekturrollen Granskare och godkännare i stället så att användaren kan ge feedback.
+Godkännarens korrekturroll tillåter inte användaren att kommentera det här korrekturet. Detta kan leda till att en användare avvisar korrekturet, utan någon förklaring, eftersom han/hon inte kunde göra några kommentarer. Använd korrekturrollen Granskare och godkännare i stället så att användaren kan ge feedback.
 
 </br>
 </br>
@@ -221,7 +221,7 @@ Godkännarens korrekturroll tillåter inte användaren att kommentera det här k
 
 Undvik e-postaviseringsalternativet Alla aktivitetskorrektur.
 
-**Här är varför**
+**Det här är varför**
 
 Med det här alternativet skickas ett e-postmeddelande med korrektur varje gång något händer med ett korrektur - en kommentar görs, ett svar skickas, ett beslut fattas osv. Mottagaren ser i stort sett korrekturaktiviteten när den utförs.
 

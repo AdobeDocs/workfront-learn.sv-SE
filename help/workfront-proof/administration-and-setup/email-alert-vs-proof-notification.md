@@ -1,6 +1,6 @@
 ---
 title: Förstå e-postaviseringar och korrekturmeddelanden
-description: Förstå skillnaden mellan e-postaviseringar och korrekturmeddelanden i [!DNL  Workfront].
+description: Förstå skillnaden mellan e-postaviseringar och korrekturmeddelanden i  [!DNL  Workfront].
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 E-postaviseringar skiljer sig från korrekturmeddelanden via e-post. Du får ett e-postmeddelande om korrektur när du har fått ett nytt korrektur att granska, när ett korrektur är sent eller när det finns en ny version av korrekturet att titta på.
 
-![En bild på ett korrekturmeddelande som visar att det finns ett nytt korrektur att granska.](assets/email-alert-1.png)
+![En bild på ett e-postmeddelande om korrektur som anger att det finns ett nytt korrektur att granska.](assets/email-alert-1.png)
 
-Om du inaktiverar meddelandealternativet när du överför ett korrektur får ingen information från [!DNL Workfront] om att det finns ett nytt bevis att granska.
+Om du inaktiverar meddelandealternativet när du överför ett korrektur får ingen information från [!DNL Workfront] om att det finns ett nytt korrektur att granska.
 
 E-postaviseringar anges per granskare/godkännare, oftast när korrekturet överförs. En standardtyp för e-postavisering kan tilldelas dina korrekturmottagare så att du inte behöver ange den varje gång du överför ett korrektur. Tala med systemadministratören om hur du får dessa standardinställningar.
 
-![En bild på en e-postavisering som visar att ett beslut har fattats om korrekturet och det finns en kommentar att granska.](assets/email-alert-2.png)
+![En bild på en e-postavisering som anger att ett beslut har fattats om korrekturet och det finns en kommentar att granska.](assets/email-alert-2.png)
 
-Även om e-postaviseringar är inställda på [!UICONTROL Handikappade], får mottagarna ändå ett meddelande om ett nytt korrektur eller en ny version.
+Även om e-postaviseringar är inställda på [!UICONTROL Inaktiverad] får korrekturmottagare ändå ett meddelande om ett nytt korrektur eller en ny version.
 
 ## Bästa praxis
 

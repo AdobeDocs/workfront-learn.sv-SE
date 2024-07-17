@@ -1,6 +1,6 @@
 ---
-title: Få tillgång till en plan i [!UICONTROL Scenarioplan]
-description: Lär dig mer [!DNL  Workfront] behörigheter krävs för att användare ska få åtkomst till planer i [!UICONTROL Scenarioplan].
+title: Få åtkomst till en plan i [!UICONTROL scenarioplanen]
+description: Lär dig vilka  [!DNL  Workfront] behörigheter som krävs för att användare ska få åtkomst till planer i [!UICONTROL scenarioplanen].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Åtkomst till en plan i [!DNL Scenario Planner]
+# Få åtkomst till en plan i [!DNL Scenario Planner]
 
-Precis som med projekt i [!DNL Workfront]även om en användare har fått behörighet på åtkomstnivå att visa eller hantera en plan i [!DNL Workfront] [!UICONTROL Scenarioplan], vilket inte innebär att de kan visa eller hantera alla planer som byggs i systemet. Denna funktion är beroende av om den som skapat planen har delat planen med dem och gett dem behörighet att visa eller hantera den specifika planen.
+Precis som en med projekt i [!DNL Workfront] innebär inte det att en användare kan visa eller hantera alla planer som är inbyggda i systemet, även om en användare har fått behörighet på en åtkomstnivå för att visa eller hantera en plan i [!DNL Workfront] [!UICONTROL scenarioplaneraren]. Denna funktion är beroende av om den som skapat planen har delat planen med dem och gett dem behörighet att visa eller hantera den specifika planen.
 
 Den stora skillnaden med planer är att systemadministratörer inte kan se alla planer som skapats i Workfront. Dessa måste också delas med dem.

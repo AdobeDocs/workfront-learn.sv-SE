@@ -10,7 +10,7 @@ exl-id: 5fd50010-6aba-49af-9094-026b0569e0d8
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Konfigurera ett Sprum-team
 
-Ett Agile-team i Workfront slutför arbetet från upprepningssidan [1]. Nedladdningsbart diagram [2] överst på sidan finns en översikt över de framsteg som har gjorts hittills under den här perioden. Under nedladdningsdiagrammet finns artiklarna [3] teamet har åtagit sig att göra detta.
+Ett Agile-team i Workfront slutför arbetet från upprepningssidan [1]. Nedbrytningsdiagrammet [2] högst upp på sidan är en översikt över de framsteg som har gjorts hittills under den här perioden. Nedanför nedladdningsschemat visas artiklarna [3] som teamet har åtagit sig för den här upprepningen.
 
 I den här videon får du lära dig hur du skapar ett smidigt team, väljer en scrum-metod och fastställer inställningar för scrum-teamet.
 

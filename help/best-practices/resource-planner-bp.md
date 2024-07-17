@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -45,11 +45,11 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Konfigurera Workfront för att samla in den information som behövs för att använda resurshanteringsverktygen.
 
-**Här är varför**
+**Det här är varför**
 
-Systeminställningarna ska innehålla scheman, planerade timmar, resurspooler, jobbroller som tilldelats användare och andra arbetsobjekt eftersom dessa inställningar är viktiga för resursplaneraren och andra resurshanteringsverktyg för att ge korrekt information.
+Systeminställningarna ska innehålla scheman, planerade timmar, resurspooler, jobbroller som tilldelats användare och andra arbetsobjekt eftersom dessa inställningar är nödvändiga för att resursplaneraren och andra resurshanteringsverktyg ska kunna tillhandahålla korrekt information.
 
-Även om din organisation kanske tycker att implementering av resurshantering är en senare fas i implementeringen av Workfront, är det viktigt att du konfigurerar Workfront för att hämta in den information som behövs för att använda dessa verktyg för att få ett effektivare sätt att planera och hantera resurser. På så sätt kan du förstå balansen mellan resursernas schema och antalet planerade timmar som är associerade med projektets faktiska arbete, så att riskerna med att överbelasta användarna och investera i för många eller för få resurser minskar.
+Även om din organisation kanske tycker att implementering av resurshantering är en senare fas i implementeringen av Workfront, är det viktigt att du konfigurerar Workfront för att hämta in den information som behövs för att använda dessa verktyg för att få ett effektivare sätt att planera och hantera resurser. På så sätt kan du förstå balansen mellan resursernas schema och antalet planerade timmar som är kopplade till det faktiska arbetet i projektet, så att riskerna med att överbelasta användarna och investera i för många eller för få resurser minskar.
 
 </br>
 </br>
@@ -58,13 +58,13 @@ Systeminställningarna ska innehålla scheman, planerade timmar, resurspooler, j
 
 Uppmuntra projektägare att använda resursplaneringsverktyget på projektnivå för att beräkna hur mycket resurser de behöver för projektet.
 
-**Här är varför**
+**Det här är varför**
 
 För budgetering av anslag för ett enskilt projekt kan projektägare använda resursplaneraren på projektnivå eftersom de är mest insatta i hur lång tid som krävs för att slutföra arbetet, samt de resurser som krävs för att göra det. Detta är inte bara ett bra sätt att hantera dina jobbroller, deras tillgänglighet och allmänna tilldelning till projekt, utan också att dela information i resursplaneraren på systemnivå.
 
 När du budgeterar resurser på projektnivå återspeglas den här informationen automatiskt i resursplaneraren på systemnivå för att ge synlighet mellan de personer som ansvarar för arbetet (dvs. projektledare) och de personer som arbetar i organisationen (dvs. chefer, personal på C-nivå, resurshanterare osv.). På så sätt kan olika användare få en&quot;helhetsbild&quot; av hur resurser hanteras i flera projekt på systemnivå.
 
-**Anteckning**: Resursplaneraren finns i två områden i Workfront, beroende på om du bara vill budgetera dina resurser för ett eller flera projekt.
+**Obs!** Resursplaneraren finns i två områden i Workfront, beroende på om du vill budgetera dina resurser för ett eller flera projekt.
 
 Gå till resursplaneringen för ett enskilt projekt genom att gå till Projektets affärsärende > Resursbudgetering > Redigera resursbudgetering och lägga till information i resurspoolerna för att starta budgeteringsresurser.
-Budgetera resurser för flera projekt genom att gå till Workfront huvudmeny > Resurser > Planering (som standard).
+Budgetera resurser för flera projekt genom att gå till Workfront huvudmeny > Resurser > Planering (den här visas som standard).

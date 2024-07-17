@@ -1,6 +1,6 @@
 ---
 title: Viktiga anteckningar på mappningspanelen
-description: Lär dig hur viktigt det är att använda de operatorer som finns på mappningspanelen i [!DNL Adobe Workfront Fusion].
+description: Lär dig hur viktigt det är att använda de operatorer som finns på mappningspanelen i  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

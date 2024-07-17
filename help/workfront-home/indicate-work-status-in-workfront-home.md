@@ -1,6 +1,6 @@
 ---
-title: Ändra status för tilldelat arbete i [!UICONTROL Startsida]
-description: Lär dig hur du ändrar status för tilldelningar för att ange att arbete pågår i [!UICONTROL Startsida] sida. Förstå varför status är viktig i [!DNL  Workfront].
+title: Ändra status för tilldelat arbete i [!UICONTROL Hem]
+description: Lär dig hur du ändrar status för tilldelningar för att ange att arbete pågår från sidan [!UICONTROL Hem]. Förstå varför status är viktig i  [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Ändra status för arbetstilldelningar i [!DNL Workfront] [!UICONTROL Startsida]
+# Ändra status för arbetstilldelningar i [!DNL Workfront] [!UICONTROL Hem]
 
 I den här videon får du lära dig:
 
@@ -29,13 +29,13 @@ I den här videon får du lära dig:
 
 ## Börja jämfört med att jobba på det
 
-När du granskar dina arbetsuppgifter i [!UICONTROL Startsida]kan du lägga märke till en knapp som säger [!UICONTROL Starta aktivitet] eller [!UICONTROL Starta utgåva].
+När du granskar dina arbetsuppgifter i [!UICONTROL Hem] kan du lägga märke till en knapp som säger [!UICONTROL Starta aktivitet] eller [!UICONTROL Starta utgåva].
 
-![[!DNL Workfront] [!UICONTROL Startsida] sida där knappen står [!UICONTROL Starta aktivitet].](assets/worker-fundamentals-1.png)
+Sidan ![[!DNL Workfront] [!UICONTROL Hem] där knappen anger [!UICONTROL Starta aktivitet].](assets/worker-fundamentals-1.png)
 
-När du klickar [!UICONTROL Starta aktivitet]ändrar detta automatiskt status för din pågående uppgift till Pågår (eller en status som motsvarar din organisation).
+När du klickar på [!UICONTROL Starta aktivitet] ändras aktivitetens status automatiskt till Pågår (eller en status som motsvarar i din organisation).
 
-Vissa team kan se [!UICONTROL Arbeta på den] i stället. I så fall säger du att du godkänner uppdraget men inte har börjat arbeta med objektet än. Aktivitetens status ändras inte.
+Vissa team kan se knappen [!UICONTROL Arbeta med den] i stället. I så fall säger du att du godkänner uppdraget men inte har börjat arbeta med objektet än. Aktivitetens status ändras inte.
 
 Knappens namn och funktion bestäms av system- eller gruppadministratören och av organisationens arbetsflöden och processer.
 

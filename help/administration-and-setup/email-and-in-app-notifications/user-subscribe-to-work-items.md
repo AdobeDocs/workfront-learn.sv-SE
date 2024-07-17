@@ -24,41 +24,41 @@ Du är till exempel intresserad av förloppet för den inledande kopieringen. Du
 
 ![E-post från en aktivitetsprenumeration](assets/admin-fund-user-notifications-10.png)
 
-Observera att e-postmeddelanden om prenumerationer och meddelanden i appen endast skickas när kommentarer görs om objektet. E-postmeddelanden och meddelanden skickas inte om andra åtgärder, till exempel ändringar av förfallodatum eller tilldelningsändringar.
+Observera att e-postmeddelanden om prenumerationer och meddelanden i appen endast skickas när kommentarer görs om objektet. E-postmeddelanden och meddelanden skickas inte om andra åtgärder, t.ex. ändringar av förfallodatum eller tilldelningsändringar.
 
 Om du vill prenumerera på ett arbetsobjekt måste du ha minst behörigheten Visa delning för det objektet.
 
-![[!UICONTROL Aktivitetsåtkomst] window](assets/admin-fund-user-notifications-11.png)
+![[!UICONTROL Aktivitetsåtkomst] fönster](assets/admin-fund-user-notifications-11.png)
 
 När du har tillgång till arbetsposten kan du prenumerera på den genom att:
 
 1. Gå till startsidan för projektet, uppgiften eller utgåvan.
-1. Klicka på **[!UICONTROL Åtgärder]** -menyn.
-1. Klicka **[!UICONTROL Prenumerera]**.
+1. Klicka på menyn **[!UICONTROL Åtgärder]**.
+1. Klicka på **[!UICONTROL Prenumerera]**.
 
-![[!UICONTROL Prenumerera] alternativ på aktivitetsmenyn](assets/admin-fund-user-notifications-12.png)
+![[!UICONTROL Prenumerera] på aktivitetsmenyn](assets/admin-fund-user-notifications-12.png)
 
-Du kan se vem som har skrivit på arbetsuppgiften genom att hålla markören över numret bredvid [!UICONTROL Prenumerera/Avbeställ] på menyn.
+Du kan se vem som har skrivit på arbetsobjektet genom att hålla markören över numret bredvid [!UICONTROL Prenumerera/Avsluta prenumeration] på menyn.
 
 ![Uppgiftsmeny som visar vem som har prenumererat](assets/admin-fund-user-notifications-13.png)
 
-Om du har [!UICONTROL Hantera] eller [!UICONTROL Dela] behörighet till arbetsposten kan du prenumerera på andra användare för ett projekt, en uppgift eller ett problem genom att:
+Om du har behörighet att [!UICONTROL hantera] eller [!UICONTROL dela] till arbetsobjektet kan du prenumerera på andra användare för ett projekt, en uppgift eller ett problem genom att:
 
-1. Klicka på siffran bredvid **[!UICONTROL Prenumerera]** alternativ.
+1. Klicka på numret bredvid alternativet **[!UICONTROL Prenumerera]**.
 1. Lägger till namnet på personen/personerna som du vill prenumerera på arbetsposten.
-1. Klicka **[!UICONTROL Spara]**.
+1. Klicka på **[!UICONTROL Spara]**.
 
-![[!UICONTROL Prenumerera] window](assets/admin-fund-user-notifications-15.png)
+![[!UICONTROL Prenumerera] fönster](assets/admin-fund-user-notifications-15.png)
 
-De personer du prenumererar på meddelas inte om prenumerationen. Alla prenumeranter får behörigheten Visa för objektet. Om abonnenten redan hade [!UICONTROL Contribute] eller [!UICONTROL Hantera] behörigheter till objektet, dessa behörigheter ändras inte.
+De personer du prenumererar på meddelas inte om prenumerationen. Alla prenumeranter får behörigheten Visa för objektet. Om prenumeranten redan har [!UICONTROL Contribute] - eller [!UICONTROL Hantera] -behörigheter för objektet ändras inte dessa behörigheter.
 
-En post i [!UICONTROL Uppdateringar] på den enskilda posten anger också vem som prenumererade och när. The [!UICONTROL Uppdateringar] loggar också när en användare prenumererar av någon annan.
+En post på fliken [!UICONTROL Uppdateringar] i det enskilda objektet anger också vem som prenumererade och när. Fliken [!UICONTROL Uppdateringar] loggar även när en användare prenumererar av någon annan.
 
-![[!UICONTROL Uppdateringar] sida för en aktivitet som visar prenumeration](assets/admin-fund-user-notifications-16.png)
+Sidan ![[!UICONTROL Uppdateringar] för en aktivitet som visar prenumeration](assets/admin-fund-user-notifications-16.png)
 
-Om du vill avbryta prenumerationen på en användare klickar du på bubblan igen för att öppna [!UICONTROL Prenumeranter] -fönstret. Klicka sedan på X bredvid personens namn. Användaren får inget meddelande om att han/hon har avbeställt prenumerationen.
+Om du vill avbryta prenumerationen på en användare klickar du på bubblan igen för att öppna fönstret [!UICONTROL Abonnenter]. Klicka sedan på X bredvid personens namn. Användaren får inget meddelande om att han/hon har avbeställt prenumerationen.
 
-![[!UICONTROL Avbeställ] menyalternativ i ett projekt](assets/admin-fund-user-notifications-14.png)
+![[!UICONTROL Avbeställ ]-menyalternativ i ett projekt](assets/admin-fund-user-notifications-14.png)
 
 <!---
 learn more URL: Subscribe to items in Workfront

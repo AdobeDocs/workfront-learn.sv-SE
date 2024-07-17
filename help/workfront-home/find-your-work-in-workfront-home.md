@@ -1,5 +1,5 @@
 ---
-title: Hitta arbetsuppdrag i [!UICONTROL Startsida]
+title: Hitta arbetsuppdrag i [!UICONTROL Hem]
 description: Lär dig hur du hittar inkommande och befintligt arbete som du har tilldelats i [!UICONTROL  ]. Granska sedan uppdragsinformationen.
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ---
 
-# Hitta ditt tilldelade arbete i [!DNL Workfront] [!UICONTROL Startsida]
+# Hitta ditt tilldelade arbete i [!DNL Workfront] [!UICONTROL Hem]
 
 
 
 >[!NOTE]
 >
->Det finns för närvarande två hemupplevelser i Workfront. Om du har den nya hemupplevelsen kan du visa [Ta bort, lägga till och ordna om widgetar i Hem](/help/workfront-home/remove-add-and-rearrange-widgets.md) självstudie.
+>Det finns för närvarande två hemupplevelser i Workfront. Om du har den nya hemupplevelsen kan du visa självstudiekursen [Ta bort, lägga till och ordna om widgetar i Hem](/help/workfront-home/remove-add-and-rearrange-widgets.md).
 
 
 I den här videon får du lära dig att:

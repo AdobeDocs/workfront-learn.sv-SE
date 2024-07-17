@@ -1,6 +1,6 @@
 ---
-title: Publicera resurser som deltagare
-description: Lär dig hur du publicerar resurser och mappar till [!UICONTROL Brand Connect] in [!UICONTROL WORKFRONT DAM].
+title: Publish resurser som deltagare
+description: Lär dig hur du publicerar resurser och mappar till [!UICONTROL Brand Connect] i [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ---
 
-# Publicera resurser som deltagare
+# Publish resurser som deltagare
 
 ## Förbered publicering av resurser
 
-Publicera en resurs eller mapp till [!UICONTROL Brand Connect] ger en större publik möjlighet att få tillgång till godkända mediefiler. Det är möjligt att många personer i din organisation inte har tillgång till [!UICONTROL WORKFRONT DAM] men har tillgång till [!UICONTROL Brand Connect].
+Om du publicerar en resurs eller mapp till [!UICONTROL Brand Connect] får en större publik tillgång till godkända resurser. Det är möjligt att många personer i din organisation inte har tillgång till [!UICONTROL Workfront DAM], men de har åtkomst till [!UICONTROL Brand Connect].
 
-Resurser ska inte publiceras förrän de är färdiga. Du vill till exempel inte publicera ett grovt utkast av en broschyr till [!UICONTROL Brand Connect]annars kan den distribueras innan den är klar.
+Assets bör inte publiceras förrän de är klara. Du vill till exempel inte publicera ett grovt utkast av en broschyr till [!UICONTROL Brand Connect], annars kan den distribueras innan den är klar.
 
-Innan du publicerar en resurs på [!UICONTROL Brand Connect]kan du göra något av följande:
+Innan du publicerar en resurs till [!UICONTROL varumärkesanslutningen] kanske du vill göra något av följande:
 
 * Placera en resurs i en viss mapp.
 * Redigera metadata och nyckelord för en resurs.
@@ -34,11 +34,11 @@ Innan du publicerar en resurs på [!UICONTROL Brand Connect]kan du göra något 
 * Kontrollera att resursen inte har gått ut.
 * Titta på resursen så att du får meddelanden om när ändringar görs i den.
 
-## Publicera resurser
+## Publish-resurser
 
 I den här videon får du lära dig att:
 
-* Publicera resurser på [!UICONTROL Brand Connect]
-* Publicera mappar till [!UICONTROL Brand Connect]
+* Publish-resurser till [!UICONTROL Brand Connect]
+* Publish-mappar till [!UICONTROL Brand Connect]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12&learn=on)

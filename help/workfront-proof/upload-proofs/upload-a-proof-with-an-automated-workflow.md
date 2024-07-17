@@ -13,7 +13,7 @@ exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '575'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ I den här videon får du lära dig:
 
 * När ett automatiserat korrekturarbetsflöde kan användas
 * Tillämpa ett arbetsflöde med en korrekturmall
-* Skapa ett automatiskt arbetsflöde från grunden
+* Så här skapar du ett automatiskt arbetsflöde från grunden
 
 >[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on)
 
@@ -34,12 +34,12 @@ I den här videon får du lära dig:
 
 Inställningarna längst ned i fönstret för korrekturöverföring är valfria, så fråga din organisation om och hur du använder dem.
 
-![En bild av [!UICONTROL Nytt korrektur]fönster med [!UICONTROL Sceninställningar] markerad.](assets/additional-proof-workflow-settings.png)
+![En bild av fönstret [!UICONTROL Nytt korrektur]med [!UICONTROL sceninställningarna] markerade.](assets/additional-proof-workflow-settings.png)
 
-* **[!UICONTROL Lås scen] —** Detta förhindrar att personer i det här arbetsflödessteget kan kommentera eller ändra sina beslut när arbetsflödet är klart.
-* **[!UICONTROL Överför primära beslutsrättigheter till] —** Snabba upp korrekturläsningen genom att utse en primär beslutsfattare. När inställt [!DNL Workfront] identifierar den här personens bevisbeslut som beslutet. När personen väl har fattat sitt beslut är skedet över och inga andra beslut behövs.
-* **[!UICONTROL Kräv endast ett beslut för det här steget] —** Ett annat sätt att effektivisera korrekturläsningen är att bara kräva ett beslut på beviset. När detta är aktiverat, oavsett hur många godkännare ni har i det skedet, är det här steget färdigt när någon av dem har fattat ett beslut.
-* **[!UICONTROL Gör det här steget privat] —** Som standard är kommentarer på korrektur synliga för alla i alla faser. Förhindra att mottagare av korrektur i andra stadier ser kommentarer som gjorts under det här steget genom att klicka i rutan.
+* **[!UICONTROL Lås fas] —** Detta förhindrar att personer i det här arbetsflödessteget kan kommentera eller ändra beslut efter att de har slutfört sitt arbetsflöde.
+* **[!UICONTROL Överför primära beslutsrättigheter till ] —** Snabba upp korrekturprocessen genom att utse en primär beslutsfattare. När det är inställt tolkar [!DNL Workfront] den här personens bevisbeslut som beslutet. När personen väl har fattat sitt beslut är skedet över och inga andra beslut behövs.
+* **[!UICONTROL Kräv endast ett beslut för det här steget] —** Ett annat sätt att effektivisera korrekturläsningen är att bara kräva ett beslut för korrekturet. När detta är aktiverat, oavsett hur många godkännare ni har i det skedet, är det här steget färdigt när någon av dem har fattat ett beslut.
+* **[!UICONTROL Gör det här steget privat] —** Som standard är kommentarer om korrektur synliga för alla i alla faser. Förhindra att mottagare av korrektur i andra stadier ser kommentarer som gjorts under det här steget genom att klicka i rutan.
 
 Längst ned i korrekturuppladdningsfönstret finns flera korrekturinställningar som påverkar säkerheten för ditt korrektur, t.ex. ett krav på inloggning för att visa korrekturet.
 
@@ -47,7 +47,7 @@ Längst ned i korrekturuppladdningsfönstret finns flera korrekturinställningar
 Learn more about these in the Proof settings section of the Configure a proof article.
 -->
 
-![En bild av [!UICONTROL Korrekturinställningar] i fönstret för korrekturöverföring.](assets/additional-proof-workflow-settings-2.png)
+![En bild av avsnittet [!UICONTROL Korrekturinställningar] i korrekturöverföringsfönstret.](assets/additional-proof-workflow-settings-2.png)
 
 <!--
 ### Learn more
@@ -66,7 +66,7 @@ Du står med på listan över mottagare av korrektur eftersom det är du som öv
 
 ![En bild av fönstret för korrekturöverföring med korrekturägaren markerad i listan över mottagare.](assets/proof-owner.png)
 
-Om du bara överför korrekturet, men någon annan kommer att hantera arbetsflödet, kan du ändra provtryckets ägare genom att klicka på [!UICONTROL Ägare] och ange sitt namn. Detta rekommenderas om någon annan än den ursprungliga överföraren kommer att överföra en version.
+Om du bara överför korrekturet, men någon annan kommer att hantera arbetsflödet, kan du ändra korrekturens ägare genom att klicka på länken [!UICONTROL Ägare] och ange deras namn. Detta rekommenderas om någon annan än den ursprungliga överföraren kommer att överföra en version.
 
 ## Din tur
 

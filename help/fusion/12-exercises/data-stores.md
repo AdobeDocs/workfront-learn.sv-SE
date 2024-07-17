@@ -56,13 +56,13 @@ Detta är den första delen av en enkelriktad synkronisering av företag i Workf
    + WFID - Workfront företags-ID
    + Skapad -Kontrollera att datatypen är datum
 
-   ![Datalager, bild 2](../12-exercises/assets/data-stores-walkthrough-2.png)
+   ![Data lagrar bild 2](../12-exercises/assets/data-stores-walkthrough-2.png)
 
 1. Klicka på Spara i datastrukturen, ange datalagringsstorleken till 1 och spara datalagret.
 1. Fortsätt i datalagermodulen och skapa ett filter där CID är lika med ID:t för företaget från CSV-modulen Parse (kolumn 1).
 1. Klicka på Visa avancerade inställningar och välj alternativet att &quot;fortsätta körningen av scenariot eller flödet, även om den här modulen returnerar utan resultat&quot;.
 
-   ![Datalager, bild 3](../12-exercises/assets/data-stores-walkthrough-3.png)
+   ![Data lagrar bild 3](../12-exercises/assets/data-stores-walkthrough-3.png)
 
 1. Byt namn på den här modulen till&quot;Matchande företag&quot;.
 1. Lägg till en Workfront Search-postmodul.
@@ -70,13 +70,13 @@ Detta är den första delen av en enkelriktad synkronisering av företag i Workf
 1. Sökvillkor är företagsnamnet i Workfront som motsvarar företagsnamnet i CSV-filen.
 1. För utdata väljer du företagsnamn och ID.
 
-   ![Datalager, bild 4](../12-exercises/assets/data-stores-walkthrough-4.png)
+   ![Data lagrar bild 4](../12-exercises/assets/data-stores-walkthrough-4.png)
 
 1. Klicka på OK och byt namn på den här modulen till&quot;Matchande företag&quot;.
 
    **Skapa olika sökvägar baserat på om företaget finns i Workfront eller datalagret.**
 
-   **Routningsväg 1 - Skapa ett företag.**
+   **Routningssökväg 1 - Skapa ett företag.**
 
 1. Lägg till en routermodul till höger om postmodulen för Workfront Search.
 1. Lägg till en Workfront Create Record-modul i den översta sökvägen.
@@ -84,12 +84,12 @@ Detta är den första delen av en enkelriktad synkronisering av företag i Workf
 1. Välj Namn från fält till karta. Mappa namnfältet till utdata från CSV-modulen Parse (kolumn 2).
 1. Byt namn på den här modulen till&quot;Skapa företag&quot;.
 
-   ![Datalager, bild 5](../12-exercises/assets/data-stores-walkthrough-5.png)
+   ![Data lagrar bild 5](../12-exercises/assets/data-stores-walkthrough-5.png)
 
 1. Lägg till ett filter efter routern om du bara vill skapa ett företag om det inte redan finns i Workfront. Kalla det&quot;Inte i Workfront&quot;.
 1. Ange villkoret som ID från Workfront Search-modulen och finns inte.
 
-   ![Datalager, bild 6](../12-exercises/assets/data-stores-walkthrough-6.png)
+   ![Data lagrar bild 6](../12-exercises/assets/data-stores-walkthrough-6.png)
 
    **Förbered uppdatering av datalagret i nästa sökväg.**
 
@@ -104,7 +104,7 @@ Detta är den första delen av en enkelriktad synkronisering av företag i Workf
 
 1. Ange villkoret till nyckeln från datalagermodulen och finns inte.
 
-   ![Datalager, bild 7](../12-exercises/assets/data-stores-walkthrough-7.png)
+   ![Data lagrar bild 7](../12-exercises/assets/data-stores-walkthrough-7.png)
 
 1. Den första modulen i den här sökvägen är modulen Hämta.
 1. Ange Variabelnamnet till&quot;Workfront ID&quot;.
@@ -117,7 +117,7 @@ Detta är den första delen av en enkelriktad synkronisering av företag i Workf
 1. Mappa WFID-fältet från modulen Hämta Workfront ID.
 1. Använd funktionen formatDate på fliken Datum och tid för fältet Skapat för att formatera det aktuella datumet som MM/DD/ÅÅÅ.
 
-   ![Datalager, bild 8](../12-exercises/assets/data-stores-walkthrough-8.png)
+   ![Data lagrar bild 8](../12-exercises/assets/data-stores-walkthrough-8.png)
 
 1. Klicka på OK och byt namn på den här modulen till&quot;Skapa företagspost&quot;.
 

@@ -1,5 +1,5 @@
 ---
-title: Tilldela arbete i belastningsutjämnaren
+title: Tilldela arbete i arbetsbelastningsutjämnaren
 description: Lär dig hur du visar aktivitetssammanfattningspanelen och gör tilldelningar till en uppgift som inte är tilldelad.
 feature: Resource Management
 type: Tutorial

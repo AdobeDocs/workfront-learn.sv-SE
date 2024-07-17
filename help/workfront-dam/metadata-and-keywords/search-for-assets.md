@@ -1,6 +1,6 @@
 ---
 title: Söka efter resurser med metadatanyckelord
-description: Lär dig söka efter resurser med hjälp av metadata och nyckelord, planera för underhåll av metadata och nyckelord samt skapa [!UICONTROL WORKFRONT DAM] bästa praxis.
+description: Lär dig hur du söker efter resurser med hjälp av metadata och nyckelord, planerar för underhåll av metadata och nyckelord och upprättar [!UICONTROL Workfront DAM] bästa praxis.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -23,6 +23,6 @@ I den här videon får du lära dig att:
 
 * Söka efter resurser med hjälp av metadata och nyckelord
 * Planera för underhåll av metadata och nyckelord
-* Upprätta [!UICONTROL WORKFRONT DAM] bästa praxis
+* Upprätta [!UICONTROL bästa praxis för Workfront DAM]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on)

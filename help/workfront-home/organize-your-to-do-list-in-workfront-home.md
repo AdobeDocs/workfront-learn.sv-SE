@@ -1,6 +1,6 @@
 ---
-title: Organisera din att göra-lista i [!DNL Workfront] [!UICONTROL Startsida]
-description: Lär dig hur du filtrerar och sorterar tilldelat arbete, identifierar arbete som är klart att starta och godkänner arbetstilldelningar i [!DNL  Workfront].
+title: Organisera din att göra-lista i [!DNL Workfront] [!UICONTROL Hem]
+description: Lär dig hur du filtrerar och sorterar tilldelat arbete, identifierar arbete som är klart att starta och godkänner arbetstilldelningar i  [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ---
 
-# Organisera din att göra-lista i [!DNL Workfront] [!UICONTROL Startsida]
+# Organisera din att göra-lista i [!DNL Workfront] [!UICONTROL Hem]
 
 >[!NOTE]
 >
->The [!UICONTROL [!DNL Sort by]] i [!UICONTROL Arbetslista] har bytt namn till [!UICONTROL Gruppera efter]och uppgifter och ärenden kan också grupperas efter deras [!UICONTROL Planerat startdatum].
+>Alternativet [!UICONTROL [!DNL Sort by]] i [!UICONTROL arbetslistan] har bytt namn till [!UICONTROL Gruppera efter], och aktiviteter och ärenden kan också grupperas efter deras [!UICONTROL planerade startdatum].
 
 I den här videon får du lära dig att:
 
@@ -35,6 +35,6 @@ I den här videon får du lära dig att:
 
 >[!NOTE]
 >
->Som standard visas de tidigaste förfallna objekten högst upp i [!UICONTROL Arbetslista]. Om du vill att dina arbetsobjekt ska visas i fallande ordning klickar du på pilarna till höger om grupperingsområdet.
+>Som standard visas tidigaste förfallna objekt högst upp i [!UICONTROL arbetslistan]. Om du vill att dina arbetsobjekt ska visas i fallande ordning klickar du på pilarna till höger om grupperingsområdet.
 
 ![Bild av en skärm som visar din arbetslista grupperad efter förfallodatum.](assets/work-list-arrows.png)

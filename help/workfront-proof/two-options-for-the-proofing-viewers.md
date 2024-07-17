@@ -1,6 +1,6 @@
 ---
 title: Förklaring av korrekturläsare
-description: Läs mer om [!DNL Workfront]Ett webbaserat korrekturläsare och korrekturläsare för datorer, skillnaden mellan de båda och hur du får åtkomst till dem.
+description: Lär dig mer om  [!DNL Workfront]s webbaserade korrekturläsare och korrekturläsare för datorer, skillnaden mellan dem och hur du får åtkomst till dem.
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 # Förklaring av korrekturläsare
 
-[!DNL Workfront] I kan du granska två huvudkategorier med korrektur - statiskt och interaktivt.
+Med [!DNL Workfront] kan du granska två huvudkategorier med korrektur - statiska och interaktiva.
 
 Statiska korrektur är t.ex. PDF, bilder och textfiler. Vissa korrektur för webbplatser tillhör kategorin för interaktivt korrektur, beroende på hur beviset överfördes.
 
-[!DNL Workfront] öppnar rätt version av korrekturläsaren, det webbaserade korrekturläsaren eller korrekturläsaren för skrivbordet, baserat på den typ av korrektur som du visar (och vissa inställningar som gjorts av administratören för korrektur).
+[!DNL Workfront] öppnar rätt version av korrekturläsaren, det webbaserade korrekturläsaren eller korrekturläsaren för skrivbordet, baserat på den typ av korrektur som du visar (och vissa inställningar som har gjorts av administratören för korrektursystemet).
 
-Det webbaserade korrekturläsaren är [!DNL Workfront’s] standard för statiskt korrektur och video. När du klickar [!UICONTROL Öppna korrektur], antingen via e-post eller i [!DNL Workfront] öppnas det webbaserade visningsprogrammet som en del av [!DNL Workfront] webbläsarfönster.
+Det webbaserade korrekturläsaren är [!DNL Workfront’s] som standard för statiskt korrektur och videoklipp. När du klickar på [!UICONTROL Öppna korrektur], antingen i ett e-postmeddelande eller i själva [!DNL Workfront] , öppnas det webbaserade visningsprogrammet som en del av [!DNL Workfront]-webbläsarfönstret.
 
 Desktop Proofing Viewer är ett fristående program som körs på din arbetsstation. Det används främst för interaktiva korrektur av webbplatser som skapats med en URL-adress, inbäddade eller direktuppspelade videor, interaktiva banners och HTML5-animeringar. Med visningsprogrammet kan du klicka på länkar och menyer som är en del av webbplatsen och navigera till olika sidor.
 

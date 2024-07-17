@@ -32,43 +32,43 @@ I den här videon får du lära dig:
 
 ## Aktivitet: Skapa en kontrollpanel
 
-Skapa en [!UICONTROL kontrollpanel] med bara en rapport i den -&quot;Sök anteckningar i det här projektet&quot;. Detta är användbart om du snabbt vill hitta uppdateringar som gjorts i ett projekt, även om det finns tusentals uppdateringar att söka igenom. Detta söker efter uppdateringstrådar för att snabbt extrahera uppdateringar som uppfyller villkoren som du anger i uppmaningarna.
+Skapa en [!UICONTROL kontrollpanel] med endast en rapport i den:&quot;Sökanteckningar i det här projektet&quot;. Detta är användbart om du snabbt vill hitta uppdateringar som gjorts i ett projekt, även om det finns tusentals uppdateringar att söka igenom. Detta söker efter uppdateringstrådar för att snabbt extrahera uppdateringar som uppfyller villkoren som du anger i uppmaningarna.
 
 Skapa den här rapporten genom att skapa en kopia av rapporten&quot;Anteckningar&quot; som du skapade i aktiviteten&quot;Skapa en anteckningsrapport&quot; (eller använd en annan rapport om du inte gjorde den aktiviteten).
 
 * Ta bort uppmaningen om projektnamn från kopian och byt namn på rapporten&quot;Sök anteckningar i det här projektet&quot;.
-* Namnge [!UICONTROL Kontrollpanel] &quot;Sök anteckningar.&quot;
-* Gå till valfri projektstartsida och skapa en anpassad sektion för en [!UICONTROL kontrollpanel].
+* Namnge [!UICONTROL instrumentpanelen] &quot;Sökanteckningar&quot;.
+* Gå till en projektstartsida och skapa en anpassad sektion för en [!UICONTROL instrumentpanel].
 * Observera, att när du söker efter anteckningar i ditt anpassade avsnitt visas endast anteckningar i det projekt du just nu befinner dig i.
 
 ## Svar
 
 1. Kör rapporten som du skapade i aktiviteten Skapa en anteckningsrapport.
-1. Klicka **[!UICONTROL Rapportåtgärder]** och markera **[!UICONTROL Kopiera]**. [!DNL Workfront] skapar en ny rapport med namnet&quot;Anteckningssökning (kopia)&quot;.
-1. Gå till **[!UICONTROL Rapportåtgärder]** och markera **[!UICONTROL Redigera]**. Klicka **[!UICONTROL Rapportinställningar]** och ändra namnet till &quot;Sök anteckningar i det här projektet&quot;.
-1. Klicka [!UICONTROL Rapportera uppmaningar] och ta bort [!UICONTROL Projekt] > [!UICONTROL Namn] i listan.
+1. Klicka på **[!UICONTROL Rapportera åtgärder]** och välj **[!UICONTROL Kopiera]**. [!DNL Workfront] skapar en ny rapport med namnet&quot;Anteckningssökning (kopia)&quot;.
+1. Gå till **[!UICONTROL Rapportåtgärder]** och välj **[!UICONTROL Redigera]**. Klicka på **[!UICONTROL Rapportinställningar]** och ändra namnet till &quot;Sök anteckningar i det här projektet&quot;.
+1. Klicka på [!UICONTROL Rapportera frågor] och ta bort uppmaningen [!UICONTROL Projekt] > [!UICONTROL Namn] från listan.
 
    ![En bild av skärmen för att skapa en ny instrumentpanel](assets/edit-report-prompts.png)
 
-1. Kontrollera **[!UICONTROL Visa uppmaningar i instrumentpanelen]** box.
-1. Klicka **[!UICONTROL Klar]** sedan **[!UICONTROL Spara + Stäng]**. Du tittar nu på [!UICONTROL Fråga] rapportens skärm.
+1. Markera rutan **[!UICONTROL Visa frågor i instrumentpanelen]**.
+1. Klicka på **[!UICONTROL Klar]** och sedan på **[!UICONTROL Spara + stäng]**. Du tittar nu på skärmen [!UICONTROL Fråga] i rapporten.
 
    Därefter ska du använda en genväg för att skapa en ny instrumentpanel och lägga till den här rapporten i den.
 
-1. Klicka **[!UICONTROL Rapportåtgärder]** och markera **[!UICONTROL Lägg till på instrumentpanelen]** > **[!UICONTROL Ny instrumentpanel]**.
-1. Dra rapporten &quot;Search Notes in This Project&quot; till **[!UICONTROL Layout]** -panelen.
+1. Klicka på **[!UICONTROL Rapportera åtgärder]** och välj **[!UICONTROL Lägg till i instrumentpanelen]** > **[!UICONTROL Ny instrumentpanel]**.
+1. Dra rapporten &quot;Sök anteckningar i det här projektet&quot; till panelen **[!UICONTROL Layout]** .
 1. Observera att rapportens namn blir kontrollpanelens namn. Redigera namnet så att det bara är &quot;Sök anteckningar&quot;.
 
    ![En bild av skärmen för att skapa en ny instrumentpanel](assets/create-dashboard.png)
 
-1. Klicka **[!UICONTROL Spara + Stäng]**.
+1. Klicka på **[!UICONTROL Spara + Stäng]**.
 
    Lägg nu till kontrollpanelen på en projektsida.
 
    ![En bild av skärmen för att skapa en ny instrumentpanel](assets/add-custom-section.png)
 
-1. Gå till vilket projekt som helst. Klicka på **[!UICONTROL Lägg till anpassat avsnitt]** -ikon.
-1. I **[!UICONTROL Lägg till en instrumentpanel]** skriver du&quot;Search Notes&quot; och väljer [!UICONTROL kontrollpanel] från listan.
-1. I **[!UICONTROL Anpassad avsnittsrubrik]** -fält, skriv i &quot;Sökanteckningar&quot;.
-1. Klicka **[!UICONTROL Lägg till nytt avsnitt]**.
+1. Gå till vilket projekt som helst. Klicka på ikonen **[!UICONTROL Lägg till anpassat avsnitt]** på den vänstra panelmenyn.
+1. I fältet **[!UICONTROL Lägg till en instrumentpanel]** skriver du&quot;Sökanteckningar&quot; och väljer [!UICONTROL instrumentpanelen] i listan.
+1. I fältet **[!UICONTROL Anpassad avsnittstitel]** skriver du &quot;Search Notes&quot;.
+1. Klicka på **[!UICONTROL Lägg till nytt avsnitt]**.
 1. På den vänstra panelmenyn hittar du Sök anteckningar. Klicka på punkterna till vänster om avsnittsnamnet och dra det till höger under Uppdateringar.

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig:
 
-* När en matrisrapport kan vara användbar
+* När en matrisrapport kan användas
 * Och hur du skapar en matrisrapport
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
@@ -35,20 +35,20 @@ Du vill att begärandeköerna ska visas i radgrupperingarna. Status visas som ko
 
 ## Svar
 
-1. Välj **[!UICONTROL Rapporter]** från **[!UICONTROL Huvudmeny]**.
-1. Klicka på **[!UICONTROL Ny rapport]** välj **[!UICONTROL Problem]**.
-1. Gå till **[!UICONTROL Grupperingar]** och klicka **[!UICONTROL Växla till matrisgruppering]**.
-1. För [!UICONTROL Radgrupperingar], markera **[!UICONTROL Projekt]** > **[!UICONTROL Namn]**.
-1. För [!UICONTROL Kolumngruppering], markera **[!UICONTROL Problem]** > **[!UICONTROL Status]**.
+1. Välj **[!UICONTROL Rapporter]** på **[!UICONTROL Huvudmenyn]**.
+1. Klicka på alternativet **[!UICONTROL Ny rapport]** och välj **[!UICONTROL Problem]**.
+1. Gå till fliken **[!UICONTROL Grupperingar]** och klicka på **[!UICONTROL Växla till matrisgruppering]**.
+1. För [!UICONTROL radgrupperingar] väljer du **[!UICONTROL Projekt]** > **[!UICONTROL Namn]**.
+1. För [!UICONTROL Kolumngruppering] väljer du **[!UICONTROL Problem]** > **[!UICONTROL Status]**.
 
    ![En bild av skärmen för att skapa en ny gruppering av problemrapporter](assets/matrix-report-groupings.png)
 
-1. Gå till **[!UICONTROL Filter]** -fliken.
+1. Gå till fliken **[!UICONTROL Filter]**.
 1. Om du vill vara säker på att bara begäranden visas i aktiva begärandeköer lägger du till följande filterregler:
 
-   * [!UICONTROL Projekt] > [!UICONTROL Status är lika med] > [!UICONTROL Jämn] > [!UICONTROL Aktuell]
-   * [!UICONTROL Ködefinition] > [!UICONTROL Är offentlig] > [!UICONTROL Inte lika med] > [!UICONTROL Ingen] (Så här vet vi att ett projekt faktiskt är en begärandekö, eftersom ködefinitionen tilldelas ett av de offentliga alternativen.)
+   * [!UICONTROL Projekt] > [!UICONTROL Status motsvarar med] > [!UICONTROL Lika med] > [!UICONTROL Aktuell]
+   * [!UICONTROL Ködefinition] > [!UICONTROL Är offentlig] > [!UICONTROL Inte lika med] > [!UICONTROL Ingen] (så vet vi att ett projekt egentligen är en begärandekö, eftersom ködefinitionen tilldelas till ett av de offentliga alternativen.)
 
-1. Klicka på **[!UICONTROL Spara + Stäng]**. När du uppmanas att ange ett rapportnamn skriver du&quot;Begäranden efter status och Begärandekö&quot;.
+1. Klicka på **[!UICONTROL Spara + stäng]**. När du uppmanas att ange ett rapportnamn skriver du&quot;Begäranden efter status och Begärandekö&quot;.
 
    ![En bild av skärmen för att skapa ett nytt rapportfilter](assets/matrix-report-filters.png)

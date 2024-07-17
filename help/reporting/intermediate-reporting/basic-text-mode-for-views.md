@@ -24,15 +24,15 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Förstå rapportelement](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
->* [Förstå rapporteringskomponenter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [Förstå rapportkomponenter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
 >* [Skapa en grundvy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
 
 
 >[!TIP]
 >
->* Vi rekommenderar att du tittar på det inspelade webbinariet för att få en bättre förståelse för textläget [Fråga experten - Introduktion till rapportering i textläge](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), som är en timme lång.
->* Om du vill veta mer om textläge rekommenderar vi att du tittar på [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) självstudiekurser, som tillsammans är fem och en halv timme långa.
->* Klicka här för att komma åt [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
+>* För att få en mer ingående förståelse för textläget rekommenderar vi att du tittar på den inspelade webbinarihändelsen [Fråga experten - Introduktion till textlägesrapportering](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), som är en timme lång.
+>* Om du vill veta mer om textläge rekommenderar vi att du tittar på självstudiekurserna [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) som tillsammans är fem och en halv timmars långa.
+>* Klicka här för att komma åt [[!UICONTROL API-utforskaren]](https://developer.adobe.com/workfront/api-explorer/)
 
 I den här videon får du lära dig:
 
@@ -88,7 +88,7 @@ valuefield=parent:parent:parent:parent:name
 valueformat=HTML
 ```
 
-![En skärmbild som visar vyn 4 för överordnade](assets/4-parents-view.png)
+![En skärmbild som visar vyn 4 överordnade](assets/4-parents-view.png)
 
 ## Användare - Iterationer som visar listor i användarvyer
 
@@ -235,7 +235,7 @@ type=iterate
 
 ### Aktivitetsfilter (valfritt)
 
-**Visa alla aktiviteter som har minst en föregångare för flera projekt eller minst en efterföljande för flera projekt i aktuella projekt**
+**Visa alla aktiviteter som har minst en föregångare mellan projekt eller minst en efterföljande tvärprojekt i aktuella projekt**
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -322,7 +322,7 @@ valueformat=HTML
 width=150
 ```
 
-![En skärmbild som visar vyn för föregående och efterföljande tvärprojekt](assets/cross-project-predecessors-and-successors.png)
+![En skärmbild som visar vyn för föregående och efterföljande aktiviteter mellan projekt](assets/cross-project-predecessors-and-successors.png)
 
 
 ## Aktivitet - Iteration som visar alla personer som har tilldelats och som har tilldelat var och en av dem
@@ -449,7 +449,7 @@ valueformat=HTML
 width=150
 ```
 
-![En skärmbild som visar alla medlemmar i projektteamet som kan matchas](assets/all-resolve-project-team-members.png)
+![En skärmbild som visar alla medlemmar i projektgruppen ](assets/all-resolve-project-team-members.png)
 
 ## Problem - Upprepning som visar alla team för problemets primära kontakt
 
@@ -479,7 +479,7 @@ valuefield=name
 valueformat=HTML
 ```
 
-![En skärmbild som visar en mapp i en dokumentrapport](assets/folder-in-a-document-report.png)
+![En skärmbild som visar mappen i en dokumentrapport](assets/folder-in-a-document-report.png)
 
 ## Dokument - iteration som visar den överordnade mappen i en dokumentrapport
 
@@ -511,7 +511,7 @@ shortview=false
 section=0
 ```
 
-![En skärmbild som visar dokumentets datumvy för godkännande](assets/document-approval-dates.png)
+![En skärmbild som visar datumvyn för dokumentgodkännande](assets/document-approval-dates.png)
 
 ## Bevis på godkännande
 
@@ -533,4 +533,4 @@ valuefield=documentVersion:document:task:name
 valueformat=HTML
 ```
 
-![En skärmbild som visar projektet och uppgiften med ett korrekturgodkännande](assets/proof-approval-project-and-task.png)
+![En skärmbild som visar projektet och aktiviteten för ett korrekturgodkännande](assets/proof-approval-project-and-task.png)

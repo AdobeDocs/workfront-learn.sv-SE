@@ -1,6 +1,6 @@
 ---
-title: Navigera i [!UICONTROL Puls] uppdatera ström i [!DNL Goals]
-description: Lär dig navigera i [!UICONTROL Puls] uppdateringsström i [!DNL-mål].
+title: Navigera till [!UICONTROL Pulse]-uppdateringsströmmen i [!DNL Goals]
+description: Lär dig navigera i [!UICONTROL Pulse]-uppdateringsströmmen i [!DNL]   Mål].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 ---
 
-# Navigera i [!UICONTROL Puls] uppdateringsström
+# Navigera till uppdateringsströmmen [!UICONTROL Pulse]
 
-Använd [!UICONTROL Puls] för att granska och begära uppdateringar av mål som kan påverka hur era mål utvecklas, inklusive anpassade mål och deras resultat eller aktiviteter. Det kan vara mål som tillhör dig, ditt team, gruppen eller organisationen.
+Använd avsnittet [!UICONTROL Pulse] för att granska och begära uppdateringar av mål som kan påverka hur dina mål utvecklas, inklusive anpassade mål och deras resultat eller aktiviteter. Det kan vara mål som tillhör dig, ditt team, gruppen eller organisationen.
 
 I den här videon får du lära dig att:
 
-* Navigera i [!UICONTROL Puls] uppdateringsström
+* Navigera till uppdateringsströmmen [!UICONTROL Pulse]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on)

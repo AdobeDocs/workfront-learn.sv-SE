@@ -24,12 +24,12 @@ Att veta vem som är tillgänglig och när är avgörande för resursplanering o
 
 En användares lediga tid visas i kolumnen Tillgänglig (AVL) i resursplaneraren. Workfront subtraherar den tid som är markerad i kalendern från den tillgängliga tiden, enligt Workfront beräkning baserat på tilldelat schema, procentvärde för jobbroll osv.
 
-![Ledig tid i tillgänglig kolumn](assets/vis_01.png)
+![Tid kvar i tillgänglig kolumn](assets/vis_01.png)
 
 ## Utjämning av arbetsbelastning
 
 I Arbetsbelastningsutjämnaren visas ledig tid som grå staplar i kalendern. Denna synlighet hjälper resursansvariga och andra att fatta mer välgrundade beslut när de tilldelar arbete.
 
-Tidsgränsen för indikatorn förhindrar dock inte att arbete tilldelas användaren via arbetsbelastningsutjämnaren. Om arbete tilldelas visar Utjämning av arbetsbelastning att personen är övertilldelad under periodens tid.
+Tidsgränsen för indikatorn förhindrar dock inte att arbete tilldelas användaren via Utjämning av arbetsbelastning. Om arbete tilldelas visar Utjämning av arbetsbelastning att personen är övertilldelad under periodens tid.
 
 ![Tid för grått fält](assets/vis_02.png)

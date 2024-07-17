@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Resurshanteringsinställningar för projekt
 
-I den här videosjälvstudien får du lära dig:
+I den här videosjälvstudiekursen får du lära dig:
 
 * Så här optimerar du verktygen för resurshantering - varaktighet och planerade datum, planerade timmar och jobbrollstilldelningar
 

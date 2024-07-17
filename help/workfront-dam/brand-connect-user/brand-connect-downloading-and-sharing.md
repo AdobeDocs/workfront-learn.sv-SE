@@ -1,6 +1,6 @@
 ---
 title: Förstå hämtning och delning som användare
-description: Lär dig hur du hämtar och delar ljusbord och resurser i Brand Connect i [!UICONTROL WORKFRONT DAM].
+description: Lär dig hur du hämtar och delar ljusbord och resurser i Brand Connect för [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

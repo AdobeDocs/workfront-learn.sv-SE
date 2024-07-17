@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # Vad är [!UICONTROL Brand Connect]?
 
-[!UICONTROL Brand Connect] är en del av [!UICONTROL WORKFRONT DAM] som dina slutanvändare får tillgång till för att hitta och hämta godkända företagsresurser. Dessa användare är ofta interna användare som har begärt resurser eller letar efter något som liknar en företagslogotyp.
+[!UICONTROL Brand Connect] är den del av [!UICONTROL Workfront DAM] som dina slutanvändare får tillgång till för att hitta och hämta godkända företagsresurser. Dessa användare är ofta interna användare som har begärt resurser eller letar efter något som liknar en företagslogotyp.
 
-[!UICONTROL Brand Connect] användarna tilldelas [!UICONTROL Brand Portal] rolltyp och är medlemmar i en [!UICONTROL Brand Portal] grupp. De ser bara de mappar och resurser som publicerats till [!UICONTROL Brand Connect] och att gruppen har åtkomstbehörighet. Läs om hur du konfigurerar användare i Workfront DAM Administrator: Systeminstallation.
+[!UICONTROL Brand Connect]-användare tilldelas rolltypen [!UICONTROL Brand Portal] och är medlemmar i en [!UICONTROL Brand Portal]-grupp. De ser bara de mappar och resurser som publicerats till [!UICONTROL Brand Connect] och som deras grupp har åtkomstbehörighet till. Läs om hur du konfigurerar användare i Workfront DAM Administrator: Systeminstallation.
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 
-Anpassa utseendet på organisationens [!UICONTROL Brand Portal] för att hjälpa användarna att snabbt hitta det de behöver och för att säkerställa att de senaste resurserna är lättillgängliga.
+Anpassa utseendet på din organisations [!UICONTROL Brand Portal] så att användarna snabbt kan hitta det de behöver och se till att de senaste resurserna är lättillgängliga.
 
 I den här videon kommer du att:
 

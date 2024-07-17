@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Vad är Adobe Workfront&quot;best practice&quot;?
 
-Bästa metoder är riktlinjer som representerar ett effektivt och verkningsfullt tillvägagångssätt. är lätta att ta till sig av dig och användarna på ditt företag, och kan replikeras i hela organisationen.
+Bästa praxis är riktlinjer som utgör ett effektivt och effektivt sätt att agera, som enkelt används av dig och användarna på ditt företag och som kan återges framgångsrikt i hela organisationen.
 
 När du granskar dessa rekommendationer bör du tänka på att vissa av Workfront bästa metoder är universella medan andra kan vara mer specifika för ämnet. Använd dessa metodtips som ett ramverk för att vägleda installation och användning av Workfront-system.
 
@@ -45,7 +45,7 @@ När du bläddrar igenom den här sidan hittar du först en högnivålista med a
 
 Ställ in alla resurskrav även om du inte använder resurshanteringsverktygen först.
 
-**Här är varför**
+**Det här är varför**
 
 Genom att ange resurshanteringskrav i systeminställningarna och lägga till dem i projektmallar i den första konfigurationen kan Workfront hämta in data från början, så att du till slut kan se resurstrender för att fatta bättre beslut.
 
@@ -58,6 +58,6 @@ Det får dig också att tänka på vilken information du vill hämta in och hur 
 
 Behåll antalet användare i en resurspool till en hanterbar mängd.
 
-**Här är varför**
+**Det här är varför**
 
 Att hantera en resurspool med många användare kan medföra utmaningar. Även om det inte finns någon gräns för hur många användare som kan läggas till i en resurspool kan ju fler användare det finns i en pool, desto mer resurshantering kan bli en utmaning. Om du behåller antalet användare i en resurspool till en mer hanterbar mängd kan du få mer kontroll över dina resurser och bli mer effektiv.
