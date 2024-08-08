@@ -8,12 +8,13 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335131.png
+last-substantial-update: 2024-08-08T00:00:00Z
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 55edb8b797583f93f405c9c6b69422b818c90cdc
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---
@@ -32,11 +33,8 @@ Alternativ för att dela, kopiera och ta bort mallen finns längst upp i mallinf
 
 ![Mallinformationsfönstret](assets/proof-system-setup-edit-templates-details-area.png)
 
-<!--
-Lean More URLs
--->
 
-Klicka på pilen för att utöka avsnittet [!UICONTROL Detaljer] för att ändra saker som mallnamnet eller mallens tidszon.
+Klicka på pilen till vänster om ordet [!UICONTROL Detaljer] om du vill expandera eller komprimera avsnittet.
 
 ## Gör ändringar i stadier och mottagare
 
@@ -44,18 +42,18 @@ Det kan behövas ändringar i [!UICONTROL arbetsflödesområdet] när en smidig 
 
 Varje steg i ett automatiserat arbetsflöde har ett eget avsnitt där du kan ändra deadlines, sekretess, korrekturmottagare och annan information oberoende av varandra.
 
-I den här videon visas några av de ändringar du kan göra i området [!UICONTROL Arbetsflöde] kort. Se punktlistan under den här videon som visar dessa inställningar. Det finns inget ljud i den här videon.
+I den här videon visas några av de ändringar du kan göra i [!UICONTROL arbetsflödet] . Se punktlistan under den här videon som visar dessa inställningar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on)
 
 Här är korrekturmallsändringarna som du kan göra i avsnittet [!UICONTROL Arbetsflöde]:
 
-* Klicka i fältet [!UICONTROL scennamn] eller fältet [!UICONTROL deadline] för att uppdatera informationen.
-* Välj pilen bredvid [!UICONTROL deadline] om du vill låsa scenen, avgöra när scenen är aktiverad eller endast kräva ett beslut.
+* Klicka i fältet för scenens namn eller i deadlinefältet för att uppdatera informationen.
+* Klicka på pilen till vänster om tidsgränsen för att låsa scenen, bestämma när scenen är aktiverad eller endast kräva ett beslut.
 * Klicka i fältet [!UICONTROL Roll] eller [!UICONTROL E-postaviseringar] i mottagarlistan för att välja ett annat alternativ.
-* Gå till menyn med tre punkter längst till höger om namnet på en mottagare om du vill ta bort dem från listan, göra dem till den primära beslutsfattaren för arbetsflödessteget eller redigera korrekturrollen och e-postaviseringsinformationen.
-* Du har två alternativ för att lägga till mottagare i listan. När du har öppnat fönstret [!UICONTROL Lägg till personer på scenen] klickar du på vilken scen de ska läggas till i. Ange sedan deras namn eller e-postadress i mottagarlistan och tilldela en korrekturroll och en e-postavisering. Klicka på knappen [!UICONTROL Lägg till personer] när du är klar.
-   1. I det övre högra hörnet av varje scenavsnitt går du till menyn [!UICONTROL Mer] och väljer [!UICONTROL Lägg till personer på scenen].
+* Gå till menyn med tre punkter längst till höger om en mottagares namn för att ta bort dem från listan, göra dem till den primära beslutsfattaren för arbetsflödessteget eller redigera korrekturrollen och e-postaviseringsinformationen.
+* Du har två alternativ för att lägga till mottagare i listan.
+   1. I det övre högra hörnet av varje scenavsnitt går du till menyn [!UICONTROL Mer] och väljer [!UICONTROL Lägg till personer på scenen]. När du har öppnat fönstret [!UICONTROL Lägg till personer på scenen] klickar du på vilken scen de ska läggas till i. Ange sedan deras namn eller e-postadress i mottagarlistan och tilldela en korrekturroll och en e-postavisering. Klicka på knappen [!UICONTROL Lägg till personer] när du är klar.
    1. Överst i [!UICONTROL arbetsflödesområdet] väljer du [!UICONTROL Lägg till personer på scenen].
 
 ## Malldelning
@@ -66,7 +64,7 @@ Under [!UICONTROL Delad med] visas korrekturanvändare som kan använda mallen. 
 
 Du kan dock inte lägga till personer i delningslistan från det här avsnittet. Det gör du genom att gå tillbaka till det övre delen av mallinformationsfönstret och klicka på knappen [!UICONTROL Dela mall] .
 
-## Aktivitetsavsnittet
+## Ytterligare information
 
 [!DNL Workfront] sparar en granskningshistorik över när ändringar gjordes i mallen. Du kan se datumet, vem som gjorde ändringen och en del kortfattad information om vilka ändringar som gjordes.
 
