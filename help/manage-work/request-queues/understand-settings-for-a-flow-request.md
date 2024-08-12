@@ -1,6 +1,6 @@
 ---
-title: Förstå inställningarna för en flödesbegäran
-description: Lär dig hur förfrågningsflödet i [!DNL  Workfront] fungerar. Skapa sedan routningsregler, ämnesgrupper och köämnen.
+title: Förstå inställningarna för ett begärandeflöde
+description: Lär dig mer om begäranflöden och hur du skapar ett med hanteringsregler, ämnesgrupper och köämnen.
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -9,16 +9,18 @@ level: Intermediate
 team: Technical Marketing
 thumbnail: 335222.jpeg
 jira: KT-8959
+recommendations: noDisplay,noCatalog
+last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 0a0af5e441a09c20eb27e2cd31c7e2586403c984
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# Förstå inställningarna för en flödesbegäran
+# Förstå inställningarna för ett begärandeflöde
 
 I den här videon får du lära dig:
 
@@ -26,3 +28,9 @@ I den här videon får du lära dig:
 * Skapa och använda routningsregler, ämnesgrupper och köämnen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on)
+
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Skapa en begärandekö](/help/manage-work/request-queues/create-a-request-queue.md)
+* [Skapa ett begärandeflöde](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Skapa en kö för feedback från systemadministratörer](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
