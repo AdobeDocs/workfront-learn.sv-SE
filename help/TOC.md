@@ -3,9 +3,9 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 7f08765083adcc636f4f0241a5856b15fb9e92cf
+source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
 workflow-type: tm+mt
-source-wordcount: '2404'
+source-wordcount: '2407'
 ht-degree: 0%
 
 ---
@@ -642,7 +642,8 @@ ht-degree: 0%
    + [Workfront-mål](best-practices/workfront-goals-bp.md)
    + [Utjämning av arbetsbelastning](best-practices/workload-balancer-bp.md)
 
-
++ Workfront för chefer {#workfront-for-executives}
+   + [Workfront för chefer](workfront-for-executives/workfront-for-executives.md)
 
 
 
@@ -650,7 +651,6 @@ ht-degree: 0%
 + [Vad är Scrum-metoden och hur fungerar den?](agile/what-is-the-scrum-methodology.md)
 + [Vad är Kanban-metoden och hur fungerar den?](agile/what-is-the-kanban-methodology.md)
 + [Övergång till Agile](agile/transitioning-to-agile.md)
-+ [Workfront för chefer](workfront-for-executives/workfront-for-executives.md)
 + [Hantera förfrågningar](manage-work/issues-requests/manage-incoming-requests.md)
 + [Lär dig mer om resurskapaciteten](reporting/enhanced-analytics/19-resource-capacity-chart.md)
 

@@ -2,9 +2,9 @@
 title: Workfront Tutorials
 description: Ett bibliotek med utbildningsvideor och artiklar som hjälper dig att förstå Workfront funktioner och inställningar bättre.  Här finns en samling bästa praxis, kurser och andra resurser som hjälper både dig och din organisation att lyckas med Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,6 @@ See other user landing pages to get ideas.
 
 -->
 
-<div id="whats-new-section">
-
-## Vad är nytt?
-
-Upptäck de senaste uppdateringarna av självstudiekurserna för varje produktrelease från Workfront. Det här är vad som uppdaterades i den senaste versionen:
-
-* Favoriter och ikon för senaste har delats upp i den övre navigeringen i Workfront. En kort sammanfattning av alla finns i självstudiekursen <a href="/help/manage-work/projects/find-projects.md">Hitta projekt</a>.
-
-* Konfigurera ett anpassat formulär så att det fungerar med flera objekttyper. Se hur du gör i självstudiekursen <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">Skapa och dela ett anpassat formulär</a>.
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
