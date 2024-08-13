@@ -13,7 +13,7 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: e43f7f6a9c95f02b69104ef62337efa6bbc10b14
+source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -33,6 +33,6 @@ I den här videon får du lära dig att:
 ## Rekommenderade självstudiekurser i detta ämne
 
 * [Förstå begärandeköer](/help/manage-work/request-queues/understand-request-queues.md)
-* [Förstå inställningarna för en flödesbegäran](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Förstå inställningarna för ett begärandeflöde](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Skapa ett begärandeflöde](/help/manage-work/request-queues/create-a-request-flow.md)
 

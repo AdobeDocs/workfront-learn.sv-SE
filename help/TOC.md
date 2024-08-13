@@ -3,7 +3,7 @@ user-guide-description: Självstudiekurser om Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
+source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
 workflow-type: tm+mt
 source-wordcount: '2407'
 ht-degree: 0%
@@ -146,7 +146,7 @@ ht-degree: 0%
    + Begäranköer {#request-queues}
       + [Förstå begärandeköer](manage-work/request-queues/understand-request-queues.md)
       + [Skapa en begärandekö](manage-work/request-queues/create-a-request-queue.md)
-      + [Förstå inställningarna för en flödesbegäran](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Förstå inställningarna för ett begärandeflöde](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Skapa ett begärandeflöde](manage-work/request-queues/create-a-request-flow.md)
       + [Skapa en kö för feedback från systemadministratörer](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Svar på vanliga frågor om begärandeköer](manage-work/request-queues/request-queue-faq.md)
