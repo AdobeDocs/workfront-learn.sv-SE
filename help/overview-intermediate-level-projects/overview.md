@@ -12,7 +12,7 @@ jira: KT-14120
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -38,6 +38,6 @@ Standardlicensanvändare som skapar eller hanterar projekt.
 
 ## Självstudiekurser
 
-* [Förstå och hantera varaktighetstyper och uppgiftsbegränsningar](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-* [Förstå föregångare inom projekt mellan olika projekt](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
-* [Avancerade föregångare](/help/manage-work/intermediate-projects/advanced-predecessors.md)
+* [Förstå och hantera varaktighetstyper och uppgiftsbegränsningar](understand-and-manage-duration-types-and-task-constraints.md)
+* [Förstå föregångare inom projekt mellan olika projekt](understand-cross-project-predecessors.md)
+* [Avancerade föregångare](advanced-predecessors.md)
