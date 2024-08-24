@@ -5,9 +5,9 @@ breadcrumb-title: Portfolio - översikt
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 6ebba027798650f74c0abe3a7498c65c0a55dd68
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,11 @@ ht-degree: 0%
 # Projektekonomi för administratörer - översikt {#project-finances-for-administrators}
 
 + [Projektekonomi för administratörer - översikt](overview.md)
-+ [Förstå prestandamått](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-performance-metrics)
-+ [Ställ in standardvärden för intäkter och kostnader för aktiviteter](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-task-revenue-and-cost-defaults)
-+ [Ställ in valutakurser](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-exchange-rates)
-+ [Ställ in utgiftstyper](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-expense-types)
-+ [Förstå ekonomisk åtkomst](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-financial-access)
++ Projektekonomi för administratörer {#project-finances-for-administrators}
+   + [Förstå prestandamått](understand-performance-metrics.md)
+   + [Ställ in standardvärden för intäkter och kostnader för uppgifter](set-up-task-revenue-and-cost-defaults.md)
+   + [Ställ in valutakurser](set-up-exchange-rates.md)
+   + [Ställ in utgiftstyper](set-up-expense-types.md)
+   + [Förstå finansiell åtkomst](understand-financial-access.md)
 
 

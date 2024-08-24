@@ -5,9 +5,9 @@ breadcrumb-title: Portfolio - översikt
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 6ebba027798650f74c0abe3a7498c65c0a55dd68
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,8 @@ ht-degree: 0%
 # Portfolio - översikt {#portfolios}
 
 + [Portfolio - översikt](overview.md)
-+ [Förstå portföljer](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/overview-of-adobe-workfront-portfolios)
-+ [Förstå [!UICONTROL affärsärendet]](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case)
-+ [Använd [!UICONTROL Portfolio-optimering] för att prioritera och hantera arbete](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios)
++ Översikt över Portfolio {#portfolios}
+   + [Förstå portföljer](overview-of-adobe-workfront-portfolios.md)
+   + [Förstå [!UICONTROL affärsärendet]](introduction-to-the-business-case.md)
+   + [Använd [!UICONTROL Portfolio-optimering] för att prioritera och hantera arbete](prioritize-and-manage-work-with-portfolios.md)
 

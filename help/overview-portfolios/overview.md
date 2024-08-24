@@ -12,7 +12,7 @@ jira: KT-14120
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 1%
@@ -36,6 +36,6 @@ Standardlicensanvändare som hanterar projekt i portföljer.
 
 ## Självstudiekurser
 
-* [Förstå portföljer](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-* [Förstå [!UICONTROL affärsärendet]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-* [Använd [!UICONTROL Portfolio-optimering] för att prioritera och hantera arbete](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+* [Förstå portföljer](overview-of-adobe-workfront-portfolios.md)
+* [Förstå [!UICONTROL affärsärendet]](introduction-to-the-business-case.md)
+* [Använd [!UICONTROL Portfolio-optimering] för att prioritera och hantera arbete](prioritize-and-manage-work-with-portfolios.md)
