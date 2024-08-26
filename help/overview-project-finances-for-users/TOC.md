@@ -1,13 +1,13 @@
 ---
 user-guide-title: Översikt över projektekonomi för användare
 user-guide-description: Lär dig hur du prioriterar aktuella och föreslagna projekt baserat på kostnad, värde, risk och anpassning till era organisationsmål.
-breadcrumb-title: Portfolio - översikt
+breadcrumb-title: Översikt över projektekonomi för användare
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---

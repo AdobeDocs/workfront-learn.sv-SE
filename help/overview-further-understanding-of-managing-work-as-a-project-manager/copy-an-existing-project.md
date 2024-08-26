@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10155
-exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
+hide: true
 source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
 source-wordcount: '134'
@@ -28,5 +28,6 @@ Navigera till det projekt som du vill kopiera och klicka på menyn med tre punkt
 I fönstret Kopiera projekt kan du ändra titel och status samt rensa olika data som är kopplade till projektet, t.ex. uppdrag, dokument och anpassade data.
 
 ![Kopiera projektalternativ](assets/copy-existing-02.png)
+
 
 Om du väljer Rensa tilldelningar eller anger status till Planning förhindrar du att det kopierade projektet skickar meddelanden om aktivitetstilldelning direkt efter kopiering.
