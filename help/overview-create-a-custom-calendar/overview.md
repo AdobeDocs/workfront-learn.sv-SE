@@ -1,20 +1,20 @@
 ---
 title: Skapa en anpassad kalenderöversikt
-description: Nu
+description: Med en anpassad kalender kan du visa datum och information direkt från projekt, uppgifter och utgåvor i ett kalenderformat.
 feature: Reports and Dashboards
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23T00:00:00Z
-jira: KT-
+last-substantial-update: 2024-08-26T00:00:00Z
+jira: KT-10662
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
+source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -22,42 +22,24 @@ ht-degree: 0%
 
 # Skapa en anpassad kalenderöversikt {#overview}
 
-Nu
+Med en anpassad kalender kan du visa datum och information direkt från projekt, uppgifter och utgåvor i ett kalenderformat.
 
 >[!PREREQUISITES]
 >
->* Bra insikt i hur man använder Workfront
->* Standardlicenstyp med behörighet att skapa projekt aktiverad
->* [Kom igång med Workfront för projektledare - översikt](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
+>* Grundläggande förståelse för att använda Workfront
+>* Standardlicenstyp med behörighet att skapa rapporter och filter aktiverat
+>* [Översikt över grundläggande rapportelement](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting)
 
 
 ## Målgrupper
 
-Standardlicensanvändare som skapar eller hanterar projekt.
+* Standardlicensanvändare som vill skapa anpassade kalendrar
+* Alla användare som vill förstå vad anpassade kalendrar kan göra
 
 ## Självstudiekurser
 
-### Hantera ett projekt
+* [Förstå kalenderrapportgränssnittet](tour-of-the-interface.md)
+* [Skapa en anpassad kalenderrapport](creating-custom-calendars.md)
+* [Förstå ytterligare alternativ för kalenderrapporter](additional-calendar-options.md)
+* [Din tur är att skapa en kalenderrapport](your-turn-to-create-a-calendar.md)
 
-* [Kom igång med att hantera ett projekt](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Hitta projekt](/help/manage-work/projects/find-projects.md)
-* [Dela ett projekt](/help/manage-work/projects/share-a-project.md)
-* [Förstå projektgruppen](/help/manage-work/projects/understand-the-project-team.md)
-* [Förstå projektkommunikation](/help/manage-work/projects/understand-project-communication.md)
-* [Visa projektinformation](/help/manage-work/projects/view-project-information.md)
-* [Spåra projektets övergripande förlopp](/help/manage-work/projects/track-overall-project-progress.md)
-* [Spåra arbetets förlopp med projektstatistik](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Förstå [!UICONTROL Gantt]-vyn](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Förstå vyn för [!UICONTROL anslagstavlan]](/help/manage-work/projects/understand-the-board-view.md)
-
-
-### Stänga ett projekt
-
-* [Ändra projektstatus till slutförd](/help/manage-work/projects/change-the-project-status.md)
-* [Stäng aktiviteter och ärenden](/help/manage-work/close-a-project/close-tasks-and-issues.md)
-* [Fullständiga godkännanden](/help/manage-work/close-a-project/complete-approvals.md)
-* [Överför resurser](/help/manage-work/close-a-project/upload-assets.md)
-* [Spela in lektioner](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Logga och granska timmar](/help/manage-work/close-a-project/log-and-review-hours.md)
-* [Uppdatera och granska ekonomi](/help/manage-work/project-finances/update-and-review-finances.md)
-* [Stänga en projektaktivitet](/help/manage-work/close-a-project/close-a-project-activity.md)
