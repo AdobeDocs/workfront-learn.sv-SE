@@ -2,13 +2,13 @@
 user-guide-title: Hantera arbete - mellanliggande
 user-guide-description: När du lärt dig grunderna i att skapa, planera och hantera projekt finns det några andra saker du bör känna till för att få ut så mycket som möjligt av Workfront.
 feature: Work Management
-breadcrumb-title: Mer information om hur du hanterar arbete som projektledare - översikt
+breadcrumb-title: Hantera arbete - mellanliggande
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,6 @@ ht-degree: 0%
       + [Konvertera ett problem/en begäran till ett projekt](create-a-project-from-a-request.md)
       + [Konvertera ett problem/en begäran till en uppgift](convert-issues-to-other-work-items.md)
       + [Rapportera problem](report-on-issues.md)
-
-   + Projekttidslinjer {#project-timelines}
-      + [Förstå projekttidslinjer](understand-project-timelines.md)
-      + [Förstå datumtyper och förloppsstatus](understand-task-dates-and-progress-status.md)
-      + [Spåra förlopp från projekttidslinjen](track-work-progress-from-the-project-timeline.md)
 
    + Diggar djupare {#digging-deeper}
       + [Förstå och hantera varaktighetstyper och uppgiftsbegränsningar](understand-and-manage-duration-types-and-task-constraints.md)

@@ -12,9 +12,9 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -73,6 +73,7 @@ Lär dig hur du skapar milstolpar, tillämpar milstolparna på uppgifter och vis
 * [Använd milstolpar](apply-milestones.md) - Lär dig hur du använder en milstolpe för ett projekt och associerar nyckelaktiviteter som milstolpar i projektet.
 * [Visa milstolpar](view-milestones.md) - Lär dig hur du visar milstolpar i ett Adobe Workfront-projekt och använder milstolpevyn i projektområdet.
 
+
 ## Så här arbetar du med problem
 
 Lär dig hur du hanterar oplanerade ärenden, konverterar ärenden till andra arbetsuppgifter, hanterar ärenden och rapporterar problem.
@@ -86,13 +87,6 @@ Lär dig hur du hanterar oplanerade ärenden, konverterar ärenden till andra ar
 * [Konvertera ett problem/en begäran till en aktivitet](convert-issues-to-other-work-items.md) - Lär dig hur du konverterar ett problem till en aktivitet.
 * [Rapportera problem](report-on-issues.md) - Lär dig hur du skapar en problemrapport som visar hur du löser problem och en projektrapport som visar konverterad probleminformation.
 
-## Projekttidslinjer
-
-Lär dig att schemalägga projekt och följa deras förlopp.
-
-* [Förstå projekttidslinjer](understand-project-timelines.md) - Lär dig hur du schemalägger projekt från ett start- eller ett slutförandedatum. Lär dig sedan hur varaktighet, föregångare och uppgiftsbegränsningar påverkar projektplanen.
-* [Förstå datumtyper och förloppsstatus](understand-task-dates-and-progress-status.md) - Lär dig hur du väljer en vy för att jämföra Workfront olika datumtyper och hur du använder förloppsstatusfältet.
-* [Spåra förloppet från projekttidslinjen](track-work-progress-from-the-project-timeline.md) - Lär dig hur du spårar förloppet för arbete från projekttidslinjen med procent färdigt, status, tilldelningar och aktivitetsbegränsningar.
 
 ## Förvräng djupare
 
