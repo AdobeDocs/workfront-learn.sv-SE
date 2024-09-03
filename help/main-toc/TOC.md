@@ -1,8 +1,8 @@
 ---
 user-guide-description: Självstudiekurser om Workfront
-source-git-commit: dc444153581cf435917c6bc32e2272c60f3b3aea
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '2412'
+source-wordcount: '2417'
 ht-degree: 0%
 
 ---
@@ -585,6 +585,12 @@ ht-degree: 0%
 
 + Agile {#agile}
 
+   + Introduktion till Agile-arbetshantering {#intro-to-agile}
+      + [Fördelar med att använda Agile](/help/agile/benefits-of-using-agile.md)
+      + [Vad är Scrum-metoden och hur fungerar den?](/help/agile/what-is-the-scrum-methodology.md)
+      + [Vad är Kanban-metoden och hur fungerar den?](/help/agile/what-is-the-kanban-methodology.md)
+      + [Övergång till Agile](/help/agile/transitioning-to-agile.md)
+
    + Scrum {#scrum}
       + [Skapa ett Scrum-team](/help/agile/create-a-scrum-agile-team.md)
       + [Hantera arbetet som ett Scrum-team](/help/agile/manage-work-scrum-team.md)
@@ -645,10 +651,7 @@ ht-degree: 0%
 
 
 
-+ [Fördelar med att använda Agile](/help/agile/benefits-of-using-agile.md)
-+ [Vad är Scrum-metoden och hur fungerar den?](/help/agile/what-is-the-scrum-methodology.md)
-+ [Vad är Kanban-metoden och hur fungerar den?](/help/agile/what-is-the-kanban-methodology.md)
-+ [Övergång till Agile](/help/agile/transitioning-to-agile.md)
+
 + [Hantera förfrågningar](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [Lär dig mer om resurskapaciteten](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
 
