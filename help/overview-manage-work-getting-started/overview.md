@@ -12,7 +12,7 @@ jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 0%
@@ -42,7 +42,6 @@ Lär dig vad ett projekt är i Adobe Workfront, hur du kommer igång samt de van
 * [Lär dig fyra sätt att skapa ett projekt](understand-other-ways-to-create-projects.md) - Lär dig hur du skapar ett projekt från en mall, skapar ett projekt från grunden, kopierar ett befintligt projekt eller importerar en [!DNL Microsoft Project]-fil.
 * [Fyll i projektinformationen](fill-in-the-project-details.md) - Lär dig de projektinformationsfält som Adobe Workfront rekommenderar att du fyller i när du skapar ett projekt.
 * [Navigera till projektsidan](navigate-the-project-page.md) - Lär dig hur du visar information om ett projekt, vilken information som visas i uppgiftslistan, var dokument ska överföras och hur du visar uppdateringshistoriken.
-
 
 ## Planera ett projekt
 
@@ -76,7 +75,6 @@ Lär dig spåra projektarbete och kommunicera med intressenter.
 * [Spåra förloppet från projekttidslinjen](track-work-progress-from-the-project-timeline.md) - Lär dig hur du spårar förloppet för arbete från projekttidslinjen med procent färdigt, status, tilldelningar och aktivitetsbegränsningar.
 * [Förstå [!UICONTROL Gantt]-vyn](understand-the-gantt-view.md) - Lär dig hur du använder [!UICONTROL Gantt]-projektdiagrammet och [!UICONTROL Gantt]-aktivitetsdiagrammet.
 * [Lär dig mer om vyn [!UICONTROL Styrelse]](understand-the-board-view.md) - Lär dig var du hittar vyn och hur du använder den.
-
 
 ## Stänga ett projekt
 

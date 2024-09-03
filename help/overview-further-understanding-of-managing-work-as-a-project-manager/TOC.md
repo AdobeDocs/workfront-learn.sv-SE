@@ -1,23 +1,24 @@
 ---
-user-guide-title: Hantera arbete - mellanliggande
+user-guide-title: Mer information om hur du hanterar arbete som projektledare - översikt
 user-guide-description: När du lärt dig grunderna i att skapa, planera och hantera projekt finns det några andra saker du bör känna till för att få ut så mycket som möjligt av Workfront.
 feature: Work Management
-breadcrumb-title: Hantera arbete - mellanliggande
+breadcrumb-title: Mer information om hur du hanterar arbete som projektledare - översikt
 solution: Workfront
 sub-product: Work Management
 index: y
 source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
 
-# Hantera arbete - mellanliggande {#manage-work-intermediate}
 
-+ [Hantera arbete - mellanliggande](overview.md)
-+ Hantera arbete - mellanliggande {#manage-work-intermediate}
+# Mer information om hur du hanterar arbete som projektledare - översikt {#further-understanding-of-managing-work-as-a-project-manager}
+
++ [Mer information om hur du hanterar arbete som projektledare - översikt](overview.md)
++ Mer information om hur du hanterar arbete som projektledare {#further-understanding-of-managing-work-as-a-project-manager}
    + Projektmallar {#project-templates}
       + [Skapa en projektmall och lär dig mer om utkast](create-a-project-template.md)
       + [Skapa ett projekt direkt från en mall](create-a-project-directly-from-a-template.md)
@@ -49,7 +50,9 @@ ht-degree: 0%
       + [Konvertera ett problem/en begäran till en uppgift](convert-issues-to-other-work-items.md)
       + [Rapportera problem](report-on-issues.md)
 
-   + Diggar djupare {#digging-deeper}
-      + [Förstå och hantera varaktighetstyper och uppgiftsbegränsningar](understand-and-manage-duration-types-and-task-constraints.md)
-      + [Förstå föregångare inom projekt mellan olika projekt](understand-cross-project-predecessors.md)
-      + [Avancerade föregångare](advanced-predecessors.md)
+   + Projekttidslinjer {#project-timelines}
+      + [Förstå projekttidslinjer](understand-project-timelines.md)
+      + [Förstå datumtyper och förloppsstatus](understand-task-dates-and-progress-status.md)
+      + [Spåra förlopp från projekttidslinjen](track-work-progress-from-the-project-timeline.md)
+
+

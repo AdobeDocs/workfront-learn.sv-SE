@@ -12,7 +12,7 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 0%
@@ -52,7 +52,6 @@ Lär dig hur du skapar och använder projektmallar.
 * [Inaktivera en projektmall](deactivate-a-project-template.md) - Lär dig hur du aktiverar och inaktiverar en projektmall.
 * [Redigera projektteamet i en projektmall](edit-the-project-team-in-a-project-template.md) - Lär dig hur du undviker att oavsiktligt ta med **icke** projektgruppsmedlemmar i ett mallprojektteam och hur du redigerar mallprojektteamet.
 
-
 ## Skapa och använda godkännandeprocesser
 
 Lär dig skapa godkännandeprocesser, bifoga dem i arbetsflöden, granska digitalt arbete och delegera godkännanden.
@@ -64,7 +63,6 @@ Lär dig skapa godkännandeprocesser, bifoga dem i arbetsflöden, granska digita
 * [Förstå uppdateringar och meddelanden](understand-updates-and-notifications.md) - Lär dig hur du uppdaterar godkännandebegäranden och hittar dina meddelanden.
 * [Delegera aktiviteter, utgåvor och godkännanden](delegate-approvals.md) - Lär dig hur du delegerar godkännanden för projekt, aktiviteter, utgåvor och tidkort till en annan Adobe Workfront-användare.
 
-
 ## Skapa och använda milstolpar
 
 Lär dig hur du skapar milstolpar, tillämpar milstolparna på uppgifter och visar milstolpar.
@@ -72,7 +70,6 @@ Lär dig hur du skapar milstolpar, tillämpar milstolparna på uppgifter och vis
 * [Skapa milstolpar](creating-milestones.md) - Lär dig vilka milstolpbanor som är, hur du skapar milstolpbanor och hur du lägger till milstolpsteg i ett projekt.
 * [Använd milstolpar](apply-milestones.md) - Lär dig hur du använder en milstolpe för ett projekt och associerar nyckelaktiviteter som milstolpar i projektet.
 * [Visa milstolpar](view-milestones.md) - Lär dig hur du visar milstolpar i ett Adobe Workfront-projekt och använder milstolpevyn i projektområdet.
-
 
 ## Så här arbetar du med problem
 
@@ -86,7 +83,6 @@ Lär dig hur du hanterar oplanerade ärenden, konverterar ärenden till andra ar
 * [Konvertera ett problem/en begäran till ett projekt](create-a-project-from-a-request.md) - Lär dig hur du initierar konverteringen från begäran till projekt och väljer lämplig projektmall.
 * [Konvertera ett problem/en begäran till en aktivitet](convert-issues-to-other-work-items.md) - Lär dig hur du konverterar ett problem till en aktivitet.
 * [Rapportera problem](report-on-issues.md) - Lär dig hur du skapar en problemrapport som visar hur du löser problem och en projektrapport som visar konverterad probleminformation.
-
 
 ## Förvräng djupare
 
