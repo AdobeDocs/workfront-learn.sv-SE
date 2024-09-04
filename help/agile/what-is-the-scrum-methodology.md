@@ -7,9 +7,8 @@ level: Intermediate
 jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 hide: true
-hidefromtoc: true
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
 workflow-type: tm+mt
 source-wordcount: '774'
 ht-degree: 0%
@@ -22,7 +21,7 @@ Scrum-metoden omfattar flexibilitetsmodellen men skiljer sig från andra metoder
 
 ## Översikt över Scrum team
 
-När ni bestämmer er för om ni ska gå över till Scrum eller inte måste ni ta en titt på teamets struktur för att se om de enkelt kan gå över till den nya metoden. Ett Scrum-team har tre typer av medlemmar: en produktägare, en scrum master och teammedlemmar.
+När du bestämmer dig för om du ska gå över till Scrum eller inte måste du ta en titt på strukturen i dina team för att se om de enkelt kan gå över till den nya metoden. Ett Scrum-team har tre typer av medlemmar: en produktägare, en scrum master och teammedlemmar.
 
 ![Deltagare i Scrum-team](assets/scrumteammembers-01.png)
 
@@ -72,7 +71,7 @@ När eftersläpningen har trimmats och prioriterats är det dags att planera upp
 
 ### Kör iterationen
 
-Nu är det dags att utföra iterationen. Teammedlemmarna börjar göra sitt arbete som ett vanligt team skulle, men de har nu ett snabbt, dagligt möte som kallas stående möte.
+Nu är det dags att köra iterationen. Teammedlemmarna börjar göra sitt arbete som ett vanligt team skulle, men de har nu ett snabbt, dagligt möte som kallas stående möte.
 
 Teammedlemmarna kommer bokstavligen att ställa sig upp för detta korta möte och svara på tre frågor:
 

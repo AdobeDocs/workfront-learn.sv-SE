@@ -7,9 +7,8 @@ level: Intermediate
 jira: KT-10891
 thumbnail: what-is-kanban.jpeg
 hide: true
-hidefromtoc: true
 exl-id: 234c7491-d405-422c-aa60-cc5a27031fb5
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
 workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 0%
@@ -21,7 +20,7 @@ ht-degree: 0%
 Till skillnad från andra flexibla metoder som fokuserar på en cyklisk process fokuserar Kanban-metoden på ett optimerat arbetsflöde. Kanban vill förbättra arbetsflödet genom att visualisera arbetet med en Kanban-panel, ange en gräns för mängden arbete som kan utföras och analysera flödet för att göra kontinuerliga förbättringar.
 
 
-Låt oss titta på några av huvudinslagen i Kanban.
+Låt oss titta på några av huvudelementen i Kanban.
 
 
 
@@ -43,7 +42,7 @@ Många företag har sin egen terminologi för kolumnnamnen, eller de kan till oc
 
 ## Prioritering
 
-Teammedlemmar arbetar med en produktchef eller projektledare för att säkerställa att artiklarna i eftersläpningen och andra statuskolumner prioriteras och att arbetet fortsätter att gå mot slutförande. Produkthanteraren ansvarar fortfarande för att säkerställa att kundens röst hörs och att produkten rör sig i rätt riktning.
+Teammedlemmar arbetar med en produktchef eller projektledare för att säkerställa att artiklarna i eftersläpningen och andra statuskolumner prioriteras och att arbetet fortsätter att gå mot slutförande. Produkthanteraren ansvarar fortfarande för att se till att kundens röst hörs och att produkten går i rätt riktning.
 
 ![Kanban-whiteboard](assets/agile4-03.png)
 

@@ -7,9 +7,8 @@ level: Intermediate
 jira: KT-10892
 thumbnail: transitioning-to-agile.jpeg
 hide: true
-hidefromtoc: true
 exl-id: eaad6a3f-9d1a-4dbe-8187-09e25de605f1
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 0%
@@ -20,11 +19,11 @@ ht-degree: 0%
 
 ## Frågor att ställa innan du byter
 
-Innan du börjar använda Agile ska vi titta på några frågor som hjälper dig att avgöra om det passar eller inte.
+Innan du börjar använda Agile ska vi titta på några frågor som hjälper dig att avgöra om det passar.
 
 Den första frågan du ställer är: Får ni leverera produkt- eller funktionsökningar? Behöver du kunna ändra fokus eller riktning på produkten under processens gång? Med andra ord, påbörjar du ett projekt utan att veta hur slutprodukten kommer att se ut baserat på miljön, framtida tekniska framsteg eller framtida önskemål/behov som inte syns just nu?
 
-Om du kan svara ja på frågorna ovan, så har övergången till Agile hittills varit bra. Här är den andra uppsättningen frågor som fokuserar på din grupps infrastruktur:
+Om du kan svara ja på frågorna ovan, så hittills ser en övergång till Agile bra ut. Här är den andra uppsättningen frågor som fokuserar på din grupps infrastruktur:
 
 * Finns de nära varandra?
 
@@ -55,7 +54,7 @@ När du känner dig trygg i att gå vidare med Agile vill du börja med att utbi
 
 ## Vad du ska titta på när du har börjat Agile
 
-När du har utformat övergångsstegen och sett till att alla känner sig säkra på det nya arbetssättet bör du se till att du övervakar och följer deras framsteg och framgång. Om de har problem med att köras lika snabbt som tidigare, vad kan orsaka dessa problem? Om teamet inte uppdaterar artiklar med sin nuvarande status, har dessa statusvärden definierats tydligt?
+När du har etablerat övergångssteg och sett till att alla känner sig säkra på det nya arbetssättet bör du kontrollera att du följer deras framsteg och framgång. Om de har problem med att köras lika snabbt som tidigare, vad kan orsaka dessa problem? Om teamet inte uppdaterar artiklar med sin nuvarande status, har dessa statusvärden definierats tydligt?
 
 Att följa upp ett nytt Agile-teams framsteg eller framgångar kommer att vara mycket fördelaktigt för att ge teamet förtroende för de ändringar de genomför. Dessutom kan du använda dessa mätvärden för att motivera fördelarna med att övergå från ett team till Agile vid möten på högre nivå.
 
