@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10913
 exl-id: bfcea59d-7746-40aa-989d-6e2b7e312a2b
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 1275ca2f30453df06cfcf9944798a1c89111a6de
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 0%
@@ -111,3 +111,4 @@ Skapa så få layoutmallar som möjligt.
 **Det här är varför**
 
 När du skapar layoutmallar kan du försöka göra dem på ett sätt som uppfyller behoven för de flesta i ett team, i en grupp, som tilldelats samma jobbroll osv., så som möjligt. Färre layoutmallar innebär mindre underhåll för system- och gruppadministratörer.
+
