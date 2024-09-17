@@ -9,9 +9,9 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: e9a4f2bcd39e2598ff540bb4f300e891e817e939
+source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -49,6 +49,10 @@ Om du öppnar en begäran från begärandekön kan du klicka på projektnamnet i
 **Kan jag överföra informationen från ett anpassat begärandeformulär till ett anpassat projektformulär?**
 
 Ja. När du skapar ett anpassat formulär väljer du både [!UICONTROL Projekt] och [!UICONTROL Problem] som objekttyper. Du kan också redigera ett anpassat projektformulär så att det innehåller problemobjektstypen och vice versa.
+
+![Bild som visar hur du väljer två objekttyper när du skapar ett anpassat formulär](assets/faq-image-1.png)
+
+![Bild som visar hur du väljer två objekttyper när du redigerar ett anpassat formulär](assets/faq-image-2.png)
 
 Bifoga det anpassade formuläret till begäran. När du konverterar begäran till ett projekt bifogas det anpassade formuläret automatiskt till det nya projektet och värdena i fälten visas både i det begärda formuläret och i de anpassade projektformulären.
 
