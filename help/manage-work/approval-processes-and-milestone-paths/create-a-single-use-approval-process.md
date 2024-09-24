@@ -1,5 +1,5 @@
 ---
-title: Skapa en godkännandeprocess för enstaka användning
+title: Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning
 description: Lär dig hur du skapar en godkännandeprocess för ett projekt, en uppgift eller ett problem i Workfront.
 activity: use
 feature: Approvals
@@ -9,22 +9,24 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
+last-substantial-update: 2024-09-24T00:00:00Z
+recommendations: noDisplay,noCatalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: 9045f121d34cb95eeb0ea7ddc1b35acd11f56bb2
+source-git-commit: b0114985964736fb7bb234c581cb56930714915c
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
 
-# Skapa en godkännandeprocess för enstaka användning
+# Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning
 
-Godkännandeprocesser för projekt, uppgifter och problem gör att en projektledare kan få expertbekräftelser på att arbetet har utförts precis innan man går vidare. Projektledaren kan skapa en godkännandeprocess för varje situation (detta kallas för en enstaka godkännandeprocess) eller välja från en lista med möjligen många godkännandeprocesser som tidigare har skapats för att tillgodose vanliga behov (dessa kallas globala godkännandeprocesser).
+Godkännandeprocesser för projekt, uppgifter och problem gör att en projektledare kan få expertbekräftelser på att arbetet har utförts precis innan man går vidare. Projektledaren kan skapa en godkännandeprocess för varje situation (detta kallas för en enstaka godkännandeprocess) eller välja från en lista med möjligen många godkännandeprocesser som tidigare har skapats för att tillgodose vanliga behov (dessa kallas globala eller befintliga godkännandeprocesser).
 
-I båda fallen, när objektets status ändras till en som anges i godkännandeprocessen, meddelas godkännaren på olika sätt för att granska arbetet och godkänna eller avvisa det. Eftersom hela projektet kan pausas i väntan på godkännande bör godkännarna i förväg vara medvetna om att de kan anropas för godkännande. Om en godkännare inte är på kontoret av någon anledning kan de delegera sina godkännanden till en kvalificerad vikarie. Mer information finns i [Delegera uppgifter, utgåvor och godkännanden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/delegate-approvals.html).
+I båda fallen, när objektets status ändras till en som anges i godkännandeprocessen, meddelas godkännaren på olika sätt för att granska arbetet och godkänna eller avvisa det. Eftersom hela projektet kan pausas i väntan på godkännande bör godkännarna i förväg vara medvetna om att de kan anropas för godkännande. Om en godkännare inte är på kontoret av någon anledning kan de delegera sina godkännanden till en kvalificerad vikarie. Mer information finns i [Delegera uppgifter, utgåvor och godkännanden](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md).
 
-I den här videon får du lära dig hur du skapar en godkännandeprocess för ett objekt i [!DNL  Workfront].
+I den här videon får du lära dig hur du skapar en global godkännandeprocess och en godkännandeprocess för ett projekt, en uppgift eller ett problem med en enstaka användning.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on)
 
@@ -35,6 +37,24 @@ I den här videon får du lära dig hur du skapar en godkännandeprocess för et
 >[!NOTE]
 >
 >Du kan konfigurera ett enstaka godkännande av projekt och ärenden på samma sätt som beskrivs för uppgifter i videon.
->
->Om du vill ställa in automatiska godkännanden av utgåvor kan du bara göra detta med en global godkännandeprocess och använda den i ett köämne. Mer information om hur du gör detta finns i [Skapa en frågekö](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html).
+
+## Använda automatiska utfärdandegodkännanden i en frågekö
+
+Om du vill ställa in automatiska godkännanden av utgåvor i en begärandekö kan dessa bara göras med en global godkännandeprocess och tillämpas i ett [!UICONTROL köämne].
+
+När du skapar eller redigerar ett [!UICONTROL köämne] väljer du den globala godkännandeprocessen i fältet **[!UICONTROL Standardgodkännande]**.
+
+![Bild som visar hur du väljer en standardgodkännandeprocess i ett köämne](assets/automatic-issue-approval-1.png)
+
+Du kan behöva redigera godkännandeprocessen för att se till att **[!UICONTROL Tidigare status]** inte är det som problemet ställs in på när godkännandet avvisas. Detta beror på att den tidigare statusen är **[!UICONTROL Ny]**, och det här är också den status som utlöser godkännandeprocessen, så det är den status som kommer att anges när den godkänns. För att undvika förvirring när godkännandet av ärendet avvisas är det bättre att ange statusen till något som **[!UICONTROL Kommer inte att matcha]**, eller till en anpassad status som skapats för detta.
+
+![Bild som visar hur statusen ändras när problemet avvisas](assets/automatic-issue-approval-2.png)
+
+
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Delegera uppgifter, ärenden och godkännanden](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [Bifoga och redigera befintliga godkännandeprocesser](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+* [Förstå gruppspecifika godkännandeprocesser](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
+* [Skapa ett begärandeflöde](/help/manage-work/request-queues/create-a-request-flow.md)
 
