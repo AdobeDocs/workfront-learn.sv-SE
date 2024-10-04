@@ -8,12 +8,13 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -46,6 +47,11 @@ I den här videon får du lära dig:
 ## Aktivitet - Filtrera bort aktiviteter där jag har markerat &quot;Klar med min del&quot;
 
 I följande textläge exkluderas uppgifter där en användare har markerat &quot;Klar med min del&quot;. Allt du behöver göra är att skapa ett uppgiftsfilter, lägga till eventuella filterregler, växla sedan till textläge och klistra in koden nedan efter det textläge som visas i filtret.
+
+
+>[!WARNING]
+>
+> Den är inte avsedd att användas i kalenderfilter.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -85,6 +91,10 @@ predecessorsMM:projectID_Mod=ne
 ## Aktivitet - Visa alla uppgifter som jag har tilldelat andra
 
 Skapa en aktivitetsrapport med de filter du vill ha, gå sedan till fliken Filter och klicka på Växla till textläge. Lägg till den här koden i det som redan finns:
+
+>[!WARNING]
+> 
+> Den är inte avsedd att användas i kalenderfilter.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN
