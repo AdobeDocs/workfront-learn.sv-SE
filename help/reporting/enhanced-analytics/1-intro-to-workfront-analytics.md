@@ -1,5 +1,5 @@
 ---
-title: En stund med produkten - [!UICONTROL Förbättrad analys]
+title: Ett ögonblick med produkten om [!UICONTROL Förbättrade analyser]
 description: Lär dig hur analyser kom till och de spännande funktioner som är möjliga med Joel Pettigrowth, produktchef för [!UICONTROL Förbättrade analyser].
 activity: use
 feature: Reports and Dashboards
@@ -11,14 +11,14 @@ doc-type: video
 jira: KT-8870
 recommendations: noDisplay,noCatalog
 exl-id: 037ec658-a7b7-44cd-a7af-b1923935f41c
-source-git-commit: c2e45553d68fd958d871c2936ed4d8fed70b6b12
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# En stund med produkten - [!UICONTROL Förbättrade analyser]
+# Ett ögonblick med produkten om [!UICONTROL Förbättrade analyser]
 
 Titta på den här videon med Workfront Joel Pettigrowth, produktchef för [!UICONTROL Förbättrade analyser], för att lära dig mer om hur analyser och spännande funktioner blir möjliga.
 

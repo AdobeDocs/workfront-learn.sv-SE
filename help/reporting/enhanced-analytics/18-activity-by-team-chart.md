@@ -1,6 +1,6 @@
 ---
 title: Förstå aktiviteten per teamdiagram
-description: Med aktivitetsdiagrammet per team i [!UICONTROL Förbättrad analys] kan du förstå hur organisationens hemteam tillbringar sin tid i Workfront.
+description: Diagrammet Aktivitet per team i [!UICONTROL Förbättrad analys] gör att du kan förstå hur organisationens hemteam tillbringar sin tid i Workfront.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,7 +11,7 @@ level: Beginner
 jira: KT-10045
 recommendations: noDisplay,noCatalog
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%

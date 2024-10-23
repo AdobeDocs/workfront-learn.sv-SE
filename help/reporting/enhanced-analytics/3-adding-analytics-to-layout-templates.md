@@ -1,6 +1,6 @@
 ---
 title: Åtkomst till [!UICONTROL Förbättrad analys]
-description: Lär dig hur system- och gruppadministratörer ger åtkomst till [!UICONTROL Förbättrad analys] via en layoutmall.
+description: Lär dig hur system- och gruppadministratörer ger åtkomst till [!UICONTROL Förbättrade analyser] via en layoutmall.
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -13,7 +13,7 @@ last-substantial-update: 2024-04-02T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
