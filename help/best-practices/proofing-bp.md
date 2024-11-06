@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
 workflow-type: tm+mt
-source-wordcount: '1179'
+source-wordcount: '1182'
 ht-degree: 0%
 
 ---
@@ -112,11 +112,7 @@ Justera inställningarna så att användarna ser deadlines i 12-timmarsformat.
 
 **Det här är varför**
 
-Välj alternativet F j, Y, gi:a i korrekturinställningarna för användare som vill se korrekturtider i AM/PM-format. För områden där en 12-timmarsklocka används är det här ett bra sätt att förtydliga tidsgränsen.
-
-
-
-**Obs!**: Du hittar den här inställningen genom att gå till Workfront huvudmeny > Korrektur > Kontoinställningar > Användare > och redigera datumformatsfältet för varje användare.
+Standardformatet är ett 24-timmars klockformat, som kan vara förvirrande för dem som inte känner till det. Om du vill ändra formatet går du till Workfront huvudmeny > Korrektur > Kontoinställningar > Användare. Dubbelklicka på en användare för att markera en och redigera sedan datumformatsfältet i avsnittet Personliga inställningar. Du måste markera varje användare en i taget för att kunna ändra dem.
 
 </br>
 </br>
@@ -199,7 +195,7 @@ Ställ in korrekturförfattarens korrekturroll till Granskare.
 
 **Det här är varför**
 
-Med korrekturrollen som granskare kan du försäkra dig om att den som skapar korrekturet kan göra kommentarer och komma åt kommentarer som andra lämnar. För det mesta behöver inte den som skapar beviset fatta beslut om ett bevis som de har överfört. Alla korrekturroller för godkännare, granskare och godkännare, författare eller moderator kräver ett beslut. Om korrekturförfattaren tilldelas en av dessa korrekturroller men aldrig fattar något beslut, kan detta påverka korrekturernas deadlines negativt.
+Med korrekturrollen som granskare kan du försäkra dig om att den som skapar korrekturet kan göra kommentarer och komma åt kommentarer som andra lämnar. Oftast behöver den som skapar beviset inte fatta beslut om ett bevis som de har överfört. Alla korrekturroller för godkännare, granskare och godkännare, författare eller moderator kräver ett beslut. Om korrekturförfattaren tilldelas en av dessa korrekturroller men aldrig fattar något beslut, kan detta påverka korrekturernas deadlines negativt.
 
 </br>
 </br>
