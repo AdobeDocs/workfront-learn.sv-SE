@@ -4,11 +4,12 @@ description: Utforska rekommendationer från Adobe Workfront experter om hur man
 feature: Workfront Proof
 role: Admin, Leader, User
 level: Beginner
+last-substantial-update: 2024-11-06T00:00:00Z
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
-source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
+source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
 workflow-type: tm+mt
-source-wordcount: '1182'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

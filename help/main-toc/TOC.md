@@ -1,8 +1,8 @@
 ---
 user-guide-description: Självstudiekurser om Workfront
-source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
+source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
 workflow-type: tm+mt
-source-wordcount: '2408'
+source-wordcount: '2407'
 ht-degree: 0%
 
 ---
@@ -629,7 +629,7 @@ ht-degree: 0%
    + [Förhandsgranska sandlåda](/help/best-practices/preview-sandbox-bp.md)
    + [Inställningar för projekt, uppgifter och utleverans](/help/best-practices/project-task-issue-preferences-bp.md)
    + [Projektmallar](/help/best-practices/project-templates-bp.md)
-   + [Workfront Proof](/help/best-practices/proofing-bp.md)
+   + [Korrektur](/help/best-practices/proofing-bp.md)
    + [Begär kö](/help/best-practices/request-queues-bp.md)
    + [Resursplanering](/help/best-practices/resource-planner-bp.md)
    + [Resursgrupper](/help/best-practices/resource-pools-bp.md)
