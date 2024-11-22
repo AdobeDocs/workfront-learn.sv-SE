@@ -1,6 +1,6 @@
 ---
 title: Överför resurser
-description: Överför dokument, korrektur och andra resurser till projektet innan du stänger det för att säkerställa att alla relevanta data är kopplade till projektet.
+description: Överför dokument och korrektur till projektet innan du stänger det för att säkerställa att alla relevanta data är kopplade till projektet.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,31 +8,26 @@ thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
+last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 50ac05e44459c89d615bc6aaa0c109a2d21e0734
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
 # Överför resurser
 
-Innan du stänger ett [!DNL Workfront]-projekt kontrollerar du att alla relevanta filer är bifogade i avsnittet [!UICONTROL Dokument]. Ladda upp dem som ett dokument eller ett bevis enligt riktlinjerna från din organisation.
+I den här videon får du lära dig hur du kontrollerar godkännanden av dokument och korrektur.
 
-Du kan behöva ladda upp dokumentet eller korrekturet som en version av en befintlig fil.
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on)
 
-Om din organisation använder korrekturgodkännanden måste du se till att alla dessa är slutförda med en snabb överblick över förloppsikonerna.
+## Rekommenderade självstudiekurser i detta ämne
 
-![Dokumentsidan med korrekturförloppsikoner](assets/planner-fund-proof-progress-icons.png)
-
-Och om din organisation använder dokumentgodkännanden, markerar du varje objekt i listan och kontrollerar dokumentinformationen för att se om godkännandena är slutförda.
-
-![Sidsammanfattning på dokumentsidan som visar dokumentgodkännande](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->
+* [Ändra projektstatus till slutförd](/help/manage-work/projects/change-the-project-status.md)
+* [Fullständiga godkännanden](/help/manage-work/close-a-project/complete-approvals.md)
+* [Spela in lektioner](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Logga och granska timmar](/help/manage-work/close-a-project/log-and-review-hours.md)
