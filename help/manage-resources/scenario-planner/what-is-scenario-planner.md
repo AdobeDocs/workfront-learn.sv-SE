@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Scenario Planner] förklarad'
+title: '[!DNL Scenario Planner] förklarar'
 description: Lär dig hur [!DNL Scenario Planner] passar in med andra resursplaneringsverktyg. Lär dig sedan hur du konfigurerar  [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
