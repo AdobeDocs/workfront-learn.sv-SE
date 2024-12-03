@@ -8,10 +8,11 @@ type: Tutorial
 role: User
 level: Intermediate
 last-substantial-update: 2024-02-28T00:00:00Z
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-10069
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: db8bce2e-86fc-49b7-b3fd-8d2d431cfaa7
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -33,4 +34,3 @@ I den här videon får du lära dig hur du konverterar ett problem eller en för
 * [Söka efter och hantera förfrågningar](/help/manage-work/issues-requests/find-requests.md)
 * [Konvertera ett problem/en begäran till ett projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Hantera oplanerade arbeten](/help/manage-work/issues-requests/handle-unplanned-work.md)
-

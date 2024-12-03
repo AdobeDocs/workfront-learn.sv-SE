@@ -9,11 +9,12 @@ role: User
 level: Beginner
 last-substantial-update: 2024-04-05T00:00:00Z
 team: Technical Marketing
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-8771
 hide: true
 doc-type: video
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: be4a5529-08ce-4cce-abb7-b4352629e6bd
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 0%
@@ -58,4 +59,3 @@ Projektsidan innehåller många funktioner som hjälper dig att hantera arbetet.
 * [Förstå grundläggande projektskapande](/help/manage-work/projects/understand-basic-project-creation.md)
 * [Lär dig fyra sätt att skapa ett projekt](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Fyll i projektinformationen](/help/manage-work/projects/fill-in-the-project-details.md)
-
