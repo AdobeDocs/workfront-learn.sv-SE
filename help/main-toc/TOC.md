@@ -1,8 +1,8 @@
 ---
 user-guide-description: Självstudiekurser om Workfront
-source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
+source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
 workflow-type: tm+mt
-source-wordcount: '2407'
+source-wordcount: '2404'
 ht-degree: 0%
 
 ---
@@ -255,7 +255,6 @@ ht-degree: 0%
       + [Granska pågående uppgifter](/help/reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
       + [Gör något genom att uppdatera](/help/reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
       + [Förstå aktiviteten per teamdiagram](/help/reporting/enhanced-analytics/18-activity-by-team-chart.md)
-      + [Förstå teamets kapacitet](/help/reporting/enhanced-analytics/20-team-capacity-overview.md)
       + [Förstå ett KPI-jämförelseexempel](/help/reporting/enhanced-analytics/21-kpi-comparisons.md)
       + [Förstå ett fall där slutanvändaren ska använda produkten](/help/reporting/enhanced-analytics/22-end-user-use.md)
       + [Förstå riktlinjer för rådgivning](/help/reporting/enhanced-analytics/23-consulting-guidance.md)

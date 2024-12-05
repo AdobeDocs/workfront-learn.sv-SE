@@ -11,16 +11,16 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
 # Förstå arbets- och persondiagram
 
-Arbetskartor visar din aktivitet ur projekt- och uppgiftsperspektiv, medan personscheman visar din aktivitet från ett hemarbetsteams perspektiv.
+Arbetskartor visar din aktivitet från projekt- och uppgiftsperspektivet, medan personschemat visar din aktivitet från ett hemarbetstegrings perspektiv.
 
 Välj den typ av analysdiagram som du vill visa - Arbete eller Personer - på den vänstra panelmenyn.
 
@@ -44,7 +44,4 @@ Burndown och Tasks in flight-schemat visas när du går ned i informationen.
 
 ![En bild på hur funktionen [!UICONTROL  Analytics] hittas i [!DNL Workfront Classic]](assets/section-1-2.png)
 
-Persondiagram består av:
 
-1. Aktivitet per team
-1. Teamaktivitet
