@@ -1,8 +1,8 @@
 ---
 user-guide-description: Självstudiekurser om Workfront
-source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
+source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
 workflow-type: tm+mt
-source-wordcount: '2404'
+source-wordcount: '2396'
 ht-degree: 0%
 
 ---
@@ -176,12 +176,10 @@ ht-degree: 0%
 
    + Stäng ett projekt {#close-a-project}
       + [Ändra projektstatus till slutförd](/help/manage-work/projects/change-the-project-status.md)
-      + [Stäng aktiviteter och ärenden](/help/manage-work/close-a-project/close-tasks-and-issues.md)
       + [Fullständiga godkännanden](/help/manage-work/close-a-project/complete-approvals.md)
       + [Överför resurser](/help/manage-work/close-a-project/upload-assets.md)
       + [Spela in lektioner](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [Logga och granska timmar](/help/manage-work/close-a-project/log-and-review-hours.md)
-      + [Stänga en projektaktivitet](/help/manage-work/close-a-project/close-a-project-activity.md)
 
    + Projektekonomi för användare {#project-finances-users}
       + [Uppdatera och granska ekonomi](/help/manage-work/project-finances/update-and-review-finances.md)
