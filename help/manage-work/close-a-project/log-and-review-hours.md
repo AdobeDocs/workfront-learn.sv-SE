@@ -1,6 +1,6 @@
 ---
 title: Logga och granska timmar
-description: Registrera utestående timmar och granska loggade timmar innan du stänger ett projekt i  [!DNL  Workfront].
+description: Registrera utestående timmar och granska loggade timmar innan du stänger ett projekt.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
 # Logga och granska timmar
 
-Om du loggar faktiskt arbetade timmar som en del av din organisations arbetsflöde kan du granska dessa timmar i avsnittet [!UICONTROL Timmar] (välj det på den vänstra panelmenyn) i projektet. Detta visar alla timmar som är inloggade på enskilda uppgifter och själva projektet. Du kan även logga timmar från den här sidan.
+I den här videon får du lära dig att:
 
-![Timmar med timposter](assets/planner-fund-log-and-review-hours.png)
+* Granska timmar som loggats till ett projekt
+* Godkänn projekttimmar vid behov
 
->[!NOTE]
->
->Din organisation kan be dig att godkänna timmar via [!DNL Workfront] tidrapporter. Kontakta ditt interna [!DNL Workfront]-team för att se vilken process du bör använda.
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Ändra projektstatus till slutförd](/help/manage-work/projects/change-the-project-status.md)
+* [Fullständiga godkännanden](/help/manage-work/close-a-project/complete-approvals.md)
+* [Överför resurser](/help/manage-work/close-a-project/upload-assets.md)
+* [Spela in lektioner](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
