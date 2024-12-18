@@ -6,9 +6,9 @@ breadcrumb-title: Hantera arbete - komma igång
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -54,11 +54,9 @@ ht-degree: 0%
 
    + Stäng ett projekt {#close-a-project}
       + [Ändra projektstatus till slutförd](change-the-project-status.md)
-      + [Stäng aktiviteter och ärenden](close-tasks-and-issues.md)
       + [Fullständiga godkännanden](complete-approvals.md)
       + [Överför resurser](upload-assets.md)
       + [Spela in lektioner](lessons-learned-from-closing-a-project.md)
       + [Logga och granska timmar](log-and-review-hours.md)
       + [Uppdatera och granska ekonomi](update-and-review-finances.md)
-      + [Stänga en projektaktivitet](close-a-project-activity.md)
 

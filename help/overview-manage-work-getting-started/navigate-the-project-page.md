@@ -14,7 +14,7 @@ jira: KT-8771
 hide: true
 doc-type: video
 exl-id: be4a5529-08ce-4cce-abb7-b4352629e6bd
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 0%
@@ -30,7 +30,7 @@ I den här videon lär du dig:
 * Var ska dokument laddas upp?
 * Så här visar du uppdateringshistoriken
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
 
 ## Viktiga delar av projektsidan
 

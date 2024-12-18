@@ -14,9 +14,9 @@ jira: KT-8781
 hide: true
 doc-type: video
 exl-id: 966de852-99cc-41a2-8c13-abfc4e9dab24
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -30,30 +30,6 @@ I den här videon får du lära dig:
 * Kommunicera med intressenter
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
-
-## Hantera ett projekt - granskning
-
-För varje projekt du hanterar kan du rutinmässigt bestämma när du ska granska projekt och vad du vill granska varje gång. Att ligga steget före projekten och få dem att bli framgångsrika är det som en projektledare handlar om.
-
-Alla projektledare hanterar sina projekt lite annorlunda. Och alla team, avdelningar och organisationer kan ha olika projektkrav och behov.
-
-Men oavsett hur du hanterar ett projekt vill du:
-
-* Se till att arbetet slutförs i tid.
-* Förutse problem och risker.
-* Kommunicera med era intressenter.
-* Fira vinsterna längs vägen.
-
-I slutändan är huvudjobbet att driva projektet mot ett framgångsrikt slutförande. Adobe Workfront kan hjälpa dig att övervaka arbetet som görs via projekttidslinjen, filter, vyer och grupperingar, uppdateringar, rapporter med mera.
-
-<!---
-learn more urls
-3 universal principles of project management
-What is a project manager?
-Project management knowledge areas
-9 best practices for effective project management
-10 work management problems and how to solve them
---->
 
 ## Rekommenderade självstudiekurser i detta ämne
 

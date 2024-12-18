@@ -10,24 +10,30 @@ role: User
 level: Beginner
 jira: KT-10135
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+recommendations: noDisplay,catalog
+doc-type: video
+exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
 # Spela in lektioner
 
-När man avslutar ett projekt ingår en del Workfront-kunder en&quot;lektionsserie&quot;. Den här aktiviteten kan användas på olika sätt.
+I den här videon ser du fördelarna med:
 
-* Använd en&quot;lektionsaktivitet&quot; för att representera ett möte. Fånga mötesanteckningar i aktivitetsuppdateringarna.
-* Eller bifoga ett eget formulär till uppgiften eller projektet för att ta del av den&quot;lärdomsinformation&quot; du behöver.
+* Skapa en&quot;lektionsaktivitet&quot;
+* Bifoga ett anpassat&quot;lektionsformulär&quot; till ditt projekt
+* Skapa anpassade&quot;lektionsrapporter&quot;
+* Skapa ett&quot;lektionsprojekt&quot;
 
-En fördel med det anpassade formuläret - alla fält i det är rapporteringsbara, så du kan skapa anpassade [!DNL Workfront]-rapporter för att granska och hantera informationen och identifiera erfarenheter av många projekttyper eller uppsättningar.
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 
-Om din organisation har en mer komplex process efter projektet - en som har tillräckligt många steg för att kvalificera sig som ett projekt i sig - är det bäst att skapa ett separat projekt i [!DNL Workfront].
+## Rekommenderade självstudiekurser i detta ämne
 
-Med den här metoden kan du stänga av det projekt som används för den faktiska slutprodukten, vilket gör att den färdiga projektrapporteringen blir mer korrekt. Använd sedan ett separat postprojektprojekt för att spåra de steg som kommer efter.
-
-Tala med ditt interna [!DNL Workfront]-team om du vill veta mer om din organisations process efter projektet.
+* [Ändra projektstatus till slutförd](/help/manage-work/projects/change-the-project-status.md)
+* [Fullständiga godkännanden](/help/manage-work/close-a-project/complete-approvals.md)
+* [Överför resurser](/help/manage-work/close-a-project/upload-assets.md)
+* [Logga och granska timmar](/help/manage-work/close-a-project/log-and-review-hours.md)

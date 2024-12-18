@@ -1,6 +1,6 @@
 ---
 title: Skapa ett projekt direkt från en mall
-description: Lär dig hur du skapar ett projekt genom att börja med en mall som redan har byggts.
+description: Lär dig hur du skapar ett projekt genom att börja med en mall som redan har skapats.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,10 +9,12 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10156
+recommendations: noDisplay,catalog
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 310d499f-d48e-42ff-92bf-a398594e44f7
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -37,3 +39,12 @@ I informationsfönstret kan du ändra inställningarna för det nya projektet.
 
 
 ![Nya favoritmallar för projekt](assets/direct-template-03.png)
+
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Skapa en projektmall och lär dig mer om utkast](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Dela en projektmall](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Kopiera ett befintligt projekt](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Inaktivera en projektmall](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [Redigera projektteamet i en projektmall](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

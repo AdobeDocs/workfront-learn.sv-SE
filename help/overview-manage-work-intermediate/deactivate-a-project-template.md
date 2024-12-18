@@ -11,10 +11,12 @@ last-substantial-update: 2024-01-09T00:00:00Z
 team: Technical Marketing
 jira: KT-14749
 doc-type: video
+recommendations: noDisplay,catalog
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: d1246b53-922e-44f5-b4db-c68afa974c71
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -31,3 +33,9 @@ I den här videon får du lära dig:
 ## Lär dig hur du skapar en anpassad vy för att se och redigera den aktiva statusen för projektmallar
 
 Om du vill skapa en projektmallsvy med en aktiv statuskolumn kan du läsa aktiviteten **Projektmallens aktiva statusvy** i [Skapa en grundvy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Skapa en projektmall och lär dig mer om utkast](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Dela en projektmall](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Redigera projektteamet i en projektmall](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

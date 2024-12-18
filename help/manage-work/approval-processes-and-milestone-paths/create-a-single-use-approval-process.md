@@ -1,6 +1,6 @@
 ---
 title: Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning
-description: Lär dig hur du skapar en godkännandeprocess för ett projekt, en uppgift eller ett problem i Workfront.
+description: Lär dig hur du skapar en global godkännandeprocess och en godkännandeprocess för ett projekt, en uppgift eller ett ärende.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -13,9 +13,9 @@ last-substantial-update: 2024-09-24T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---

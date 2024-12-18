@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -56,11 +56,9 @@ Lär dig hur du skapar och använder projektmallar.
 
 Lär dig skapa godkännandeprocesser, bifoga dem i arbetsflöden, granska digitalt arbete och delegera godkännanden.
 
-* [Skapa en godkännandeprocess för enstaka användning](create-a-single-use-approval-process.md) - Lär dig hur du skapar en godkännandeprocess för ett projekt, en uppgift eller ett problem med enstaka användning.
+* [Skapa en global och en engångsprocess för godkännande](create-a-single-use-approval-process.md) - Lär dig hur du skapar en global och en godkännandeprocess för ett projekt, en uppgift eller ett ärende.
 * [Förstå gruppspecifika godkännandeprocesser](group-specific-approval-processes.md) - Lär dig hur gruppadministratörer kan skapa eller redigera godkännandeprocesser för de grupper som de hanterar.
-* [Bifoga och redigera befintliga godkännandeprocesser](attach-and-edit-existing-approval-processes.md) - Lär dig hur du använder och redigerar befintliga godkännandeprocesser för projekt, uppgifter eller problem.
 * [Granska och godkänn digitalt arbete](review-and-approve-digital-work.md) - Lär dig att hitta, granska och godkänna projekt, uppgifter, utgåvor, dokument och korrektur.
-* [Förstå uppdateringar och meddelanden](understand-updates-and-notifications.md) - Lär dig hur du uppdaterar godkännandebegäranden och hittar dina meddelanden.
 * [Delegera aktiviteter, utgåvor och godkännanden](delegate-approvals.md) - Lär dig hur du delegerar godkännanden för projekt, aktiviteter, utgåvor och tidkort till en annan Adobe Workfront-användare.
 
 ## Skapa och använda milstolpar

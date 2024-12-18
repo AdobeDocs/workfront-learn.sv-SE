@@ -6,9 +6,9 @@ breadcrumb-title: Hantera arbete - mellanliggande
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,9 @@ ht-degree: 0%
       + [Redigera projektteamet i en projektmall](edit-the-project-team-in-a-project-template.md)
 
    + Så här skapar och använder du godkännandeprocesser {#how-to-create-and-use-approval-processes}
-      + [Skapa en godkännandeprocess för enstaka användning](create-a-single-use-approval-process.md)
+      + [Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning](create-a-single-use-approval-process.md)
       + [Förstå gruppspecifika godkännandeprocesser](group-specific-approval-processes.md)
-      + [Bifoga och redigera befintliga godkännandeprocesser](attach-and-edit-existing-approval-processes.md)
       + [Granska och godkänn digitalt arbete](review-and-approve-digital-work.md)
-      + [Förstå uppdateringar och meddelanden](understand-updates-and-notifications.md)
       + [Delegera uppgifter, ärenden och godkännanden](delegate-approvals.md)
 
    + Så här skapar och använder du milstolpar {#how-to-create-and-use-milestones}

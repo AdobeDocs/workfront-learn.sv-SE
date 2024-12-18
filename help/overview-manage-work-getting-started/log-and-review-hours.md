@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+doc-type: video
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 5104c034-82cf-4993-9016-53802d562d14
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 # Logga och granska timmar
 
-Om du loggar faktiskt arbetade timmar som en del av din organisations arbetsflöde kan du granska dessa timmar i avsnittet [!UICONTROL Timmar] (välj det på den vänstra panelmenyn) i projektet. Detta visar alla timmar som är inloggade på enskilda uppgifter och själva projektet. Du kan även logga timmar från den här sidan.
+I den här videon får du lära dig att:
 
-![Timmar med timposter](assets/planner-fund-log-and-review-hours.png)
+* Granska timmar som loggats till ett projekt
+* Godkänn projekttimmar vid behov
 
->[!NOTE]
->
->Din organisation kan be dig att godkänna timmar via [!DNL Workfront] tidrapporter. Kontakta ditt interna [!DNL Workfront]-team för att se vilken process du bör använda.
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Ändra projektstatus till slutförd](/help/manage-work/projects/change-the-project-status.md)
+* [Fullständiga godkännanden](/help/manage-work/close-a-project/complete-approvals.md)
+* [Överför resurser](/help/manage-work/close-a-project/upload-assets.md)
+* [Spela in lektioner](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)

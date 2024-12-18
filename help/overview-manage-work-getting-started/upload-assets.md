@@ -10,29 +10,32 @@ role: User
 level: Beginner
 jira: KT-10138
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+recommendations: noDisplay,catalog
+doc-type: video
+exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 # Överför resurser
 
-Innan du stänger ett [!DNL Workfront]-projekt kontrollerar du att alla relevanta filer är bifogade i avsnittet [!UICONTROL Dokument]. Ladda upp dem som ett dokument eller ett bevis enligt riktlinjerna från din organisation.
+I den här videon får du lära dig att:
 
-Du kan behöva ladda upp dokumentet eller korrekturet som en version av en befintlig fil.
+* Kontrollera godkännanden på korrektur
+* Kontrollera godkännanden av dokument
+* Överföra ett dokument
+* Hitta utbildning i att ladda upp korrektur
 
-Om din organisation använder korrekturgodkännanden måste du se till att alla dessa är slutförda med en snabb överblick över förloppsikonerna.
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
-![Dokumentsidan med korrekturförloppsikoner](assets/planner-fund-proof-progress-icons.png)
+## Rekommenderade självstudiekurser i detta ämne
 
-Och om din organisation använder dokumentgodkännanden, markerar du varje objekt i listan och kontrollerar dokumentinformationen för att se om godkännandena är slutförda.
+* [Överför ett korrektur med ett grundläggande arbetsflöde](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+* [Ändra projektstatus till slutförd](/help/manage-work/projects/change-the-project-status.md)
+* [Fullständiga godkännanden](/help/manage-work/close-a-project/complete-approvals.md)
+* [Spela in lektioner](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Logga och granska timmar](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-![Sidsammanfattning på dokumentsidan som visar dokumentgodkännande](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->

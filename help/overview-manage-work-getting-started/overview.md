@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '943'
 ht-degree: 0%
 
 ---
@@ -81,10 +81,8 @@ Lär dig spåra projektarbete och kommunicera med intressenter.
 Lär dig hur du stänger uppgifter och ärenden, slutför godkännanden, spelar in lärdomar och stänger projektet.
 
 * [Ändra projektstatus till Fullständigt](change-the-project-status.md) - Lär dig hur du ändrar projektstatus till Fullständigt, varför du ska ändra det och vad du ska göra om du inte kan ändra det till Fullständigt.
-* [Stäng aktiviteter och problem](close-tasks-and-issues.md) - Lär dig hur du ser till att aktiviteter och problem stängs innan du stänger ett projekt.
 * [Slutför godkännanden](complete-approvals.md) - Lär dig hur du identifierar ofullständiga godkännanden och löser dem så att du kan stänga projektet.
 * [Överför resurser](upload-assets.md) - Överför dokument, korrektur och andra resurser till projektet innan du stänger det, så att alla relevanta data är associerade med projektet.
 * [Spela in lärdomar](lessons-learned-from-closing-a-project.md) - Lär dig hur du kan inkludera en&quot;lektionsaktivitet&quot; för att identifiera vad som gick bra och vad som kan förbättras nästa gång.
 * [Logga in och granska timmar](log-and-review-hours.md) - Registrera utestående timmar och granska loggade timmar innan du stänger ett projekt.
 * [Uppdatera och granska ekonomi](update-and-review-finances.md) - Om din organisation använder Workfront för att hålla reda på projektrelaterad ekonomisk information, kan det vara en del av din process att avsluta ett projekt att granska utgifter och skapa faktureringsposter.
-* [Stäng en projektaktivitet](close-a-project-activity.md) - Upptäck vad du har lärt dig om hur du stänger ett projekt.
