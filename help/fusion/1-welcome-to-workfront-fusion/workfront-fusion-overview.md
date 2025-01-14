@@ -1,6 +1,7 @@
 ---
 title: Workfront Fusion - översikt
 description: Läs mer om Adobe Workfront Fusion aktivitetsbok och hur du skaffar ett testenhetskonto från Workfront.
+short-description: Varje avsnitt i Workfront Fusion innehåller flera självstudiekurser, med varje självstudiekurs som beskriver koncept som du måste förstå innan du går vidare till nästa självstudiekurs.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,9 +11,9 @@ level: Beginner
 jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---

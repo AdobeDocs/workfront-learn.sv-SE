@@ -1,6 +1,7 @@
 ---
 title: Genomgång av inledande scenariodesign
 description: Lär dig hur du skapar mappar och nya scenarier, använder scenariodesignern och skapar ett grundläggande scenario i  [!DNL Adobe Workfront Fusion].
+short-description: Här kan du se en genomgång av en video om hur du skapar scenarier.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +12,9 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
