@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: kt-8857
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: e0ae6eaacc03980ad53c0471681211f76dfaff26
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,3 @@ I den här videon får du lära dig:
 * Dela ett filter med andra Workfront-användare
 
 >[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops)
-
-## Förstå den nya filterupplevelsen
-
-I den här videon får du lära dig att:
-
-* Aktivera och inaktivera den nya filterupplevelsen
-* Skapa och redigera filter
-* Staplingsfilter
-
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops)
