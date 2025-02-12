@@ -12,7 +12,7 @@ jira: KT-8731
 recommendations: noDisplay,catalog
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -25,7 +25,7 @@ I den här videon får du lära dig:
 
 * Så här jämför du projekt baserat på inloggade användare, ändringar av uppgiftsstatus och slutförda uppgifter
 
->[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on&enablevpops)
 
 ## Jämför projektarbete
 

@@ -12,7 +12,7 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: d39151288d8b749940c5183063392ee471769445
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 0%
@@ -27,7 +27,7 @@ I den här videon får du lära dig:
 * Så här skapar och ändrar du en vy
 * Dela en vy med andra Workfront-användare
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops)
 
 ## Aktivitet 1: Skapa en aktivitetsstatusvy
 

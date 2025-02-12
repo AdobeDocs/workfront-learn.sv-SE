@@ -11,7 +11,7 @@ jira: KT-9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -24,7 +24,7 @@ I den här videon får du lära dig:
 
 * Tre grundläggande begrepp som Workfront Fusion består av: scenarier, appar och moduler
 
->[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on&enablevpops)
 
 ## Grundbegrepp - terminologi
 
@@ -43,7 +43,7 @@ Det enklaste sättet att avgöra om Workfront Fusion har en färdig anslutning �
 Kopplingar begränsas inte bara till apparna i den här artikeln. Om appen du vill arbeta med inte har någon fördefinierad anslutning kan du använda dessa moduler för att ansluta direkt till webbtjänsten:
 
 * HTTP-moduler
-* SOAP
+* Modulen SOAP
 * JSON-moduler
 
 Glöm inte att gräva ner dig i just dessa moduler - utbildning finns i andra självstudiekurser i Workfront Fusion. Även om det finns lite mer kodning med de här modulerna än med en färdig anslutning är den svåraste delen av att autentisera dina andra system lätt att hantera med dessa moduler.

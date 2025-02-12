@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,11 @@ I den här videon får du lära dig:
 * De viktigaste komponenterna bakom Workfront rapportering
 * Hur dessa komponenter används i ett rapportelement
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops)
 
 ## Rapporteringskomponenter
+
+[Klicka här](/help/assets/reporting-components.pdf) om du vill hämta en PDF av den här sidan.
 
 ![En bild av skärmen för att skapa ett filter](assets/reporting-components-1.png)
 

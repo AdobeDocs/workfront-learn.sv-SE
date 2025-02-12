@@ -11,7 +11,7 @@ jira: KT-9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Det här scenariot skapar en bekväm butiksapp så att de enkelt kan avgöra om 
 
 Workfront rekommenderar att du tittar på genomgången av videon innan du försöker återskapa övningen i din egen miljö.
 
->[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12&learn=on&enablevpops)
 
 
 ## Postman
@@ -37,9 +37,9 @@ Om du vill följa med i genomgången måste du ladda ned den kostnadsfria Postma
 
 1. Skapa en arbetsyta och öppna den.
 1. Klicka på fliken Nytt och skapa en ny samling med namnet Drinking Age.
-1. Klicka på fliken Ny igen och skapa en ny GET-förfrågan med namnet GET födelsedatum.
-1. Ändra begärandeåtgärden från GET till POST.
-1. Gå till underfliken Brödtext under POSTENS URL-fält.
+1. Klicka på fliken Nytt igen och skapa en ny GET-förfrågan med namnet GET födelsedatum.
+1. Ändra begäran från GET till POST.
+1. Gå till underfliken Brödtext under fältet POST URL.
 1. Välj formulärdata under fliken Behörighet.
 1. Skapa tre nycklar för Name, Birthdate och clientToken.
 

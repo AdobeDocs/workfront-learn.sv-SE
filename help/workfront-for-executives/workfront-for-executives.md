@@ -12,7 +12,7 @@ hide: true
 jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 0%
@@ -79,7 +79,7 @@ I den här videon får du lära dig att:
 * Gör en förfrågan
 * Visa dina skickade begäranden
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
 
 ## Objekt som väntar på ditt godkännande
 

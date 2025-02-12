@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-11201
 exl-id: c5f98bfd-5cdd-4471-9795-9bdc9bd1f5e3
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 * Mer information om strukturen i textläget
 * Skapa beräknade anpassade datafält och beräknade kolumner
 
->[!VIDEO](https://video.tv.adobe.com/v/3409634/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409634/?quality=12&learn=on&enablevpops)
 
 ## Praktiska länkar
 

@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 0%
@@ -28,13 +28,13 @@ I den här videon får du lära dig att:
 * Skapa och redigera grupper
 * Lägga till och redigera användare
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops)
 
 ## Grupper och användare granskar
 
 När du konfigurerar ditt [!UICONTROL Workfront DAM]-system är det viktigt att tänka på vilka roller användare och grupper spelar i helhetsbilden.
 
-Grupper styr åtkomst till resursmappar i [!UICONTROL Workfront DAM]. Gruppinställningarna styr också vad användare kan göra med resurserna (visa, hämta, redigera osv.) de har åtkomstbehörighet.
+Grupper styr åtkomst till resursmappar i [!UICONTROL Workfront DAM]. Gruppinställningarna styr också vad användare kan göra med de resurser (visa, hämta, redigera osv.) som de har behörighet att komma åt.
 
 När du skapar grupper är det viktigt att tänka på vilka resursmappar medlemmarna i gruppen behöver åtkomst till i [!UICONTROL Workfront DAM].
 

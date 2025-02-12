@@ -1,6 +1,6 @@
 ---
 title: Förstå Workfront för  [!DNL Slack]
-description: Lär dig hur du får en introduktion till vad du kommer att lära dig av andra [!DNL Workfront] för Slack-videofilmer.
+description: Lär dig hur du får en introduktion till vad du kommer att lära dig av andra  [!DNL Workfront] videor om Slack.
 activity: use
 feature: Workfront Integrations and Apps,Get Started with Workfront
 type: Tutorial
@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8815
 exl-id: f1d857c3-2140-45db-8473-1183baa490d2
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -23,7 +23,7 @@ I den här videon kommer du att:
 
 * Få en introduktion till vad du kommer att lära dig av andra [!DNL Workfront] för [!DNL Slack]-videor.
 
->[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

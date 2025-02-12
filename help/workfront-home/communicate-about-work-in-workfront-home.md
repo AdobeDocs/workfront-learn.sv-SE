@@ -11,7 +11,7 @@ thumbnail: 335102.png
 jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -26,7 +26,7 @@ I den här videon får du lära dig att:
 * Tagga användare på [!DNL Workfront] uppdateringar
 * Svara på befintliga uppdateringar
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops)
 
 ## Tips för att uppdatera arbetet i [!UICONTROL Hem]
 
@@ -39,7 +39,7 @@ paragraph below needs a hyperlink to an article
 --->
 
 * Om du inte är tilldelad en uppgift men vill få meddelanden prenumererar du på uppgiften. Läs mer i artikeln Prenumerera på objekt i [!UICONTROL Workfront] i den nya [!UICONTROL Workfront] -upplevelsen.
-* Post uppdateras en viss dag i veckan så att alla vet när de ska hitta den senaste informationen.
+* Lägg upp uppdateringar på en viss veckodag så att alla vet när de ska söka efter den senaste informationen.
 * Använd de avancerade textverktygen för att formatera uppdateringarna. Få informationen att sticka ut med fet stil eller skapa en lättläst sammanfattning med punkter.
 
 <!---

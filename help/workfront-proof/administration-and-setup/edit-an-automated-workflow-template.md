@@ -12,7 +12,7 @@ last-substantial-update: 2024-08-08T00:00:00Z
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: 55edb8b797583f93f405c9c6b69422b818c90cdc
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Varje steg i ett automatiserat arbetsflöde har ett eget avsnitt där du kan än
 
 I den här videon visas några av de ändringar du kan göra i [!UICONTROL arbetsflödet] . Se punktlistan under den här videon som visar dessa inställningar.
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops)
 
 Här är korrekturmallsändringarna som du kan göra i avsnittet [!UICONTROL Arbetsflöde]:
 

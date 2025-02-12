@@ -1,8 +1,8 @@
 ---
 user-guide-description: Självstudiekurser om Workfront
-source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '2396'
+source-wordcount: '2405'
 ht-degree: 0%
 
 ---
@@ -10,7 +10,7 @@ ht-degree: 0%
 
 # Självstudiekurser om Workfront {#tutorials-workfront}
 
-+ [Workfront Tutorials](home.md)
++ [Workfront självstudiekurser](home.md)
 + Administration och installation {#administration-and-setup}
    + Organisationsinställningar {#organizational-setup}
       + [Skapa team](/help/administration-and-setup/organizational-setup/user-organization-teams.md)
@@ -86,7 +86,7 @@ ht-degree: 0%
       + [Redigera ett eget formulär](/help/custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [Koppla ett anpassat formulär till ett objekt](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Lägga till avsnittsbrytningar och logik i ett anpassat formulär](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
-      + [Exportera ett anpassat formulär som PDF](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
+      + [Exportera ett anpassat formulär som en PDF](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + Beräknade uttryck {#calculated-expressions}
       + [Kom igång med beräkningsfält och uttryck](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
@@ -149,10 +149,10 @@ ht-degree: 0%
       + [Skapa en kö för feedback från systemadministratörer](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Svar på vanliga frågor om begärandeköer](/help/manage-work/request-queues/request-queue-faq.md)
 
-   + Portfolio {#portfolios}
+   + Portföljer {#portfolios}
       + [Förstå portföljer](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Förstå [!UICONTROL affärsärendet]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Använd [!UICONTROL Portfolio-optimering] för att prioritera och hantera arbete](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [Använd [!UICONTROL Portfolio Optimizer] för att prioritera och hantera arbete](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Godkännandeprocesser och milstolpesökvägar {#approval-processes-and-milestone-paths}
       + [Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
@@ -200,6 +200,7 @@ ht-degree: 0%
       + [Skapa en grundvy](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [Lägga till grundläggande villkorsstyrd formatering i en vy](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Skapa ett enkelt filter](/help/reporting/basic-reporting/create-a-basic-filter.md)
+      + [Förstå den nya filterupplevelsen](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [Skapa grundläggande filteraktiviteter](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Skapa en enkel rapport](/help/reporting/basic-reporting/create-a-simple-report.md)
       + [Skapa en uppgiftsrapport](/help/reporting/basic-reporting/create-a-task-report.md)
@@ -294,7 +295,7 @@ ht-degree: 0%
       + [Skapa initiativ med en plan](/help/manage-resources/scenario-planner/creating-initiatives-within-a-plan.md)
       + [Justera jobbroll, budget och kostnadsinformation i scenarioplaneraren](/help/manage-resources/scenario-planner/adjust-job-role-budget-and-cost-information-in-the-scenario-planner.md)
       + [Uppdatera och kopiera planer](/help/manage-resources/scenario-planner/update-and-copy-plans.md)
-      + [Publish i ett scenario](/help/manage-resources/scenario-planner/publish-a-scenario.md)
+      + [Publicera ett scenario](/help/manage-resources/scenario-planner/publish-a-scenario.md)
 
 + Workfront-mål {#workfront-goals}
    + Upprätta en vision för din organisation {#establish-a-vision-and-strategy}
@@ -332,7 +333,7 @@ ht-degree: 0%
 
 + Integrationer {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [Använd Adobe Workfront plugins för att integrera med Creative Cloud](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
+      + [Integrera med Creative Cloud med Adobe Workfront plugins](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [Konfigurerar integreringen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
@@ -355,7 +356,7 @@ ht-degree: 0%
       + [Öppna Adobe Workfront från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
       + [Söka efter och dela Adobe Workfront-objekt i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
       + [Skapa Adobe Workfront-uppgifter från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
-      + [Skicka Adobe Workfront-begäranden från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [Skicka in Adobe Workfront-begäranden från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
       + [Hantera Adobe Workfront-meddelanden i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
@@ -553,7 +554,7 @@ ht-degree: 0%
       + [Förstå metadata och nyckelordsrutiner](/help/workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [Arbeta med resurser som deltagare](/help/workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [Skicka en fil som deltagare](/help/workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
-      + [Publish resurser som deltagare](/help/workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
+      + [Publicera resurser som deltagare](/help/workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
       + [Lägg till en [!UICONTROL Workfront DAM]-länk](/help/workfront-dam/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
 
    + Ansluta varumärke till användare {#brand-connect}
@@ -622,7 +623,7 @@ ht-degree: 0%
    + [Licenser och åtkomstnivåer](/help/best-practices/licenses-access-levels-bp.md)
    + [Onboarding och implementering](/help/best-practices/onboarding-adoption-bp.md)
    + [Organisationsenheter](/help/best-practices/organizational-units-bp.md)
-   + [Portfolio och program](/help/best-practices/portfolios-programs-bp.md)
+   + [Portföljer och program](/help/best-practices/portfolios-programs-bp.md)
    + [Förhandsgranska sandlåda](/help/best-practices/preview-sandbox-bp.md)
    + [Inställningar för projekt, uppgifter och utleverans](/help/best-practices/project-task-issue-preferences-bp.md)
    + [Projektmallar](/help/best-practices/project-templates-bp.md)
@@ -649,5 +650,5 @@ ht-degree: 0%
 
 + [Hantera förfrågningar](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [Lär dig mer om resurskapaciteten](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
-
++ [Skapa grundläggande grupperingsaktiviteter](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
 

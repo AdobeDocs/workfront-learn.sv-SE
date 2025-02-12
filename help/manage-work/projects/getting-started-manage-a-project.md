@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -28,7 +28,7 @@ I den här videon får du lära dig:
 * Detaljgranska aktivitetsinformationen
 * Kommunicera med intressenter
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

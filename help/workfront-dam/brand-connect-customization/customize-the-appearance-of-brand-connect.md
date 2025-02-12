@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -24,7 +24,7 @@ I den här videon får du lära dig att:
 * Anpassa navigeringsfältet och sidfoten
 * Anpassa startsidan och inloggningssidan
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops)
 
 ## Ytterligare inställning för [!UICONTROL Utseende]
 
@@ -52,12 +52,12 @@ Dessa widgetar är tillgängliga:
 
 **F. Fylld beskrivning** - Ange ett textkopieringsblock som ska visas på en grå bakgrund.
 
-**G. HTML** - Använd HTML och CSS för att skapa anpassat innehåll. Du kan till exempel bädda in en länk till en video. Det finns några [HTML-taggar att undvika](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html).
+**G. HTML** - Använd HTML och CSS för att skapa anpassat innehåll. Du kan till exempel bädda in en länk till en video. Det finns några [HTML-taggar som kan undvikas](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html).
 
 ## Lägg till ett sökfält
 
 Om du utformar en anpassad hemsida för din organisations [!UICONTROL varumärkesanslutning] måste användarna klicka i [!UICONTROL Assets] för att kunna göra en sökning.
 
-Men systemadministratörer kan skapa ett sökfält med hjälp av widgeten HTML och taggen HTML:
+Men systemadministratörer kan skapa ett sökfält med hjälp av HTML-widgeten och den här HTML-taggen:
 
 &lt;webdambp.headersearch>&lt;/webdambp.headersearch>

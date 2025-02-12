@@ -12,7 +12,7 @@ last-substantial-update: 2023-06-27T00:00:00Z
 jira: KT-13530
 doc-type: video
 exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
-source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -31,7 +31,7 @@ I den här videon får du lära dig följande om varaktighetstyper och aktivitet
 * Bästa tillvägagångssätt för att använda dem
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops)
 
 
 Mer information om hur du skapar en vy för varaktighetstyper och aktivitetsbegränsningar finns i **Aktivitetsvyn för varaktighet och aktivitetsbegränsningar** i [Skapa en grundvy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).

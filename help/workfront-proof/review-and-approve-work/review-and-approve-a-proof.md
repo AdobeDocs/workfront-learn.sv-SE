@@ -11,7 +11,7 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '768'
 ht-degree: 0%
@@ -90,7 +90,7 @@ I den här videon får du lära dig att:
 * Svara på en korrekturkommentar
 * Godkänn eller avvisa ett korrektur
 
->[!VIDEO](https://video.tv.adobe.com/v/335141/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335141/?quality=12&learn=on&enablevpops)
 
 <!--
 #### Learn more

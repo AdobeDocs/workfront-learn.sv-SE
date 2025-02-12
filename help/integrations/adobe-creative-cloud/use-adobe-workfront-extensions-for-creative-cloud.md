@@ -1,6 +1,6 @@
 ---
-title: Använd Adobe Workfront plugins för att integrera med Creative Cloud
-description: Integrera Workfront med Creative Cloud för att hitta och uppdatera det material du tilldelats i Workfront utan att lämna följande Creative Cloud-program - Photoshop, XD, InDesign, Illustrator, Premiere Pro och After Effects
+title: Integrera med Creative Cloud med Adobe Workfront plugins
+description: Integrera Workfront med Creative Cloud för att hitta och uppdatera materialet du fått i Workfront utan att behöva lämna följande Creative Cloud-program - Photoshop, XD, InDesign, Illustrator, Premiere Pro och After Effects
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -13,16 +13,16 @@ exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="Integrering" type="positive"
 feature-set: Workfront
 topic: Integrations
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
-# Använd Adobe Workfront plugins för att integrera med Creative Cloud
+# Integrera med Creative Cloud med Adobe Workfront plugins
 
-Integrera Workfront med Creative Cloud för att hitta och uppdatera materialet du fått i Adobe Workfront utan att lämna följande Adobe Creative Cloud-program:
+Integrera Workfront med Creative Cloud för att hitta och uppdatera materialet du fått i Adobe Workfront utan att behöva lämna följande Adobe Creative Cloud-program:
 
 * Photoshop
 * XD
@@ -34,15 +34,15 @@ Integrera Workfront med Creative Cloud för att hitta och uppdatera materialet d
 Du måste installera rätt plugin-program för det Adobe Creative Cloud-program du använder:
 
 * För Photoshop, se [Installera och öppna Adobe Workfront för Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
-* XD finns i [Installera och öppna Adobe Workfront för XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
-* Mer InDesign, Illustrator, Premiere Pro och After Effects finns i [Installera och öppna Adobe Workfront för design och video](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
+* För XD, se [Installera och öppna Adobe Workfront för XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
+* För InDesign, Illustrator, Premiere Pro och After Effects, se [Installera och öppna Adobe Workfront för design och video](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
 
 >[!NOTE]
 >
->**Premiere Pro** och **After Effects** - videouppladdning samt granskning och godkännande i Workfront är för närvarande inte tillgängliga via plugin-programmet.
+>**Premiere Pro**- och **After Effects**-videoöverföring samt granskning och godkännande i Workfront är för närvarande inte tillgängliga via plugin-programmet.
 
 
-I den här videon får du lära dig att göra följande inifrån ditt Creative Cloud-program:
+I den här videon får du lära dig att göra följande inifrån din Creative Cloud-app:
 
 * Hitta dina Workfront-uppdrag
 * Överför filer till Workfront
@@ -52,4 +52,4 @@ I den här videon får du lära dig att göra följande inifrån ditt Creative C
 * Loggtid
 * Markera ditt arbete som slutfört
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops)

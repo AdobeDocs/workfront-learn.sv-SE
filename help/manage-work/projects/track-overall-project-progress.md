@@ -12,7 +12,7 @@ last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -29,7 +29,7 @@ I den här videon får du lära dig att följa upp projektförloppet med:
 * Öppna problem
 * Kolumnen Villkorsuppdatering
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

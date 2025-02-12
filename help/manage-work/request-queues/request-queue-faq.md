@@ -9,7 +9,7 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 0%
@@ -24,7 +24,7 @@ På fliken [!UICONTROL Köinformation] i kön/projektet för din begäran kontro
 
 I den här videon finns mer information:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops)
 
 **Jag gav användarna åtkomst till kön, men nu kan de även se begärandeköprojektet. Varför?**
 
@@ -62,7 +62,7 @@ Du kan komma åt fält i fälten **[!UICONTROL Konverterat problem]** och **[!UI
 
 I den här videon finns mer information:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops)
 
 
 **Vilket är det bästa sättet att filtrera efter begärandeköer i en rapport?**
@@ -73,7 +73,7 @@ Om ditt projektfilter innehåller **Kö>>Är offentlig>>Inte lika med>>Ingen** v
 
 I den här videon finns mer information:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops)
 
 **Är det en bra idé att skapa en anpassad status för begärandekön?**
 

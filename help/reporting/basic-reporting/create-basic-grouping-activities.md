@@ -1,6 +1,6 @@
 ---
-title: Skapa en grundläggande gruppering
-description: Lär dig vad en gruppering är, hur du skapar en gruppering och hur du delar en gruppering med andra användare i Workfront.
+title: Skapa grundläggande grupperingsaktiviteter
+description: Skapa enkelt grupperingar steg för steg.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,26 +9,15 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
-doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
-# Skapa en grundläggande gruppering
 
-I den här videon får du lära dig:
-
-* Vilken grupp finns i Workfront
-* Skapa en gruppering
-* Och dela en gruppering med andra Workfront-användare
-
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
-
-## Aktivitet: Skapa en grundläggande gruppering
+# Aktivitet: Skapa en grundläggande gruppering
 
 Skapa en ärendegruppering som ska användas i en rapport för att spåra begäranden som kommer via en begärandekö. Den här grupperingen gör det enkelt att se liknande typer av problem/förfrågningar grupperade efter prioritet. Namnge grupperingen &quot;Begär kö, Köämne, Prioritet&quot;.
 

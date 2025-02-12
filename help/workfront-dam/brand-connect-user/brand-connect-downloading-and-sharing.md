@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8987
 exl-id: 5c1ab624-9f20-4ec4-b335-ceeaf9cbc86d
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -24,4 +24,4 @@ I den här videon får du lära dig att:
 * Dela en ljuslåda med Brand Connect-användare eller andra intressenter
 * Hämta en eller flera resurser
 
->[!VIDEO](https://video.tv.adobe.com/v/335249/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335249/?quality=12&learn=on&enablevpops)

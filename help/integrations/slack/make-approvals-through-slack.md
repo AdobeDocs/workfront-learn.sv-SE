@@ -1,6 +1,6 @@
 ---
 title: Godkänn via  [!DNL Slack]
-description: Lär dig hur du gör godkännanden via Slack
+description: Läs om hur man gör godkännanden via Slack
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8819
 exl-id: abe86ef4-8090-44ca-bf4b-115c14e95515
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '24'
 ht-degree: 0%
@@ -23,4 +23,4 @@ I den här videon får du lära dig att:
 
 * Godkänn via [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335119/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335119/?quality=12&learn=on&enablevpops)

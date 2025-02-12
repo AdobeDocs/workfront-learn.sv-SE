@@ -11,7 +11,7 @@ jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '853'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Använd en router för att skicka Pokemon kontra superhjältar i paket längs r�
 
 Workfront rekommenderar att du tittar på genomgången av videon innan du försöker återskapa övningen i din egen miljö.
 
->[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on&enablevpops)
 
 ## URL för övning
 
@@ -56,7 +56,7 @@ Fram tills nu har du arbetat med ett mycket enkelt API (Application Programming 
 
 Workfront och många programvarusystem byggs med en REST-API (Representational State Transfer), som är den enklaste och mest vanliga typen av API idag. Det finns dock några andra, till exempel:
 
-* SOAP (Simple Object Access Protocol) (Workfront Proof API är SOAP)
+* SOAP (Simple Object Access Protocol) (Workfront Proof API är SOAP-baserat)
 * FTP (File Transfer Protocol)
 * SFTP (Secure File Transfer Protocol)
 * Om du vill veta mer gör du en webbsökning efter API-typer och nyckelord av intresse.
@@ -83,7 +83,7 @@ Läs mer om Workfront Fusion Universal Connectors och hur du konfigurerar dem f�
 
 ## Slutkommentar
 
-Du kan kontrollera hela listan med våra förbyggda appanslutningar i Experience League. Om du vill föreslå en ny appanslutning till Workfront Fusion-produktteamet skickar du din idé till Innovation Lab. Om du inte har lämnat in någon ansökan tidigare, lär dig mer om Innovation Lab, plus hur du kan rösta på idéer och delta i den årliga prioriteringen av Ledarpanelen. Om du redan har tillgång till innovationslabb loggar du in och skickar in dina idéer.
+Du kan kontrollera hela listan med våra färdiga appanslutningar i Experience League. Om du vill föreslå en ny appanslutning till Workfront Fusion-produktteamet skickar du din idé till Innovation Lab. Om du inte har lämnat in någon ansökan tidigare, lär dig mer om Innovation Lab, plus hur du kan rösta på idéer och delta i den årliga prioriteringen av Ledarpanelen. Om du redan har tillgång till innovationslabb loggar du in och skickar in dina idéer.
 
 ## Din tur
 
