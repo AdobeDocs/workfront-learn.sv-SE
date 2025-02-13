@@ -1,6 +1,6 @@
 ---
-title: Skapa en grundvy
-description: Lär dig vad en vy är, hur du skapar en vy och hur du delar en vy med andra användare i Workfront.
+title: Skapa grundläggande vyaktiviteter
+description: Skapa enkla vyer steg för steg.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,24 +10,17 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
-exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '795'
 ht-degree: 0%
 
 ---
 
-# Skapa en grundvy
+# Skapa grundläggande vyaktiviteter
 
-I den här videon får du lära dig:
-
-* Vilken vy har Workfront?
-* Så här skapar och ändrar du en vy
-* Dela en vy med andra Workfront-användare
-
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+Skapa enkla vyer steg för steg.
 
 ## Aktivitet 1: Skapa en aktivitetsstatusvy
 
@@ -43,7 +36,7 @@ Skapa en uppgiftsvy med namnet &quot;Aktivitetsstatusvy&quot; med följande kolu
 * [!UICONTROL Förloppsstatus]
 * [!UICONTROL Statusikoner]
 
-## Svar 1
+## Aktivitet 1 svar
 
 ![En bild av skärmen för att skapa en aktivitetsstatusvy](assets/view-exercise.png)
 
@@ -76,7 +69,7 @@ Skapa en uppgiftsvy med namnet&quot;Milstolpevy&quot; med följande kolumner:
 * [!UICONTROL Procent färdigt]
 
 
-## Svar 2
+## Aktivitet 2 svar
 
 ![En bild av skärmen för att skapa en milstolpevy](assets/view-milestone-exercise-1.png)
 
@@ -108,7 +101,7 @@ Skapa en uppgiftsvy med namnet&quot;Varaktighetstyper och vyn över uppgiftsbegr
 
 Ändra [!UICONTROL fältformatet ] i kolumnerna [!UICONTROL Starta den] och [!UICONTROL Förfaller den ] så att både datum och tid visas.
 
-## Svar 3
+## Aktivitet 3 svar
 
 ![En bild av skärmen som visar varaktighetstyperna och vyn för aktivitetsbegränsningar](assets/view-activity-3.png)
 
@@ -146,7 +139,7 @@ Skapa en projektmallsvy med namnet&quot;Standard+active status&quot; med följan
 * [!UICONTROL Är aktiv]
 
 
-## Svar 4
+## Aktivitet 4 svar
 
 ![En bild av skärmen som visar en aktiv statusvy för en projektmall](assets/view-activity-4.png)
 

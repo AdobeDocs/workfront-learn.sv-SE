@@ -1,8 +1,8 @@
 ---
 user-guide-description: Självstudiekurser om Workfront
-source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
+source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '2405'
+source-wordcount: '2435'
 ht-degree: 0%
 
 ---
@@ -648,9 +648,16 @@ ht-degree: 0%
 
 
 <!---
-The following tutorials are hidden from the TOC but need to be here so their links can be referenced.
+The following tutorials are hidden from the TOC but need to be here so their links can be referenced by vPops in playlists.
 --->
-+ [Hantera förfrågningar](/help/manage-work/issues-requests/manage-incoming-requests.md)
-+ [Lär dig mer om resurskapaciteten](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
+
 + [Skapa grundläggande grupperingsaktiviteter](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
++ [Skapa grundläggande vyaktiviteter](/help/reporting/basic-reporting/create-basic-view-activities.md)
++ [Lägga till grundläggande villkorsstyrd formatering i en visningsaktivitet](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view-activities.md)
++ [Skapa enkla rapportaktiviteter](/help/reporting/basic-reporting/create-simple-report-activities.md)
++ [Skapa aktiviteter för uppgiftsrapporter](/help/reporting/basic-reporting/create-task-report-activities.md)
++ [Skapa rapporter med diagramaktiviteter](/help/reporting/basic-reporting/create-reports-with-charts-activities.md)
++ [Skapa matrisrapportaktiviteter](/help/reporting/basic-reporting/create-matrix-report-activities.md)
++ [Skapa instrumentpanelsaktiviteter](/help/reporting/basic-reporting/create-dashboard-activities.md)
++ [Skicka och dela rapportaktiviteter](/help/reporting/basic-reporting/send-and-share-reports-activities.md)
 

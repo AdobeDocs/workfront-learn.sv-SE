@@ -11,14 +11,18 @@ team: Technical Marketing
 jira: KT-8853
 hidefromtoc: true
 exl-id: 36f196ac-ad14-4075-9835-30f777572fdf
-source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
+source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
 
-# Aktivitet: Skapa en grundläggande gruppering
+# Skapa grundläggande grupperingsaktiviteter
+
+Skapa enkelt grupperingar steg för steg.
+
+## Aktivitet 1: Skapa en gruppering av begärandeköer
 
 Skapa en ärendegruppering som ska användas i en rapport för att spåra begäranden som kommer via en begärandekö. Den här grupperingen gör det enkelt att se liknande typer av problem/förfrågningar grupperade efter prioritet. Namnge grupperingen &quot;Begär kö, Köämne, Prioritet&quot;.
 
@@ -28,7 +32,7 @@ Gruppera problemrapporten utifrån:
 1. Köämnet
 1. Förfrågans prioritet
 
-## Svar
+## Svar 1
 
 ![En bild av skärmen för att skapa en ny gruppering](assets/grouping-exercise.png)
 

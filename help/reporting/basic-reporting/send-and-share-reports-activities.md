@@ -1,6 +1,6 @@
 ---
-title: Skicka och dela rapporter
-description: Lär dig hur du skickar rapporter till användare, team eller e-postadresser, och hur du delar rapporter med vem som helst i Workfront.
+title: Skicka och dela rapportaktiviteter
+description: Öva dig att skicka och dela rapporter, med stegvisa instruktioner.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,24 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# Skicka och dela rapporter
+# Skicka och dela rapportaktiviteter
 
-I den här videon får du lära dig:
-
-* Skicka rapporter till användare, team eller e-postadresser
-* Dela rapporter med vem som helst
-* Vad mottagarna kan se och göra med en Workfront-rapport
-
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+Öva dig att skicka och dela rapporter, med stegvisa instruktioner.
 
 ## Aktivitet 1: Skicka en rapport
 

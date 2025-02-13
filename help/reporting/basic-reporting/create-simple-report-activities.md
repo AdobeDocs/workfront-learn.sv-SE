@@ -1,6 +1,6 @@
 ---
-title: Skapa en enkel rapport
-description: Lär dig hur du skapar en enkel rapport med ett befintligt filter, en befintlig vy och en befintlig gruppering i Workfront.
+title: Skapa enkla rapportaktiviteter
+description: Skapa enkla rapporter steg för steg.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,22 +9,17 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8858
 thumbnail: 335153.png
-exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-# Skapa en enkel rapport
+# Skapa enkla rapportaktiviteter
 
-I den här videon får du lära dig att:
-
-* Skapa en enkel rapport med ett befintligt filter, en befintlig vy och en befintlig gruppering
-
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+Skapa enkla rapporter steg för steg.
 
 ## Aktivitet 1: Skapa en enkel uppgiftsrapport
 

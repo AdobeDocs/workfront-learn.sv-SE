@@ -1,6 +1,6 @@
 ---
-title: Skapa en uppgiftsrapport
-description: Lär dig hur du skapar en uppgiftsrapport med ett komplext filter och hittar de rapporter du skapar i Workfront. Aktivitet – skapa en anteckningsrapport med uppmaningar.
+title: Skapa aktiviteter för uppgiftsrapporter
+description: Skapa aktivitetsrapporter steg för steg.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,25 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
 jira: KT-8859
-exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '920'
-ht-degree: 2%
+source-wordcount: '889'
+ht-degree: 0%
 
 ---
 
-# Skapa en uppgiftsrapport
+# Skapa aktiviteter för uppgiftsrapporter
 
-I den här videon får du lära dig:
-
-* Skapa en uppgiftsrapport med ett komplext filter
-* Hitta de rapporter du skapar
-
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
-
-
+Skapa aktivitetsrapporter steg för steg.
 
 >[!TIP]
 >

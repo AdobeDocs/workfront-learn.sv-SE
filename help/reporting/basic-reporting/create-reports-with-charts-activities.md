@@ -1,6 +1,6 @@
 ---
-title: Skapa rapporter med diagram
-description: Lär dig hur diagram kan förbättra visualiseringen av data och hur du använder diagramverktyg i Workfront.
+title: Skapa rapporter med diagramaktiviteter
+description: Skapa rapporter med diagram med stegvisa instruktioner.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
-exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-# Skapa rapporter med diagram
+# Skapa rapporter med diagramaktiviteter
 
-I den här videon får du lära dig:
-
-* Hur diagram kan förbättra visualiseringen av data
-* Använda Workfront diagramverktyg
-
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+Skapa rapporter med diagram med stegvisa instruktioner.
 
 ## Aktivitet 1: Lägg till ett diagram i en rapport
 

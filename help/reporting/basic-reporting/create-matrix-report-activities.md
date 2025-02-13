@@ -1,6 +1,6 @@
 ---
-title: Skapa en matrisrapport
-description: Lär dig när en matrisrapport kan vara användbar och hur du skapar en matrisrapport i Workfront.
+title: Skapa matrisrapportaktiviteter
+description: Skapa matrisrapporter steg för steg.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-# Skapa en matrisrapport
+# Skapa matrisrapportaktiviteter
 
-I den här videon får du lära dig:
-
-* När en matrisrapport kan användas
-* Och hur du skapar en matrisrapport
-
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+Skapa matrisrapporter steg för steg.
 
 ## Aktivitet 1: Skapa en matrisrapport
 

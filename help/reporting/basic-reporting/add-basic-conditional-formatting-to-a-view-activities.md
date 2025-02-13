@@ -1,6 +1,6 @@
 ---
-title: Lägga till grundläggande villkorsstyrd formatering i en vy
-description: Lär dig hur du använder kolumnregler för att ändra textfärg, formatering och bakgrundsfärger i en rapport eller vy, baserat på villkor som du anger.
+title: Lägga till grundläggande villkorsstyrd formatering i en visningsaktivitet
+description: Öva dig att lägga till grundläggande villkorsstyrd formatering till vyer, med stegvisa instruktioner.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -9,25 +9,17 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8855
-exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
 
-# Lägga till grundläggande villkorsstyrd formatering i en vy
+# Lägga till grundläggande villkorsstyrd formatering i en visningsaktivitet
 
-Villkorsstyrd formatering görs genom att kolumnregler skapas. Med kolumnregler kan du formatera en kolumn på ett specifikt sätt baserat på villkor som du anger.
-
-I den här videon får du lära dig:
-
-* Vilken villkorlig formatering finns i en vy
-* Skapa och ändra villkorsstyrd formatering
-
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+Öva dig att lägga till grundläggande villkorsstyrd formatering till vyer, med stegvisa instruktioner.
 
 ## Sammanfattning
 

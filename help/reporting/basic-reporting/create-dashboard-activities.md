@@ -1,6 +1,6 @@
 ---
-title: Skapa instrumentpaneler
-description: Lär dig hur du kombinerar olika typer av listrapporter, diagram, kalendrar och externa webbsidor till en kontrollpanel i Workfront.
+title: Skapa instrumentpanelsaktiviteter
+description: Skapa instrumentpaneler steg för steg.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,26 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 4%
+source-wordcount: '425'
+ht-degree: 0%
 
 ---
 
-# Skapa instrumentpaneler
+# Skapa instrumentpanelsaktiviteter
 
-I den här videon får du lära dig:
-
-* Vad en kontrollpanel är i Workfront
-* Så här skapar du en kontrollpanel
-* Hitta och använda kontrollpaneler
-* Dela en kontrollpanel med andra Workfront-användare
-* Skriva ut en kontrollpanel
-
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+Skapa instrumentpaneler steg för steg.
 
 ## Aktivitet 1: Skapa en kontrollpanel
 
