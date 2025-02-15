@@ -12,9 +12,9 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,11 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Aktivitet 1: Skapa en aktivitetsstatusvy
+## Skapa grundläggande vyaktiviteter
+
+[Klicka här](/help/assets/create-basic-view-activities.pdf) om du vill hämta en PDF av den här sidan.
+
+### Aktivitet 1: Skapa en aktivitetsstatusvy
 
 Som projektledare, gruppledare eller resurshanterare vill du hålla reda på hur arbetet fortskrider. I den här vyn visas flera statusindikatorer för en aktivitet på en rad i listan eller rapporten.
 
@@ -43,7 +47,7 @@ Skapa en uppgiftsvy med namnet &quot;Aktivitetsstatusvy&quot; med följande kolu
 * [!UICONTROL Förloppsstatus]
 * [!UICONTROL Statusikoner]
 
-## Svar 1
+### Svar 1
 
 ![En bild av skärmen för att skapa en aktivitetsstatusvy](assets/view-exercise.png)
 
@@ -60,7 +64,7 @@ Skapa en uppgiftsvy med namnet &quot;Aktivitetsstatusvy&quot; med följande kolu
 
 Håll pekaren över ikonerna i kolumnen [!UICONTROL Statusikoner] för att se vad de representerar. Om de är nedtonade innebär det att uppgiften inte har några anteckningar, dokument, godkännandeprocesser osv. Om en ikon visas i färg är minst ett av objekten kopplat till uppgiften. Du kan klicka på antecknings- eller dokumentikonerna för att gå till det objektet.
 
-## Aktivitet 2: Skapa en milstolpe-vy
+### Aktivitet 2: Skapa en milstolpe-vy
 
 Om du använder milstolpar är den här vyn det enklaste sättet att se milstolpar efter namn och lägga till eller redigera dem med hjälp av redigering i rad.
 
@@ -76,7 +80,7 @@ Skapa en uppgiftsvy med namnet&quot;Milstolpevy&quot; med följande kolumner:
 * [!UICONTROL Procent färdigt]
 
 
-## Svar 2
+### Svar 2
 
 ![En bild av skärmen för att skapa en milstolpevy](assets/view-milestone-exercise-1.png)
 
@@ -88,7 +92,7 @@ Skapa en uppgiftsvy med namnet&quot;Milstolpevy&quot; med följande kolumner:
 
 ![En bild av en uppgiftslista med hjälp av en milstolpevy](assets/view-milestone-exercise-2.png)
 
-## Aktivitet 3: Skapa en vy för varaktighetstyper och uppgiftsbegränsningar
+### Aktivitet 3: Skapa en vy för varaktighetstyper och uppgiftsbegränsningar
 
 I den här vyn kan du granska och redigera alla varaktighetstyper och aktivitetsbegränsningar i ditt projekt.
 
@@ -108,7 +112,7 @@ Skapa en uppgiftsvy med namnet&quot;Varaktighetstyper och vyn över uppgiftsbegr
 
 Ändra [!UICONTROL fältformatet ] i kolumnerna [!UICONTROL Starta den] och [!UICONTROL Förfaller den ] så att både datum och tid visas.
 
-## Svar 3
+### Svar 3
 
 ![En bild av skärmen som visar varaktighetstyperna och vyn för aktivitetsbegränsningar](assets/view-activity-3.png)
 
@@ -130,7 +134,7 @@ Skapa en uppgiftsvy med namnet&quot;Varaktighetstyper och vyn över uppgiftsbegr
 1. Under listrutan [!UICONTROL Fältformat] väljer du [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
 1. Klicka på **[!UICONTROL Spara]**.
 
-## Aktivitet 4: Skapa en aktiv statusvy för projektmall
+### Aktivitet 4: Skapa en aktiv statusvy för projektmall
 
 Alla som hanterar projektmallar kommer att uppskatta om de kan se den aktiva statusen (Sant eller Falskt) för varje mall i en lista. Ännu bättre - fältet kan redigeras direkt!
 
@@ -146,7 +150,7 @@ Skapa en projektmallsvy med namnet&quot;Standard+active status&quot; med följan
 * [!UICONTROL Är aktiv]
 
 
-## Svar 4
+### Svar 4
 
 ![En bild av skärmen som visar en aktiv statusvy för en projektmall](assets/view-activity-4.png)
 

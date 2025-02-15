@@ -1,8 +1,8 @@
 ---
 user-guide-description: Självstudiekurser om Workfront
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '2435'
+source-wordcount: '2394'
 ht-degree: 0%
 
 ---
@@ -645,19 +645,4 @@ ht-degree: 0%
 + Workfront för chefer {#workfront-for-executives}
    + [Workfront för chefer](/help/workfront-for-executives/workfront-for-executives.md)
 
-
-
-<!---
-The following tutorials are hidden from the TOC but need to be here so their links can be referenced by vPops in playlists.
---->
-
-+ [Skapa grundläggande grupperingsaktiviteter](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
-+ [Skapa grundläggande vyaktiviteter](/help/reporting/basic-reporting/create-basic-view-activities.md)
-+ [Lägga till grundläggande villkorsstyrd formatering i en visningsaktivitet](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view-activities.md)
-+ [Skapa enkla rapportaktiviteter](/help/reporting/basic-reporting/create-simple-report-activities.md)
-+ [Skapa aktiviteter för uppgiftsrapporter](/help/reporting/basic-reporting/create-task-report-activities.md)
-+ [Skapa rapporter med diagramaktiviteter](/help/reporting/basic-reporting/create-reports-with-charts-activities.md)
-+ [Skapa matrisrapportaktiviteter](/help/reporting/basic-reporting/create-matrix-report-activities.md)
-+ [Skapa instrumentpanelsaktiviteter](/help/reporting/basic-reporting/create-dashboard-activities.md)
-+ [Skicka och dela rapportaktiviteter](/help/reporting/basic-reporting/send-and-share-reports-activities.md)
 

@@ -11,9 +11,9 @@ thumbnail: 335158.png
 jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -28,11 +28,15 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## Aktivitet 1: Skicka en rapport
+## Skicka och dela rapportaktiviteter
+
+[Klicka här](/help/assets/send-and-share-reports-activities.pdf) om du vill hämta en PDF av den här sidan.
+
+### Aktivitet 1: Skicka en rapport
 
 Skicka en rapport till dig själv varje måndag kl. 5 som ett Excel-kalkylblad. Detta är ett bra sätt att automatiskt samla in veckorapporter som du senare kan använda för att se trender.
 
-## Svar 1
+### Svar 1
 
 ![En bild av skärmen för att ställa in upprepade rapportleveranser](assets/send-a-report.png)
 

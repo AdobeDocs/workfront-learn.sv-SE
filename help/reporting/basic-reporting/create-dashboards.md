@@ -11,9 +11,9 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '476'
 ht-degree: 4%
 
 ---
@@ -29,6 +29,10 @@ I den här videon får du lära dig:
 * Skriva ut en kontrollpanel
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+
+## Skapa instrumentpanelsaktiviteter
+
+[Klicka här](/help/assets/create-dashboard-activities.pdf) om du vill hämta en PDF av den här sidan.
 
 ## Aktivitet 1: Skapa en kontrollpanel
 

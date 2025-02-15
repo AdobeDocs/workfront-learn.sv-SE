@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,11 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## Aktivitet: Skapa en grundläggande gruppering
+## Skapa grundläggande grupperingsaktiviteter
+
+[Klicka här](/help/assets/create-basic-grouping-activities.pdf) om du vill hämta en PDF av den här sidan.
+
+### Aktivitet 1: Skapa en grundläggande gruppering
 
 Skapa en ärendegruppering som ska användas i en rapport för att spåra begäranden som kommer via en begärandekö. Den här grupperingen gör det enkelt att se liknande typer av problem/förfrågningar grupperade efter prioritet. Namnge grupperingen &quot;Begär kö, Köämne, Prioritet&quot;.
 
@@ -38,7 +42,7 @@ Gruppera problemrapporten utifrån:
 1. Köämnet
 1. Förfrågans prioritet
 
-## Svar
+### Svar 1
 
 ![En bild av skärmen för att skapa en ny gruppering](assets/grouping-exercise.png)
 

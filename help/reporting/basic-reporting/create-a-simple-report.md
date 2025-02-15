@@ -11,9 +11,9 @@ jira: KT-8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,11 @@ I den här videon får du lära dig att:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## Aktivitet 1: Skapa en enkel uppgiftsrapport
+## Skapa enkla rapportaktiviteter
+
+[Klicka här](/help/assets/create-simple-report-activities.pdf) om du vill hämta en PDF av den här sidan.
+
+### Aktivitet 1: Skapa en enkel uppgiftsrapport
 
 Du vill spåra alla dina aktiva uppgifter i en enda rapport. Skapa en aktivitetsrapport med namnet&quot;Mina aktuella uppgifter&quot; med följande:
 
@@ -35,7 +39,7 @@ Du vill spåra alla dina aktiva uppgifter i en enda rapport. Skapa en aktivitets
 * Filter = Mina aktuella uppgifter
 * Beskrivning = Oavslutade uppgifter i aktuella projekt där jag är aktivitetsägaren, grupperade efter projekt.
 
-## Svar 1
+### Svar 1
 
 1. Gå till **[!UICONTROL huvudmenyn]** och välj **[!UICONTROL Rapporter]**.
 1. Klicka på listrutan **[!UICONTROL Ny rapport]** och välj **[!UICONTROL Aktivitetsrapport]**.

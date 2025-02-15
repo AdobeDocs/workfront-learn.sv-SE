@@ -11,9 +11,9 @@ thumbnail: 335156.png
 jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -27,13 +27,17 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## Aktivitet 1: Skapa en matrisrapport
+## Skapa matrisrapportaktiviteter
+
+[Klicka här](/help/assets/create-matrix-report-activities.pdf) om du vill hämta en PDF av den här sidan.
+
+### Aktivitet 1: Skapa en matrisrapport
 
 Skapa en matrisrapport som visar hur många begäranden som finns i varje status, sorterade efter begärandekö. Det här ger dig en snabb överblick över mängden arbete som kommer in och hur väl du håller jämna steg med det.
 
 Du vill att begärandeköerna ska visas i radgrupperingarna. Status visas som kolumngrupperingar. Ge rapporten namnet&quot;Begäranden per status och begärandekö&quot;.
 
-## Svar 1
+### Svar 1
 
 1. Välj **[!UICONTROL Rapporter]** på **[!UICONTROL Huvudmenyn]**.
 1. Klicka på alternativet **[!UICONTROL Ny rapport]** och välj **[!UICONTROL Problem]**.

@@ -11,9 +11,9 @@ thumbnail: 335153.png
 jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,15 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## Aktivitet 1: Lägg till ett diagram i en rapport
+## Skapa rapporter med diagramaktiviteter
+
+[Klicka här](/help/assets/create-reports-with-charts-activities.pdf) om du vill hämta en PDF av den här sidan.
+
+### Aktivitet 1: Lägg till ett diagram i en rapport
 
 Slutet av kvartalet närmar sig och du vill se hur nyligen slutförda projekt fastnade i budgeten. Skapa en rapport som visar de planerade kostnaderna kontra den faktiska kostnaden för projekt. Du vill bara visa projekt som har slutförts under det senaste kvartalet. Lägg till ett kombinationskolumndiagram med egna färger.
 
-## Svar 1
+### Svar 1
 
 1. Välj **[!UICONTROL Rapporter]** på **[!UICONTROL Huvudmenyn]**.
 1. Klicka på menyn **[!UICONTROL Ny rapport]** och välj **[!UICONTROL Projekt]**.
