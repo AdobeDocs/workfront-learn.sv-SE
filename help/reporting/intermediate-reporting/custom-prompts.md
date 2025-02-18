@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,11 @@ I den här videon får du lära dig:
 * Hur man skapar en egen fråga i textläge
 * Några exempel som du kan använda i din rapportering
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
+
+## Skapa anpassade promptaktiviteter
+
+[Klicka här](/help/assets/create-custom-prompts-activities.pdf) om du vill hämta en PDF av den här sidan.
 
 ## Aktivitet: Skapa anpassade uppmaningar
 

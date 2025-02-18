@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,14 @@ I den här videon får du lära dig att:
 * Skapa ett anpassat datum med jokertecken, attribut, operatorer och modifierare
 * Skapa ett anpassat datumintervall med jokertecken
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
-## Aktivitetfrågor
+
+## Skapa filter med datumbaserade jokertecken
+
+[Klicka här](/help/assets/create-filters-with-date-based-wildcards-activities.pdf) om du vill hämta en PDF av den här sidan.
+
+### Aktivitetfrågor
 
 1. Hur skapar du filterregeln om du vill ha problem som har förfallodatumet i går eller idag?
 1. Hur skapar du filterregeln för att hitta projekt som förföll förra veckan?
@@ -38,7 +43,7 @@ I den här videon får du lära dig att:
 
 ![En bild av skärmen för att skapa ett uppgiftsfilter med ett datumbaserat jokertecken](assets/date-wildcard-answer-1.png)
 
-## Svar
+### Svar
 
 1. Filtrera på det planerade slutdatumet för utgåvan mellan [!UICONTROL $$TODAY-1d] och [!UICONTROL $$TODAY].
 1. Filtrera på projektets planerade slutdatum mellan [!UICONTROL $$TODAYb-1w] och [!UICONTROL $$TODAYe-1w].

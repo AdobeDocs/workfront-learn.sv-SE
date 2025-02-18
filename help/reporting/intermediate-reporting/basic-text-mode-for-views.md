@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '665'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,11 @@ I den här videon får du lära dig:
 * Vad kamelfodral är
 * Ett grundläggande plug and play-läge som du kan använda i dina vyer
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+
+## Förstå det grundläggande textläget för vyaktiviteter
+
+[Klicka här](/help/assets/understand-basic-text-mode-for-views-activities.pdf) om du vill hämta en PDF av den här sidan.
 
 ## Aktivitet - 4 överordnade vyer
 

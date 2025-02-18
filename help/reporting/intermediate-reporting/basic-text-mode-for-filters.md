@@ -12,9 +12,9 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -41,8 +41,11 @@ I den här videon får du lära dig:
 * Vad kamelfodral är
 * Vissa grundläggande textlägen för plug and play som du kan använda i rapportfiltren
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
+## Förstå det grundläggande textläget för filteraktiviteter
+
+[Klicka här](/help/assets/understand-basic-text-mode-for-filters-activities.pdf) om du vill hämta en PDF av den här sidan.
 
 ## Aktivitet - Filtrera bort aktiviteter där jag har markerat &quot;Klar med min del&quot;
 
