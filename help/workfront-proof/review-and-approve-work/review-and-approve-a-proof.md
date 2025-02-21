@@ -11,9 +11,9 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
 workflow-type: tm+mt
-source-wordcount: '768'
+source-wordcount: '727'
 ht-degree: 0%
 
 ---
@@ -47,13 +47,13 @@ När du är redo att starta granskningen behöver du bara klicka på den blå [!
 
 ### Öppna ett korrektur från [!UICONTROL Home]
 
-Om du arbetar i [!DNL Workfront] och har ombetts att godkänna ett korrektur hittar du ett uppdrag i [!UICONTROL Arbetslistan] i [!DNL Workfront] [!UICONTROL Hem]. Det är praktiskt att bara välja [!UICONTROL Godkännanden] i [!UICONTROL Filter] så att du kan fokusera på den typen av arbete.
+Om du arbetar i [!DNL Workfront] och har ombetts att godkänna ett korrektur hittar du ett uppdrag i widgeten [!UICONTROL Mina godkännanden] i [!DNL Workfront] [!UICONTROL Hem].
 
-![En bild av [!DNL Workfront] [!UICONTROL Hem] med filtret [!UICONTROL Godkännanden] aktiverat och ett korrektur valt från listan.](assets/open-proof-from-home.png)
+![En bild av widgeten [!UICONTROL Mina godkännanden] i [!DNL Workfront] [!UICONTROL Hem].](assets/open-proof-from-home.png)
 
-Observera att korrektur endast visas i [!DNL Workfront] [!UICONTROL Hem] om du har tilldelats behörighet att godkänna det. Om du precis har ombetts att endast granska korrekturet visas det inte i [!DNL Workfront] [!UICONTROL Hem] när du väljer [!UICONTROL Godkännanden] i filterlistan.
+Observera att korrektur endast visas i [!DNL Workfront] [!UICONTROL Hem] om du har tilldelats behörighet att godkänna det. Om du precis har ombetts att endast granska korrekturet visas det inte i [!DNL Workfront] [!UICONTROL Hem].
 
-Markera korrekturgodkännandet i [!UICONTROL arbetslistan] och klicka sedan på länken [!UICONTROL Gå till korrektur] för att öppna det i korrekturläsaren.
+Klicka på länken [!UICONTROL Gå till korrektur] för att öppna den i korrekturläsaren.
 
 Beroende på korrektur- och projektarbetsflödena i din organisation kan en aktivitetstilldelning visas i [!DNL Workfront] [!UICONTROL Hem] i stället för en begäran om godkännande av korrektur. I det här fallet öppnar du korrekturet från [!UICONTROL Dokument] i själva aktiviteten (se nedan för instruktioner).
 
