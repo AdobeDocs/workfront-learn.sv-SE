@@ -11,9 +11,9 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '925'
 ht-degree: 2%
 
 ---
@@ -27,9 +27,6 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## Skapa aktiviteter för uppgiftsrapporter
-
-[Klicka här](/help/assets/create-task-report-activities.pdf) om du vill hämta en PDF av den här sidan.
 
 >[!TIP]
 >
@@ -37,9 +34,10 @@ I den här videon får du lära dig:
 >Vi har samlat in rapporter från kunderna och sammanställt dem i en lättsmält kokbok som du kan ta tillbaka och testa i ditt eget Workfront-kök.
 >Dessa 10 rapporter kommer från kunder som är precis som du. Vi är skyldiga ett stort tack till de fantastiska kunder som delade en av sina favoritrapporter, som sprids ut över olika branscher, avdelningar, team, befattningar och alla i olika företag. Vissa rapporter är enkla (men mycket användbara), och vissa är mer komplexa för att ta dina rapporter till nästa nivå.
 
+## Aktiviteter som&quot;Skapa en uppgiftsrapport&quot;
 
 
-## Aktivitet 1: Skapa en anteckningsrapport med uppmaningar
+### Aktivitet 1: Skapa en anteckningsrapport med uppmaningar
 
 Skapa en anteckningsrapport som du kan använda för att söka efter användaranteckningar (d.v.s. kommentarer eller uppdateringar) eller systemanteckningar baserat på anteckningsinnehållet, författaren, anmälningsdatumet, projektnamnet eller granskningstypen. Ge rapporten namnet&quot;Anteckningssökning&quot;.
 
@@ -68,7 +66,7 @@ Ta med uppmaningar om följande:
 * Projektnamn
 * Granskningstyp
 
-## Svar 1
+### Svar 1
 
 1. Välj **[!UICONTROL Rapporter]** på **[!UICONTROL Huvudmenyn]**.
 1. Klicka på menyn **[!UICONTROL Ny rapport]** och välj **[!UICONTROL Obs!]**.
@@ -111,7 +109,7 @@ Ta med uppmaningar om följande:
 1. Markera kryssrutan för **[!UICONTROL Visa frågor i instrumentpaneler]**.
 1. Spara och stäng rapporten.
 
-## Aktivitet 2: Skapa en feedback från administratörsteamet
+### Aktivitet 2: Skapa en feedback från administratörsteamet
 
 Det här är en problemrapport som visar alla problem i en kön för feedback-begäranden som har skapats för systemadministratörer. Du kan se hur du skapar den här begärandekön i självstudiekursen [Skapa en kö för systemadministratörsfeedback](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html).
 
@@ -162,7 +160,7 @@ Filtrera på ID:t för begärandeköprojektet där feedbackproblemen finns.
 
 
 
-## Svar 2
+### Svar 2
 
 1. Välj **[!UICONTROL Rapporter]** på **[!UICONTROL Huvudmenyn]**.
 1. Klicka på menyn **[!UICONTROL Ny rapport]** och välj **[!UICONTROL Problem]**.

@@ -12,9 +12,9 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,10 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
-## Förstå det grundläggande textläget för filteraktiviteter
+## &quot;Förstå grundläggande textläge för filter&quot;-aktiviteter
 
-[Klicka här](/help/assets/understand-basic-text-mode-for-filters-activities.pdf) om du vill hämta en PDF av den här sidan.
 
-## Aktivitet - Filtrera bort aktiviteter där jag har markerat &quot;Klar med min del&quot;
+### Aktivitet - Filtrera bort aktiviteter där jag har markerat &quot;Klar med min del&quot;
 
 I följande textläge exkluderas uppgifter där en användare har markerat &quot;Klar med min del&quot;. Allt du behöver göra är att skapa ett uppgiftsfilter, lägga till eventuella filterregler, växla sedan till textläge och klistra in koden nedan efter det textläge som visas i filtret.
 
@@ -64,7 +63,7 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
-## Aktivitet - Visa alla uppgifter som väntar på mitt godkännande
+### Aktivitet - Visa alla uppgifter som väntar på mitt godkännande
 
 ```
 approvalProcessID_Mod=notblank
@@ -73,7 +72,7 @@ currentUserApproversMM:ID_Mod=in
 currentUserApproversMM_Join=allowingnull
 ```
 
-## Aktivitet - Visa alla uppgifter som jag har godkänt
+### Aktivitet - Visa alla uppgifter som jag har godkänt
 
 Skapa en aktivitetsrapport med de filter du vill ha, gå sedan till fliken Filter och klicka på Växla till textläge. Lägg till den här koden i det som redan finns:
 
@@ -83,7 +82,7 @@ approverStatuses:approvedByID=$$USER.ID
 approverStatuses:approvedByID_Mod=in
 ```
 
-## Aktivitet - Visa alla aktiviteter som har minst en föregångare för tvärprojekt
+### Aktivitet - Visa alla aktiviteter som har minst en föregångare för tvärprojekt
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -91,7 +90,7 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-## Aktivitet - Visa alla uppgifter som jag har tilldelat andra
+### Aktivitet - Visa alla uppgifter som jag har tilldelat andra
 
 Skapa en aktivitetsrapport med de filter du vill ha, gå sedan till fliken Filter och klicka på Växla till textläge. Lägg till den här koden i det som redan finns:
 
@@ -107,7 +106,7 @@ EXISTS:1:assignedByID=$$USER.ID
 
 Då visas alla uppgifter där den inloggade användaren har tilldelat minst en av de aktuella tilldelningarna. Om flera personer har tilldelat tilldelningar visas endast namnet på den första personen som tilldelade någon som&quot;Begärd av&quot; på startsidan för uppgiften.
 
-## Aktivitet - Visa alla uppgifter som är slutförda - väntar på godkännande
+### Aktivitet - Visa alla uppgifter som är slutförda - väntar på godkännande
 
 ```
 status=CPL:A
@@ -115,7 +114,7 @@ status_Mod=in
 ```
 
 
-## Problem - Visa alla problem som är slutförda - väntar på godkännande
+### Problem - Visa alla problem som är slutförda - väntar på godkännande
 
 ```
 status=CPL:A
@@ -123,7 +122,7 @@ status_Mod=in
 ```
 
 
-## Projekt - Visa alla projekt som har slutförts - väntar på godkännande
+### Projekt - Visa alla projekt som har slutförts - väntar på godkännande
 
 ```
 status=CPL:A
@@ -131,7 +130,7 @@ status_Mod=in
 ```
 
 
-## Obs! Visa alla kommentarer som jag är taggad i
+### Obs! Visa alla kommentarer som jag är taggad i
 
 ```
 tags:userID=$$USER.ID
@@ -139,7 +138,7 @@ tags:userID_Mod=in
 ```
 
 
-## Parameterrapport/rapport för anpassat fält - Visa anpassade fält som inte är kopplade till ett anpassat formulär (mycket användbart vid rensning)
+### Parameterrapport/rapport för anpassat fält - Visa anpassade fält som inte är kopplade till ett anpassat formulär (mycket användbart vid rensning)
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS

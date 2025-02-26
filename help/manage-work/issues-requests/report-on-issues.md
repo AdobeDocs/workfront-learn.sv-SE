@@ -1,6 +1,6 @@
 ---
 title: Rapport om problem
-description: Lär dig hur du skapar rapporter med öppna problem och konverteringsinformation.
+description: Lär dig hur du skapar anpassade rapporter för problem- och projekthantering, inklusive hur du centraliserar och spårar öppna problem, anpassar kolumner och filter samt optimerar projekt- och problemhantering.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,22 +12,32 @@ last-substantial-update: 2024-07-24T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
 
 # Rapportera problem
 
-I den här videon får du lära dig att skapa:
+I videon får du en stegvis guide om hur du skapar två typer av rapporter för att hantera och spåra problem och projekt. &#x200B;
 
-* En problemrapport som visar hur objekt löses
-* En projektrapport med konverterad utleveransinformation
+* **Utfallsrapport:** Den här rapporten hjälper till att spåra om ett problem har tilldelats eller konverterats till en aktivitet eller ett projekt (löser objekt). &#x200B; Den innehåller kolumner som t.ex. objektmatchning och postdatum, sorterade efter de senaste posterna. Filter används för att visa endast utgåvor från specifika begärandeköer som ännu inte är fullständiga. &#x200B;
+* **Projektrapport:** Den här rapporten fokuserar på projekt som har sitt ursprung i problem, och visar information om de ursprungliga problemen och projektets förlopp. &#x200B; Den innehåller kolumner som konverterat utgivningsdatum, utgivningsnamn, författarnamn, projektstatus och förloppsstatus. Med filter visas endast projekt som konverterats från ärenden och som ännu inte är fullständiga. &#x200B;
+
+I videon betonas hur du anpassar kolumner och filter för att skräddarsy rapporterna efter specifika behov, vilket gör det enklare att hantera och lösa problem effektivt. &#x200B;
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Anpassade rapporter för problemhantering:** I videon visas hur du skapar anpassade rapporter för att centralisera och spåra öppna problem, vilket gör det enklare att hantera och lösa dem. &#x200B;
+* **Information om utgivningsrapport:** Utgivningsrapporten innehåller kolumner som t.ex. att lösa objekt och inmatningsdatum, sorterade efter de senaste posterna. &#x200B; Det hjälper till att identifiera om utgåvor har tilldelats eller konverterats till uppgifter eller projekt. &#x200B;
+* **Projektrapportdetaljer:** Projektrapporten fokuserar på projekt som härstammar från problem, och innehåller information om till exempel datum för konverterad utleverans, utgivningsnamn, ursprungsnamn, projektstatus och status.
+* **Filtrering för relevans:** Båda rapporterna använder filter för att endast visa relevanta data. Filtren visar problem från specifika begärandeköer som inte är fullständiga för problemrapporten. &#x200B; För projektrapporten ser filtren till att endast projekt som konverterats från problem och som ännu inte är fullständiga visas. &#x200B;
+* **Anpassning och effektivitet:** I videon betonas vikten av att anpassa kolumner och filter för att skräddarsy rapporterna efter specifika behov, vilket förbättrar effektiviteten i problem- och projekthantering.
 
 
 ## Rekommenderade självstudiekurser i detta ämne

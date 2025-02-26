@@ -1,6 +1,6 @@
 ---
 title: Skapa instrumentpaneler
-description: Lär dig hur du kombinerar olika typer av listrapporter, diagram, kalendrar och externa webbsidor till en kontrollpanel i Workfront.
+description: Videon syftar till att hjälpa användare att effektivt skapa, anpassa och hantera kontrollpaneler i Workfront för att övervaka och dela projektrelaterade data.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -11,30 +11,34 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '476'
-ht-degree: 4%
+source-wordcount: '627'
+ht-degree: 0%
 
 ---
 
 # Skapa instrumentpaneler
 
-I den här videon får du lära dig:
+Videon innehåller följande huvudpunkter:
 
-* Vad en kontrollpanel är i Workfront
-* Så här skapar du en kontrollpanel
-* Hitta och använda kontrollpaneler
-* Dela en kontrollpanel med andra Workfront-användare
-* Skriva ut en kontrollpanel
+* **Introduktion till instrumentpaneler:** Beskriver vad en instrumentpanel är i Workfront och dess syfte som en samling relaterade rapporter. &#x200B;
+* **Skapa en instrumentpanel:** Guider för hur du skapar en ny instrumentpanel genom att navigera till instrumentpanelsområdet, välja Ny instrumentpanel, namnge den och välja en layout. &#x200B;
+* **Lägga till rapporter:** Visar hur du lägger till olika rapporter på kontrollpanelen, till exempel projektrapporter, aktivitetsrapporter och problemrapporter, och hur du ordnar dem i den valda layouten. &#x200B;
+* **Anpassa vyer:** Visar hur du anpassar vilka kolumner som visas i instrumentpanelsvyn genom att redigera rapporten och välja vilka kolumner som ska visas. &#x200B;
+* **Lägger till ytterligare element:** Beskriver hur du lägger till en anpassad kalender och en extern sida (t.ex. ett onlinedokument) i instrumentpanelen. &#x200B;
+* **Spara och fästa:** Instruktioner för hur du sparar instrumentpanelen och fäster den så att den blir enkel att komma åt. &#x200B;
+* **Visning och redigering:** Visar tips om hur du visar och redigerar instrumentpanelen, inklusive hur du justerar kolumnsynlighet för bättre visning. &#x200B;
+* **Söka efter och dela instrumentpaneler:** Beskriver hur du hittar instrumentpaneler via huvudmenyn, lägger till dem i favoriter och delar dem med andra användare. &#x200B;
+* **Skriver ut instrumentpaneler:** Beskriver processen att skriva ut en instrumentpanel. &#x200B;
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
-## Skapa instrumentpanelsaktiviteter
 
-[Klicka här](/help/assets/create-dashboard-activities.pdf) om du vill hämta en PDF av den här sidan.
+## Aktiviteter för att skapa kontrollpanel
 
-## Aktivitet 1: Skapa en kontrollpanel
+### Aktivitet 1: Skapa en kontrollpanel
 
 Skapa en [!UICONTROL kontrollpanel] med endast en rapport i den:&quot;Sökanteckningar i det här projektet&quot;. Detta är användbart om du snabbt vill hitta uppdateringar som gjorts i ett projekt, även om det finns tusentals uppdateringar att söka igenom. Detta söker efter uppdateringstrådar för att snabbt extrahera uppdateringar som uppfyller villkoren som du anger i uppmaningarna.
 
@@ -45,7 +49,7 @@ Skapa den här rapporten genom att skapa en kopia av rapporten&quot;Sökanteckni
 * Gå till en projektstartsida och skapa en anpassad sektion för en [!UICONTROL instrumentpanel].
 * Observera, att när du söker efter anteckningar i ditt anpassade avsnitt visas endast anteckningar i det projekt som du just nu befinner dig i.
 
-## Svar 1
+### Svar 1
 
 1. Kör rapporten som du skapade i aktiviteten Skapa en anteckningsrapport.
 1. Klicka på **[!UICONTROL Rapportera åtgärder]** och välj **[!UICONTROL Kopiera]**. [!DNL Workfront] skapar en ny rapport med namnet&quot;Anteckningssökning (kopia)&quot;.

@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,8 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## Skapa grundläggande grupperingsaktiviteter
+## Skapa en grundläggande gruppering
 
-[Klicka här](/help/assets/create-basic-grouping-activities.pdf) om du vill hämta en PDF av den här sidan.
 
 ### Aktivitet 1: Skapa en grundläggande gruppering
 

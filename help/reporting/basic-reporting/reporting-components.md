@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: 3310ca62542d2cb596c6fd50a740bae2bb6345f2
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 
-## Rapporteringskomponenter
-
-[Klicka här](/help/assets/reporting-components.pdf) om du vill hämta en PDF av den här sidan.
+## Snabbreferens för rapportkomponenter
 
 ![En bild av skärmen för att skapa ett filter](assets/reporting-components-1.png)
 

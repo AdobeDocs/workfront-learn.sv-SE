@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '656'
 ht-degree: 0%
 
 ---
@@ -42,15 +42,13 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
-## Förstå det grundläggande textläget för vyaktiviteter
+## Förstå grundläggande textläge för vyer
 
-[Klicka här](/help/assets/understand-basic-text-mode-for-views-activities.pdf) om du vill hämta en PDF av den här sidan.
-
-## Aktivitet - 4 överordnade vyer
+### Aktivitet - 4 överordnade vyer
 
 Skapa först en kolumn för Uppgiftsnamn och Överordnat namn och använd sedan följande textläge för att skapa de andra tre kolumnerna.
 
-### Aktivitet - överordnad för överordnat namn
+#### Aktivitet - överordnad för överordnat namn
 
 ```
 displayname=Parent of Parent Name
@@ -64,7 +62,7 @@ valuefield=parent:parent:name
 valueformat=HTML
 ```
 
-### Aktivitet - överordnad för överordnat namn
+#### Aktivitet - överordnad för överordnat namn
 
 ```
 displayname=Parent of Parent of Parent Name
@@ -78,7 +76,7 @@ valuefield=parent:parent:parent:name
 valueformat=HTML
 ```
 
-### Aktivitet - överordnad för överordnad för överordnat namn
+#### Aktivitet - överordnad för överordnad för överordnat namn
 
 ```
 displayname=Parent of Parent of Parent of Parent Name
@@ -94,9 +92,9 @@ valueformat=HTML
 
 ![En skärmbild som visar vyn 4 överordnade](assets/4-parents-view.png)
 
-## Användare - Iterationer som visar listor i användarvyer
+### Användare - Iterationer som visar listor i användarvyer
 
-### Användare - alla jobbroller
+#### Användare - alla jobbroller
 
 ```
 displayname=All job roles
@@ -108,7 +106,7 @@ valuefield=role:name
 valueformat=HTML
 ```
 
-### Användare - Alla jobbroller visar primär
+#### Användare - Alla jobbroller visar primär
 
 ```
 displayname=All Job Roles showing primary
@@ -120,7 +118,7 @@ valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("** ",{role}.{name}," **")
 valueformat=HTML
 ```
 
-### Användare - alla team
+#### Användare - alla team
 
 ```
 displayname=All teams
@@ -137,7 +135,7 @@ valueformat=HTML
 >Det finns ett Team-fält som är tillgängligt via gränssnittet och som visar alla team, kommaseparerade, men med textläget ovan visas varje team på en separat rad.
 
 
-### Användare - alla grupper
+#### Användare - alla grupper
 
 ```
 displayname=All groups
@@ -149,7 +147,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-### Användare - Alla grupper som visar hemgrupp
+#### Användare - Alla grupper som visar hemgrupp
 
 ```
 displayname=All groups showing home group
@@ -162,7 +160,7 @@ valueformat=HTML
 ```
 
 
-### Användare - direkta rapporter
+#### Användare - direkta rapporter
 
 ```
 displayname=Direct reports
@@ -174,7 +172,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-### Användare - framtida PTO
+#### Användare - framtida PTO
 
 ```
 displayname=Future PTO
@@ -190,7 +188,7 @@ width=150
 
 ![En skärmbild som visar vyn Användarlistor](assets/user-lists-view-large.png)
 
-## Aktivitet - Så här visar du aktivitetstilldelningar och arbetar med status
+### Aktivitet - Så här visar du aktivitetstilldelningar och arbetar med status
 
 ```
 displayname=Assignments and Status
@@ -207,9 +205,9 @@ width=150
 ![En skärmbild som visar uppdrags- och statusvyn](assets/assignments-and-status-view.png)
 
 
-## Aktivitet - Så här visar du roll och allokering för flera aktivitetstilldelningar
+### Aktivitet - Så här visar du roll och allokering för flera aktivitetstilldelningar
 
-### Aktivitet - roll + timmar
+#### Aktivitet - roll + timmar
 
 ```
 displayname=Role+hours
@@ -221,7 +219,7 @@ valueexpression=CONCAT({role}.{name}," (",round({workRequired}/60,2),")")
 valueformat=HTML
 ```
 
-### Aktivitet - Tilldelning + procentuell allokering
+#### Aktivitet - Tilldelning + procentuell allokering
 
 ```
 displayname=Assignment+percent
@@ -235,9 +233,9 @@ type=iterate
 
 ![En skärmbild som visar vyn Uppdrag och roller](assets/assignments-roles-and-percent-view.png)
 
-## Aktivitet - Föregångare och efterföljare mellan projekt
+### Aktivitet - Föregångare och efterföljare mellan projekt
 
-### Aktivitetsfilter (valfritt)
+#### Aktivitetsfilter (valfritt)
 
 **Visa alla aktiviteter som har minst en föregångare mellan projekt eller minst en efterföljande tvärprojekt i aktuella projekt**
 
@@ -254,7 +252,7 @@ OR:1:successorsMM:projectID=FIELD:projectID
 OR:1:successorsMM:projectID_Mod=ne
 ```
 
-### Aktivitet - Visa föregående namn och föregående projekt finns i
+#### Aktivitet - Visa föregående namn och föregående projekt finns i
 
 ```
 displayname=Predecessor names
@@ -268,7 +266,7 @@ valueformat=HTML
 width=150
 ```
 
-### Aktivitet - Visa efterträdarnamn och efterföljare för projekt finns i
+#### Aktivitet - Visa efterträdarnamn och efterföljare för projekt finns i
 
 ```
 displayname=Successor names
@@ -282,7 +280,7 @@ valueformat=HTML
 width=150
 ```
 
-### Aktivitet - Visa planerat slutförandedatum för föregående aktiviteter
+#### Aktivitet - Visa planerat slutförandedatum för föregående aktiviteter
 
 ```
 displayname=Predecessor projected completion dates
@@ -297,7 +295,7 @@ listmethod=nested(predecessors).lists
 shortview=false
 ```
 
-### Aktivitet - Visa förloppsstatus för föregående aktiviteter
+#### Aktivitet - Visa förloppsstatus för föregående aktiviteter
 
 ```
 displayname=Predecessor progress status
@@ -312,7 +310,7 @@ valueformat=HTML
 width=90
 ```
 
-### Aktivitet - Visa procent färdigt av föregående projekt
+#### Aktivitet - Visa procent färdigt av föregående projekt
 
 ```
 displayname=Predecessor project percent complete
@@ -329,7 +327,7 @@ width=150
 ![En skärmbild som visar vyn för föregående och efterföljande aktiviteter mellan projekt](assets/cross-project-predecessors-and-successors.png)
 
 
-## Aktivitet - Iteration som visar alla personer som har tilldelats och som har tilldelat var och en av dem
+### Aktivitet - Iteration som visar alla personer som har tilldelats och som har tilldelat var och en av dem
 
 ```
 displayname=All assignees and requesters
@@ -343,7 +341,7 @@ valueformat=HTML
 
 ![En skärmbild som visar alla personer som tilldelats och som tilldelat var och en av dem](assets/all-assignees-and-requesters.png)
 
-## Aktivitet/projekt - Iteration som visar alla anpassade formulär i ett projekt eller en uppgift
+### Aktivitet/projekt - Iteration som visar alla anpassade formulär i ett projekt eller en uppgift
 
 ```
 displayname=All Forms Assigned
@@ -358,7 +356,7 @@ valueformat=HTML
 ![En skärmbild som visar alla anpassade formulär i ett projekt](assets/all-custom-forms-on-a-project.png)
 
 
-## Projekt - Iteration som visar alla primära kontakter för lösta objekt i projektvyn
+### Projekt - Iteration som visar alla primära kontakter för lösta objekt i projektvyn
 
 ```
 displayname=Requestor
@@ -374,7 +372,7 @@ width=150
 
 ![En skärmbild som visar primära kontakter för upplösningar](assets/primary-contacts-for-resolvables.png)
 
-## Projekt - iteration som visar alla projektgruppsmedlemmar
+### Projekt - iteration som visar alla projektgruppsmedlemmar
 
 ```
 displayname=Project Team Members
@@ -389,7 +387,7 @@ valueformat=HTML
 
 ![En skärmbild som visar alla projektgruppsmedlemmar](assets/all-project-team-members.png)
 
-## Projekt - iteration som visar postDatum för alla lösta problem för ett projekt
+### Projekt - iteration som visar postDatum för alla lösta problem för ett projekt
 
 ```
 displayname=Resolvables entry date
@@ -407,7 +405,7 @@ valueformat=HTML
 
 ![En skärmbild som visar entryDate för alla lösta problem i ett projekt](assets/resolvables-entry-date.png)
 
-## Projekt - Visa hemgruppen för den ursprungliga projektbegäraren
+### Projekt - Visa hemgruppen för den ursprungliga projektbegäraren
 
 ```
 displayname=Requestor home group
@@ -421,7 +419,7 @@ valueformat=HTML
 
 ![En skärmbild som visar hemgruppen för projektbegäraren](assets/requestor-home-group.png)
 
-## Projekt - Visa om projektet är en begärandekö
+### Projekt - Visa om projektet är en begärandekö
 
 ```
 querysort=queueDef:isPublic
@@ -439,7 +437,7 @@ displayname=Public Selection
 
 ![En skärmbild som visar om projektet är en begärandekö](assets/project-is-a-request-queue.png)
 
-## Problem - Upprepning som visar alla medlemmar i projektgruppen som kan matchas
+### Problem - Upprepning som visar alla medlemmar i projektgruppen som kan matchas
 
 ```
 displayname=Resolve Project: Team Members
@@ -455,7 +453,7 @@ width=150
 
 ![En skärmbild som visar alla medlemmar i projektgruppen ](assets/all-resolve-project-team-members.png)
 
-## Problem - Upprepning som visar alla team för problemets primära kontakt
+### Problem - Upprepning som visar alla team för problemets primära kontakt
 
 ```
 displayname=Requestor Teams
@@ -471,7 +469,7 @@ width=150
 
 ![En skärmbild som visar alla primära kontaktteam](assets/all-primary-contact-teams.png)
 
-## Dokument - iteration som visar mapp i en dokumentrapport
+### Dokument - iteration som visar mapp i en dokumentrapport
 
 ```
 displayname=Folder
@@ -485,7 +483,7 @@ valueformat=HTML
 
 ![En skärmbild som visar mappen i en dokumentrapport](assets/folder-in-a-document-report.png)
 
-## Dokument - iteration som visar den överordnade mappen i en dokumentrapport
+### Dokument - iteration som visar den överordnade mappen i en dokumentrapport
 
 ```
 displayname=Parent Folder
@@ -499,7 +497,7 @@ valueformat=HTML
 
 ![En skärmbild som visar den överordnade mappen i en dokumentrapport](assets/parent-folder-in-a-document-report.png)
 
-## Dokument - datum för dokumentgodkännande
+### Dokument - datum för dokumentgodkännande
 
 ```
 displayname=Document approval dates
@@ -517,9 +515,9 @@ section=0
 
 ![En skärmbild som visar datumvyn för dokumentgodkännande](assets/document-approval-dates.png)
 
-## Bevis på godkännande
+### Bevis på godkännande
 
-### Korrektur för godkännande - Visa projektnamn
+#### Korrektur för godkännande - Visa projektnamn
 
 ```
 displayname=Project Name
@@ -528,7 +526,7 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-### Korrektur för godkännande - Visa aktivitetsnamn
+#### Korrektur för godkännande - Visa aktivitetsnamn
 
 ```
 displayname=Task Name

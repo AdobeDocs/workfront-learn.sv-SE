@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '464'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,8 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## Lägga till grundläggande villkorsstyrd formatering i en visningsaktivitet
 
-[Klicka här](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf) om du vill hämta en PDF av den här sidan.
-
-### Sammanfattning
+## Sammanfattad villkorsstyrd formatering
 
 Så här skapar du villkorlig formatering:
 
@@ -45,6 +42,8 @@ Så här skapar du villkorlig formatering:
    * textfärg
    * ersättningstext
    * visa en ikon
+
+## Aktiviteter som &quot;Lägg till grundläggande villkorsstyrd formatering i en vy&quot;
 
 ### Aktivitet 1: Lägga till villkorsstyrd formatering i en vy
 

@@ -11,9 +11,9 @@ thumbnail: 335156.png
 jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## Skapa matrisrapportaktiviteter
-
-[Klicka här](/help/assets/create-matrix-report-activities.pdf) om du vill hämta en PDF av den här sidan.
+## Aktiviteter för att skapa en matrisrapport
 
 ### Aktivitet 1: Skapa en matrisrapport
 

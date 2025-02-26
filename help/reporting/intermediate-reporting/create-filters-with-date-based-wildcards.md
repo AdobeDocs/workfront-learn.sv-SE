@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,6 @@ I den här videon får du lära dig att:
 
 ## Skapa filter med datumbaserade jokertecken
 
-[Klicka här](/help/assets/create-filters-with-date-based-wildcards-activities.pdf) om du vill hämta en PDF av den här sidan.
 
 ### Aktivitetfrågor
 

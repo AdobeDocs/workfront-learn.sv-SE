@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,9 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## Förstå det grundläggande textläget för grupperingsaktiviteter
+## Förstå grundläggande textläge för grupperingar
 
-[Klicka här](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf) om du vill hämta en PDF av den här sidan.
-
-## Aktivitet - 4 överordnade grupperingar
+### Aktivitet - 4 överordnade grupperingar
 
 I följande textläge grupperas uppgifter baserat på upp till fyra nivåer med överordnade och överordnade som inte finns tomma lämnas.
 
@@ -62,7 +60,7 @@ group.0.valueformat=string
 ![En skärmbild som visar projektaktiviteter grupperade av 4 överordnade](assets/4-parents-grouping.png)
 
 
-## Aktivitet - Procent slutförd gruppering
+### Aktivitet - Procent slutförd gruppering
 
 I följande textläge grupperas uppgifter baserat på hur många procent de har slutförts. Aktiviteter hamnar i någon av följande kategorier när de grupperas:
 
@@ -83,7 +81,7 @@ textmode=true
 
 ![En skärmbild som visar projektaktiviteter grupperade efter procent färdigt](assets/percent-complete-grouping.png)
 
-## Aktivitet - statusEquatesWith, sedan status
+### Aktivitet - statusEquatesWith, sedan status
 
 I följande textläge grupperas uppgifter efter statusEquatesWith och sedan efter status.
 
@@ -108,7 +106,7 @@ textmode=true
 ![En skärmbild som visar projektaktiviteter grupperade efter statusEquatesWith](assets/status-equates-with.png)
 
 
-## Godkännandebevis - gruppera efter projektnamn
+### Godkännandebevis - gruppera efter projektnamn
 
 ```
 group.0.valueformat=HTML
@@ -119,7 +117,7 @@ group.0.displayname=Project Name
 ![En skärmbild som visar korrekturgodkännanden grupperade efter projektnamn](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## Godkännandebevis - gruppera efter dokumentnamn
+### Godkännandebevis - gruppera efter dokumentnamn
 
 ```
 group.0.displayname=Document Name

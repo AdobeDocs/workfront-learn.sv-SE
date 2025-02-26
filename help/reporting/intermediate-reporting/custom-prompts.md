@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -28,11 +28,10 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
-## Skapa anpassade promptaktiviteter
+## Skapa anpassade uppmaningar
 
-[Klicka här](/help/assets/create-custom-prompts-activities.pdf) om du vill hämta en PDF av den här sidan.
 
-## Aktivitet: Skapa anpassade uppmaningar
+### Aktivitet: Skapa anpassade uppmaningar
 
 1. Skapa en anpassad fråga som visar följande projektstatus i den nedrullningsbara menyn:
    * Planering
@@ -41,7 +40,7 @@ I den här videon får du lära dig:
    * Död
 1. Ändra uppmaningen för att visa aktuella projekt som förfaller den här månaden.
 
-## Svar
+### Svar
 
 1. Dina anpassade uppmaningar bör se ut ungefär så här och ha följande textläge:
 
