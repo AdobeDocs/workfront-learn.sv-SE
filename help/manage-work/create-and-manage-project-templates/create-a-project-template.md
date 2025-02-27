@@ -1,6 +1,6 @@
 ---
 title: Skapa en projektmall och lär dig mer om [!UICONTROL utkast]
-description: Lär dig skapa en projektmall från grunden och från ett befintligt projekt, och förstå hur [!UICONTROL utkast] kan ge dig tillgång till en värld av användbara projektmallar som skapats av Workfront experter.
+description: Videon om hur du skapar mallar i Workfront visar hur du skapar nya projektmallar, använder dem för nya projekt, sparar befintliga projekt som mallar, använder färdiga utkast och tilldelar uppgifter till jobbroller för effektiv resurshantering.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,25 +13,34 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '640'
 ht-degree: 0%
 
 ---
 
 # Skapa en projektmall och lär dig mer om [!UICONTROL utkast]
 
+
 Lär dig skapa en projektmall från grunden och från ett befintligt projekt, och förstå hur [!UICONTROL utkast] kan ge dig tillgång till en värld av användbara projektmallar som skapats av Workfront experter.
 
 ## Skapa en projektmall
 
-I den här videon får du lära dig att:
+* I videon får du stegvisa anvisningar om hur du skapar och använder mallar för videoproduktion. Det börjar med att förklara hur du skapar en ny mall från grunden, ger den ett namn och sparar den. &#x200B; Processen omfattar tre huvudsteg: skapa uppgifter, konfigurera tidslinjen med varaktigheter och föregångare samt göra tilldelningar till jobbroller i stället för enskilda användare. &#x200B; I videon betonas hur uppgifter ska ordnas med hjälp av överordnade och underordnade relationer för bättre sammanfattning och effektivitet. &#x200B;
+* När mallen har skapats kan den användas för att skapa nya projekt. I videon visas hur du skapar ett nytt projekt från mallen, gör nödvändiga justeringar och lägger till uppgifter eller ändrar varaktigheten efter behov. &#x200B; Här visas också hur du tilldelar jobbroller till aktiviteter med hjälp av funktioner för resursplanering och planering. &#x200B;
+* I videon förklaras hur du sparar ett befintligt projekt som en ny mall, vilket möjliggör uppdateringar och förbättringar i arbetsflödet. &#x200B; Det betonar vikten av att hantera mallar för att undvika förvirring och säkerställa ett smidigt projektgenomförande. &#x200B;
 
-* Skapa en mall från grunden
-* Skapa en mall från ett befintligt projekt
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops)
+## Viktiga uppgifter
+
+**Skapa en mall:** Lär dig hur du skapar en ny mall från grunden genom att namnge den, konfigurera aktiviteter, tidslinjer och göra tilldelningar till jobbroller. &#x200B;
+**Aktivitetsorganisation:** Använd överordnade-underordnade aktivitetsrelationer för att organisera aktiviteter effektivt, vilket ger en tydlig sammanfattning och struktur för projektet. &#x200B;
+**Inställning av tidslinje:** Konfigurera tidslinjer för aktiviteter med hjälp av varaktighet och föregående aktiviteter för att uppskatta tidsbildrutan och aktivitetssekvensen korrekt. &#x200B;
+**Rollbaserade tilldelningar:** Tilldela uppgifter till jobbroller i stället för enskilda användare för att utnyttja funktionerna för resursplanering och planering effektivt. &#x200B;
+**Mallhantering:** Spara befintliga projekt som nya mallar för att införliva förbättringar och hantera mallar för att undvika förvirring och säkerställa effektiv projektkörning. &#x200B;
+
 
 ## Mallar skapade med [!UICONTROL utkast]
 

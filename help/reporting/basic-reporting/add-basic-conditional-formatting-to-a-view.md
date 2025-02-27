@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 0%
@@ -30,7 +30,7 @@ I den här videon får du lära dig:
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
 
-## Sammanfattad villkorsstyrd formatering
+## Sammanfattning av villkorsstyrd formatering
 
 Så här skapar du villkorlig formatering:
 
