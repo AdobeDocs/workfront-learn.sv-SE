@@ -1,8 +1,8 @@
 ---
 user-guide-description: Självstudiekurser om Workfront
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: c2680030e24dd48264be96695d468cd5e751c42b
 workflow-type: tm+mt
-source-wordcount: '2394'
+source-wordcount: '2415'
 ht-degree: 0%
 
 ---
@@ -330,6 +330,11 @@ ht-degree: 0%
       + [Beräkna målförlopp](/help/workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [Kommunicera målstatus](/help/workfront-goals/monitor-your-goals/communicate-goal-status.md)
 
++ Workfront Planering {#workfront-planning}
+   + [Lägg till planering i din instans](/help/workfront-planning/add-planning-to-your-instance.md)
+   + [Skapa en arbetsyta](/help/workfront-planning/create-a-workspace.md)
+   + [Skapa och hantera en posttyp](/help/workfront-planning/create-and-manage-a-record-type.md)
+   + [Skapa och hantera tabellvyer](/help/workfront-planning/create-and-manage-table-views.md)
 
 + Integrationer {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
