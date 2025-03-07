@@ -1,6 +1,6 @@
 ---
 title: Skapa en projektmall och lär dig mer om [!UICONTROL utkast]
-description: Videon om hur du skapar mallar i Workfront visar hur du skapar nya projektmallar, använder dem för nya projekt, sparar befintliga projekt som mallar, använder färdiga utkast och tilldelar uppgifter till jobbroller för effektiv resurshantering.
+description: Lär dig skapa en projektmall från grunden och från ett befintligt projekt, och förstå hur [!UICONTROL utkast] kan ge dig tillgång till en värld av användbara projektmallar som skapats av Workfront experter.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+source-git-commit: 9e8dfebabd121c4c252298d3e28170f4b7931e19
 workflow-type: tm+mt
-source-wordcount: '640'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
