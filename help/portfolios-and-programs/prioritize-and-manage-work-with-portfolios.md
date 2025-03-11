@@ -1,5 +1,5 @@
 ---
-title: Använd [!UICONTROL Portfolio Optimizer] för att prioritera och hantera arbete
+title: Förstå [!UICONTROL Portfolio Optimizer]
 description: Lär dig använda [!UICONTROL Portfolio Optimizer] för att jämföra och prioritera projekt i en portfölj.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: adb11deb325b2537dabeb80461f8c9ecd059e003
+source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
-# Använd [!UICONTROL Portfolio Optimizer] för att prioritera och hantera arbete
+# Förstå [!UICONTROL Portfolio Optimizer]
 
 I den här videon får du lära dig att:
 

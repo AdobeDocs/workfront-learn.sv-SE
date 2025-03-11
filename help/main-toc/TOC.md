@@ -1,8 +1,8 @@
 ---
 user-guide-description: Självstudiekurser om Workfront
-source-git-commit: c2680030e24dd48264be96695d468cd5e751c42b
+source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
 workflow-type: tm+mt
-source-wordcount: '2415'
+source-wordcount: '2410'
 ht-degree: 0%
 
 ---
@@ -152,7 +152,7 @@ ht-degree: 0%
    + Portföljer {#portfolios}
       + [Förstå portföljer](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Förstå [!UICONTROL affärsärendet]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Använd [!UICONTROL Portfolio Optimizer] för att prioritera och hantera arbete](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [Förstå [!UICONTROL Portfolio Optimizer]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Godkännandeprocesser och milstolpesökvägar {#approval-processes-and-milestone-paths}
       + [Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
