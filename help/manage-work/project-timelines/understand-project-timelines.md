@@ -13,18 +13,20 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: b50279a97388bda48a8e134432415d084b6aec42
+source-git-commit: b31a0e6255d7e298ac95b14c308ca3fa5fb8e1d3
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '701'
 ht-degree: 0%
 
 ---
 
 # Förstå projekttidslinjer
 
-* Videon ger en översikt över projektplanering och projektledning med Workfront. Det förklarar hur överordnade uppgifter grupperar flera underuppgifter, som tilldelas till jobbroller och senare till användare med nödvändiga kunskaper. &#x200B; Föregångare anger sekventiella relationer mellan uppgifter, medan aktiviteter utan föregående aktiviteter kan utföras parallellt. &#x200B; Gantt-schemat erbjuder en visuell tidslinje och funktionen Kritisk bana lyfter fram uppgifter som kan fördröja projektet om de glider. &#x200B;
-* I videon diskuteras också olika vyer i Workfront, t.ex. standardvyn för planering och statusvyn för övervakning av förloppet, som innehåller flaggor för förlopp, kommentarer, dokument, ärenden, godkännanden, kritisk sökväg och milstolpar. Senaste aktivitet kan spåras för att visa uppdateringar och anteckningar. &#x200B;
-* Schemaläggningen kan göras från ett startdatum eller ett avslutsdatum, där Workfront beräknar motsvarande datum baserat på aktivitetens varaktighet och föregående aktiviteter. &#x200B; I videon rekommenderas schemaläggning från ett startdatum för viktiga slutförandedatum för att tillåta en viss frånkoppling. &#x200B; Uppgiftsbegränsningar som&quot;så snart som möjligt&quot; och&quot;så sent som möjligt&quot; omfattas också, vilket visar hur de påverkar schemaläggningen av uppgifter. &#x200B; Anpassade vyer kan skapas för att visa begränsningar för aktiviteter. &#x200B;
+Det här lär du dig:
+
+* Få en översikt över projektplanering och projektledning med Workfront. Lär dig hur överordnade uppgifter grupperar flera underuppgifter, som tilldelas till jobbroller och senare till användare med nödvändiga kunskaper. Föregångare anger sekventiella relationer mellan uppgifter, medan aktiviteter utan föregående aktiviteter kan utföras parallellt. Gantt-schemat erbjuder en visuell tidslinje och funktionen Kritisk bana lyfter fram uppgifter som kan fördröja projektet om de glider.
+* Olika vyer i Workfront, t.ex. standardvyn för planering och statusvyn för övervakning av förloppet, som innehåller flaggor för förlopp, kommentarer, dokument, ärenden, godkännanden, kritisk sökväg och milstolpar. Senaste aktivitet kan spåras för att visa uppdateringar och anteckningar.
+* Schemaläggningen kan göras från ett startdatum eller ett avslutsdatum, där Workfront beräknar motsvarande datum baserat på aktivitetens varaktighet och föregående aktiviteter. I videon rekommenderas schemaläggning från ett startdatum för viktiga slutförandedatum för att tillåta en viss frånkoppling. Uppgiftsbegränsningar som&quot;så snart som möjligt&quot; och&quot;så sent som möjligt&quot; omfattas också, vilket visar hur de påverkar schemaläggningen av uppgifter. Anpassade vyer kan skapas för att visa begränsningar för aktiviteter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
 
