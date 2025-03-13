@@ -1,6 +1,6 @@
 ---
 title: Kom igång med att hantera ett projekt
-description: Lär dig hur du övervakar projektförloppet, detaljerar om du vill se aktivitetsinformation och hur du kommunicerar med intressenter.
+description: Spåra projektförloppet effektivt med rapporter, hantera beroenden via Gantt-vyer, övervaka uppgifter och godkännanden, förbättra teamkommunikationen och säkerställa smidiga arbetsflöden med frekventa uppdateringar.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -13,22 +13,27 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
 # Kom igång med att hantera ett projekt
 
-I den här videon får du lära dig:
-
-* Så här övervakar du projektets förlopp
-* Detaljgranska aktivitetsinformationen
-* Kommunicera med intressenter
+I videon får du en översikt över hur du hanterar ett projekt när dess status har ändrats till&quot;Aktuell&quot; &#x200B;.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Förloppsövervakning:** Projekt med statusen Aktuell visas i rapporter, vilket gör att chefer kan spåra förloppet (enligt schema, efter eller efter). &#x200B;
+* **Projektövergripande beroenden:** Beroenden kan hanteras och visas i projektGantt-vyn, med alternativ för detaljerad information. &#x200B;
+* **Hantering av uppgifter och godkännanden:** Använd flikarna Status och Godkännanden för att spåra slutförande av uppgifter, väntande godkännanden och kommunicera via kommentarer. &#x200B;
+* **Teamkommunikation:** Skicka enkelt uppdateringar till alla gruppmedlemmar med funktionen Uppdatera alla och registrera diskussioner i projektet. &#x200B;
+* **Vanliga uppdateringar:**-arbetare bör uppdatera aktivitetsstatus dagligen för att säkerställa smidig projekthantering och korrekt spårning. &#x200B;
+
 
 ## Rekommenderade självstudiekurser i detta ämne
 

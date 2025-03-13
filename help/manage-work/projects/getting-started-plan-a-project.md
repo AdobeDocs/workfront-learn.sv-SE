@@ -1,6 +1,6 @@
 ---
 title: Kom igång med projektplaneringen
-description: Lär dig de fem huvudkomponenterna i ett projekt, vad statusen innebär, hur en [!UICONTROL vy] kan hjälpa dig att se relevant information och hur du ställer in start- eller förfallodatum.
+description: Effektivisera projektplaneringen genom att fokusera på nyckelfält, ange status till"Planering" med lämpliga vyer, välja realistiska startdatum och utnyttja schemaläggningslägen för korrekta tidslinjer.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335086.jpeg
@@ -12,23 +12,30 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
 # Kom igång med projektplaneringen
 
-I den här videon får du lära dig:
-
-* De fem huvudkomponenterna i ett projekt
-* Vad planeringsstatusen betyder
-* Så här kan en [!UICONTROL vy] hjälpa dig att se den information du behöver
-* Ange start- eller slutförandedatum
+* I videon får du vägledning om hur du effektivt planerar ett projekt i Workfront. &#x200B; Det betonar vikten av att lägga en stabil grund för att se till att projektet avslutas i tid och blir framgångsrikt. &#x200B; Viktiga steg är att förstå fem viktiga fält: Aktiviteter, Uppdrag, Varaktighet, Planerade timmar och Föregående. &#x200B; De här fälten gör att du kan göra snabba och korrekta justeringar i projektplanen. &#x200B;
+* Innan du gör ändringar måste du se till att projektstatus är inställd på &quot;Planering&quot; för att undvika onödiga meddelanden för teamet. &#x200B; Använd standardvyn eller anpassade vyer för att fokusera på viktig information. &#x200B; Ställ in projektets startdatum korrekt och se till att det är realistiskt och anpassar sig till teamets tillgänglighet.
+* I videon betonas vikten av realistiska tidslinjer, teamtillgänglighet och korrekt planering för att skapa en stark grund för projektframgångar. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Fokusera på fem nyckelfält:** Förstå uppgifter, tilldelningar, varaktighet, planerade timmar och föregående aktiviteter för att göra effektiva och korrekta ändringar i din projektplan. &#x200B;
+* **Ange projektstatus till Planering:** Kontrollera att projektstatus är inställd på Planering för att förhindra onödiga meddelanden när du justerar planen. &#x200B;
+* **Använd lämpliga vyer:** Använd standardvyn eller anpassade vyer för att fokusera på viktiga projektdetaljer som aktiviteter, varaktigheter och tilldelningar. &#x200B;
+* **Välj ett realistiskt startdatum:** Ange ett praktiskt startdatum som är anpassat till teamets tillgänglighet och undvik orealistiska scenarier, till exempel helger eller helger. &#x200B;
+* **Utnyttja schemaläggningslägen:** Använd läget &quot;Startdatum&quot; för att beräkna slutförandedatumet eller läget &quot;Slutförandedatum&quot; för att beräkna startdatumet och se till att tidslinjen stämmer överens med projektkraven. &#x200B;
+
+
 
 ## Rekommenderade självstudiekurser i detta ämne
 

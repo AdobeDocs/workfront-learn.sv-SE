@@ -1,6 +1,6 @@
 ---
 title: Dela ett projekt
-description: Lär dig hur du delar ett projekt så att intressenter och andra som är intresserade av projektet kan få insyn i det arbete som utförs med  [!DNL  Workfront].
+description: Förenkla projektdelningen i Workfront med automatiskt åtkomsträttigheter, flexibla alternativ, teambaserad hantering, malldelning och anpassningsbara systemstandarder för smidigt samarbete.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,24 +12,45 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
 
 # Dela ett projekt
 
-I den här videon får du lära dig:
+I videon förklaras hur du kan dela projekt effektivt i Workfront så att intressenter och medarbetare har den synlighet och åtkomst som krävs. &#x200B; Workfront förenklar delning genom att automatiskt tilldela rätt behörigheter baserat på roller:
 
-* Hur automatisk delning fungerar i Workfront
-* Dela ett projekt med en person
-* Dela ett projekt med ett team
-* Dela ett projekt genom att lägga in det i en portfolio
-* Bästa tillvägagångssätt för att dela ett projekt
+**Automatisk delning:**
+* Projektskapare har hanterade rättigheter att visa och redigera projektet, uppgifterna och problemen. &#x200B;
+* Arbetare som tilldelas till uppgifter får visningsrättigheter för hela projektet och medarbetarrättigheter för sina uppgifter. &#x200B;
+* Projektsponsorer kan visa projektet, medan resursansvariga kan hantera det, men inte ta bort det. &#x200B;
+
+**Manuell delning:**
+* Projekt kan delas med enskilda, team, jobbroller, grupper eller företag. &#x200B;
+* De bästa sätten är att skapa team där man kan dela med sig av innehållet och använda portfolior eller program för att ärva behörigheter i flera projekt. &#x200B;
+
+**Gruppdelning och malldelning:**
+* Med gruppredigering kan du göra delningsjusteringar för flera projekt. &#x200B;
+* Delningsinställningarna kan förkonfigureras i projektmallar för att spara tid. &#x200B;
+
+**Systemstandard:**
+* Systemadministratörer och gruppadministratörer kan ändra standardinställningar för delning, t.ex. att ge medverkarrättigheter till gruppmedlemmar som tilldelats aktiviteter. &#x200B;
+
+I videon betonas användningen av team och mallar för effektiv hantering av delning och även administratörernas roll när det gäller att anpassa delningsinställningarna. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Automatiska åtkomsträttigheter:** Workfront tilldelar automatiskt lämpliga åtkomsträttigheter baserat på roller (t.ex. projektskapare, arbetare, sponsorer och resurshanterare) för att förenkla delning. &#x200B;
+* **Flexibla delningsalternativ:** Du kan dela projekt med enskilda personer, team, jobbroller, grupper eller företag, och behörigheter kan ärvas via portföljer eller program. &#x200B;
+* **Effektiv teamhantering:** Om du lägger till eller tar bort medlemmar från team uppdateras deras åtkomsträttigheter automatiskt i delade objekt, vilket gör teambaserad delning till den enklaste metoden. &#x200B;
+* **Malldelning:** Om du förkonfigurerar delningsinställningar i projektmallar säkerställs konsekventa åtkomsträttigheter för alla projekt som skapas med mallen, vilket sparar tid. &#x200B;
+* **Anpassningsbara systemstandarder:** Systemadministratörer kan ändra standardinställningar för delning, t.ex. att ge medverkarrättigheter till gruppmedlemmar som tilldelats aktiviteter, för att anpassa dem efter organisationens inställningar. &#x200B;
+
 
 ## Rekommenderade självstudiekurser i detta ämne
 
