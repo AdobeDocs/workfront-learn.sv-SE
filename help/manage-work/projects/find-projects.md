@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 0365d4500823639edc167ab296efcb8b0b2291ad
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -28,11 +28,11 @@ I den här videon får du lära dig några snabba och enkla sätt att hitta proj
 
 ## Viktiga uppgifter
 
-**Filter och sökalternativ:** Använd filter och sökverktyg, inklusive avancerad sökning, för att snabbt hitta specifika projekt baserat på namn, beskrivningar eller anpassade datafält. &#x200B;
-**Senaste listan:** Projekt som nyligen har visats visas automatiskt i listan Senaste, som kan visa upp till 20 projekt för snabb åtkomst. &#x200B;
-**Favoriter:** Markera projekt som favoriter genom att klicka på stjärnikonen. &#x200B; Favoriter är tillgängliga tills de tas bort manuellt, vilket gör dem idealiska för projekt som du ofta använder. &#x200B;
-**Fästa projekt:** Fäst projekt så att de blir lätta att komma åt. &#x200B; Fastnålade projekt förblir synliga tills du tar bort dem.
-**Anpassade rapporter och instrumentpaneler:** Skapa anpassade rapporter och instrumentpaneler för att ordna och komma åt alla relevanta projekt på ett effektivt sätt. &#x200B;
+* **Filter och sökalternativ:** Använd filter och sökverktyg, inklusive avancerad sökning, för att snabbt hitta specifika projekt baserat på namn, beskrivningar eller anpassade datafält. &#x200B;
+* **Senaste listan:** Projekt som nyligen har visats visas automatiskt i listan Senaste, som kan visa upp till 20 projekt för snabb åtkomst. &#x200B;
+* **Favoriter:** Markera projekt som favoriter genom att klicka på stjärnikonen. &#x200B; Favoriter är tillgängliga tills de tas bort manuellt, vilket gör dem idealiska för projekt som du ofta använder. &#x200B;
+* **Fästa projekt:** Fäst projekt så att de blir lätta att komma åt. &#x200B; Fastnålade projekt förblir synliga tills du tar bort dem.
+* **Anpassade rapporter och instrumentpaneler:** Skapa anpassade rapporter och instrumentpaneler för att ordna och komma åt alla relevanta projekt på ett effektivt sätt. &#x200B;
 
 
 ## Rekommenderade självstudiekurser i detta ämne
