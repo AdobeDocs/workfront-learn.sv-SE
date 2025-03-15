@@ -1,6 +1,6 @@
 ---
 title: Förstå vyn för [!UICONTROL anslagstavlan]
-description: Lär dig hur du använder vyn [!UICONTROL Board] på projektstartsidan.
+description: Effektivisera uppgiftshanteringen i Workfront med  [!DNL Kanban] -gränssnittet för vyn [!UICONTROL Board] som erbjuder sortering, skapande, anpassning och smidig integrering med uppgiftslistevyn för effektiv projektorganisation.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,22 +12,27 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
 # Förstå vyn för [!UICONTROL anslagstavlan]
 
-I den här videon får du lära dig:
-
-* Var du hittar vyn [!UICONTROL Board]
-* Så här använder du vyn [!UICONTROL Board]
-
+I videon förklaras funktionen Styrelsevisning i Workfront, som är ett annat sätt att visa och hantera projektuppgifter. &#x200B; I vyn Styrelse visas uppgifter som kort på en panel i Kanban-stil, vilket gör att användare kan sortera, gruppera och flytta uppgifter inom eller mellan kolumner. &#x200B; När du flyttar en uppgift uppdateras dess status automatiskt, vilket återspeglas i uppgiftslistevyn. &#x200B; Användarna kan skapa nya kort som genererar nya uppgifter i projektet och redigera eller tilldela dem direkt i vyn Styrelse. &#x200B; Kolumner och kort kan konfigureras och uppgifter kan sekventieras med föregående aktiviteter i uppgiftslistvyn.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+**Översikt över styrelsvyn:** I styrelsvyn i Workfront finns ett kanban-liknande gränssnitt för att visa och hantera projektaktiviteter, vilket är ett alternativ till den traditionella uppgiftslistvyn. &#x200B;
+**Aktivitetshantering:** Det går att sortera, gruppera och flytta uppgifter inom eller mellan kolumner, med statusuppdateringar automatiskt när uppgifter flyttas. &#x200B;
+**Skapande av aktivitet:** Du kan skapa nya kort direkt i vyn Byrå, som genererar nya uppgifter i projektet. &#x200B; Dessa uppgifter kan redigeras och tilldelas omedelbart. &#x200B;
+**Anpassning:** Kolumner och kort i vyn Board kan konfigureras för att passa projektbehov, vilket ger större flexibilitet i organisationen av uppgifter. &#x200B;
+**Integrering med uppgiftslistan:** Ändringar som görs i styrelsvyn, t.ex. uppdatering av aktivitetsstatus eller skapande av nya uppgifter, visas i uppgiftslistevyn, vilket ger en sömlös integrering mellan vyer. &#x200B;
+
 
 ## Rekommenderade självstudiekurser i detta ämne
 

@@ -1,6 +1,6 @@
 ---
 title: Spåra projektets övergripande förlopp
-description: Lär dig fem snabba sätt att följa upp projektets övergripande förlopp.
+description: Spåra projektframsteg i Workfront med procentuella beräkningar, planerade kontra planerade datum, villkorsstatus, hantering av öppna ärenden och veckouppdateringar för tydlig och aktuell projektspårning.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -12,24 +12,29 @@ last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
 # Spåra projektets övergripande förlopp
 
-I den här videon får du lära dig att följa upp projektförloppet med:
+I videon beskrivs hur du spårar övergripande projektförlopp med hjälp av olika indikatorer i Workfront, bland annat Procent färdigt, Prognosdatum, Villkor och förloppsstatus, Öppna problem och Kolumnen Villkorsuppdatering.
 
-* Procent färdigt
-* Planerade datum
-* Villkor och förloppsstatus
-* Öppna problem
-* Kolumnen Villkorsuppdatering
+I videon betonas vikten av regelbundna uppdateringar av teammedlemmar och proaktiv problemhantering för att säkerställa korrekt spårning och att projektet slutförs i tid. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Beräkning för Procent färdigt:** Den totala projektförloppet beräknas baserat på värdena Procent färdigt för enskilda aktiviteter, viktade efter varaktighet eller planerad tid. &#x200B;
+* **Planerade kontra planerade datum:** Workfront beräknar planerade och planerade start-/slutförandedatum baserat på aktivitetens varaktighet och föregående aktiviteter. &#x200B; Skillnader mellan dessa datum tyder på potentiella förseningar. &#x200B;
+* **Projektvillkorsstatus:** Villkorsfältet (t.ex. På mål, Vid risk, I problem) återspeglar projektets status och kan ställas in manuellt eller automatiskt i förloppsläge. &#x200B;
+* **Öppen problemhantering:** Öppna problem signalerar potentiella risker. &#x200B; Att granska och konvertera dem till uppgifter snabbt är nödvändigt för att hålla tidslinjerna i projektet. &#x200B;
+* **Kolumn för villkorsuppdatering:** Uppdateringar varje vecka från projektledaren i kolumnen Villkorsuppdatering ger en tydlig sammanfattning av förloppet och hjälper till att spåra den senaste utvecklingen. &#x200B;
+
 
 ## Rekommenderade självstudiekurser i detta ämne
 
