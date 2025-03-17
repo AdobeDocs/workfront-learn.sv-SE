@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -59,21 +59,16 @@ I videon betonas Workfront flexibilitet när det gäller att skapa projekt med h
 
 ## Viktiga uppgifter
 
-
-**Mallar gör det enklare att skapa projekt:**
-Vi rekommenderar att du använder en mall eftersom den kan förinställa viktiga detaljer som uppgifter, formulär och delningsalternativ, vilket sparar både tid och arbete. &#x200B;
-
-**Favoritmallar för snabbåtkomst:**
-Favoritmallar gör att användarna kan kringgå urvalsprocessen och direkt skapa ett projekt, vilket effektiviserar arbetsflödet. &#x200B;
-
-**Flexibilitet för att skapa projekt från grunden:**
-Om du skapar ett projekt från grunden är det mer manuellt, men du kan anpassa alla detaljer, idealiskt för enkla eller privata projekt. &#x200B;
-
-**Om du kopierar projekt sparas tid:**
-När du kopierar ett befintligt projekt replikeras dess struktur och inställningar, med alternativ för att ändra eller exkludera specifika element. &#x200B;
-
-**Importerar MS-projektfiler för övergång:**
-Workfront stöder import av MS Project-filer (sparade som XML), vilket gör att användare kan övergå pågående projekt, men vissa data (t.ex. kommentarer, milstolpar) överförs inte. &#x200B;
+* **Mallar gör det enklare att skapa projekt:**
+* Vi rekommenderar att du använder en mall eftersom den kan förinställa viktiga detaljer som uppgifter, formulär och delningsalternativ, vilket sparar både tid och arbete. &#x200B;
+* **Favoritmallar för snabbåtkomst:**
+* Favoritmallar gör att användarna kan kringgå urvalsprocessen och direkt skapa ett projekt, vilket effektiviserar arbetsflödet. &#x200B;
+* **Flexibilitet för att skapa projekt från grunden:**
+* Om du skapar ett projekt från grunden är det mer manuellt, men du kan anpassa alla detaljer, idealiskt för enkla eller privata projekt. &#x200B;
+* **Om du kopierar projekt sparas tid:**
+* När du kopierar ett befintligt projekt replikeras dess struktur och inställningar, med alternativ för att ändra eller exkludera specifika element. &#x200B;
+* **Importerar MS-projektfiler för övergång:**
+* Workfront stöder import av MS Project-filer (sparade som XML), vilket gör att användare kan övergå pågående projekt, men vissa data (t.ex. kommentarer, milstolpar) överförs inte. &#x200B;
 
 
 

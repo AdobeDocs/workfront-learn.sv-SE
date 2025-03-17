@@ -1,6 +1,6 @@
 ---
 title: Skapa instrumentpaneler
-description: Videon syftar till att hjälpa användare att effektivt skapa, anpassa och hantera kontrollpaneler i Workfront för att övervaka och dela projektrelaterade data.
+description: Organisera och visa projektdata med Workfront dashboards som kan anpassas, öppnas enkelt, delas och skrivas ut för smidig projektledning och smidigt samarbete.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -11,29 +11,27 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '645'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Skapa instrumentpaneler
 
-Videon innehåller följande huvudpunkter:
-
-* **Introduktion till instrumentpaneler:** Beskriver vad en instrumentpanel är i Workfront och dess syfte som en samling relaterade rapporter. &#x200B;
-* **Skapa en instrumentpanel:** Guider för hur du skapar en ny instrumentpanel genom att navigera till instrumentpanelsområdet, välja Ny instrumentpanel, namnge den och välja en layout. &#x200B;
-* **Lägga till rapporter:** Visar hur du lägger till olika rapporter på kontrollpanelen, till exempel projektrapporter, aktivitetsrapporter och problemrapporter, och hur du ordnar dem i den valda layouten. &#x200B;
-* **Anpassa vyer:** Visar hur du anpassar vilka kolumner som visas i instrumentpanelsvyn genom att redigera rapporten och välja vilka kolumner som ska visas. &#x200B;
-* **Lägger till ytterligare element:** Beskriver hur du lägger till en anpassad kalender och en extern sida (t.ex. ett onlinedokument) i instrumentpanelen. &#x200B;
-* **Spara och fästa:** Instruktioner för hur du sparar instrumentpanelen och fäster den så att den blir enkel att komma åt. &#x200B;
-* **Visning och redigering:** Visar tips om hur du visar och redigerar instrumentpanelen, inklusive hur du justerar kolumnsynlighet för bättre visning. &#x200B;
-* **Söka efter och dela instrumentpaneler:** Beskriver hur du hittar instrumentpaneler via huvudmenyn, lägger till dem i favoriter och delar dem med andra användare. &#x200B;
-* **Skriver ut instrumentpaneler:** Beskriver processen att skriva ut en instrumentpanel. &#x200B;
-
+Videon innehåller en omfattande guide till hur du lär dig mer om och använder kontrollpaneler i Workfront.
+&#x200B;Det förklarar att en kontrollpanel är en samling rapporter som gör att användarna kan ordna och visa relaterade data på ett och samma ställe.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+
+## Viktiga uppgifter
+
+**Kontrollpaneler i Workfront:** En kontrollpanel är en samling rapporter som gör att användare kan ordna och visa relaterade data, till exempel projekt, uppgifter och problem, i en central vy. &#x200B;
+**Skapa instrumentpaneler:** Du kan anpassa instrumentpaneler genom att välja en layout, lägga till rapporter, anpassade kalendrar eller externa sidor och ordna dem för optimal visning. &#x200B; Användare kan också anpassa vilka kolumner som ska visas i rapporter sida vid sida på kontrollpanelen. &#x200B;
+**Åtkomst till instrumentpaneler:** Instrumentpaneler finns under Mina instrumentpaneler, Delade instrumentpaneler eller Alla instrumentpaneler i instrumentpanelsområdet. &#x200B; Kontrollpaneler som används ofta kan fästas eller läggas till i favoriter för snabb åtkomst. &#x200B;
+**Kontrollpaneler för delning:** Instrumentpaneler kan delas med andra Workfront-användare, inklusive alla rapporter på kontrollpanelen, via menyn Instrumentpanelsåtgärder. &#x200B;
+**Kontrollpaneler för utskrift:** Kontrollpaneler kan skrivas ut direkt från menyn Instrumentpanelsåtgärder, vilket gör det enkelt att dela fysiska kopior av data. &#x200B;
 
 
 ## Aktiviteter för att skapa kontrollpanel

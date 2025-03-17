@@ -12,9 +12,9 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -46,11 +46,11 @@ Du kan läsa mer online med artikeln [Kom igång med Gantt-schemat](https://expe
 
 ## Viktiga uppgifter
 
-**Big-Picture View:** Gantt-scheman ger en omfattande översikt över aktiviteter, projekt och portfolior, vilket gör det enkelt att förstå relationer och resursdelning mellan projekt. &#x200B;
-**Förloppsspårning:** Förloppsstatusindikatorer (grönt, gult, rött och ljusblått) hjälper dig att övervaka projekt- och aktivitetstidslinjer, och att markera i tid, risk, bakom eller sen status. &#x200B;
-**Hantering av milstolpar:** Milstolpens diamanter och linjer markerar nyckelslutförandedatum visuellt, vilket gör det lättare att spåra milstolpens förlopp i projekt. &#x200B;
-**Föregående insikter:** Föregående aktiviteter för flera projekt och aktiviteter kan enkelt kontrolleras, vilket säkerställer att beroenden är tydliga och hanterbara. &#x200B;
-**Anpassningsalternativ:** Användare kan visa faktiska datum, planerade datum, baslinjer, tilldelningar med mera och anpassa Gantt-schemavyn efter sina specifika behov.
+* **Big-Picture View:** Gantt-scheman ger en omfattande översikt över aktiviteter, projekt och portfolior, vilket gör det enkelt att förstå relationer och resursdelning mellan projekt. &#x200B;
+* **Förloppsspårning:** Förloppsstatusindikatorer (grönt, gult, rött och ljusblått) hjälper dig att övervaka projekt- och aktivitetstidslinjer, och att markera i tid, risk, bakom eller sen status. &#x200B;
+* **Hantering av milstolpar:** Milstolpens diamanter och linjer markerar nyckelslutförandedatum visuellt, vilket gör det lättare att spåra milstolpens förlopp i projekt. &#x200B;
+* **Föregående insikter:** Föregående aktiviteter för flera projekt och aktiviteter kan enkelt kontrolleras, vilket säkerställer att beroenden är tydliga och hanterbara. &#x200B;
+* **Anpassningsalternativ:** Användare kan visa faktiska datum, planerade datum, baslinjer, tilldelningar med mera och anpassa Gantt-schemavyn efter sina specifika behov.
 
 
 ## Rekommenderade självstudiekurser i detta ämne

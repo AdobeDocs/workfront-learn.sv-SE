@@ -12,9 +12,9 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ I videon förklaras funktionen Styrelsevisning i Workfront, som är ett annat s�
 
 ## Viktiga uppgifter
 
-**Översikt över styrelsvyn:** I styrelsvyn i Workfront finns ett kanban-liknande gränssnitt för att visa och hantera projektaktiviteter, vilket är ett alternativ till den traditionella uppgiftslistvyn. &#x200B;
-**Aktivitetshantering:** Det går att sortera, gruppera och flytta uppgifter inom eller mellan kolumner, med statusuppdateringar automatiskt när uppgifter flyttas. &#x200B;
-**Skapande av aktivitet:** Du kan skapa nya kort direkt i vyn Byrå, som genererar nya uppgifter i projektet. &#x200B; Dessa uppgifter kan redigeras och tilldelas omedelbart. &#x200B;
-**Anpassning:** Kolumner och kort i vyn Board kan konfigureras för att passa projektbehov, vilket ger större flexibilitet i organisationen av uppgifter. &#x200B;
-**Integrering med uppgiftslistan:** Ändringar som görs i styrelsvyn, t.ex. uppdatering av aktivitetsstatus eller skapande av nya uppgifter, visas i uppgiftslistevyn, vilket ger en sömlös integrering mellan vyer. &#x200B;
+* **Översikt över styrelsvyn:** I styrelsvyn i Workfront finns ett kanban-liknande gränssnitt för att visa och hantera projektaktiviteter, vilket är ett alternativ till den traditionella uppgiftslistvyn. &#x200B;
+* **Aktivitetshantering:** Det går att sortera, gruppera och flytta uppgifter inom eller mellan kolumner, med statusuppdateringar automatiskt när uppgifter flyttas. &#x200B;
+* **Skapande av aktivitet:** Du kan skapa nya kort direkt i vyn Byrå, som genererar nya uppgifter i projektet. &#x200B; Dessa uppgifter kan redigeras och tilldelas omedelbart. &#x200B;
+* **Anpassning:** Kolumner och kort i vyn Board kan konfigureras för att passa projektbehov, vilket ger större flexibilitet i organisationen av uppgifter. &#x200B;
+* **Integrering med uppgiftslistan:** Ändringar som görs i styrelsvyn, t.ex. uppdatering av aktivitetsstatus eller skapande av nya uppgifter, visas i uppgiftslistevyn, vilket ger en sömlös integrering mellan vyer. &#x200B;
 
 
 ## Rekommenderade självstudiekurser i detta ämne

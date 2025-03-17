@@ -12,18 +12,18 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Kom igång med projektplaneringen
 
-* I videon får du vägledning om hur du effektivt planerar ett projekt i Workfront. &#x200B; Det betonar vikten av att lägga en stabil grund för att se till att projektet avslutas i tid och blir framgångsrikt. &#x200B; Viktiga steg är att förstå fem viktiga fält: Aktiviteter, Uppdrag, Varaktighet, Planerade timmar och Föregående. &#x200B; De här fälten gör att du kan göra snabba och korrekta justeringar i projektplanen. &#x200B;
-* Innan du gör ändringar måste du se till att projektstatus är inställd på &quot;Planering&quot; för att undvika onödiga meddelanden för teamet. &#x200B; Använd standardvyn eller anpassade vyer för att fokusera på viktig information. &#x200B; Ställ in projektets startdatum korrekt och se till att det är realistiskt och anpassar sig till teamets tillgänglighet.
-* I videon betonas vikten av realistiska tidslinjer, teamtillgänglighet och korrekt planering för att skapa en stark grund för projektframgångar. &#x200B;
+I videon får du vägledning om hur du effektivt planerar ett projekt i Workfront. &#x200B; Det betonar vikten av att lägga en stabil grund för att se till att projektet avslutas i tid och blir framgångsrikt. &#x200B; Viktiga steg är att förstå fem viktiga fält: Aktiviteter, Uppdrag, Varaktighet, Planerade timmar och Föregående. &#x200B; De här fälten gör att du kan göra snabba och korrekta justeringar i projektplanen. &#x200B;
+
+I videon betonas vikten av realistiska tidslinjer, teamtillgänglighet och korrekt planering för att skapa en stark grund för projektframgångar. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
 

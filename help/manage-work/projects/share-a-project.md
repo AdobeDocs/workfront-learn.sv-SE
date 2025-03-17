@@ -12,9 +12,9 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,22 +24,22 @@ ht-degree: 0%
 I videon förklaras hur du kan dela projekt effektivt i Workfront så att intressenter och medarbetare har den synlighet och åtkomst som krävs. &#x200B; Workfront förenklar delning genom att automatiskt tilldela rätt behörigheter baserat på roller:
 
 **Automatisk delning:**
-* Projektskapare har hanterade rättigheter att visa och redigera projektet, uppgifterna och problemen. &#x200B;
-* Arbetare som tilldelas till uppgifter får visningsrättigheter för hela projektet och medarbetarrättigheter för sina uppgifter. &#x200B;
-* Projektsponsorer kan visa projektet, medan resursansvariga kan hantera det, men inte ta bort det. &#x200B;
+* Projektskapare har hanterade rättigheter att visa och redigera projektet, uppgifterna och problemen.
+* Arbetare som tilldelas till uppgifter får visningsrättigheter för hela projektet och medarbetarrättigheter för sina uppgifter.
+* Projektsponsorer kan visa projektet, medan resursansvariga kan hantera det, men inte ta bort det.
 
 **Manuell delning:**
-* Projekt kan delas med enskilda, team, jobbroller, grupper eller företag. &#x200B;
-* De bästa sätten är att skapa team där man kan dela med sig av innehållet och använda portfolior eller program för att ärva behörigheter i flera projekt. &#x200B;
+* Projekt kan delas med enskilda, team, jobbroller, grupper eller företag.
+* De bästa sätten är att skapa team där man kan dela med sig av innehållet och använda portfolior eller program för att ärva behörigheter i flera projekt.
 
 **Gruppdelning och malldelning:**
 * Med gruppredigering kan du göra delningsjusteringar för flera projekt. &#x200B;
 * Delningsinställningarna kan förkonfigureras i projektmallar för att spara tid. &#x200B;
 
 **Systemstandard:**
-* Systemadministratörer och gruppadministratörer kan ändra standardinställningar för delning, t.ex. att ge medverkarrättigheter till gruppmedlemmar som tilldelats aktiviteter. &#x200B;
+* Systemadministratörer och gruppadministratörer kan ändra standardinställningar för delning, t.ex. att ge medverkarrättigheter till gruppmedlemmar som tilldelats aktiviteter.
 
-I videon betonas användningen av team och mallar för effektiv hantering av delning och även administratörernas roll när det gäller att anpassa delningsinställningarna. &#x200B;
+I videon betonas användningen av team och mallar för effektiv hantering av delning och även administratörernas roll när det gäller att anpassa delningsinställningarna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
 

@@ -13,18 +13,17 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Förstå grundläggande projektskapande
 
-* I den här videon förklaras hur du skapar och hanterar ett projekt från grunden. &#x200B; Det börjar med att skapa ett nytt projekt, byta namn på det och ange ett mål med en beskrivning, startdatum och måldatum. Projekt kan delas upp i aktiviteter, som är planerade arbeten med beräknade varaktigheter och tilldelningar. &#x200B; Aktiviteter kan ordnas efter varandra med hjälp av föregående aktiviteter, och projektstatusen kan ställas in på Aktuell för att meddela teamet och inkludera den i rapporter. &#x200B;
-* I videon visas även hantering av oväntade fel, som är oplanerade. &#x200B; Problem kan konverteras till uppgifter, flyttas till ett annat projekt eller markeras som &quot;Lös inte&quot; om de inte kan åtgärdas. &#x200B; När du konverterar en utgåva till en aktivitet uppdateras dess status automatiskt och när du flyttar en utgåva överförs ägarskapet till ett annat projekt. Det kan vara nödvändigt att justera tidslinjerna när du lägger till uppgifter, men överlappande åtgärder kan bidra till att behålla det ursprungliga slutdatumet. &#x200B;
-* Ett projekt anses vara slutfört när alla uppgifter är klara och problemen är lösta. &#x200B; Vi uppmuntrar nybörjare att börja med enkla projekt, fokusera på grundläggande inställningar som varaktighet och föregångare, och utforska avancerade funktioner för projekthantering senare. &#x200B;
+I den här videon förklaras hur du skapar och hanterar ett projekt från grunden. &#x200B; Det börjar med att skapa ett nytt projekt, byta namn på det och ange ett mål med en beskrivning, startdatum och måldatum. Projekt kan delas upp i aktiviteter, som är planerade arbeten med beräknade varaktigheter och tilldelningar. &#x200B; Aktiviteter kan ordnas efter varandra med hjälp av föregående aktiviteter, och projektstatusen kan ställas in på Aktuell för att meddela teamet och inkludera den i rapporter. &#x200B;
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
 

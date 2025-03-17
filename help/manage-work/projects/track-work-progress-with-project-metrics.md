@@ -13,9 +13,9 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ I videon förklaras hur du spårar projektförloppet med hjälp av Project Metri
 
 ## Viktiga uppgifter
 
-**Åtkomst till projektmått:** Navigera till fliken Metrisk i den vänstra panelen av projektet för att spåra förloppet. &#x200B; Du kan behöva rulla nedåt och klicka på Visa fler för att hitta det. &#x200B;
-**KPI:er (Key Performance Indicators):** KPI-området visar slutförda, ofullständiga och försenade uppgifter. &#x200B; Om du klickar på indikatorer kan du visa specifika uppgifter. &#x200B;
-**Aktivitets- och utgivningsscheman:** Diagramgruppsaktiviteter eller utleveranser efter status eller prioritet, med förhållandet mellan slutförd och ofullständig. &#x200B; När du hovrar över spalter visas mängder. &#x200B;
-**Mått per tilldelad:** Visa uppgifter per tilldelad baserat på deras status (fullständig, ofullständig, kommande eller försenad). &#x200B; Inställningar sparas för framtida besök. &#x200B;
-**Exporterar mått:** Exportera måttsidan som en PNG-fil genom att klicka på knappen Exportera i skärmens övre högra hörn. &#x200B;
+* **Åtkomst till projektmått:** Navigera till fliken Metrisk i den vänstra panelen av projektet för att spåra förloppet. &#x200B; Du kan behöva rulla nedåt och klicka på Visa fler för att hitta det. &#x200B;
+* **KPI:er (Key Performance Indicators):** KPI-området visar slutförda, ofullständiga och försenade uppgifter. &#x200B; Om du klickar på indikatorer kan du visa specifika uppgifter. &#x200B;
+* **Aktivitets- och utgivningsscheman:** Diagramgruppsaktiviteter eller utleveranser efter status eller prioritet, med förhållandet mellan slutförd och ofullständig. &#x200B; När du hovrar över spalter visas mängder. &#x200B;
+* **Mått per tilldelad:** Visa uppgifter per tilldelad baserat på deras status (fullständig, ofullständig, kommande eller försenad). &#x200B; Inställningar sparas för framtida besök. &#x200B;
+* **Exporterar mått:** Exportera måttsidan som en PNG-fil genom att klicka på knappen Exportera i skärmens övre högra hörn. &#x200B;
 
 
 
