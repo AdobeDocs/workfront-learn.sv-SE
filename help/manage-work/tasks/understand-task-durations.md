@@ -1,6 +1,6 @@
 ---
 title: Förstå varaktigheter för uppgifter
-description: Lär dig hur varaktigheterna påverkar start- och slutdatum för uppgifter, hur varaktighetfaktorer påverkar projekttidslinjer och hur du bäst använder varaktighetsuppgifterna.
+description: Säkerställ en exakt projektplanering i Workfront med varaktiga arbetsuppgifter som påverkar tidslinjerna, utnyttja föregångare för flexibilitet, undvika manuella begränsningar samt optimera resurshantering och schemaläggning.
 activity: use
 feature: Work Management
 thumbnail: 335089.jpeg
@@ -13,23 +13,30 @@ last-substantial-update: 2024-06-03T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
 # Förstå varaktigheter för uppgifter
 
-I den här videon får du lära dig:
+I den här videon förklaras varaktigheterna för arbetsuppgifterna i Workfront, deras inverkan på datum för start och slutförande av arbetsuppgifterna, projekttidslinjer och de bästa sätten att effektivt använda varaktigheterna.
+Workfront rekommenderar att du använder varaktigheter och föregångare för att upprätta tidslinjer för uppgifter i stället för att manuellt ange begränsningar, eftersom begränsningar kan förhindra automatiska justeringar.
+&#x200B;Korrekta varaktigheter är avgörande för effektiv projektplanering och resurshantering.
 
-* Vilken aktivitetslängd har [!DNL Workfront]?
-* Hur varaktigheten påverkar start- och slutdatum för uppgifter
-* Hur varaktighet räknas in i projekttidslinjer
-* Rekommendationer för bästa praxis för användning av aktivitetsvaraktighet
 
 >[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Definition av aktivitetsvaraktighet:** Uppgiftens varaktighet är skillnaden mellan en uppgifts planerade startdatum och planerat slutförandedatum, som representerar tidsfönstret för att slutföra arbetet. &#x200B;
+* **Effekt på projekttidslinjen:** Aktivitetens varaktighet påverkar den övergripande projektlängden och det planerade slutförandedatumet, vilket gör dem avgörande för en korrekt projektplanering. &#x200B;
+* **Användning av föregående aktiviteter:** Planerade start- och slutdatum beräknas med aktivitetsvaraktigheter och föregående aktiviteter, vilket ger en dynamisk och flexibel tidslinje. &#x200B;
+* **Undvik manuella begränsningar:** När du ställer in start- eller slutförandedatum manuellt skapas aktivitetsbegränsningar, vilket kan förhindra automatiska justeringar när varaktigheter eller föregående aktiviteter ändras. &#x200B;
+* **Resurshantering:** Varaktigheter är viktiga för Workfront resurshantering och schemaläggningsverktyg, vilket ger korrekta resursuppskattningar och planering av teamtillgänglighet. &#x200B;
+
 
 ## Rekommenderade självstudiekurser i detta ämne
 

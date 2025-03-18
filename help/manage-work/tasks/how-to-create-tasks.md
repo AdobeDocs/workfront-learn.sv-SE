@@ -1,6 +1,6 @@
 ---
 title: Skapa uppgifter
-description: Lär dig några metoder för att skapa uppgifter i ett projekt i Adobe Workfront.
+description: Förenkla framtagningen av arbetsmoment med alternativ för detaljerad eller intern redigering, flexibel omplacering, anpassade vyer för ytterligare fält och specifik placering, som t.ex. "Infoga uppgift nedan" i Workfront.
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
@@ -10,21 +10,28 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
 # Skapa uppgifter
 
-I den här videon får du lära dig:
+I videon finns en självstudiekurs om hur du skapar uppgifter i ett Workfront-projekt. Självstudiekursen innehåller både långa metoder och praktiska kortkommandon. Det är flexibelt att skapa uppgifter och ger tips för effektiv uppgiftshantering.
 
-* Det långa sättet att skapa en uppgift i ett Workfront-projekt
-* Några praktiska genvägar för att skapa uppgifter
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Metoder för att skapa aktiviteter:** Använd knappen Ny uppgift för att skapa en detaljerad uppgift eller knappen Lägg till fler aktiviteter för snabb infogad redigering.
+* **Obligatoriska fält:** &#x200B; Endast aktivitetsnamnet är obligatoriskt. Andra fält som beskrivning, varaktighet och tilldelningar är valfria och kan läggas till senare. &#x200B;
+* **Flytta aktiviteter:** &#x200B; aktiviteter läggs till längst ned i listan men kan flyttas genom att dra eller använda alternativet Minska indrag för att justera hierarkin.
+* **Anpassade vyer:** Olika vyer kan väljas för att inkludera ytterligare fält, till exempel beskrivningar, när uppgifter läggs till. &#x200B;
+* **Infogar uppgifter på särskilda platser:** &#x200B; Högerklicka mellan befintliga aktiviteter och välj Infoga aktivitet nedan om du vill placera en ny uppgift på en viss plats.
+
 
 ## Rekommenderade självstudiekurser i detta ämne
 

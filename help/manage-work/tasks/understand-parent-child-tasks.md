@@ -1,6 +1,6 @@
 ---
 title: Förstå överordnade-underordnade uppgifter
-description: Lär dig hur uppgifter struktureras med en överordnad-underordnad relation i ett Workfront-projekt.
+description: Optimera projekthanteringen med grundläggande uppgifter med hjälp av överordnade och underordnade strukturer, automatisk slutförande av överordnade uppgifter, flexibla organisationsverktyg och skräddarsydd uppgiftsstrukturering för ökad effektivitet.
 activity: use
 feature: Work Management
 thumbnail: 335087.jpeg
@@ -12,20 +12,28 @@ recommendations: noDisplay,catalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
 # Förstå överordnade-underordnade uppgifter
 
-I den här videon får du lära dig:
-
-* Så här struktureras uppgifter i ett [!DNL Workfront]-projekt
+I den här videon förklaras uppgiftsstrukturen i Workfront. Uppgifter är viktiga komponenter i ett projekt och representerar de arbetsobjekt som behövs för att slutföra. &#x200B; I videon betonas vikten av att organisera arbetsuppgifterna korrekt som ett viktigt steg i projektplaneringen och projektledningen. Det visar hur du börjar arbeta med uppgifter och förklarar relationen mellan överordnade och underordnade uppgifter.
+&#x200B;Överordnade uppgifter fungerar som organisatörer, grupperar projektet i faser, faser eller milstolpar och är inte tilldelade enskilda personer. Underordnade uppgifter, eller underuppgifter, representerar åtgärdbart arbete som tilldelats gruppmedlemmar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Uppgifter som projektbakgrund:** Uppgifter representerar de arbetsobjekt som krävs för att slutföra ett projekt och är viktiga för effektiv projektplanering och -hantering. &#x200B;
+* **Överordnad-underordnad aktivitetsstruktur:** Överordnade aktiviteter grupperar projektet i faser, stadier eller milstolpar, medan underordnade aktiviteter (underaktiviteter) representerar åtgärdbart arbete som tilldelats gruppmedlemmar. &#x200B;
+* **Automatisk slutförande av överordnade aktiviteter:** Överordnade aktiviteter markeras automatiskt som slutförda när alla associerade underordnade aktiviteter har slutförts. &#x200B;
+* **Verktyg för aktivitetsorganisation:** Du kan ordna uppgifter med hjälp av indragsknapparna och utdragsknapparna för att skapa hierarkiska strukturer, med upp till sju nivåer av överordnade-underordnade relationer som stöds.
+* **Flexibel uppgiftsstrukturering:** Projekt kan använda en överordnad-underordnad struktur eller ha alla uppgifter på samma nivå, beroende på projektets specifika behov. &#x200B;
+
 
 ## Rekommenderade självstudiekurser i detta ämne
 

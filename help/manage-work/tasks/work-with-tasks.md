@@ -1,6 +1,6 @@
 ---
 title: Arbeta med uppgifter
-description: Lär dig hur du redigerar befintliga uppgifter, lägger till och tar bort uppgifter och ändrar uppgiftsordningen i ett projekt i Workfront.
+description: Förbättra uppgiftshanteringen med infogad redigering, säkerhetskopiering av papperskorgen för borttagna uppgifter, överordnad-underordnad strukturtillägg, duplicering av uppgifter samt intuitiva omorganiseringsverktyg som dra och släpp i Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335088.jpeg
@@ -12,22 +12,26 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
 
 # Arbeta med uppgifter
 
-I den här videon får du lära dig:
-
-* Så här redigerar du befintliga uppgifter i ett projekt
-* Olika sätt att lägga till och ta bort uppgifter
-* Så här ändrar du uppgiftsordningen
+Den här videon innehåller en detaljerad guide om hur du hanterar uppgifter i Workfront. Det fokuserar på effektiv uppgiftshantering, inklusive redigering, borttagning, tillägg, duplicering och omorganisering av uppgifter i en projektplan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Direktredigering för snabbändringar:** Dubbelklicka på ett fält för att redigera aktivitetsinformation direkt och använd tabbtangenten för att navigera mellan fält för snabbare uppdateringar. &#x200B;
+* **Borttagning av uppgifter med säkerhetskopiering i papperskorgen:** Borttagna uppgifter flyttas till papperskorgen i 30 dagar, endast tillgängliga för systemadministratörer, vilket garanterar att de kan återställas vid behov. &#x200B;
+* **Lägger till uppgifter med överordnad-underordnad struktur:** Använd Infoga ovan eller Infoga nedan om du vill lägga till uppgifter på specifika platser och ärver den överordnade-underordnade strukturen för den valda aktiviteten. &#x200B;
+* **Duplicerar uppgifter för effektivitet:** Duplicera uppgifter eller uppsättningar av uppgifter för att spara tid, med all uppgiftsinformation kopierad för enkel ändring och omplacering. &#x200B;
+* **Omorganisera aktiviteter med Indrag, Minska indrag och Dra och släpp:** Justera aktivitetshierarkin eller flytta aktiviteter i projektet med intuitiva verktyg som indrag, utdrag och dra och släpp-funktioner. &#x200B;
 
 ## Rekommenderade självstudiekurser i detta ämne
 

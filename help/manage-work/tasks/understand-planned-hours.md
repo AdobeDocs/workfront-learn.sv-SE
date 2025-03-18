@@ -1,6 +1,6 @@
 ---
 title: Förstå planerade timmar
-description: Lär dig vad som är planerat timmar, varför planerade timmar är viktiga för ditt projekt och hur du lägger till planerade timmar till aktiviteter.
+description: Optimera projektplaneringen i Workfront genom att utnyttja planerade timmar för att uppskatta varaktighet, hantera resurser, spåra tid, utnyttja historiska referenser och effektivisera tilldelningar.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -13,23 +13,30 @@ last-substantial-update: 2024-06-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
 # Förstå planerade timmar
 
-I den här videon får du lära dig:
+I videon förklaras konceptet med planerade timmar, som är uppskattningar av hur lång tid som krävs för att slutföra uppgifter.
+Planerade arbetstider är avgörande för resurshantering i Workfront, vilket gör det lättare att identifiera för många eller för få resurser.
+De hjälper också till att spåra arbetstid, förbättra framtida uppskattningar och förtydliga förväntningarna med medarbetarna.
 
-* Vilka timmar planeras i Workfront?
-* Varför planerade timmar är viktiga för ditt projekt
-* Så här beräknar du planerade timmar
-* Så här lägger du till planerade timmar till aktiviteter
 
 >[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
+
+
+## Viktiga uppgifter
+
+* **Viktighet för planerade timmar:** Planerade timmar hjälper till att uppskatta aktivitetens varaktighet, hantera resursallokering och spåra hur lång tid som har ägnats åt, vilket förbättrar den framtida projektplaneringen. &#x200B;
+* **Exakta beräkningstips:** Dela upp långa aktiviteter i mindre underaktiviteter, spåra tiden effektivt och dokumentera ändringar eller fel för att förfina uppskattningar av planerade timmar. &#x200B;
+* **Resurshantering:** Workfront använder planerade timmar för att identifiera över- eller underallokering av resurser, vilket säkerställer effektiva aktivitetstilldelningar. &#x200B;
+* **Historisk referens:** Slutförda projekt ska behållas som referenser för framtida planering, särskilt för uppgifter som tilldelats nya arbetare. &#x200B;
+* **Användarvänlighet:** Planerade timmar kan läggas till eller redigeras med Inline Editing, och överordnade aktivitetstimmar beräknas automatiskt genom summering av underaktiviteter. &#x200B; Vi rekommenderar att du inkluderar planerade timmar i projektmallar. &#x200B;
 
 
 ## Rekommenderade självstudiekurser och artiklar om detta ämne

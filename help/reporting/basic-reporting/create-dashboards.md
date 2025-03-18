@@ -11,9 +11,9 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Videon innehåller en omfattande guide till hur du lär dig mer om och använder
 
 ## Viktiga uppgifter
 
-**Kontrollpaneler i Workfront:** En kontrollpanel är en samling rapporter som gör att användare kan ordna och visa relaterade data, till exempel projekt, uppgifter och problem, i en central vy. &#x200B;
-**Skapa instrumentpaneler:** Du kan anpassa instrumentpaneler genom att välja en layout, lägga till rapporter, anpassade kalendrar eller externa sidor och ordna dem för optimal visning. &#x200B; Användare kan också anpassa vilka kolumner som ska visas i rapporter sida vid sida på kontrollpanelen. &#x200B;
-**Åtkomst till instrumentpaneler:** Instrumentpaneler finns under Mina instrumentpaneler, Delade instrumentpaneler eller Alla instrumentpaneler i instrumentpanelsområdet. &#x200B; Kontrollpaneler som används ofta kan fästas eller läggas till i favoriter för snabb åtkomst. &#x200B;
-**Kontrollpaneler för delning:** Instrumentpaneler kan delas med andra Workfront-användare, inklusive alla rapporter på kontrollpanelen, via menyn Instrumentpanelsåtgärder. &#x200B;
-**Kontrollpaneler för utskrift:** Kontrollpaneler kan skrivas ut direkt från menyn Instrumentpanelsåtgärder, vilket gör det enkelt att dela fysiska kopior av data. &#x200B;
+* **Kontrollpaneler i Workfront:** En kontrollpanel är en samling rapporter som gör att användare kan ordna och visa relaterade data, till exempel projekt, uppgifter och problem, i en central vy. &#x200B;
+* **Skapa instrumentpaneler:** Du kan anpassa instrumentpaneler genom att välja en layout, lägga till rapporter, anpassade kalendrar eller externa sidor och ordna dem för optimal visning. &#x200B; Användare kan också anpassa vilka kolumner som ska visas i rapporter sida vid sida på kontrollpanelen. &#x200B;
+* **Åtkomst till instrumentpaneler:** Instrumentpaneler finns under Mina instrumentpaneler, Delade instrumentpaneler eller Alla instrumentpaneler i instrumentpanelsområdet. &#x200B; Kontrollpaneler som används ofta kan fästas eller läggas till i favoriter för snabb åtkomst. &#x200B;
+* **Kontrollpaneler för delning:** Instrumentpaneler kan delas med andra Workfront-användare, inklusive alla rapporter på kontrollpanelen, via menyn Instrumentpanelsåtgärder. &#x200B;
+* **Kontrollpaneler för utskrift:** Kontrollpaneler kan skrivas ut direkt från menyn Instrumentpanelsåtgärder, vilket gör det enkelt att dela fysiska kopior av data. &#x200B;
 
 
 ## Aktiviteter för att skapa kontrollpanel

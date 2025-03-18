@@ -1,6 +1,6 @@
 ---
 title: Lär dig att sekvensera uppgifter
-description: Lär dig vad en föregångare är och hur de hanterar uppgifter i ett projekt. Lär dig sedan att använda varaktighet och föregångare för att skapa en tidslinje.
+description: Effektivisera projekthanteringen genom att definiera uppgiftsordningen med föregångare, ange tidslinjer genom varaktighet, förenkla sekvenser med hjälp av mallar, undvika manuella begränsningar och förfina kompetenser med övningar.
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -13,34 +13,29 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
 # Lär dig att sekvensera uppgifter
 
-I den här videon får du lära dig:
+I videon förklaras hur du sekvenserar uppgifter i Workfront med föregångare och tidsperioder för att hantera projekttidslinjer effektivt.
+I videon visas hur du ställer in föregångare för nya uppgifter, vilket säkerställer sekventiell ordning och korrekta startdatum.
+&#x200B;I rapporten betonas vikten av att ha praktiska kontakter med föregångare för att förstå hur de påverkar projekttidslinjerna och man rekommenderar att man använder varaktighet och föregångare för effektiv projektplanering.
 
-* Vad en föregångare är i Workfront
-* Så här använder du varaktighet och föregångare för att skapa en tidslinje
-* Hur föregångare sekvenserar uppgifter i ett projekt
-* Hur ett startdatum för en uppgift påverkar uppgiftsbegränsningen
-* Ange föregående
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
 
-<!---
-Learn more urls
-There's a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you're curious, here are some articles about additional functionality.
-Overview of task predecessors
-Create predecessor relationships by chaining tasks
-Creating a predecessor relationship on the task list
-Overview of lag types
-Overview of task dependency types
---->
+## Viktiga uppgifter
+
+* **Föregångare definierar uppgiftsordning:** Föregångare skapar aktivitetssekvensen och ser till att vissa uppgifter är slutförda innan andra kan börja, vilket är nödvändigt för att projektet ska lyckas. &#x200B;
+* **Tidslinjer för varaktighetseffekt:** Aktivitetsvaraktigheterna anger tidsramen för arbetet och justerar start- och slutdatum, vilket skapar en överlappande effekt på beroende aktiviteter. &#x200B;
+* **Mallar Förenkla installationen:** Föregångare och begränsningar kan förinställas i projektmallar, vilket effektiviserar hanteringen av aktivitetssekvenser. &#x200B;
+* **Manuella justeringar påverkar begränsningar:** Om du ställer in specifika datum manuellt åsidosätts de överlappande uppdateringar som orsakas av ändringar av varaktighet eller föregående aktiviteter. &#x200B;
+* **Ökad skicklighet:** Praktik med föregångare och varaktighet hjälper till att förfina projektledningskunskaperna och säkerställa bättre kontroll över tidslinjerna.
 
 ## Rekommenderade självstudiekurser i detta ämne
 
