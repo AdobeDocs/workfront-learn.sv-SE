@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,10 @@ ht-degree: 0%
 
 I den här videon förklaras hur du söker efter och hanterar begäranden i Workfront. &#x200B; Det omfattar fyra huvudområden:
 
-* **Workfront Home:** Användare som Mary Smith, en produktionsartist, kan se förfrågningar som tilldelats dem. &#x200B; Joan Harris, som ofta gör förfrågningar, kan hitta slutförda förfrågningar som väntar på hennes godkännande. &#x200B;
-* **Begäranområde:** Användare kan filtrera begäranden så att de kan se de som de har skapat. &#x200B; Termen&quot;my&quot; i begärandeområdet avser problem som jag, den inloggade användaren, har skapat. &#x200B;
-* **Teamsida:** Användare kan visa otilldelade teamförfrågningar och tilldela sig själva eller andra. &#x200B; De kan också använda arbetsbelastningsutjämnaren för att hantera teamtilldelningar baserat på aktuella arbetsbelastningar. &#x200B;
-* **Anpassade rapporter och instrumentpaneler:** Användare kan skapa anpassade rapporter för att spåra begäranden, med kontroll över namn, filter, vyer och grupperingar. &#x200B; På så sätt kan du enkelt spåra begäranden efter prioritet, skapare, primär kontakt, tilldelad och status. &#x200B;
+* Workfront Home
+* Frågeområde
+* &#x200B;
+* Anpassade rapporter och kontrollpaneler
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)

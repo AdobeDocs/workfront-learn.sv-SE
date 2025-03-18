@@ -1,6 +1,6 @@
 ---
 title: Konvertera ett problem/en begäran till en uppgift
-description: Lär dig hur du konverterar ett problem eller en förfrågan till en uppgift.
+description: Konvertera smidigt problem till uppgifter i Workfront med redigerbara namn, smidig bifogad fil, flexibelt projekturval, konverteringsalternativ och synkroniserade statusuppdateringar för smidiga arbetsflöden.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,18 +11,30 @@ last-substantial-update: 2024-02-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
 # Konvertera ett problem/en begäran till en uppgift
 
-I den här videon får du lära dig hur du konverterar ett problem eller en förfrågan till en uppgift.
+I videon visas hur du konverterar ett problem eller en förfrågan till en uppgift.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Enkel konverteringsprocess:** Om du vill konvertera ett problem/en begäran till en uppgift öppnar du problemet, klickar på menyn med tre punkter och väljer Konvertera till uppgift &#x200B;. Uppgiftsnamnet och beskrivningen kopieras som standard, men kan redigeras. &#x200B;
+* **Val av målprojekt:** Du kan välja målprojekt för aktiviteten, antingen standardprojektet där problemet finns eller ett annat projekt som du har tillgång till. &#x200B;
+* **Automatisk formulärbilaga:** Anpassade formulär som är länkade till problemet läggs automatiskt till i aktiviteten så att alla fältvärden överförs sömlöst. &#x200B;
+* **Konverteringsalternativ:** Bland huvudalternativen finns:
+   * Hålla det ursprungliga problemet aktivt tillsammans med uppgiften. &#x200B;
+   * Beställaren får åtkomst till uppgiften. &#x200B;
+   * Behåller problemets planerade slutförandedatum för aktiviteten. &#x200B;
+* **Länkade statusuppdateringar:** Om det ursprungliga felet behålls uppdateras dess status automatiskt baserat på aktivitetens förlopp, vilket säkerställer synkronisering mellan utgåvan och aktiviteten. &#x200B;
+
 
 >[!NOTE]
 >

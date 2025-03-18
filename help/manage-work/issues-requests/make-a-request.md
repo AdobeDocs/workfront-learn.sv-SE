@@ -1,6 +1,6 @@
 ---
 title: Gör en förfrågan
-description: Lär dig hur du hittar området [!UICONTROL Förfrågningar] och gör en förfrågan. Lär dig sedan hur du visar inskickade begäranden och utkast.
+description: Förbättra effektiviteten i Workfront med smidig framtagning av förfrågningar, anpassningsbara arbetsflöden, automatisk lagring av utkast, spårnings- och filtreringsverktyg samt möjligheten att kopiera och återanvända förfrågningar.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -13,27 +13,26 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
 
 # Gör en förfrågan
 
-I många organisationer är det första steget i att starta ett nytt projekt, utveckla en ny produkt eller skapa en slutprodukt att göra en förfrågan i Workfront. Du kan följa förloppet för begäran och ange ytterligare information vid behov.
-
-I den här videon får du lära dig att:
-
-* Navigera till begärandeområdet
-* Gör en förfrågan
-* Visa skickade begäranden
-* Kopiera en begäran
-* Hitta ett utkast till en begäran
-* Se de tre senaste begärandesökvägarna
+Videon innehåller en detaljerad guide om hur du gör och hanterar förfrågningar inom Workfront. Här beskrivs hur du skapar en begäran. Börja med att välja&quot;Begäranden&quot; på huvudmenyn och klicka på knappen&quot;Ny begäran&quot;. &#x200B; Användarna kan välja en frågetyp bland anpassade köer som är anpassade efter organisationens arbetsflöden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Effektivare skapande av begäran:** Användare kan enkelt skapa begäranden genom att välja Begäranden på huvudmenyn, välja en begärandetyp, fylla i obligatoriska fält och bifoga relevanta dokument. &#x200B;
+* **Anpassningsbara arbetsflöden:** Begärandeköer och formulär är anpassade för organisatoriska arbetsflöden, vilket gör att användare kan ange information (t.ex. butiker, utomhus, sociala medier) och prioritet.
+* **Funktion för automatiskt sparande av utkast:** Utkast sparas automatiskt när användarna fyller i ämnesfältet, så att inga data går förlorade om de pausar eller navigerar bort. &#x200B; Du kan komma åt utkast senare för att slutföra dem eller ignorera dem om det behövs. &#x200B;
+* **Spårnings- och filtreringsbegäranden:** Skickade begäranden kan spåras på sidan Skickat, med filter tillgängliga för att visa öppna, olösta eller alla begäranden baserade på användarbehörigheter. &#x200B;
+* **Kopiera och återanvänd begäranden:** Användare kan kopiera befintliga begäranden för att skapa nya, vilket gör det enklare att skicka liknande begäranden utan att börja om från början.
 
 ## Rekommenderade självstudiekurser i detta ämne
 

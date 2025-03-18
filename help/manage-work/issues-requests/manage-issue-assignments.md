@@ -1,6 +1,6 @@
 ---
 title: Hantera utleveranstilldelningar
-description: Lär dig hur du tilldelar ett problem till en enskild användare, flera användare eller ett team så att problemet kan lösas.
+description: Hantera problem effektivt i Workfront genom att använda intern redigering och arbetsbelastningsutjämnaren för tilldelningar, spåra och uppdatera framsteg, ändra problemstatus och följa teamspecifika arbetsflöden för smidig projektkörning.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,9 +12,9 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,15 @@ I den här videon får du lära dig att:
 * Uppdatera utgivningsstatus
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Tilldela problem:** Använd infogad redigering i uppdragsfältet för att tilldela utgåvor till användare eller team, och se till att du klickar på Spara när du har gjort uppdrag. &#x200B; Teamleads kan använda arbetsbelastningsutjämnaren för att tilldela uppgifter genom att dra och släppa dem i teammedlemmarnas kalendrar. &#x200B;
+* **Söker efter tilldelade problem:** Problem som har tilldelats dig visas i hemarbetslistan, som kan filtreras. &#x200B; Problem som tilldelats av teamet visas i gruppförfrågningsavsnittet, där teammedlemmar kan acceptera eller omfördela uppgifter. &#x200B; Dessa problem visas också i arbetsbelastningsutjämnaren för bättre synlighet. &#x200B;
+* **Uppdateringsförlopp:** Publicera uppdateringar och logga timmar i ärenden för att ge synlighet i pågående arbete. &#x200B; Använd funktionen &quot;I name&quot; för att dirigera kommentarer till specifika användare eller team. &#x200B; Meddelanden skickas för kommentarer, men inte för loggade timmar eller statusändringar. &#x200B;
+* **Ändra problemstatus:** Uppdatera problemstatusen så att den återspeglar förloppet, t.ex. &quot;arbeta med det&quot; eller &quot;slutfört&quot; &#x200B;. Olösta problem förhindrar att associerade aktiviteter och projekt markeras som slutförda. &#x200B;
+* **Teamspecifika arbetsflöden:** Följ organisationens specifika arbetsflöden och systemkonfigurationer för att hantera problem effektivt. &#x200B;
+
 
 ## Rekommenderade självstudiekurser i detta ämne
 
