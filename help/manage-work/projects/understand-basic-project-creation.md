@@ -1,6 +1,6 @@
 ---
 title: Förstå grundläggande projektskapande
-description: Lär dig hur du skapar, hanterar och slutför projekt effektivt, hanterar oväntade problem och utforskar nybörjarvänliga tips för att lära dig grunderna i projekthantering. ​
+description: Lär dig hur du skapar, hanterar och slutför projekt effektivt, hanterar oväntade problem och utforskar nybörjarvänliga tips för att lära dig grunderna i projekthantering.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -15,8 +15,8 @@ exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
 source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '243'
+ht-degree: 9%
 
 ---
 
