@@ -1,6 +1,6 @@
 ---
 title: Delegera uppgifter, ärenden och godkännanden
-description: Lär dig hur du delegerar uppgifter och utfärdar uppdrag och godkännanden av projekt, uppgifter och ärenden till en annan Workfront-användare.
+description: Effektivisera delegeringsarbetsflödena genom att aktivera delegering av uppgifter och godkännanden i installationsprogrammet, använda knapparna Delegera och Delegera godkännande, ange e-postmeddelanden för tilldelningar och spåra uppdateringar och systemaktiviteter för tydlig tillsyn.
 activity: use
 feature: Approvals
 type: Tutorial
@@ -13,25 +13,30 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
 
 # Delegera uppgifter, ärenden och godkännanden
 
-Lär dig hur du delegerar uppgifter och utfärdar uppdrag och godkännanden av projekt, uppgifter och ärenden till en annan Workfront-användare.
+I videon förklaras hur du delegerar uppgifter, utgåvor och godkännanden. &#x200B; Om du vill aktivera delegering måste system- eller gruppadministratören aktivera funktionen i Inställningar under Projektinställningar. &#x200B; När den är aktiverad kan användare delegera alla sina uppgifter och utgåvor till en annan person under en angiven tidsperiod med knappen &quot;Delegera&quot; i widgeten Mina uppgifter. &#x200B; Delegering gäller både uppgifter och frågor tillsammans, och de måste tilldelas samma person. &#x200B; Delegeringar kan anges med eller utan ett slutdatum, och användare kan när som helst avbryta delegeringar manuellt. &#x200B;
+För godkännanden kan användare delegera dem via widgeten Väntar på mitt godkännande. &#x200B; Delegering gäller befintliga och nya godkännanden under den angivna tidsperioden, men endast för projekt, uppgifter och ärenden - inte för dokument, korrektur eller tidrapporter. &#x200B; Meddelanden för delegerade uppgifter, utgåvor och godkännanden kan aktiveras av administratören för att informera både den som delegerat uppgiften och den som delegerat den. &#x200B;
+Delegerade godkännanden är markerade i systemet och visar vem som har delegerat dem och till vem. &#x200B; Uppdateringar som rör godkännanden visas på fliken Uppdatera och systemaktiviteten kan visas på fliken Systemaktivitet. &#x200B;
 
-I den här videon får du lära dig att:
-
-* Aktivera delegering i Inställningar
-* Delegera tilldelningar av uppgifter och ärenden
-* Delegera godkännanden för projekt, uppgifter, utgåvor
-* Identifiera delegerade godkännanden
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Aktivera delegering:** Delegering av uppgifter, utgåvor och godkännanden måste först aktiveras av system- eller gruppadministratören i Konfigurera under Projektinställningar.
+* **Delegera uppgifter och ärenden:** Användare kan delegera alla sina uppgifter och utgåvor tillsammans (inte separat) till en person under en angiven tidsperiod via knappen Delegera i widgeten Mina uppgifter. &#x200B; Delegeringar kan anges med eller utan ett slutdatum och kan stoppas manuellt.
+* **Delegera godkännanden:** Godkännanden för projekt, uppgifter och utgåvor kan delegeras med knappen Delegera godkännande i widgeten Väntar på mitt godkännande. &#x200B; Godkännanden för dokument, korrektur eller tidrapporter kan dock inte delegeras.
+* **Meddelanden:** E-postmeddelanden för delegerade uppgifter, utgåvor och godkännanden kan aktiveras av administratören för att informera både delegeraren och delegaten när delegeringarna tilldelas eller stoppas.
+* **Spåra delegeringar:** Delegerade aktiviteter och godkännanden markeras i systemet, vilket visar vem som har delegerat dem och till vem. &#x200B; Uppdateringar som rör godkännanden visas på fliken Uppdatera och systemaktiviteten kan visas på fliken Systemaktivitet.
+
 
 ## Rekommenderade självstudiekurser i detta ämne
 
