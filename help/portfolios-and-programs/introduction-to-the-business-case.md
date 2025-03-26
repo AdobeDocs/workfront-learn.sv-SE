@@ -1,6 +1,6 @@
 ---
 title: Förstå [!UICONTROL affärsärendet]
-description: Lär dig hur du använder [!UICONTROL affärsärendet] i Workfront för att utvärdera begärda projekt och jämföra dem med andra projekt i din portfölj.
+description: Ta fram omfattande affärsärenden i Workfront för att prioritera projekt genom att inkludera detaljerad projektinformation, utgifter, arbete- och riskanalys, poängkort och anpassade formulär för strukturerad portföljhantering.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -12,21 +12,30 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
 # Förstå [!UICONTROL affärsärendet]
 
-I den här videon får du lära dig:
-
-* Varför fylla i ett affärsärende
-* Hur man fyller i ett affärsärende
+I videon förklaras vikten av ett affärsärende inom projektledning. Det betonar att det blir lättare för cheferna att analysera och prioritera projekt som konkurrerar om samma resurser om de ska fylla i affärsplanen noggrant. &#x200B; När ärendet är klart ändras projektets status till&quot;Begärt&quot; och resultatet beräknas för jämförelsen i Portfolio Optimization Tool. &#x200B; Inget av fälten är obligatoriskt, men mer detaljerad information förbättrar beslutsfattandet. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+I videon finns en översikt över de viktigaste delarna av ärendet, inklusive:
+
+* **Projektinformation:** Allmän information, som projektsponsorn och Planerad förmån, som beräknar den potentiella ekonomiska vinsten av att slutföra projektet. &#x200B;
+* **Utgifter:** Icke-arbetskostnader, t.ex. rese- eller hyreskostnader, som påverkar den budgeterade kostnaden och nettovärdet. &#x200B;
+* **Resursbudgetering:** Arbetsuppskattningar som hämtats från resursplaneraren och som kräver att resurspooler har konfigurerats i Workfront. &#x200B;
+* **Risker:** Identifierar risker, beräknar deras kostnad och sannolikhet och beräknar deras påverkan på nettovärdet. &#x200B;
+* **Styrkort:** Verktyg för att utvärdera hur väl ett projekt passar in med portföljmål, med hjälp av fördefinierade frågor och värden som angetts av systemadministratörer. &#x200B;
+* **Anpassad Forms:** Valfria formulär som är anpassade för affärsärendet. &#x200B;
+
 
 ## Rekommenderade självstudiekurser i detta ämne
 

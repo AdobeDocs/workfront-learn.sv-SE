@@ -1,6 +1,6 @@
 ---
 title: Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning
-description: Lär dig hur du skapar en global godkännandeprocess och en godkännandeprocess för ett projekt, en uppgift eller ett ärende.
+description: Förbättra arbetsflödena för godkännande genom att utnyttja både globala godkännandeprocesser och godkännandeprocesser för enstaka användningsområden för uppgifter, projekt eller ärenden, implementera stegvisa godkännanden på flera nivåer och främja effektiviteten genom återanvändbarhet i projektmallar.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -9,26 +9,33 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
-last-substantial-update: 2024-09-24T00:00:00Z
+last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
 # Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning
 
-Godkännandeprocesser för projekt, uppgifter och problem gör att en projektledare kan få expertbekräftelser på att arbetet har utförts precis innan man går vidare. Projektledaren kan skapa en godkännandeprocess för varje situation (detta kallas för en enstaka godkännandeprocess) eller välja från en lista med möjligen många godkännandeprocesser som tidigare har skapats för att tillgodose vanliga behov (dessa kallas globala eller befintliga godkännandeprocesser).
-
-I båda fallen, när objektets status ändras till en som anges i godkännandeprocessen, meddelas godkännaren på olika sätt för att granska arbetet och godkänna eller avvisa det. Eftersom hela projektet kan pausas i väntan på godkännande bör godkännarna i förväg vara medvetna om att de kan anropas för godkännande. Om en godkännare inte är på kontoret av någon anledning kan de delegera sina godkännanden till en kvalificerad vikarie. Mer information finns i [Delegera uppgifter, utgåvor och godkännanden](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md).
-
-I den här videon får du lära dig hur du skapar en global godkännandeprocess och en godkännandeprocess för ett projekt, en uppgift eller ett problem med en enstaka användning.
+I videon förklaras hur du skapar och hanterar godkännandeprocesser för projekt, uppgifter eller problem, och skiljer mellan globala och fristående godkännandeprocesser.
+I videon visas hur du skapar godkännandeprocesser, ställer in godkännare, konfigurerar status och använder faser för godkännanden på flera nivåer.
+&#x200B;Den visar på flexibiliteten i både globala och fristående processer för effektiv hantering av godkännanden av uppgifter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Olika typer av godkännandeprocesser:** Det finns två typer: globala godkännandeprocesser (som delas mellan aktiviteter, projekt eller ärenden) och godkännandeprocesser för enstaka användning (som är specifika för en enstaka uppgift, projekt eller utgåva).
+* **Globala godkännandeprocesser:** Dessa skapas i avsnittet Inställningar > Processer > Godkännanden och kan aktiveras av specifika statusvärden. &#x200B; De kan omfatta flera godkännare eller stegvisa godkännanden.
+* **Godkännandeprocess för enstaka användning:** Dessa är objektspecifika och kan inte delas. &#x200B; De kan skapas från grunden eller genom att redigera en global godkännandeprocess och konvertera den.
+* **Godkännanden på flera nivåer:** Godkännandeprocesser kan omfatta flera godkännare samtidigt eller stegvis, vilket säkerställer sekventiella godkännanden innan nästa godkännare meddelas.
+* **Återanvändbarhet:** Godkännandeprocesser som bara används kan kopieras med uppgifter, projekt eller problem eller inkluderas i projektmallar, vilket gör det enkelt att replikera mellan projekt.
+
 
 >[!TIP]
 >
@@ -38,17 +45,6 @@ I den här videon får du lära dig hur du skapar en global godkännandeprocess 
 >
 >Du kan konfigurera ett enstaka godkännande av projekt och ärenden på samma sätt som beskrivs för uppgifter i videon.
 
-## Använda automatiska utfärdandegodkännanden i en frågekö
-
-Om du vill ställa in automatiska godkännanden av utgåvor i en begärandekö kan dessa bara göras med en global godkännandeprocess och tillämpas i ett [!UICONTROL köämne].
-
-När du skapar eller redigerar ett [!UICONTROL köämne] väljer du den globala godkännandeprocessen i fältet **[!UICONTROL Standardgodkännande]**.
-
-![Bild som visar hur du väljer en standardgodkännandeprocess i ett köämne](assets/automatic-issue-approval-1.png)
-
-Du kan behöva redigera godkännandeprocessen för att se till att **[!UICONTROL Tidigare status]** inte är det som problemet ställs in på när godkännandet avvisas. Detta beror på att den tidigare statusen är **[!UICONTROL Ny]**, och det här är också den status som utlöser godkännandeprocessen, så det är den status som kommer att anges när den godkänns. För att undvika förvirring när godkännandet av ärendet avvisas är det bättre att ange statusen till något som **[!UICONTROL Kommer inte att matcha]**, eller till en anpassad status som skapats för detta.
-
-![Bild som visar hur statusen ändras när problemet avvisas](assets/automatic-issue-approval-2.png)
 
 
 ## Rekommenderade självstudiekurser i detta ämne
@@ -56,4 +52,5 @@ Du kan behöva redigera godkännandeprocessen för att se till att **[!UICONTROL
 * [Delegera uppgifter, ärenden och godkännanden](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [Förstå gruppspecifika godkännandeprocesser](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Skapa ett begärandeflöde](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Använda en godkännandeprocess i en begärandekö](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 

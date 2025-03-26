@@ -1,6 +1,6 @@
 ---
 title: Förstå [!UICONTROL Portfolio Optimizer]
-description: Lär dig använda [!UICONTROL Portfolio Optimizer] för att jämföra och prioritera projekt i en portfölj.
+description: Optimera projekthanteringen i Workfront genom att fylla i affärsärenden för rättvisa jämförelser, filtrera projekt efter status, justera poängen dynamiskt, prioritera projekt effektivt och anpassa resursplaneringen efter portföljmålen.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -12,22 +12,28 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
 # Förstå [!UICONTROL Portfolio Optimizer]
 
-I den här videon får du lära dig att:
+I videon förklaras hur du använder Portfolio Optimization Tool i Workfront för att utvärdera och prioritera projekt i en portfölj. &#x200B; Det börjar med att skicka ett affärsärende för ett projekt, ändra dess status till&quot;begärt&quot; och aktivera alternativ för att godkänna eller avvisa det. &#x200B; Innan de godkänns kan de jämföra projektet med andra i portföljen med hjälp av verktyget Portfolio-optimering. &#x200B;
 
-* Skicka in ett affärsärende för godkännande och prioritering
-* Optimera prioriteringen med [!UICONTROL Portfolio Optimizer]
-* Ange och visa fältet Proffsprioritet i ett projekt
+I videon betonas vikten av att slutföra affärsärenden för exakta jämförelser och den innehåller stegvisa instruktioner för att optimera och hantera projektprioriteringar effektivt. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Fullständiga affärsärenden för rättvis jämförelse:** Se till att alla projekt har slutfört och skickat in affärsärenden innan de jämförs i Portfolio optimeringsverktyg för att undvika att data saknas och att utvärderingar är felaktiga. &#x200B;
+* **Filtrera projekt efter status:** Använd filter för att fokusera på specifika projektstatusar (t.ex. begärda, godkända, aktuella) för smidiga jämförelser och beslutsfattande. &#x200B;
+* **Optimera projektresultat:** Justera projektresultat baserat på prioriteringar som hög avkastning eller hög justering och observera hur poängen ändras dynamiskt för att återspegla portföljmålen. &#x200B;
+* **Prioritera och slutför projekt:** Sortera projekt efter bakgrundsmusik, dra och släpp dem eller exkludera omarkerade projekt. &#x200B; Slutför prioriteter genom att ange ordningen, vilket uppdaterar fältet för portföljprioritet som visas i vyer, rapporter och Resursplanering. &#x200B;**Justera resursplanering med Portfolio-prioriteringar:** Aktivera alternativet Visa Portfolio-prioriteringar i resursplaneraren för att anpassa resursplaneringsprioriteter efter portföljprioriteringar och säkerställa konsekvens mellan verktygen. &#x200B;
+
 
 ## Rekommenderade självstudiekurser i detta ämne
 

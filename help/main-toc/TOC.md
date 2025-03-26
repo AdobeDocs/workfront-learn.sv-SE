@@ -1,8 +1,8 @@
 ---
 user-guide-description: Självstudiekurser om Workfront
-source-git-commit: 6611bdf35ab0863ac6f3e78ef93fc4f9cc34aed1
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
-source-wordcount: '2418'
+source-wordcount: '2427'
 ht-degree: 0%
 
 ---
@@ -156,6 +156,7 @@ ht-degree: 0%
 
    + Godkännandeprocesser och milstolpesökvägar {#approval-processes-and-milestone-paths}
       + [Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [Använda en godkännandeprocess i en begärandekö](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [Granska och godkänn digitalt arbete](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Delegera uppgifter, ärenden och godkännanden](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Använd milstolpar](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)

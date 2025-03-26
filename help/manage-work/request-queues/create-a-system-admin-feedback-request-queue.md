@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -35,7 +35,7 @@ I den här videon får du lära dig:
 * Så här skapar du en kö för feedback från systemadministratörer
 * Hur en feedback från administratörsteamet kan förbättra era processer
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 Om du vill lära dig hur du skapar den **feedback-rapport för administratörsteamet** som används i videon kan du läsa självstudiekursen [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) och leta efter aktiviteten **Skapa en feedback-rapport för administratörsteamet** efter videon.
 

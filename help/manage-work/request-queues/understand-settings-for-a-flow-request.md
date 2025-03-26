@@ -1,6 +1,6 @@
 ---
 title: Förstå inställningarna för ett begärandeflöde
-description: Lär dig mer om begäranflöden och hur du skapar ett med hanteringsregler, ämnesgrupper och köämnen.
+description: Optimera hanteringen av Workfront-förfrågningar genom att definiera köämnen, använda ämnesgrupper, ange routningsregler, planera i förväg och se till att allt material inte förbises för ökad effektivitet.
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -13,21 +13,32 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
 
 # Förstå inställningarna för ett begärandeflöde
 
-I den här videon får du lära dig:
+I videon förklaras förfrågningsflödet i Workfront, med fokus på köhantering, routningsregler, ämnesgrupper och köämnen. &#x200B; Det betonar vikten av att organisera en kö för förfrågningar genom att svara på tre viktiga frågor:
 
-* Arbetsflödet som är specifikt för köhantering
-* Skapa och använda routningsregler, ämnesgrupper och köämnen
+1. **Vilka ämnen behöver jag?** &#x200B; - Det här är köämnen som kategoriserar skickade begäranden, vilket gör dem enklare att hantera och anpassa. &#x200B;
+1. **Kan jag ordna mina ämnen ytterligare?** &#x200B; - Ämnesgrupper hjälper dig att gruppera relaterade köämnen för bättre organisering (t.ex. broschyrer, visitkort och affischtavlor under Skriv ut). &#x200B;
+1. **Vem ska begäran tilldelas?** &#x200B; - Routningsregler dirigerar automatiskt inskickade data till specifika team, roller eller användare, så att förfrågningar inte försvinner. &#x200B;
+
+Genom att besvara dessa frågor kan användarna effektivt planera och konfigurera sin kö i Workfront. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Köämnen:** Definiera och organisera olika typer av förfrågningar i köämnen för att effektivisera kategorisering och anpassning. &#x200B;
+* **Ämnesgrupper:** Använd ämnesgrupper för att ytterligare organisera köämnen, vilket gör det enklare att hitta relaterade förfrågningar (t.ex. gruppering av kategorierna Skriv ut och Digital). &#x200B;
+* **Routningsregler:** Konfigurera routningsregler för att automatiskt tilldela begäranden till specifika team, roller eller användare, så att inskickade data inte förbises. &#x200B;
+* **Planering är nödvändigt:** Ordna behoven i din frågekö innan du skapar den för att säkerställa effektiv hantering. &#x200B;
+* **Undvik okända begäranden:** Utan routningsregler kan inskickade data finnas kvar på fliken Problem och passera obemärkta om de inte kontrolleras manuellt regelbundet. &#x200B;
 
 ## Rekommenderade självstudiekurser i detta ämne
 
