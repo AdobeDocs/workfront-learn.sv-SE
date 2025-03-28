@@ -1,6 +1,6 @@
 ---
 title: Skapa ett projekt direkt från en mall
-description: Lär dig hur du skapar ett projekt genom att börja med en mall som redan har skapats.
+description: Skapa projekt direkt från mallar genom att säkerställa åtkomsträttigheter, använd menyn med tre punkter för att välja"Skapa projekt", redigera projektinformationen efter behov och slutföra processen för att få ett effektivt inställningsalternativ.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,36 +8,32 @@ thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2025-03-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+doc-type: video
+source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # Skapa ett projekt direkt från en mall
 
-Om du arbetar med en mall och behöver skapa ett projekt med den mallen klickar du på menyn med tre punkter bredvid mallnamnet. Välj sedan Skapa projekt.
+I videon förklaras hur du skapar ett projekt från en mall. &#x200B; Om du har behörighet att öppna en mall kan du använda den som en genväg för att skapa ett projekt. &#x200B; Du gör detta genom att öppna mallen, öppna menyn med tre punkter och välja&quot;Skapa projekt&quot; &#x200B; Detta tar dig till en skärm där du kan redigera projektinformationen. &#x200B; Klicka på Skapa projekt när du är klar. &#x200B;
 
-![Skapa projektalternativ på menyn](assets/direct-template-01.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops)
 
-I informationsfönstret kan du ändra inställningarna för det nya projektet.
+## Viktiga uppgifter
 
-![Sidan Skapa projekt](assets/direct-template-02.png)
+**Mallåtkomst:** Du måste ha behörighet att öppna en mall för att skapa ett projekt utifrån den. &#x200B;
+**Kortkommandoalternativ:** Att använda en mall kan vara en praktisk genväg jämfört med att starta ett projekt från början. &#x200B;
+**Trepunktsmeny:** Öppna mallen och välj Skapa projekt på menyn med tre punkter. &#x200B;
+**Redigera projektinformation:** När du har valt Skapa projekt kan du redigera projektinformationen innan du slutför. &#x200B;
+**Slutför skapandet:** Klicka på Skapa projekt när du är klar att slutföra processen. &#x200B;
 
->[!NOTE]
->
->Om du vill skapa ett projekt med den här metoden måste du ha tillgång till mallområdet i Workfront. Om du inte har tillgång till mallar kan du fortfarande använda en mall för att skapa ett projekt från projektområdet eller när du konverterar ett problem eller en uppgift.
-
->[!TIP]
->
->Om det finns en mall som du använder ofta kan du göra den till en favorit! Mallen visas på menyn Nytt projekt, förutom att den visas på menyn Favoriter i navigeringsfältet.
-
-
-![Nya favoritmallar för projekt](assets/direct-template-03.png)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

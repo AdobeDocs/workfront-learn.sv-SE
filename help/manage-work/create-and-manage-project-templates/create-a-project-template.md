@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 9e8dfebabd121c4c252298d3e28170f4b7931e19
+source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 0%
@@ -35,11 +35,11 @@ Lär dig skapa en projektmall från grunden och från ett befintligt projekt, oc
 
 ## Viktiga uppgifter
 
-**Skapa en mall:** Lär dig hur du skapar en ny mall från grunden genom att namnge den, konfigurera aktiviteter, tidslinjer och göra tilldelningar till jobbroller. &#x200B;
-**Aktivitetsorganisation:** Använd överordnade-underordnade aktivitetsrelationer för att organisera aktiviteter effektivt, vilket ger en tydlig sammanfattning och struktur för projektet. &#x200B;
-**Inställning av tidslinje:** Konfigurera tidslinjer för aktiviteter med hjälp av varaktighet och föregående aktiviteter för att uppskatta tidsbildrutan och aktivitetssekvensen korrekt. &#x200B;
-**Rollbaserade tilldelningar:** Tilldela uppgifter till jobbroller i stället för enskilda användare för att utnyttja funktionerna för resursplanering och planering effektivt. &#x200B;
-**Mallhantering:** Spara befintliga projekt som nya mallar för att införliva förbättringar och hantera mallar för att undvika förvirring och säkerställa effektiv projektkörning. &#x200B;
+* **Skapa en mall:** Lär dig hur du skapar en ny mall från grunden genom att namnge den, konfigurera aktiviteter, tidslinjer och göra tilldelningar till jobbroller. &#x200B;
+* **Aktivitetsorganisation:** Använd överordnade-underordnade aktivitetsrelationer för att organisera aktiviteter effektivt, vilket ger en tydlig sammanfattning och struktur för projektet. &#x200B;
+* **Inställning av tidslinje:** Konfigurera tidslinjer för aktiviteter med hjälp av varaktighet och föregående aktiviteter för att uppskatta tidsbildrutan och aktivitetssekvensen korrekt. &#x200B;
+* **Rollbaserade tilldelningar:** Tilldela uppgifter till jobbroller i stället för enskilda användare för att utnyttja funktionerna för resursplanering och planering effektivt. &#x200B;
+* **Mallhantering:** Spara befintliga projekt som nya mallar för att införliva förbättringar och hantera mallar för att undvika förvirring och säkerställa effektiv projektkörning. &#x200B;
 
 
 ## Mallar skapade med [!UICONTROL utkast]
