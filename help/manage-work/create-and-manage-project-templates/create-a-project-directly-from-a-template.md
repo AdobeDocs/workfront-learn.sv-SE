@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
-source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
+source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -28,11 +28,11 @@ I videon förklaras hur du skapar ett projekt från en mall. &#x200B; Om du har 
 
 ## Viktiga uppgifter
 
-**Mallåtkomst:** Du måste ha behörighet att öppna en mall för att skapa ett projekt utifrån den. &#x200B;
-**Kortkommandoalternativ:** Att använda en mall kan vara en praktisk genväg jämfört med att starta ett projekt från början. &#x200B;
-**Trepunktsmeny:** Öppna mallen och välj Skapa projekt på menyn med tre punkter. &#x200B;
-**Redigera projektinformation:** När du har valt Skapa projekt kan du redigera projektinformationen innan du slutför. &#x200B;
-**Slutför skapandet:** Klicka på Skapa projekt när du är klar att slutföra processen. &#x200B;
+* **Mallåtkomst:** Du måste ha behörighet att öppna en mall för att skapa ett projekt utifrån den. &#x200B;
+* **Kortkommandoalternativ:** Att använda en mall kan vara en praktisk genväg jämfört med att starta ett projekt från början. &#x200B;
+* **Trepunktsmeny:** Öppna mallen och välj Skapa projekt på menyn med tre punkter. &#x200B;
+* **Redigera projektinformation:** När du har valt Skapa projekt kan du redigera projektinformationen innan du slutför. &#x200B;
+* **Slutför skapandet:** Klicka på Skapa projekt när du är klar att slutföra processen. &#x200B;
 
 
 ## Rekommenderade självstudiekurser i detta ämne
