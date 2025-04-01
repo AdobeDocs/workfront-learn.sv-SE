@@ -1,6 +1,6 @@
 ---
 title: Skapa instrumentpaneler
-description: Organisera och visa projektdata med Workfront dashboards som kan anpassas, öppnas enkelt, delas och skrivas ut för smidig projektledning och smidigt samarbete.
+description: Organisera och visa projektdata med Workfront-instrumentpaneler som kan anpassas, öppnas enkelt, delas och skrivas ut för smidig projekthandledning och smidigt samarbete.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
 source-wordcount: '635'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
