@@ -13,9 +13,9 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: 2fbd533ba3acca135e0bba76b2df1bd9a54f2ae7
+source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,12 @@ I den här videon får du lära dig:
 * Så här aktiverar och inaktiverar du en projektmall.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
+
+>[!NOTE]
+>
+>Om du bestämmer dig för att ta bort en mall påverkas inte projekt som du har skapat med den mallen. Borttagna mallar flyttas till papperskorgen i 30 dagar och kan endast återställas av systemadministratören.
+
+
 
 ## Lär dig hur du skapar en anpassad vy för att se och redigera den aktiva statusen för projektmallar
 
