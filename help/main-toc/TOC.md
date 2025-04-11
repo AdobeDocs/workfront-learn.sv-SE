@@ -1,8 +1,8 @@
 ---
 user-guide-description: Självstudiekurser om Workfront
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: 0399915a57cba155c809ea20c0998f13045e29e9
 workflow-type: tm+mt
-source-wordcount: '2427'
+source-wordcount: '2432'
 ht-degree: 0%
 
 ---
@@ -336,6 +336,7 @@ ht-degree: 0%
    + [Skapa en arbetsyta](/help/workfront-planning/create-a-workspace.md)
    + [Skapa och hantera en posttyp](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [Skapa och hantera tabellvyer](/help/workfront-planning/create-and-manage-table-views.md)
+   + [Skapa och hantera tidslinjevyer](/help/workfront-planning/create-and-manage-timeline-views.md)
    + [Fördelar med Workfront Planning for UX Design Teams](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Integrationer {#integrations}
