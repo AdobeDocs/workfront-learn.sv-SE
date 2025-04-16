@@ -1,8 +1,8 @@
 ---
 user-guide-description: Självstudiekurser om Workfront
-source-git-commit: 0399915a57cba155c809ea20c0998f13045e29e9
+source-git-commit: f78f24cb75ac561e4635b4d0f2a30935e1a94af4
 workflow-type: tm+mt
-source-wordcount: '2432'
+source-wordcount: '2430'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
    + Hantera borttagna objekt {#manage-deleted-items}
       + [Återställ objekt från papperskorgen](/help/administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
-   + Konfigurera systemstandardvärden {#configure-system-defaults}
+   + Konfigurera systemstandardinställningar {#configure-system-defaults}
       + [Skapa och hantera objektstatus](/help/administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
       + [Förstå standardproblemtyper](/help/administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [Skapa en utleveransstatus](/help/administration-and-setup/configure-system-defaults/create-an-issue-status.md)
@@ -64,14 +64,14 @@ ht-degree: 0%
       + [När och hur användare inaktiveras eller tas bort](/help/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
       + [Förstå systemgranskningsloggen](/help/administration-and-setup/create-and-manage-users/system-audit-log.md)
 
-   + Godkännandeprocesser och milstolpesökvägar {#approval-processes-and-milestone-paths}
+   + Godkännandeprocesser och milstolpar {#approval-processes-and-milestone-paths}
       + [Förstå gruppspecifika godkännandeprocesser](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
       + [Skapa milstolpar](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
    + Systemprestanda och underhåll {#system-perfomance-and-maintenance}
       + [Ta hand om en befintlig Adobe Workfront-instans](/help/administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
 
-   + Projektekonomi {#project-finances}
+   + Projektets finanser {#project-finances}
       + [Förstå prestandamått](/help/manage-work/project-finances/understand-performance-metrics.md)
       + [Ställ in standardvärden för intäkter och kostnader för uppgifter](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [Ställ in valutakurser](/help/manage-work/project-finances/set-up-exchange-rates.md)
@@ -154,7 +154,7 @@ ht-degree: 0%
       + [Förstå [!UICONTROL affärsärendet]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
       + [Förstå [!UICONTROL Portfolio Optimizer]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
-   + Godkännandeprocesser och milstolpesökvägar {#approval-processes-and-milestone-paths}
+   + Godkännandeprocesser och milstolpar {#approval-processes-and-milestone-paths}
       + [Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Använda en godkännandeprocess i en begärandekö](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [Granska och godkänn digitalt arbete](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
@@ -175,16 +175,16 @@ ht-degree: 0%
       + [Förstå datumtyper och förloppsstatus](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
       + [Spåra förlopp från projekttidslinjen](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
-   + Stäng ett projekt {#close-a-project}
+   + Stänga ett projekt {#close-a-project}
       + [Ändra projektstatus till slutförd](/help/manage-work/projects/change-the-project-status.md)
       + [Fullständiga godkännanden](/help/manage-work/close-a-project/complete-approvals.md)
       + [Överför resurser](/help/manage-work/close-a-project/upload-assets.md)
       + [Spela in lektioner](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [Logga och granska timmar](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-   + Projektekonomi för användare {#project-finances-users}
-      + [Uppdatera och granska ekonomi](/help/manage-work/project-finances/update-and-review-finances.md)
+   + Projektfinansiering för användare {#project-finances-users}
       + [Hitta ekonomisk information](/help/manage-work/project-finances/find-financial-information.md)
+      + [Uppdatera ekonomi](/help/manage-work/project-finances/update-and-review-finances.md)
       + [Förstå flera faktureringsräntor](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + Mellanliggande projekt {#intermediate-projects}
@@ -193,7 +193,7 @@ ht-degree: 0%
       + [Avancerade föregångare](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
-+ Rapporterar {#reporting}
++ Rapportering {#reporting}
    + Grundläggande rapportering {#basic-reporting}
       + [Förstå rapportelement](/help/reporting/basic-reporting/reporting-elements.md)
       + [Förstå rapporteringskomponenter](/help/reporting/basic-reporting/reporting-components.md)
@@ -281,14 +281,14 @@ ht-degree: 0%
       + [Visa efter jobbroll](/help/manage-resources/resource-planning/view-by-job-role/view-by-job-role.md)
       + [Visa efter projekt](/help/manage-resources/resource-planning/view-by-project/view-by-project.md)
 
-   + Personlig tid utanför kalendern {#personal-time-off-calendar}
+   + Ledig tid i kalendern {#personal-time-off-calendar}
       + [Varför ska jag använda kalendertiden?](/help/manage-resources/pto/why-use-time-off-calendar.md)
       + [Hur ledig tid påverkar projektets tidslinjer](/help/manage-resources/pto/how-time-off-affects-project-timelines.md)
       + [Hantera andra användares ledig tid](/help/manage-resources/pto/manage-other-users-time-off.md)
       + [Visa ledig tid när du tilldelar uppgifter](/help/manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [Synlighet i resurshanteringsverktyg](/help/manage-resources/pto/visibility-in-resource-management-tools.md)
 
-   + Scenarioplanering {#scenario-planner}
+   + Scenarioplan {#scenario-planner}
       + [Ett ögonblick med Product om Scenario Planner](/help/manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [Vad är scenarioplaneraren?](/help/manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [Åtkomst till en plan i scenarioplanen](/help/manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
@@ -299,7 +299,7 @@ ht-degree: 0%
       + [Publicera ett scenario](/help/manage-resources/scenario-planner/publish-a-scenario.md)
 
 + Workfront-mål {#workfront-goals}
-   + Upprätta en vision för din organisation {#establish-a-vision-and-strategy}
+   + Skapa en vision för din organisation {#establish-a-vision-and-strategy}
       + [Förstå hur Workfront Goals fungerar](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
       + [Förstå hur Workfront mål passar in i arbetscykeln](/help/workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
       + [Skapa en vision och strategi för din organisation](/help/workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
@@ -314,24 +314,24 @@ ht-degree: 0%
       + [Skapa en layoutmall för [!UICONTROL Workfront-mål]-användare](/help/workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
       + [Skapa mål](/help/workfront-goals/create-your-goals/create-goals-in-workfront.md)
 
-   + Aktivera dina mål {#activate-goals}
+   + Aktivera era mål {#activate-goals}
       + [Aktivera mål](/help/workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [Aktivera genom att justera ett mål mot ett annat](/help/workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [Lägg till ett resultat i ett mål](/help/workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
       + [Lägg till en aktivitet och ett projekt i ett mål](/help/workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
 
-   + Hantera dina mål {#manage-goals}
+   + Hantera era mål {#manage-goals}
       + [Justera dina mål](/help/workfront-goals/manage-your-goals/align-your-goals.md)
       + [Ta bort måljustering](/help/workfront-goals/manage-your-goals/remove-goal-alignment.md)
       + [Uppdatera förloppet för resultat och aktiviteter](/help/workfront-goals/manage-your-goals/make-a-quantitative-update.md)
       + [Stäng ett mål när det är klart](/help/workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
 
-   + Övervaka dina mål {#monitor-goals}
+   + Övervaka era mål {#monitor-goals}
       + [Förstå diagramavsnittet](/help/workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
       + [Beräkna målförlopp](/help/workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [Kommunicera målstatus](/help/workfront-goals/monitor-your-goals/communicate-goal-status.md)
 
-+ Workfront Planering {#workfront-planning}
++ Workfront Planning {#workfront-planning}
    + [Lägg till planering i din instans](/help/workfront-planning/add-planning-to-your-instance.md)
    + [Skapa en arbetsyta](/help/workfront-planning/create-a-workspace.md)
    + [Skapa och hantera en posttyp](/help/workfront-planning/create-and-manage-a-record-type.md)
@@ -339,7 +339,7 @@ ht-degree: 0%
    + [Skapa och hantera tidslinjevyer](/help/workfront-planning/create-and-manage-timeline-views.md)
    + [Fördelar med Workfront Planning for UX Design Teams](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
-+ Integrationer {#integrations}
++ Integreringar {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
       + [Integrera med Creative Cloud med Adobe Workfront plugins](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
@@ -383,7 +383,7 @@ ht-degree: 0%
       + [Konfigurera dina Workfront Fusion-övningsfiler](/help/fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
       + [Kärnkoncept](/help/fusion/1-welcome-to-workfront-fusion/core-concepts.md)
 
-   + Förstå grunderna i {#understand-the-basics}
+   + Förstå grunderna {#understand-the-basics}
       + [Genomgång av inledande scenariodesign](/help/fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
       + [Utformning av första scenariot](/help/fusion/12-exercises/initial-scenario-design.md)
       + [Mappningspanelen och formelredigeraren](/help/fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
@@ -410,7 +410,7 @@ ht-degree: 0%
       + [Genomgång av get/Set-variabler](/help/fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
       + [Använd/hämta variabelövning](/help/fusion/12-exercises/set-get-variables.md)
 
-   + Iteration och aggregering {#iteration-and-aggregation}
+   + Upprepning och aggregering {#iteration-and-aggregation}
       + [Introduktion till iteratorer](/help/fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
       + [Introduktion till genomgång av iteratorer](/help/fusion/4-iteration-and-aggregation/introduction-to-iterators-walkthrough.md)
       + [Introduktion till iteratorövning](/help/fusion/12-exercises/introduction-to-iterators-exercise.md)
@@ -420,7 +420,7 @@ ht-degree: 0%
       + [Genomgång av avancerad aggregering](/help/fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
       + [Avancerad aggregeringsövning](/help/fusion/12-exercises/advanced-aggregation.md)
 
-   + Körningshistorik och schemaläggning av {#execution-history-and-scheduling}
+   + Körningshistorik och schemaläggning {#execution-history-and-scheduling}
       + [Introduktion till körningshistorik](/help/fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
       + [Genomgång av körningshistorik](/help/fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
       + [Körningshistorik](/help/fusion/12-exercises/execution-history.md)
@@ -429,7 +429,7 @@ ht-degree: 0%
       + [Kör cykler och genomgång av paket](/help/fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
       + [Utforska körningar, cykler och paketövningar](/help/fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
 
-   + Överskrider grundläggande moduler {#beyond-basic-modules}
+   + Bortom grundläggande moduler {#beyond-basic-modules}
       + [Bekanta dig med fler appar och gemensamma moduler](/help/fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [Byt upp den](/help/fusion/6-beyond-basic-modules/switch-it-up.md)
       + [Genomgång av switchfunktion](/help/fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
@@ -466,11 +466,11 @@ ht-degree: 0%
       + [Förstå ofullständiga körningar](/help/fusion/9-troubleshooting-and-error-handling/understand-incomplete-executions.md)
       + [Genomgång av ofullständiga körningar](/help/fusion/9-troubleshooting-and-error-handling/incomplete-executions-walkthrough.md)
 
-   + Workfront Fusion-administration {#workfront-fusion-administration}
+   + Workfront Fusion - administration {#workfront-fusion-administration}
       + [Förstå organisationsteam och användare](/help/fusion/10-workfront-fusion-administration/understand-organizations-teams-and-users.md)
       + [Administration genomgång](/help/fusion/10-workfront-fusion-administration/administration-walkthrough.md)
 
-   + Designoptimering och testning {#design-optimization-and-testing}
+   + Optimering och testning av design {#design-optimization-and-testing}
       + [Definiera distinkta användningsfall och hitta den bästa metoden](/help/fusion/11-design-optimization-and-testing/define-distinct-use-cases-and-find-the-best-approach.md)
       + [Workfront Fusion - scenariooptimering](/help/fusion/11-design-optimization-and-testing/workfront-fusion-scenario-optimization.md)
       + [Tillgänglighet och tydlighet](/help/fusion/11-design-optimization-and-testing/accessibility-and-clarity.md)
@@ -526,8 +526,8 @@ ht-degree: 0%
       + [Hantera korrekturkommentarer](/help/workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [Spåra korrekturstatus](/help/workfront-proof/review-and-approve-work/track-proof-progress.md)
 
-+ Workfront DAM {#workfront-dam-program}
-   + Systemkonfiguration {#system-setup}
++ WORKFRONT DAM {#workfront-dam-program}
+   + Systeminställningar {#system-setup}
       + [Förstå [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Förstå systeminställningar](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Förstå [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
@@ -565,7 +565,7 @@ ht-degree: 0%
       + [Publicera resurser som deltagare](/help/workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
       + [Lägg till en [!UICONTROL Workfront DAM]-länk](/help/workfront-dam/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
 
-   + Ansluta varumärke till användare {#brand-connect}
+   + Brand Connect-användare {#brand-connect}
       + [Förstå [!UICONTROL varumärkesanslutning] som användare](/help/workfront-dam/brand-connect-user/brand-connect-introduction.md)
       + [Förstå navigering och sökning som användare](/help/workfront-dam/brand-connect-user/brand-connect-getting-started.md)
       + [Förstå [!UICONTROL Brand Connect]-meddelanden](/help/workfront-dam/brand-connect-user/brand-connect-notifications.md)
@@ -573,7 +573,7 @@ ht-degree: 0%
       + [Ljusbord som användare](/help/workfront-dam/brand-connect-user/brand-connect-lightboxes.md)
       + [Arbeta med resurser som användare](/help/workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
-+ Hem {#home}
++ Startsida {#home}
    + [Ta bort, lägga till och ordna om widgetar i Hem](/help/workfront-home/remove-add-and-rearrange-widgets.md)
    + [Hitta ditt arbete](/help/workfront-home/find-your-work-in-workfront-home.md)
    + [Organisera din att göra-lista](/help/workfront-home/organize-your-to-do-list-in-workfront-home.md)
@@ -589,7 +589,7 @@ ht-degree: 0%
 
 + Agile {#agile}
 
-   + Introduktion till Agile-arbetshantering {#intro-to-agile}
+   + Introduktion till Agile-hantering {#intro-to-agile}
       + [Fördelar med att använda Agile](/help/agile/benefits-of-using-agile.md)
       + [Vad är Scrum-metoden och hur fungerar den?](/help/agile/what-is-the-scrum-methodology.md)
       + [Vad är Kanban-metoden och hur fungerar den?](/help/agile/what-is-the-kanban-methodology.md)
@@ -606,7 +606,7 @@ ht-degree: 0%
       + [Skapa ett kanban-team](/help/agile/create-a-kanban-team.md)
       + [Hantera arbetet som ett Kanban-team](/help/agile/manage-work-kanban-team.md)
 
-   + Vykort {#boards}
+   + Varumärkena  {#boards}
       + [Söka efter och skapa en anslagstavla](/help/boards/find-and-create-a-basic-board.md)
       + [Hantera kortkolumner](/help/boards/manage-board-columns.md)
       + [Lägga till kort på en anslagstavla](/help/boards/add-cards-to-a-board.md)
