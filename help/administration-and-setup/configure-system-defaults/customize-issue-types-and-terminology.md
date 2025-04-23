@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -48,10 +48,10 @@ Det finns t.ex. ett team som vill spåra projektrisker med hjälp av problem. So
 >
 >Du kan inte skapa fler typer av utgåvor eller ta bort en utgåva.
 
-<!---
+<!--
 learn more URLs
 Customize default issue types
---->
+-->
 
 ## Ändra termen&quot;problem&quot; i Workfront
 
@@ -60,13 +60,13 @@ Workfront-administratörer kan använda layoutmallsfunktionen för att byta namn
 
 ![[!UICONTROL Terminologi] fönster med [!UICONTROL Problem] markerat](assets/admin-fund-issue-custom-terminology.png)
 
-<!---
+<!--
 paragraph below needs a hyperlink
---->
+-->
 
 Lär dig hur system- och gruppadministratörer kan skapa layoutmallar i utbildningsvägen, Grundläggande om administratörer i den nya [!DNL Workfront]-upplevelsen: Del 3 Kontroll- och gränssnittsupplevelse.
 
-<!---
+<!--
 learn more URLs
 Create and manage layout templates
---->
+-->

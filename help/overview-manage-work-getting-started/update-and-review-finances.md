@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 jira: KT-10137
 hide: true
-source-git-commit: 6be2fc928ec02513ff27189d590dd1f09298bb27
+exl-id: 9e1ccfca-cf7b-4366-8e70-efd4d2ab5cf9
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -46,9 +47,9 @@ En snabbtitt på informationen [!UICONTROL Ekonomi] i [!UICONTROL Projektinforma
 
 Den mesta ekonomiska informationen i [!UICONTROL projektinformationen] ställs in när projektet skapas, och siffrorna som visas här baseras på den informationen. När du stänger ett projekt finns det alltså ingenting du behöver uppdatera eller lägga till i den ekonomiska informationen.
 
-<!---
+<!--
 learn more urls
 Create billing records
 Manage project expenses
 Project finances
---->
+-->

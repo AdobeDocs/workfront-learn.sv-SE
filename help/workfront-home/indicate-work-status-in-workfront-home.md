@@ -11,7 +11,7 @@ thumbnail: 335101.png
 jira: KT-8800
 exl-id: c871cb18-65a3-4451-929d-f50cb3544b8d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -39,6 +39,6 @@ Vissa team kan se knappen [!UICONTROL Arbeta med den] i stället. I så fall sä
 
 Knappens namn och funktion bestäms av system- eller gruppadministratören och av organisationens arbetsflöden och processer.
 
-<!---
+<!--
 learn more URLs
---->
+-->

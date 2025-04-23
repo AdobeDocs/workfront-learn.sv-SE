@@ -10,46 +10,33 @@ role: User
 level: Intermediate
 jira: KT-10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
 # Ställ in utgiftstyper
 
-Utgifter i [!DNL Workfront] representerar icke-arbetskostnader som är kopplade till projekt och annat arbete. Utgifter kan till exempel vara resekostnader när man besöker en kund eller inköp av material som behövs för att slutföra en fotografering. Dessa utgifter ska registreras inom projektet så att planerade kostnader och faktiska kostnader kan beräknas och rapporteras för alla projekt.
+I videon förklaras hur du hanterar utgiftstyper i Workfront, med fokus på att skapa, använda och ta bort dem.
 
-[!DNL Workfront] har fördefinierade utgiftstyper som kan användas vid inmatning av utgifter. Standardvärdena kan inte tas bort eller ändras, men nya kan läggas till.
 
-* Advertising
-* Rådgivning
-* Underhållning
-* Allmänt
-* Material
-* Utskrift
-* Leverans
-* Resa
+>[!VIDEO](https://video.tv.adobe.com/v/3457702/?quality=12&learn=on&enablevpops)
 
-En systemadministratör kan lägga till utgiftstyper som behövs för organisationen. Dessa ytterligare utgiftstyper kan ändras, döljas eller tas bort för att stödja den ekonomiska rapportering som behövs i organisationen.
+## Viktiga uppgifter
 
-Projektledare, chefer och andra kan generera utgiftsrapporter - gruppera enskilda utgifter efter typ om så önskas - för aktiviteter, projekt, program eller portföljer inom [!DNL Workfront]. Projektfinansiering blir mycket mer hanterbar med utgiftstyper.
+* **Fördefinierade utgiftstyper:** Workfront innehåller fördefinierade utgiftstyper som inte kan tas bort, döljas eller ändras, vilket ger en konsekvent hantering i hela systemet.
+* **Anpassade utgiftstyper:** Systemadministratörer kan skapa egna utgiftstyper, som är redigerbara, borttagbara och kan tas bort i hela systemet. De kan innehålla beräknade enheter, t.ex. milkostnadstariffer.
+* **Skapande av utgift:** När användare skapar en utgift väljer de en utgiftstyp, indatainformation (t.ex. milkostnad) och systemet beräknar automatiskt det planerade beloppet baserat på den angivna tariffen.
+* **Tar bort utgiftstyper:** Anpassade utgiftstyper kan bara tas bort efter att de har ersatts i alla instanser där de används. En rapport kan genereras för att identifiera dessa instanser.
 
-## Skapa en utgiftstyp
+## Rekommenderade självstudiekurser i detta ämne
 
-**Välj [!UICONTROL Konfigurera] på huvudmenyn**
-
-1. Klicka på **[!UICONTROL Utgiftstyper]** på den vänstra panelmenyn.
-1. Klicka på knappen **[!UICONTROL Ny utgiftstyp]**.
-1. Namnge utgiftstypen.
-1. Lägg till en beskrivning, om det behövs.
-1. Klicka på knappen **[!UICONTROL Spara]**.
-
-![En bild på hur du skapar en ny [!UICONTROL utgiftstyp]](assets/setting-up-finances-6.png)
-
-## Använda utgiftstyper
-
-Utgiftsalternativen visas i listrutan **[!UICONTROL Utgiftstyp]** när användare skapar en utgift för ett projekt eller en uppgift i [!DNL Workfront].
-
-![En bild på hur du lägger till en ny utgift](assets/setting-up-finances-7.png)
+* [Förstå prestandamått](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Ställ in standardvärden för intäkter och kostnader för uppgifter](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Ställ in valutakurser](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Förstå finansiell åtkomst](/help/manage-work/project-finances/understand-financial-access.md)

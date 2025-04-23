@@ -13,9 +13,9 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -62,6 +62,6 @@ I den här videon betonas vikten av korrekt konfiguration och spårning för att
 ## Rekommenderade självstudiekurser i detta ämne
 
 * [Hitta ekonomisk information](/help/manage-work/project-finances/find-financial-information.md)
-&lt;!—* [Uppdatera ekonomi](/help/manage-work/project-finances/update-and-review-finances.md)—>
-* [Förstå flera faktureringsräntor](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [Förstå flera faktureringstaxor](/help/manage-work/project-finances/multiple-billing-rates.md)
+  <!--* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)-->
 

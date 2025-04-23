@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10031
 exl-id: ccdbba55-c409-44ac-b3d5-908f1637e19f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 Eftersom varje typ av problem spårar olika typer av information kan varje typ kräva unika arbetsflöden för att kunna lösas. Anpassa statusvärdena för varje utgåva för att matcha utgåvans arbetsflöde.
 
-<!---
+<!--
 add URL in paragraph below
---->
+-->
 
 ## Standardstatus
 
@@ -42,9 +42,9 @@ Sex andra statusar som är vanliga för problemhantering levereras med [!DNL Wor
 * Verifierad slutförd
 * Lös inte
 
-<!---
+<!--
 need URL in paragraph below
---->
+-->
 
 
 Status för ett problem kan visas och ändras i [!UICONTROL Ärendeinformation]. Du kan även ändra utgåvan av en status i utgåvans sidhuvud längst till höger.
@@ -55,9 +55,9 @@ Du kan lägga till kolumnen [!UICONTROL Status] i en vy eller anpassad rapport, 
 
 ![[!UICONTROL Status]-kolumn i en [!UICONTROL vy]](assets/admin-fund-issue-status-view.png)
 
-<!---
+<!--
 link the bullets below to the articles
---->
+-->
 
 Låt oss titta närmare på grunderna om status i följande frågor:
 

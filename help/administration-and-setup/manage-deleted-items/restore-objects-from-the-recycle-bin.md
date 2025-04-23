@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: 10100.jpeg
 jira: KT-10100
 exl-id: 72eafec6-b4fc-454a-9372-4df1cdcba745
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -45,8 +45,8 @@ Objektet/objekten som återställs visas kort i ett [!UICONTROL Pågår] -avsnit
 
 Gruppadministratörer kan återställa ett projekt som är associerat med gruppen de hanterar, tillsammans med uppgifter, problem eller dokument som är kopplade till projektet.
 
-<!---
+<!--
 learn more URL
 Restoring deleted items
 Viewing items that have been recently restored
---->
+-->

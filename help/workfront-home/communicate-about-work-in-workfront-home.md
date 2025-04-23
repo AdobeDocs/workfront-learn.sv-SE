@@ -11,7 +11,7 @@ thumbnail: 335102.png
 jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -34,14 +34,14 @@ I den här videon får du lära dig att:
 * &quot;Tagga&quot; andra [!UICONTROL Workfront]-användare med @name för att se till att de får meddelanden om uppdateringen. Detta är det bästa sättet att se till att specifika personer ser den senaste informationen. Du kan tagga enskilda användare eller ett team i en uppdatering.
 * Kom ihåg att motsvarigheten till det ökända e-postmeddelandet&quot;svara alla&quot; är när du taggar ett team eller en grupp och fortsätter att svara i tråden. Var uppmärksam på detta för att undvika att orsaka irritation. Du kan dirigera taggen ovanför eller nedanför men fortfarande i objektets kontext.
 
-<!---
+<!--
 paragraph below needs a hyperlink to an article
---->
+-->
 
 * Om du inte är tilldelad en uppgift men vill få meddelanden prenumererar du på uppgiften. Läs mer i artikeln Prenumerera på objekt i [!UICONTROL Workfront] i den nya [!UICONTROL Workfront] -upplevelsen.
 * Lägg upp uppdateringar på en viss veckodag så att alla vet när de ska söka efter den senaste informationen.
 * Använd de avancerade textverktygen för att formatera uppdateringarna. Få informationen att sticka ut med fet stil eller skapa en lättläst sammanfattning med punkter.
 
-<!---
+<!--
 learn more URLs
---->
+-->

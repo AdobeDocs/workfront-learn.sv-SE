@@ -6,7 +6,7 @@ type: Tutorial
 team: Technical Marketing
 jira: KT-8806
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
@@ -38,10 +38,10 @@ När du skriver in nyckelord visas matchningar i [!DNL Workfront] så att du kan
 
 Välj önskat alternativ, fyll i formuläret och skicka begäran.
 
-<!---
+<!--
 Learn more
 Requests area overview
 Create and submit Workfront requests
 Guides
 Make a work request
---->
+-->

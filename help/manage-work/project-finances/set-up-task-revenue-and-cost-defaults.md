@@ -1,6 +1,6 @@
 ---
 title: Ställ in standardvärden för intäkter och kostnader för uppgifter
-description: Lär dig hur intäktstypen och kostnadstypen används för att beräkna planerad och faktisk ekonomisk information för en aktivitet.
+description: Lär dig var intäktstypen och kostnadstyperna används och hur du ställer in systemstandardinställningarna.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,43 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
+
 # Ställ in standardvärden för intäkter och kostnader för uppgifter
 
-Inkomsttypen och kostnadstypen används för att beräkna planerad och faktisk ekonomisk information för en aktivitet. Standardinformation för var och en av dessa kan ställas in för hela systemet, så den gäller för varje ny uppgift som skapas. Informationen kan ändras i enskilda projekt eller anges i projektmallar.
+Lär dig var intäktstypen och kostnadstyperna används och hur du ställer in systemstandardinställningarna.
 
-**Fem standardintäktstyper är tillgängliga:**
+>[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops)
 
-* Ej fakturerbar
-* Användare per timme
-* Roll timvis
-* Fast en timme
-* Fast intäkt
+## Viktiga uppgifter
 
-**Och fyra standardkostnadstyper är tillgängliga:**
+* **Visa kostnads- och intäktsdata:** Du kan komma åt kostnads- och intäktsinformation för aktiviteter genom att öppna aktiviteten, välja aktivitetsinformation och bläddra till finansavsnittet. &#x200B;
+* **Ange standardvärden för aktiviteter:** Systemadministratörer kan ange standardkostnads- och intäktstyper för projektledare genom att gå till &quot;Inställningar > Projektinställningar > Åtgärder och problem&quot; &#x200B;
+* **Standardintäktstyp:** &quot;Roll-timvis&quot; är ett vanligt standardvärde för intäktstyp, vilket gör att loggad tid kan registreras som fakturerbar om användaren har en jobbroll med en intäktsfrekvens. &#x200B;
+* **Inverkan av intäktsinställningar:** Om intäktstypen är inställd på Inte fakturerbar registreras ingen intäkt för aktiviteten. &#x200B;
+* **Standardkostnadstyp:** &quot;Användd varje timme&quot; används ofta som standardkostnadstyp, vilket innebär att kostnadsdata hämtas direkt från användarens profil för effektiv spårning. &#x200B;
 
-* Ingen kostnad
-* Fast en timme
-* Användare per timme
-* Roll timvis
 
->[!NOTE]
->
->När intäkt- eller kostnadstyperna är inställda på Inte fakturerbar eller Ingen kostnad, genereras inga intäkt- och kostnadsberäkningar för aktiviteten. Därför bidrar inte arbete med uppgiften till intäkter eller kostnader på projektnivå.
+## Rekommenderade självstudiekurser i detta ämne
 
-## Ange standardvärden för intäkter och kostnader
-
-Välj **[!UICONTROL Konfigurera]** på huvudmenyn.
-
-1. Klicka på **[!UICONTROL Projektinställningar]** på den vänstra panelmenyn.
-1. Klicka sedan på **[!UICONTROL Åtgärder och problem]**.
-1. Välj önskad [!UICONTROL intäktstyp] och [!UICONTROL kostnadstyp] i avsnittet [!UICONTROL Ny aktivitetsstandard].
-1. Klicka på Spara när du är klar.
-
-![En bild av hur du ställer in standardvärden för intäkter och kostnader](assets/setting-up-finances-3.png)
+* [Förstå prestandamått](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Ställ in valutakurser](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Ställ in utgiftstyper](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Förstå finansiell åtkomst](/help/manage-work/project-finances/understand-financial-access.md)

@@ -11,7 +11,7 @@ thumbnail: 335104.png
 jira: KT-8803
 exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -34,6 +34,6 @@ I den här videon får du lära dig:
 * Ändra listrutan [!UICONTROL Status] till Slutförd.
 * Uppdatera [!UICONTROL procent färdigt] till 100 procent. Detta ändrar automatiskt statusen till Fullständig.
 
-<!---
+<!--
 learn more URLs
---->
+-->

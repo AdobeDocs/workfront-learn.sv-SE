@@ -1,6 +1,6 @@
 ---
 title: Ställ in valutakurser
-description: Lär dig hur du använder valutakurser i projekt och rapporter för att spegla finansiell information i olika valutor världen över.
+description: Anpassa valutainställningarna med flexibel valutakurshantering, global anpassning och anpassning på projektnivå samt manuella inmatningsalternativ för korrekt finansiell spårning.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,37 +10,34 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
 # Ställ in valutakurser
 
-[!DNL Workfront] stöder olika valutor för kundorganisationer som är multinationella företag. Valutakurser kan användas i projekt och rapporter för att återspegla finansiell information i olika valutor från hela världen.
+I videon finns en guide om hur du hanterar valutor i Workfront system för finansiell spårning. &#x200B; Det förklarar att standardvalutan är USD, men att ytterligare valutor kan ställas in globalt eller för enskilda projekt och jobbroller.
+I videon betonas att systemet inte har aktuella valutakurser, så användarna måste skaffa dem externt. &#x200B; När de är inställda blir växelkurserna standard för projekt eller jobbroller, men uppdateras inte automatiskt. Användare med rätt behörighet måste uppdatera dem manuellt. &#x200B; När man har ställt in valutor kan man skapa nya projekt och välja bland de tillgängliga valutaalternativen, med möjlighet att anpassa valutakurserna för enskilda projekt. &#x200B;
 
-Växelkurserna hanteras av systemadministratörer. Ytterligare valutor kan ställas in efter behov.
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
 
-Workfront standardbasvaluta är USD. Det här är den valuta som ekonomisk information beräknas i som standard. Den här standardinställningen kan ändras globalt och i enskilda projekt.
+## Viktiga uppgifter
 
-## Ställ in valutor och växelkurser
+* **Standardvaluta:** Systemets standardvaluta är USD, men den kan ändras globalt eller för enskilda projekt och jobbroller. &#x200B;
+* **Lägger till valutor:** Ytterligare valutor kan ställas in tillsammans med deras valutakurser i inställningsområdet. &#x200B;
+* **Uppdateringar av manuell valutakurs:** Systemet tillhandahåller inte aktuella valutakurser. Användarna måste hämta dem externt och manuellt ange dem. &#x200B;
+* **Projektspecifik anpassning:** Valutakurser som angetts i inställningsområdet används som standardvärden, men användare kan anpassa valutakurser för enskilda projekt. &#x200B;
+* **Uppdateringar och behörigheter:** Ändringar i konfigurationsområdet uppdaterar inte automatiskt befintliga projekt. Uppdatering av valutakurser för projekt eller jobbroller kräver lämpliga användarbehörigheter.
 
-![En bild av hur du väljer valutakurser](assets/setting-up-finances-4.png)
+## Rekommenderade självstudiekurser i detta ämne
 
-**Välj [!UICONTROL Konfigurera] på huvudmenyn.**
-
-1. Expandera **[!UICONTROL Projektinställningar]** på den vänstra menypanelen.
-1. Klicka på **[!UICONTROL Växelkurser]**.
-1. Klicka på knappen **[!UICONTROL Lägg till valuta]**.
-1. Välj landsvaluta i listrutan.
-1. Ange önskad valutakurs för valutan.
-1. Om en annan valuta än USD ska vara [!DNL Workfront]-systemets basvaluta (standardvaluta) klickar du på knappen bredvid valutanamnet.
-1. Klicka på **[!UICONTROL Spara]** när alla valutor har lagts till.
-
-![En bild av hur du lägger till en valuta i valutakurslistan](assets/setting-up-finances-5.png)
-
->[!NOTE]
->
->Workfront uppdaterar eller spårar inte aktuella marknadsvärden för valutakurser. Uppdateringar måste, om det behövs, göras manuellt.
+* [Förstå prestandamått](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Ställ in standardvärden för intäkter och kostnader för uppgifter](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Ställ in utgiftstyper](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Förstå finansiell åtkomst](/help/manage-work/project-finances/understand-financial-access.md)

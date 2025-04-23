@@ -11,7 +11,7 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Ett antal alternativ för loggningstid beror på hur systemadministratören konf
 * Du kanske kan logga in på kommande dagar eller inte.
 * Du kan behöva välja en timtyp i den nedrullningsbara menyn så att du kan ange hur du har tillbringat tiden. Den här timtypen kan även visa om din tid var fakturerbar eller inte fakturerbar. Se till att du väljer timtyp innan du anger din tid genom att klicka på knappen [!UICONTROL Loggtid] .
 
-<!---
+<!--
 learn more URLs
---->
+-->

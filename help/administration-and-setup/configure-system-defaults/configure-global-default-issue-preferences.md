@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '885'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Bästa sättet är att lämna de globala standardvärdena som de är och låta p
 
 De globala inställningarna för utgåvor kan justeras, men du och din [!DNL Workfront]-konsult bör diskutera vilka inställningar som behövs för din organisations arbetsflöden, processer och rapporteringsbehov. Din konsult kan också hjälpa dig att förstå vad som kommer att hända om vissa inställningar ändras.
 
-Med inställningar för problem kan systemadministratörer styra alternativen när utgåvor konverteras till aktiviteter eller projekt, hur faktiska datum beräknas och vem som får projektåtkomst när utgåvor tilldelas. Låt oss titta på var dessa inställningar finns i [!DNL Workfront].
+Med inställningar för problem kan systemadministratörer styra alternativen när utgåvor konverteras till aktiviteter eller projekt, hur faktiska datum beräknas och vem som får projektåtkomst när utgåvor tilldelas. Låt oss titta på var de här inställningarna finns i [!DNL Workfront].
 
 ## Inställningar för konverterat problem
 
@@ -67,12 +67,12 @@ Låt oss titta på alternativen i det här avsnittet så att du kan välja rätt
 
   När det här alternativet är markerat innebär det att standardinställningarna för [!UICONTROL Behåll ursprungligt problem] och [!UICONTROL Tillåt primär kontakt] kan ändras av användaren som konverterar problemet. Om du vill att standardinställningarna ska vara oförändrade avmarkerar du det här alternativet.
 
-<!---
+<!--
 learn more URLs
 Configure system-wide task and issue preferences
 Issue statuses
 Create and customize system-wide statuses
---->
+-->
 
 ## Inställningar för faktiska datum
 
@@ -93,11 +93,11 @@ Inställningsfönstret ![[!UICONTROL Uppgifter och problem] med avsnittet [!UICO
 1. Spara när du är klar.
 
 
-<!---
+<!--
 learn more URLs
 Definitions for the project, task, and issue dates within Workfront
 Configure system-wide task and issue preferences
---->
+-->
 
 ## Utfärda åtkomst
 
@@ -118,8 +118,8 @@ Inställningsfönstret ![[!UICONTROL Uppgifter och problem] med inställningsfö
 
 Fönstret ![[!UICONTROL Åtkomst] med [!UICONTROL Contribute]-alternativ](assets/admin-fund-issue-prefs-access-2.png)
 
-<!---
+<!--
 learn more URLs
 Configure system-wide task and issue preferences
 Grant access to issues
---->
+-->

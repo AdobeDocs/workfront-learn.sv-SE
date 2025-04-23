@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10096
 exl-id: 5d49108e-1795-4833-a374-3b598c90b345
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -36,8 +36,8 @@ När påminnelsen har skapats och är tillgänglig för användning, måste den 
 >
 >Om du vill använda ett påminnelsemeddelande för samma projekt eller uppgifter mer än en gång, bifogar du påminnelsemeddelandet till en projektmall.
 
-<!---
+<!--
 learn more URLs
  Attach a reminder notification to an object
 Automatic reminders vs. reminder notifications
---->
+-->
