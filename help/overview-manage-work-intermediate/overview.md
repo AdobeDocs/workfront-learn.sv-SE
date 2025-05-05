@@ -38,7 +38,7 @@ Mer information om hur du får ut mesta möjliga av Workfront.
 >
 >* Bra insikt i hur man använder Workfront
 >* Standardlicenstyp med behörighet att skapa projekt aktiverad
->* [Hantera arbete - komma igång](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
+>* [Hantera arbete - komma igång](https://experienceleague.adobe.com/?lang=sv&recommended=Workfront-U-1-2022.1.planners)
 
 
 ## Projektmallar

@@ -35,7 +35,7 @@ Här visas hur du kan skapa en anpassad arbetsinsats för att effektivisera uppg
 * **Skapa en anpassad arbetsinsats:** Användare kan skapa en anpassad arbetsinsats för att enkelt hantera och redigera inställningar för arbetsinsats. &#x200B; Detta innebär att du lägger till kolumner för Arbetsinsats och andra relevanta fält, som Planerade timmar eller Typ av varaktighet. &#x200B;
 
 
-Mer information om [!UICONTROL Arbetsinsats] finns i artikeln [Översikt över arbetsinsatser](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en).
+Mer information om [!UICONTROL Arbetsinsats] finns i artikeln [Översikt över arbetsinsatser](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=sv-SE).
 
 
 ## Rekommenderade självstudiekurser i detta ämne

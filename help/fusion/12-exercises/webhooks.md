@@ -50,7 +50,7 @@ Syftet med det här scenariot är att skapa en app för att sälja till butiker 
 1. På panelen Webhooks-mappning har en URL skapats för den här specifika webkroken. Klicka på Kopiera adress till Urklipp för att kopiera URL:en.
 1. Klicka på OK.
 1. Klicka på Kör en gång.
-1. Använd URL:en i Postman för att skicka ett namn och födelsedatum till din anpassade webkrok. Instruktioner om hur du konfigurerar Postman finns i självstudiekursen [Webhooks-genomgång](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=en).
+1. Använd URL:en i Postman för att skicka ett namn och födelsedatum till din anpassade webkrok. Instruktioner om hur du konfigurerar Postman finns i självstudiekursen [Webhooks-genomgång](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=sv-SE).
 
    **Webbhooks-modulpanelen bör se ut så här:**
 

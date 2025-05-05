@@ -72,4 +72,4 @@ Om du anger Status för projektet kan det vara:
 
 >[!NOTE]
 >
->Villkoren kan anpassas efter din miljö, så du kan hitta fler än tre alternativ eller så kan namnen skilja sig från de ovan. Mer information om hur du anpassar villkor finns i artikeln [Skapa eller redigera ett anpassat villkor](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en).
+>Villkoren kan anpassas efter din miljö, så du kan hitta fler än tre alternativ eller så kan namnen skilja sig från de ovan. Mer information om hur du anpassar villkor finns i artikeln [Skapa eller redigera ett anpassat villkor](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=sv-SE).

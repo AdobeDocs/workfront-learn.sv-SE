@@ -49,8 +49,8 @@ När du använder portföljer och program kan du använda ytterligare verktyg fr
 
 Dessutom kan ni använda ytterligare verktyg, till exempel Utilization-rapporten, som hjälper er att förstå hur och var användare arbetar, eller Portfolio Optimizer, som gör det enklare att prioritera projekt och anpassa dem till företagets övergripande mål och strategier.
 
-Mer information om hur du filtrerar en lista med projekt efter en viss portfölj finns i&quot;Aktivitet 1 - alla projekt i marknadsföringsportföljen&quot; i [Skapa grundläggande filteraktiviteter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html).
+Mer information om hur du filtrerar en lista med projekt efter en viss portfölj finns i&quot;Aktivitet 1 - alla projekt i marknadsföringsportföljen&quot; i [Skapa grundläggande filteraktiviteter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html?lang=sv-SE).
 
-Mer information om användningsrapporten finns i artikeln [Spåra förlopp, kostnad och intäkter med användningsrapporten](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=en#track-progress-cost-and-revenue-with-the-utilization-report).
+Mer information om användningsrapporten finns i artikeln [Spåra förlopp, kostnad och intäkter med användningsrapporten](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=sv-SE#track-progress-cost-and-revenue-with-the-utilization-report).
 
-Mer information om optimering för Portfolio finns i [Använd optimering för Portfolio för att prioritera och hantera arbete](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
+Mer information om optimering för Portfolio finns i [Använd optimering för Portfolio för att prioritera och hantera arbete](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=sv-SE).

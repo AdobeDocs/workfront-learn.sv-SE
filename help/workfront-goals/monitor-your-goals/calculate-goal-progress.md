@@ -37,5 +37,5 @@ Förloppet för ditt mål är ett bra sätt att få en uppfattning om var ditt m
 
 >[!TIP]
 >
->Mer information om formlerna som används för att beräkna målförloppet finns i följande artikel: [Översikt över målförloppet och målvillkoren i Adobe Workfront-mål](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=en#overview-of-goal-progress-and-threshold).
+>Mer information om formlerna som används för att beräkna målförloppet finns i följande artikel: [Översikt över målförloppet och målvillkoren i Adobe Workfront-mål](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=sv-SE#overview-of-goal-progress-and-threshold).
 

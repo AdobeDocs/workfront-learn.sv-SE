@@ -34,8 +34,8 @@ I den här videon får du lära dig följande om varaktighetstyper och aktivitet
 >[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops)
 
 
-Mer information om hur du skapar en vy för varaktighetstyper och aktivitetsbegränsningar finns i **Aktivitetsvyn för varaktighet och aktivitetsbegränsningar** i [Skapa en grundvy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+Mer information om hur du skapar en vy för varaktighetstyper och aktivitetsbegränsningar finns i **Aktivitetsvyn för varaktighet och aktivitetsbegränsningar** i [Skapa en grundvy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=sv-SE).
 
-Mer information om varaktighetstyper finns i [Typer av aktivitetsvaraktighet och varaktighet](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=en).
+Mer information om varaktighetstyper finns i [Typer av aktivitetsvaraktighet och varaktighet](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=sv-SE).
 
-Mer information om uppgiftsbegränsningar finns i [Åtgärdsbegränsningar](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=en).
+Mer information om uppgiftsbegränsningar finns i [Åtgärdsbegränsningar](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=sv-SE).

@@ -38,5 +38,5 @@ I den här videon får du lära dig:
 * [Förstå varaktigheter för uppgifter](/help/manage-work/tasks/understand-task-durations.md)
 * [Lär dig att sekvensera uppgifter](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [[!UICONTROL Arbetsinsats]](/help/manage-work/tasks/understand-work-effort.md)
-* [Översikt över tidrapporter](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/details/timesheets-overview)
-* [Loggtid](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
+* [Översikt över tidrapporter](https://experienceleague.adobe.com/sv/docs/workfront/using/timesheets/details/timesheets-overview)
+* [Loggtid](https://experienceleague.adobe.com/sv/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)

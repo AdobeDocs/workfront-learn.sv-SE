@@ -22,5 +22,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Hantera begäranden** ingår nu i **[Sök och hantera begäranden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html)**.
+>**Hantera begäranden** ingår nu i **[Sök och hantera begäranden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html?lang=sv-SE)**.
 

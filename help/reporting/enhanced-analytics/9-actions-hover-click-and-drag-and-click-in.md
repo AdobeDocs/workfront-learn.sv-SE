@@ -52,4 +52,4 @@ Om du klickar i vissa delar av ett diagram visas ytterligare diagram eller en up
 
 ![En bild med blå skuggade rutor](assets/blue-shaded-boxes.png)
 
-Mer information finns i [Förstå visualisering av aktivitet per team](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en).
+Mer information finns i [Förstå visualisering av aktivitet per team](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=sv-SE).

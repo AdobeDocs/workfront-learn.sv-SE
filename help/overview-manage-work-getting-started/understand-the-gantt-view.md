@@ -29,7 +29,7 @@ I den här videon får du lära dig hur du använder:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops)
 
-Du kan läsa mer online med artikeln [Kom igång med Gantt-schemat](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=en).
+Du kan läsa mer online med artikeln [Kom igång med Gantt-schemat](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=sv-SE).
 
 ## Rekommenderade självstudiekurser i detta ämne
 

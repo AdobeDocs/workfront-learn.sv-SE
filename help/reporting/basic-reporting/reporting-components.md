@@ -80,5 +80,5 @@ Exempel: Nytt, Aktuellt, $$TODAYbw, Beskrivning
 
 >[!TIP]
 >
->Mer information om fältnamn i Workfront finns i [ordlistan för Adobe Workfront-terminologi](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=en).
+>Mer information om fältnamn i Workfront finns i [ordlistan för Adobe Workfront-terminologi](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=sv-SE).
 

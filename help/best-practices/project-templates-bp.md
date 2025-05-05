@@ -108,7 +108,7 @@ Använd Projektdelning på en projektmall för att automatiskt ge åtkomst till 
 
 Tillgång till särskilda projekt beviljas genom själva projektet. Om samma grupp av personer alltid behöver åtkomst till projekt som skapats med en viss mall lägger du till dem under alternativet Projektdelning i mallen. Det är inte bara så att du kan styra åtkomsten till projekt så snart de har skapats, det effektiviserar skalbarheten om behörigheterna behöver ändras i framtiden.
 
-Instruktioner om hur du delar projekt som skapats med en mall finns i kapitlet&quot;Dela projekt som skapats med en mall&quot; i [Dela en projektmall](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html).
+Instruktioner om hur du delar projekt som skapats med en mall finns i kapitlet&quot;Dela projekt som skapats med en mall&quot; i [Dela en projektmall](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html?lang=sv-SE).
 
 **Obs!**: Malldelning ger åtkomst till själva mallen. En användare måste ha minst behörigheten Visa för att kunna skapa projekt med mallen.
 
@@ -177,7 +177,7 @@ Se till att information som är standard för alla projekt är ifylld i projektm
 
 Bifoga anpassade projektformulär som matchar anpassade frågeformulär som hämtar in inskickad information när begäran konverteras till ett projekt med hjälp av mallen.
 
-Instruktioner om hur du bifogar ett anpassat formulär till ett objekt, t.ex. en projektmall, finns i [Koppla ett anpassat formulär till ett objekt](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html).
+Instruktioner om hur du bifogar ett anpassat formulär till ett objekt, t.ex. en projektmall, finns i [Koppla ett anpassat formulär till ett objekt](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html?lang=sv-SE).
 
 </br>
 </br>
@@ -190,7 +190,7 @@ Granska och uppdatera projektmallar regelbundet.
 
 När processer och team förändras bör projektmallarna uppdateras. Upprätta ett regelbundet avbrott, t.ex. kvartalsvis, för att kontrollera och se vilka mallar som inte används aktivt. Du kan inaktivera dessa, så de finns fortfarande i Workfront men visas inte i mallurvalslistor.
 
-Instruktioner om hur du inaktiverar en projektmall finns i [Inaktivera en projektmall](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html).
+Instruktioner om hur du inaktiverar en projektmall finns i [Inaktivera en projektmall](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html?lang=sv-SE).
 
 </br>
 </br>
@@ -232,7 +232,7 @@ När du justerar alternativet Schemaläge för en mall granskar och uppdaterar d
 
 Om du blandar olika uppgiftsbegränsningar i ett projekt kan det orsaka oväntade och förvirrande datumberäkningar. Om du t.ex. väljer Startdatum för alternativet Schemaläge tilldelas alla aktiviteter som skapas i det projektet som standard aktivitetsbegränsningen Så snart som möjligt. Om du senare byter till alternativet Schemaläge till Slutförandedatum har alla skapade uppgifter som standard en Aktivitetsbegränsning som är så sen som möjligt. Om du har en oavsiktlig blandning av uppgifter med var och en av dessa begränsningar kan det leda till att planerade datum på projekttidslinjen blir förvirrande.
 
-Mer information om aktivitetskontraktioner och hur du använder dem finns i [Förstå och hantera varaktighetstyper och aktivitetsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
+Mer information om aktivitetskontraktioner och hur du använder dem finns i [Förstå och hantera varaktighetstyper och aktivitetsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=sv-SE).
 
 </br>
 </br>
@@ -247,4 +247,4 @@ När du skapar en mall från ett befintligt projekt, såvida du inte väljer alt
 
 Alla dessa användare kommer att listas som en del av projektteamet i avsnitten Personer och Schemaläggning i projektet. Resultatet blir att de sprids till alla projekt som skapas från den mallen. Detta kan skapa förvirring för användaren eftersom de som en del av projektteamet får meddelanden om aktivitet i projektet, ser projektet i listan Projekt som jag är på och får behörighet till projektet och dess uppgifter, utgåvor och dokument.
 
-Instruktioner om hur du redigerar projektteamet i en projektmall finns i [Redigera projektteamet i en projektmall](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html).
+Instruktioner om hur du redigerar projektteamet i en projektmall finns i [Redigera projektteamet i en projektmall](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html?lang=sv-SE).

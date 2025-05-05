@@ -53,9 +53,9 @@ Minska antalet anpassade rapporter du skapar genom att utnyttja filter, vyer och
 
 Att skapa engångsrapporter för varje datasegment som du vill se är tidskrävande och klumpar ihop Workfront-systemet.
 
-Instruktioner om hur du skapar rapporter med uppmaningar finns i kapitlet&quot;Hur du konfigurerar och använder rapportuppmaningar&quot; i videon [Förstå rapportinställningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+Instruktioner om hur du skapar rapporter med uppmaningar finns i kapitlet&quot;Hur du konfigurerar och använder rapportuppmaningar&quot; i videon [Förstå rapportinställningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html?lang=sv-SE).
 
-Instruktioner om hur du skapar rapporter med anpassade uppmaningar finns i [Skapa anpassade uppmaningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
+Instruktioner om hur du skapar rapporter med anpassade uppmaningar finns i [Skapa anpassade uppmaningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html?lang=sv-SE).
 
 </br>
 </br>
@@ -68,7 +68,7 @@ Använd listkontrollerna i layoutmallar för att dölja onödiga filter, vyer oc
 
 Mindre är mer. Alternativen för att dölja filter, visa och gruppera listor som inte är relevanta för dina användares dagliga arbetsflöden minskar listorna, vilket gör det enklare för användarna att hitta det de behöver snabbare.
 
-Instruktioner om hur du döljer filter, vyer och grupperingar med layoutmallar finns i [Anpassa rapportlistor med layoutmallar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html).
+Instruktioner om hur du döljer filter, vyer och grupperingar med layoutmallar finns i [Anpassa rapportlistor med layoutmallar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=sv-SE).
 
 </br>
 </br>
@@ -83,7 +83,7 @@ Om du har skapat filter, vyer och grupperingar som visar information som är spe
 
 Att anpassa den information som du vill visa för användarna via layoutmallarna är också tidsbesparande för system- och gruppadministratörer eftersom de inte behöver dela varje filter, vy eller grupperingsalternativ individuellt.
 
-Instruktioner om hur du delar filter, vyer och grupperingar med layoutmallar finns i [Anpassa rapportlistor med layoutmallar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html).
+Instruktioner om hur du delar filter, vyer och grupperingar med layoutmallar finns i [Anpassa rapportlistor med layoutmallar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=sv-SE).
 
 </br>
 </br>

@@ -36,9 +36,9 @@ Videon visar hur Workfront förenklar kommunikation, uppgiftshantering och rappo
 
 >[!TIP]
 >
->Om du vill skapa anteckningssökrapporten som visas i videon läser du aktiviteten i självstudiekursen [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+>Om du vill skapa anteckningssökrapporten som visas i videon läser du aktiviteten i självstudiekursen [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 >
->Om du vill lägga till anteckningssökrapporten på projektpanelen läser du aktiviteten i självstudiekursen [Skapa instrumentpaneler](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard).
+>Om du vill lägga till anteckningssökrapporten på projektpanelen läser du aktiviteten i självstudiekursen [Skapa instrumentpaneler](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=sv-SE#activity-1-create-a-dashboard).
 
 ## Viktiga uppgifter
 

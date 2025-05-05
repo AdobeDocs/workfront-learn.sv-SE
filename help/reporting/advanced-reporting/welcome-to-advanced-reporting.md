@@ -44,8 +44,8 @@ Innan du tittar på dessa självstudiekurser bör du ha en:
    * [[!UICONTROL Skapa anpassade rapporter och instrumentpaneler]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
    * [[!UICONTROL Skapa mellanliggande filter]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
 * Du bör också ha tagit dessa självstudiekurser:
-   * [[!UICONTROL Förstå det grundläggande textläget för vyer]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en)
-   * [[!UICONTROL Förstå grundläggande textläge för grupperingar]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en)
+   * [[!UICONTROL Förstå det grundläggande textläget för vyer]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=sv-SE)
+   * [[!UICONTROL Förstå grundläggande textläge för grupperingar]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=sv-SE)
 
 ## Målgrupper
 

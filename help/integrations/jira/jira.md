@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## Hur kan jag installera Adobe Workfront för Jira?
 
-Gå till [Adobe Workfront för Jira](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html?lang=en) om du vill lära dig hur du installerar och konfigurerar Adobe Workfront för Jira.
+Gå till [Adobe Workfront för Jira](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html?lang=sv-SE) om du vill lära dig hur du installerar och konfigurerar Adobe Workfront för Jira.
 
 ## Vad kan en [!DNL Jira]-integrering göra?
 

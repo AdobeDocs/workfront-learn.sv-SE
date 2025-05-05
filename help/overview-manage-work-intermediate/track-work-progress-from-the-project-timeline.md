@@ -55,4 +55,4 @@ Ibland ändras uppgiftsbegränsningarna och du inser inte det. Begränsningar ka
 
 Skapa en anpassad vy som innehåller kolumnen [!UICONTROL Aktivitetsbegränsning] om du vill visa den här informationen i uppgiftslistan. Om du planerade projektet från ett startdatum vill du att dina aktiviteter ska ha begränsningen [!UICONTROL Så snart som möjligt] ([!UICONTROL ASAP]).
 
-Mer information om uppgiftsbegränsningar finns i [Förstå och hantera varaktighetstyper och aktivitetsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
+Mer information om uppgiftsbegränsningar finns i [Förstå och hantera varaktighetstyper och aktivitetsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=sv-SE).

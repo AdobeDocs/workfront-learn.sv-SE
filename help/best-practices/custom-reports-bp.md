@@ -86,7 +86,7 @@ Användarbaserade jokertecken gör rapporter mer flexibla så att rapportförfat
 </br>
 </br>
 
-Instruktioner om hur du använder användarbaserade jokertecken i rapporter finns i [Skapa filter med användarbaserade jokertecken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
+Instruktioner om hur du använder användarbaserade jokertecken i rapporter finns i [Skapa filter med användarbaserade jokertecken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=sv-SE).
 
 **Bästa praxis**
 

@@ -34,9 +34,9 @@ I den här videon får du lära dig att kommunicera med alla projektintressenter
 
 >[!TIP]
 >
->Om du vill skapa anteckningssökrapporten som visas i videon läser du aktiviteten i självstudiekursen [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en).
+>Om du vill skapa anteckningssökrapporten som visas i videon läser du aktiviteten i självstudiekursen [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=sv-SE).
 >
->Om du vill lägga till anteckningssökrapporten på projektpanelen läser du aktiviteten i självstudiekursen [Skapa instrumentpaneler](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en).
+>Om du vill lägga till anteckningssökrapporten på projektpanelen läser du aktiviteten i självstudiekursen [Skapa instrumentpaneler](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=sv-SE).
 
 ## Rekommenderade självstudiekurser i detta ämne
 

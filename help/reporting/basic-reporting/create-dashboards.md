@@ -49,7 +49,7 @@ Skapa den här rapporten genom att skapa en kopia av rapporten&quot;Sökanteckni
 
 ### Svar 1
 
-1. Kör rapporten som du skapade i aktiviteten Skapa en anteckningsrapport. Har du inte skapat den än? Klicka här om du vill se aktiviteten i självstudiekursen [Skapa en aktivitetsrapport](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+1. Kör rapporten som du skapade i aktiviteten Skapa en anteckningsrapport. Har du inte skapat den än? Klicka här om du vill se aktiviteten i självstudiekursen [Skapa en aktivitetsrapport](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 1. Klicka på **[!UICONTROL Rapportera åtgärder]** och välj **[!UICONTROL Kopiera]**. [!DNL Workfront] skapar en ny rapport med namnet&quot;Anteckningssökning (kopia)&quot;.
 1. Gå till **[!UICONTROL Rapportåtgärder]** och välj **[!UICONTROL Redigera]**. Klicka på **[!UICONTROL Rapportinställningar]** och ändra namnet till &quot;Sök anteckningar i det här projektet&quot;.
 1. Klicka på [!UICONTROL Rapportera frågor] och ta bort uppmaningen [!UICONTROL Projekt] > [!UICONTROL Namn] från listan.

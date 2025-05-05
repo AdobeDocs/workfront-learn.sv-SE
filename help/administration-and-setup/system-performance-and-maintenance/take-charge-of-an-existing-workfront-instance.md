@@ -34,7 +34,7 @@ Både skissen och kalkylbladet är ordnade efter ämne, i stället för efter ti
 
 Där det är möjligt rekommenderar vi att du samarbetar med andra i organisationen för att granska och dokumentera dessa element och för att hålla dokumentationen uppdaterad om det finns några större förändringar. Framtida administratörer i din instans kommer att tacka dig!
 
-* <b>Om du vill hämta utkast</b> går du till huvudmenyn i din egen Workfront-instans och väljer Utkast. Hitta skissen &quot;Inherited Instance Basics | Checklista&quot; och klicka på Installera. Välj produktion eller sandlådemiljö och fortsätt konfigurera. Mer information om hur du installerar och konfigurerar utkast finns [här](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+* <b>Om du vill hämta utkast</b> går du till huvudmenyn i din egen Workfront-instans och väljer Utkast. Hitta skissen &quot;Inherited Instance Basics | Checklista&quot; och klicka på Installera. Välj produktion eller sandlådemiljö och fortsätt konfigurera. Mer information om hur du installerar och konfigurerar utkast finns [här](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=sv-SE).
 
 * <b>Klicka [här](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx) om du vill hämta Excel</b>-checklistan.
 
@@ -99,6 +99,6 @@ Genom att gå igenom varje fas, och med hjälp av checklistan för den ärvda in
 
 Ytterligare information finns nedan:
 * [Webbinarium: Tips för att ta över en ärvd instans](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
-* [Definiera mål för din Workfront-implementering](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en)
+* [Definiera mål för din Workfront-implementering](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=sv-SE)
 * [Blogginlägg: Executive Sponsorship and Value to Leadership](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
 * [Blog Post: Introduktion till Adobe Workfront KPI:er](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)

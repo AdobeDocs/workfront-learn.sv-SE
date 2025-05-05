@@ -30,4 +30,4 @@ Planerade timmar är standard. Om du växlar till längd gäller detta även om 
 
 ## Vad betyder rutstorlek och färgton?
 
-Mindre, ljusare blå rutor visar färre timmar medan större rutor och mörkare nyanser av blått visar fler timmar i jämförelse. Mer information finns i [Förstå visualiseringen av projektteamen](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=en).
+Mindre, ljusare blå rutor visar färre timmar medan större rutor och mörkare nyanser av blått visar fler timmar i jämförelse. Mer information finns i [Förstå visualiseringen av projektteamen](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=sv-SE).

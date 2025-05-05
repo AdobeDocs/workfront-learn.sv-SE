@@ -42,7 +42,7 @@ I videon betonas flexibiliteten i Gantt-scheman, vilket gör att användarna kan
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops)
 
-Du kan läsa mer online med artikeln [Kom igång med Gantt-schemat](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=en).
+Du kan läsa mer online med artikeln [Kom igång med Gantt-schemat](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=sv-SE).
 
 ## Viktiga uppgifter
 

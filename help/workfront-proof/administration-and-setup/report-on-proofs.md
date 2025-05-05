@@ -31,7 +31,7 @@ Den här rapporttypen hjälper dig att spåra utestående korrekturgodkännanden
 
 ![Välj [!UICONTROL Korrekturgodkännande] i listrutan [!UICONTROL Ny rapport]](assets/proof-system-setups-proof-approval-report.png)
 
-Vy- och filteralternativen omfattar [!UICONTROL beslutsdatum], [!UICONTROL korrektur av godkännande], [!UICONTROL godkännarfas], [!UICONTROL arbetsflödesmall] och [!UICONTROL information om begärande]. Med textlägesrapportering kan du skapa en gruppering som ordnar listan efter dokumentnamn. Se [Förstå grundläggande textläge för grupperingar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en).
+Vy- och filteralternativen omfattar [!UICONTROL beslutsdatum], [!UICONTROL korrektur av godkännande], [!UICONTROL godkännarfas], [!UICONTROL arbetsflödesmall] och [!UICONTROL information om begärande]. Med textlägesrapportering kan du skapa en gruppering som ordnar listan efter dokumentnamn. Se [Förstå grundläggande textläge för grupperingar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=sv-SE).
 
 När du skriver korrekturrapporter för godkännande ska du se till att du får information om den senaste versionen av korrektur. [!DNL Workfront] rekommenderar att du inkluderar den här fältkällan och fältnamnet i filtret:
 

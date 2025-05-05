@@ -31,4 +31,4 @@ I den här videon får du lära dig mer om:
 
 >[!IMPORTANT]
 >
->En mer fullständig förklaring av varaktighetstyper och aktivitetsbegränsningar finns i [Förstå och hantera varaktighetstyper och aktivitetsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=en).
+>En mer fullständig förklaring av varaktighetstyper och aktivitetsbegränsningar finns i [Förstå och hantera varaktighetstyper och aktivitetsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=sv-SE).

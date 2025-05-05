@@ -37,7 +37,7 @@ Alternativen för [!UICONTROL PIM] är timbaserade och kostnadsbaserade.
 * **Beräkna på projektnivå** — [!UICONTROL EAC] för den överordnade aktiviteten och projektet bestäms med hjälp av faktiska timmar/faktiska arbetskostnader i [!UICONTROL EAC]-formler. Beräkningen inkluderar faktiska timmar/kostnader och utgifter som lagts till direkt i den överordnade uppgiften eller projektet.
 * R **Samla in från aktiviteter/underaktiviteter** — [!UICONTROL EAC] för den överordnade aktiviteten och projektet bestäms genom att lägga till [!UICONTROL EAC] för varje underordnad aktivitet. Den här beräkningen exkluderar faktiska timmar/kostnader som lagts till direkt i en överordnad uppgift eller ett överordnat projekt.
 
-Beräkningarna för [!UICONTROL EAC] visas i [Beräkna beräkning vid slutförande (EAC)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=en).
+Beräkningarna för [!UICONTROL EAC] visas i [Beräkna beräkning vid slutförande (EAC)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=sv-SE).
 
 **Resultatmått: Inställningar**
 
