@@ -25,4 +25,4 @@ För att verkligen stärka människors möjligheter måste cheferna planera och 
 Det kan dock bli lite enklare med Workfront resursplanering för resurser.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437258/?quality=12&learn=on&enablevpops&captions=swe)

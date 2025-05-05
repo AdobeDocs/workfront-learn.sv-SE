@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 * Hur funktionsmakron används för kommentarer
 * Anpassa åtgärdsetiketter
 
->[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432933/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Din tur
 

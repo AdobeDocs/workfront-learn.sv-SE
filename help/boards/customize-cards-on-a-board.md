@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du anpassar vilken information som visas på ett kort i en anslagstavla, antingen för den fullständiga eller komprimerade vyn.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446535/?quality=12&learn=on&enablevpops&captions=swe)

@@ -28,7 +28,7 @@ I den här videon får du lära dig:
 * Så här använder du Arbetsinsats
 * Så här skapar du en uppgiftsvy för arbetsinsats
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447403/?quality=12&learn=on&enablevpops&captions=swe)
 
 Mer information om [!UICONTROL Arbetsinsats] finns i artikeln [Översikt över arbetsinsatser](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=sv-SE).
 

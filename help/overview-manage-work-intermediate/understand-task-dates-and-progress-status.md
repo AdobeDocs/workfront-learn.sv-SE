@@ -25,7 +25,7 @@ I den här videon får du lära dig att:
 * Välj en vy för att jämföra [!DNL Workfront's] olika datumtyper
 * Använd förloppsstatus för att spåra arbetets förlopp
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436611/?quality=12&learn=on&enablevpops&captions=swe)
 
 >[!NOTE]
 >

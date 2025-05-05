@@ -36,7 +36,7 @@ I den här videon får du lära dig mer om:
 * Beroendeloop-fel
 * Korta klipp och bästa praxis
 
->[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3454531/?quality=12&learn=on&enablevpops&captions=swe)
 
 Mer information om hur du använder föregående aktiviteter finns i [Använd föregående aktiviteter](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=sv-SE).
 

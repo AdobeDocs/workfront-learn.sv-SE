@@ -29,4 +29,4 @@ I den här videon får du lära dig att:
 * Kontrollera meddelanden i appen
 * Planera för att konfigurera och underhålla [!UICONTROL Workfront DAM]
 
->[!VIDEO](https://video.tv.adobe.com/v/335232/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3454269/?quality=12&learn=on&enablevpops&captions=swe)

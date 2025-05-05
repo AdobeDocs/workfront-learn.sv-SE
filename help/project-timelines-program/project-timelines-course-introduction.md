@@ -20,4 +20,4 @@ ht-degree: 0%
 
 I den här videon får du lära dig vilka element - t.ex. datumtyper och uppgiftsbegränsningar - som används när du skapar och hanterar projekttidslinjer i [!DNL &#x200B; Workfront].
 
->[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436744/?quality=12&learn=on&enablevpops&captions=swe)

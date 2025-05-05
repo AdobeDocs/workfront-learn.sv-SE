@@ -28,7 +28,7 @@ I den här videon får du lära dig:
 * Olika sätt att lägga till och ta bort uppgifter
 * Så här ändrar du uppgiftsordningen
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448560/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

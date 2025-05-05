@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du lägger till och tar bort enskilda personer och team i en styrelse så att de kan komma åt information från styrelsen.
 
->[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428963/?quality=12&learn=on&enablevpops&captions=swe)

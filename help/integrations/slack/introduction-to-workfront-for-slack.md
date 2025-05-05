@@ -23,7 +23,7 @@ I den här videon kommer du att:
 
 * Få en introduktion till vad du kommer att lära dig av andra [!DNL Workfront] för [!DNL Slack]-videor.
 
->[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435919/?quality=12&learn=on&enablevpops&captions=swe)
 
 >[!NOTE]
 >

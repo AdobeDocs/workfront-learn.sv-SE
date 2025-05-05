@@ -24,4 +24,4 @@ I den här videon får du lära dig:
 
 * Skillnaden mellan ett dokument och ett korrektur i [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335123/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439863/?quality=12&learn=on&enablevpops&captions=swe)

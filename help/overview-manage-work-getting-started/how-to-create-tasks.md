@@ -25,7 +25,7 @@ I den här videon får du lära dig:
 * Det långa sättet att skapa en uppgift i ett Workfront-projekt
 * Några praktiska genvägar för att skapa uppgifter
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428973/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

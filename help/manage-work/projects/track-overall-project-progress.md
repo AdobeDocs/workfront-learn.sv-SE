@@ -25,7 +25,7 @@ I videon beskrivs hur du spårar övergripande projektförlopp med hjälp av oli
 
 I videon betonas vikten av regelbundna uppdateringar av teammedlemmar och proaktiv problemhantering för att säkerställa korrekt spårning och att projektet slutförs i tid. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447414/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Viktiga uppgifter
 

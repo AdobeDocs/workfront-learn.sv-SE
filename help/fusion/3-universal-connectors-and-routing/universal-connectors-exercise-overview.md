@@ -27,4 +27,4 @@ I den här videon får du lära dig att:
 * Ansluta till ett externt API
 * Använd formelredigeraren för att extrahera information från en array
 
->[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435879/?quality=12&learn=on&enablevpops&captions=swe)

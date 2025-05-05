@@ -25,4 +25,4 @@ I den här videon får du lära dig:
 
 * Så här skapar du snabbt en ny rapport genom att kopiera och redigera en liknande rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437049/?quality=12&learn=on&enablevpops&captions=swe)

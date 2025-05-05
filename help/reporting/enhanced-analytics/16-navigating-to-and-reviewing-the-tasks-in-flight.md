@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 * Så här kommer du åt uppgifter i flightdiagram
 * Så här ser du snabbt vilka uppgifter som inte har slutförts i ett projekt
 
->[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437004/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Data på aktivitetsnivå
 

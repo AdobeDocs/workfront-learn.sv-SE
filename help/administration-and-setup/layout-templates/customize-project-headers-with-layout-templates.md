@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Lär dig hur du lägger till och tar bort fält från projektrubriker via layoutmallar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409081)
+>[!VIDEO](https://video.tv.adobe.com/v/3428951?captions=swe)

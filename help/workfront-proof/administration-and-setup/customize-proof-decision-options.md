@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 * Ändra namn på beslutsalternativ för korrektur
 * Så här döljer du obehövliga beslutsalternativ för bevis
 
->[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444653/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Din tur
 

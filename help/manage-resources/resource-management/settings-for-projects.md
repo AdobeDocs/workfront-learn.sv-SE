@@ -24,4 +24,4 @@ I den här videosjälvstudiekursen får du lära dig:
 
 * Så här optimerar du verktygen för resurshantering - varaktighet och planerade datum, planerade timmar och jobbrollstilldelningar
 
->[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431651/?quality=12&learn=on&enablevpops&captions=swe)

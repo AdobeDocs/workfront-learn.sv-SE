@@ -27,7 +27,7 @@ I den här videon får du lära dig hur du använder:
 * Projektets Gantt-schema
 * Gantt-schemat för aktiviteten
 
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448010/?quality=12&learn=on&enablevpops&captions=swe)
 
 Du kan läsa mer online med artikeln [Kom igång med Gantt-schemat](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=sv-SE).
 

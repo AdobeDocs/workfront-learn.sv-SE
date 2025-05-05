@@ -27,7 +27,7 @@ I den här videon får du lära dig mer om:
 * Planerade, projicerade och faktiska datum och
 * Hur de används vid beräkning av förloppsstatus
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436611/?quality=12&learn=on&enablevpops&captions=swe)
 
 >[!NOTE]
 >

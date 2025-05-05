@@ -25,4 +25,4 @@ I den här videon får du lära dig:
 
 * Så här uppdaterar du inifrån uppgifter i flygdiagram
 
->[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436864/?quality=12&learn=on&enablevpops&captions=swe)

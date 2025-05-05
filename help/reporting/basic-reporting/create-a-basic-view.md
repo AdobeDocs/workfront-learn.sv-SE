@@ -27,7 +27,7 @@ I den här videon får du lära dig:
 * Så här skapar och ändrar du en vy
 * Dela en vy med andra Workfront-användare
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450242/?quality=12&learn=on&captions=swe)
 
 ## Aktiviteter för att skapa en grundvy
 

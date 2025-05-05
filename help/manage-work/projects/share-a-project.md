@@ -41,7 +41,7 @@ I videon förklaras hur du kan dela projekt effektivt i Workfront så att intres
 
 I videon betonas användningen av team och mallar för effektiv hantering av delning och även administratörernas roll när det gäller att anpassa delningsinställningarna.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428971/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Viktiga uppgifter
 

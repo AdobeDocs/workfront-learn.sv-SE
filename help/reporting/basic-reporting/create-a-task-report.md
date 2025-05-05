@@ -25,7 +25,7 @@ I den här videon får du lära dig:
 * Skapa en uppgiftsrapport med ett komplext filter
 * Hitta de rapporter du skapar
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448346/?quality=12&learn=on&captions=swe)
 
 ## Aktiviteter som&quot;Skapa en uppgiftsrapport&quot;
 

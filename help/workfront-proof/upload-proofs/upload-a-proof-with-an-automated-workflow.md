@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 * Tillämpa ett arbetsflöde med en korrekturmall
 * Så här skapar du ett automatiskt arbetsflöde från grunden
 
->[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453013/?quality=12&learn=on&enablevpops&captions=swe)
 
 
 

@@ -28,7 +28,7 @@ I den här videon får du lära dig att:
 * Visa mappinformation
 * Visa och uppdatera metadata och nyckelord för resurser
 
->[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453924/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Grundläggande sökvillkor
 

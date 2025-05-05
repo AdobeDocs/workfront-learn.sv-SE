@@ -24,7 +24,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig vad projektteamet kan användas för och hur du underhåller det.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444593/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Viktiga uppgifter
 

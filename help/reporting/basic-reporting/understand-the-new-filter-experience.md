@@ -26,4 +26,4 @@ I den här videon får du lära dig att:
 * Skapa och redigera filter
 * Staplingsfilter
 
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428946/?quality=12&learn=on&enablevpops&captions=swe)

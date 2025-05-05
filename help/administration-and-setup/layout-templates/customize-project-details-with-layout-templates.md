@@ -25,4 +25,4 @@ I den här videon får du lära dig att:
 * Navigera till området med projektinformation
 * Anpassa projektinformationsfält med hjälp av en layoutmall
 
->[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432900/?quality=12&learn=on&enablevpops&captions=swe)

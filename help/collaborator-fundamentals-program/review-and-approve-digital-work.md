@@ -22,7 +22,7 @@ I den här videon får du lära dig att:
 * Godkänn dokument
 * Godkänn korrektur
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444950/?quality=12&learn=on&enablevpops&captions=swe)
 
 <!--
 learn more URLS

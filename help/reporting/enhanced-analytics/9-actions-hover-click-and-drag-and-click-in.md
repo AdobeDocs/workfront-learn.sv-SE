@@ -27,7 +27,7 @@ I den här videon får du lära dig:
 * Skapa en tidsram i ett diagram
 * Hur man lägger in ytterligare diagram
 
->[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438569/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Klicka på ett diagram för mer information
 

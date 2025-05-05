@@ -28,7 +28,7 @@ I den här videon får du lära dig:
 * Så här använder du vyn [!UICONTROL Board]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432419/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

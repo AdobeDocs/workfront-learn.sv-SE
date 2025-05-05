@@ -29,7 +29,7 @@ I den här videon får du lära dig att:
 * Överföra ett dokument
 * Hitta utbildning i att ladda upp korrektur
 
->[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440374/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

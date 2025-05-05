@@ -24,4 +24,4 @@ I den här videon får du lära dig att:
 * Spåra kostnader och intäkter
 * Hantera utgifter
 
->[!VIDEO](https://video.tv.adobe.com/v/335207/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436420/?quality=12&learn=on&enablevpops&captions=swe)

@@ -23,7 +23,7 @@ ht-degree: 0%
 
 I videon visas hur du konverterar ett problem eller en förfrågan till ett projekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446626/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Viktiga uppgifter
 

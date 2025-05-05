@@ -23,4 +23,4 @@ I den här videon får du lära dig att:
 
 * Sök [!DNL Workfront] via [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335121/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437512/?quality=12&learn=on&enablevpops&captions=swe)

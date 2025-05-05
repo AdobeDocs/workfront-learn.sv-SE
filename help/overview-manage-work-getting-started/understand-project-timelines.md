@@ -27,7 +27,7 @@ I den här videon får du lära dig mer om:
 * Schemalägga projekt från start- eller slutförandedatumet
 * Aktivitetsbegränsningar
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435839/?quality=12&learn=on&enablevpops&captions=swe)
 
 >[!IMPORTANT]
 >

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du lägger till kort till en styrelse, antingen helt ny eller från en befintlig arbetsuppgift.
 
->[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428965/?quality=12&learn=on&enablevpops&captions=swe)

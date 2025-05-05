@@ -25,4 +25,4 @@ I den här videon får du lära dig:
 * Åtkomst till rapportinställningar
 * Vad vissa vanliga rapportinställningar används för
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445867/?quality=12&learn=on&enablevpops&captions=swe)

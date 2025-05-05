@@ -28,7 +28,7 @@ I den här videon får du lära dig:
 * Varför ska du ändra projektstatus till [!UICONTROL Fullständigt]?
 * Så här gör du om du inte kan ändra projektstatus till [!UICONTROL Fullständigt]
 
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439362/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

@@ -23,4 +23,4 @@ I den här videon får du lära dig att:
 
 * Tilldela uppgifter i [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335117/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441521/?quality=12&learn=on&enablevpops&captions=swe)

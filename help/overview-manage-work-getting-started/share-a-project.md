@@ -31,7 +31,7 @@ I den här videon får du lära dig:
 * Dela ett projekt genom att lägga in det i en portfolio
 * Bästa tillvägagångssätt för att dela ett projekt
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428971/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

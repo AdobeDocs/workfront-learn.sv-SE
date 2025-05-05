@@ -31,4 +31,4 @@ I den här videon får du lära dig att:
 * Hitta inkommande och befintliga arbetstilldelningar
 * Granska uppdragsinformation
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432298/?quality=12&learn=on&enablevpops&captions=swe)

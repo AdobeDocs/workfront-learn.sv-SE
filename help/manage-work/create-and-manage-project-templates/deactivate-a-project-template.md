@@ -27,7 +27,7 @@ I den här videon får du lära dig:
 * Så här delar du en projektmall som ger behörighet att aktivera och inaktivera den.
 * Så här aktiverar och inaktiverar du en projektmall.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444994/?quality=12&learn=on&enablevpops&captions=swe)
 
 >[!NOTE]
 >

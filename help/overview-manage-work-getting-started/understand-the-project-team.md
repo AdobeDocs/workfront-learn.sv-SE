@@ -27,7 +27,7 @@ I den här videon får du lära dig:
 
 * Vad projektteamet kan användas för och hur det underhålls
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444593/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

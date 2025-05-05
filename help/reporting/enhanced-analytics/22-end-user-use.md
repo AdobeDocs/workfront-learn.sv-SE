@@ -25,4 +25,4 @@ I den här videon får du lära dig:
 
 * Hur slutanvändare kan använda Flight-plan, Burndown och uppgifter i färdplaner
 
->[!VIDEO](https://video.tv.adobe.com/v/335055/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437693/?quality=12&learn=on&enablevpops&captions=swe)

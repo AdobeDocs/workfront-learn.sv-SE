@@ -25,7 +25,7 @@ I den här videon kommer du att:
 * Se [!UICONTROL Visa efter projekt]vy
 * Lär dig hur resursinformation visas i den här vyn
 
->[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431633/?quality=12&learn=on&enablevpops&captions=swe)
 
 För alternativet Visa efter projekt är standardvärdet att visa kolumnen Budgeterad, som tar upp det uppskattade antalet resurser som behövs för ett projekt från ett affärsärende, om det har fyllts i. Det innebär också att kolumnen Netto som standard använder siffrorna från kolumnen Budgeterad för att ange hur många resurser som finns kvar.
 

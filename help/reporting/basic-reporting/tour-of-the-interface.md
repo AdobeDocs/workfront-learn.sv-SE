@@ -35,4 +35,4 @@ I den här videon får du lära dig mer om:
 * Sammanfattningsinformation
 * Och hur du skapar ett ad hoc-kalenderobjekt
 
->[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438763/?quality=12&learn=on&enablevpops&captions=swe)

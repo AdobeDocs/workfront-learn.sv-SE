@@ -30,7 +30,7 @@ I den här videon får du lära dig att:
 * Ange globala projektinställningar
 * Skapa och använda scheman
 
->[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428981/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Globala inställningar och inställningar för gruppprojekt, aktiviteter och ärenden
 

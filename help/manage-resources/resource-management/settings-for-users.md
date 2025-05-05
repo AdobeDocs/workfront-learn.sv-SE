@@ -28,4 +28,4 @@ I den här videosjälvstudiekursen får du lära dig mer om inställningar för:
 * Ledig tid
 * Jobbroller
 
->[!VIDEO](https://video.tv.adobe.com/v/335161/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432156/?quality=12&learn=on&enablevpops&captions=swe)

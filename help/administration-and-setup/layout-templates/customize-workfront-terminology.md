@@ -22,4 +22,4 @@ ht-degree: 0%
 
 I den här videon får du lära dig hur du ställer in terminologi med en layoutmall.
 
->[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445478/?quality=12&learn=on&enablevpops&captions=swe)

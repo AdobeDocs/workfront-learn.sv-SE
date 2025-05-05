@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Upptäck hur systemadministratörer kan utnyttja gruppadministratörer för att effektivt underhålla inställningar och ge grupper större kontroll över sina arbetsprocesser.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439323/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439327/?quality=12&learn=on&enablevpops&captions=swe)
 
 

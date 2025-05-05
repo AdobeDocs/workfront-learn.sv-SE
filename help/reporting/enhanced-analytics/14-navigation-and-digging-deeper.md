@@ -25,7 +25,7 @@ I den här videon får du lära dig:
 
 * Så här ser du snabbt hur mycket arbetarna lägger ned tid på varje projekt
 
->[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437803/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Granskningstid för projekt
 

@@ -31,7 +31,7 @@ I den här videon får du en stegvis guide om hur du skapar ett begärandeflöde
 I videon visas sedan hur du skapar köämnen, som är länkade till routningsregler, ämnesgrupper, anpassade formulär, godkännandeprocesser och standardtider.
 Slutligen visar videon hur du testar konfigurationen genom att skicka en begäran för att säkerställa att den dirigeras korrekt. &#x200B; Om det uppstår problem kan du justera kön. &#x200B; I videon betonas vikten av att verifiera strukturen och funktionaliteten i begärandeflödet för att säkerställa korrekt routning och organisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433826/?quality=12&learn=on&captions=swe)
 
 ## Viktiga uppgifter
 

@@ -25,4 +25,4 @@ I den här videon får du lära dig:
 * Workfront definition av företag
 * Skapa företag och föreningar
 
->[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432859/?quality=12&learn=on&enablevpops&captions=swe)

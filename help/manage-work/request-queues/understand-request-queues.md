@@ -24,7 +24,7 @@ ht-degree: 0%
 
 I den här videon förklaras konceptet med begärandeköer i Workfront, deras syfte och hur begäranden skickas och hanteras. &#x200B; Begärandeköer fungerar som en central plats för att skicka olika typer av förfrågningar. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447014/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Viktiga uppgifter
 

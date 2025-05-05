@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Få en bättre förståelse för vad en styrelse är och hur den kan hjälpa dig och/eller ditt team att hantera arbetet. Se var du kan få tillgång till anslagstavlor och hur du skapar en grundanslagstavla.
 
->[!VIDEO](https://video.tv.adobe.com/v/346548/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428957/?quality=12&learn=on&enablevpops&captions=swe)

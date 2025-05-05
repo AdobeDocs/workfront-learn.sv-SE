@@ -23,7 +23,7 @@ ht-degree: 0%
 
 I videon förklaras de sista stegen för att göra ett projekt live genom att ändra dess status till&quot;aktuell&quot; &#x200B;. Innan du gör det lägger den vikt vid att granska projektelement, inklusive aktivitetsnamn, varaktighet, planerade timmar, föregående aktiviteter, start- och slutdatum samt tilldelningar, för att säkerställa att allt är korrekt och korrekt inställt. &#x200B; När projektet är öppet får projektledaren meddelanden som baseras på globala och personliga inställningar, och projektet visas i rapporter och filter för aktiva projekt. &#x200B; Det här är den officiella början av arbetet. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438988/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Viktiga uppgifter
 

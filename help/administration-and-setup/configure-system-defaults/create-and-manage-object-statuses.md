@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar och hanterar system- och gruppstatus för Workfront-objekt och arbetsflöden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451853/?learn=on&captions=swe)

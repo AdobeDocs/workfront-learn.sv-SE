@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Lär dig syftet med scheman, hur du skapar och redigerar dem och andra inställningar för att bättre avgöra när arbetet kan utföras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422184/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428979/?quality=12&learn=on&enablevpops&captions=swe)
 

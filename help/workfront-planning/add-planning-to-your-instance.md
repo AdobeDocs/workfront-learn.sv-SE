@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig vilka krav som krävs för att lägga till verktyget Workfront Planning och göra det synligt för användarna i din instans.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447930/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447970/?learn=on&enablevpops&captions=swe)

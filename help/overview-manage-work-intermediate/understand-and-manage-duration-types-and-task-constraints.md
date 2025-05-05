@@ -32,7 +32,7 @@ I den här videon får du lära dig följande om varaktighetstyper och aktivitet
 * Bästa tillvägagångssätt för att använda dem
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428948/?quality=12&learn=on&enablevpops&captions=swe)
 
 
 Mer information om hur du skapar en vy för varaktighetstyper och aktivitetsbegränsningar finns i Vyaktiviteten för varaktighetstyper och aktivitetsbegränsningar i [Skapa en grundvy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=sv-SE).

@@ -25,7 +25,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig några snabba och enkla sätt att hitta projekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439552/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

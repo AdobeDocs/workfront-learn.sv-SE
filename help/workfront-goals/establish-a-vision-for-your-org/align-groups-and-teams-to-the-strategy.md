@@ -24,7 +24,7 @@ I den här videon får du lära dig att:
 * Granska och aktivera föreslagna mål
 * Överlappa och justera kvartalsmål
 
->[!VIDEO](https://video.tv.adobe.com/v/335188/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432164/?quality=12&learn=on&enablevpops&captions=swe)
 
 <!--
 Pro-tips graphic

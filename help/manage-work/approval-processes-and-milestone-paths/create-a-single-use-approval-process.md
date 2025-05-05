@@ -26,7 +26,7 @@ I videon förklaras hur du skapar och hanterar godkännandeprocesser för projek
 I videon visas hur du skapar godkännandeprocesser, ställer in godkännare, konfigurerar status och använder faser för godkännanden på flera nivåer.
 &#x200B;Den visar på flexibiliteten i både globala och fristående processer för effektiv hantering av godkännanden av uppgifter.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434691/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Viktiga uppgifter
 

@@ -25,7 +25,7 @@ I den här videon får du lära dig att:
 * Visa och uppdatera Workfront-arbete från [!DNL Gmail]
 * Godkänn Workfront-arbete från [!DNL Gmail]
 
->[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3450161/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Installera Adobe Workfront för G Suite
 

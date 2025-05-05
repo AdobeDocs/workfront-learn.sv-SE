@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 * Skapa en gruppering
 * Och dela en gruppering med andra Workfront-användare
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449819/?quality=12&learn=on&captions=swe)
 
 ## Skapa en grundläggande gruppering
 

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 I den här videon får du lära dig hur [!DNL &#x200B; Workfront]-begärandeköer kan centralisera efterfrågehanteringen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437594/?quality=12&learn=on&enablevpops&captions=swe)

@@ -26,7 +26,7 @@ I den här videon får du lära dig att:
 * Lägg till ett arbetsflöde när korrekturet skapas
 * Lägga till eller redigera ett arbetsflöde när korrekturet har skapats
 
->[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443467/?quality=12&learn=on&enablevpops&captions=swe)
 
 
 ## Vem kan ladda upp dokument?

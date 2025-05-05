@@ -26,7 +26,7 @@ I den här videon får du lära dig att:
 * Hämta alla versioner av ett korrektur
 * Ta bort en korrekturversion
 
->[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438646/?quality=12&learn=on&enablevpops&captions=swe)
 
 <!--
 ## Learn more

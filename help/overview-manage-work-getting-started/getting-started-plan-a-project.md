@@ -29,7 +29,7 @@ I den här videon får du lära dig:
 * Så här kan en [!UICONTROL vy] hjälpa dig att se den information du behöver
 * Ange start- eller slutförandedatum
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448571/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

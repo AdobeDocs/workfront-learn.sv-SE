@@ -52,4 +52,4 @@ I den här videon får du lära dig att göra följande inifrån din Creative Cl
 * Loggtid
 * Markera ditt arbete som slutfört
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431669/?quality=12&learn=on&enablevpops&captions=swe)

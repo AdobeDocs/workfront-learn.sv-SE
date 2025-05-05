@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du omorganiserar, kopierar, arkiverar, tar bort och kopplar från kort på en anslagstavla.
 
->[!VIDEO](https://video.tv.adobe.com/v/346810/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428953/?quality=12&learn=on&enablevpops&captions=swe)

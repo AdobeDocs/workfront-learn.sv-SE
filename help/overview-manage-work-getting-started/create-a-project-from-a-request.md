@@ -28,7 +28,7 @@ I den här videon får du lära dig att:
 * Välj lämplig projektmall
 * Slutför konverteringen från begäran till projekt
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446626/?quality=12&learn=on&enablevpops&captions=swe)
 
 
 ## Rekommenderade självstudiekurser i detta ämne

@@ -24,4 +24,4 @@ I den här videon får du lära dig att:
 * Navigera i diagram
 * Navigera till måljustering
 
->[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431646/?quality=12&learn=on&enablevpops&captions=swe)

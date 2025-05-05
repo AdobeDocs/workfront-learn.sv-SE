@@ -23,7 +23,7 @@ ht-degree: 0%
 
 I videon förklaras vikten av ett affärsärende inom projektledning. Det betonar att det blir lättare för cheferna att analysera och prioritera projekt som konkurrerar om samma resurser om de ska fylla i affärsplanen noggrant. &#x200B; När ärendet är klart ändras projektets status till&quot;Begärt&quot; och resultatet beräknas för jämförelsen i Portfolio Optimization Tool. &#x200B; Inget av fälten är obligatoriskt, men mer detaljerad information förbättrar beslutsfattandet. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442848/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Viktiga uppgifter
 

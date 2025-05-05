@@ -25,7 +25,7 @@ I den här videon får du lära dig:
 
 * Läs Flight-planen
 
->[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439014/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Flygplanskarta
 

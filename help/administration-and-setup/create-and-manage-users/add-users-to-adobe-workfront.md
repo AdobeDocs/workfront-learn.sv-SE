@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Lär dig hur du lägger till användare i Workfront genom att kopiera en befintlig användare, importera flera användare samtidigt och skapa en ny användare från grunden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447047/?quality=12&learn=on&enablevpops&captions=swe)
 

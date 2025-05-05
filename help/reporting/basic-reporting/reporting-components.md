@@ -29,7 +29,7 @@ I videon förklaras begreppet att rapportera komponenter i Workfront, vilket är
 * **Filterkvalificerare:** Definierar vilka värden som ska inkluderas eller exkluderas i en rapport, till exempel att aktiviteter med prioriteten &quot;high&quot; &#x200B; visas.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447025/?quality=12&learn=on&captions=swe)
 
 ## Viktiga uppgifter
 

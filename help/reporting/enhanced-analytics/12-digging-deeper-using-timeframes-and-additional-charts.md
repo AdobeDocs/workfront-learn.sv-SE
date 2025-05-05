@@ -26,4 +26,4 @@ I den här videon får du lära dig:
 * Hur man fördjupar sig i ett projekt i ett flightplan så att Burndown-schemat och uppgifter i flightdiagrammet visas
 * Så här skapar du ett tidsramsfilter för att zooma in inom ett datumintervall
 
->[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437269/?quality=12&learn=on&enablevpops&captions=swe)

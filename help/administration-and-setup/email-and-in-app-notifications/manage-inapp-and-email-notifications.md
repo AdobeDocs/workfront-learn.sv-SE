@@ -23,5 +23,5 @@ ht-degree: 81%
 
 Lär dig hur användare kan styra vilka aviseringar i appar och e-postmeddelanden de får så att de får relevanta och användbara e-postmeddelanden om deras arbete.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442786/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442811/?quality=12&learn=on&enablevpops&captions=swe)
 

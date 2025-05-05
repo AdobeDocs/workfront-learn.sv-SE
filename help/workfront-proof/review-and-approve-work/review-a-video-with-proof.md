@@ -25,7 +25,7 @@ I den här videon får du lära dig att:
 * Lägga till tidsstämplade kommentarer i en video
 * Justera visningsprograminställningar
 
->[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444226/?quality=12&learn=on&enablevpops&captions=swe)
 
 <!--
 ## Learn more

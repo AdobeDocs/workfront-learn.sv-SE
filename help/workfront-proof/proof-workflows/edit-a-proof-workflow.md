@@ -26,7 +26,7 @@ I den här videon får du lära dig att:
 * Lägga till användare i ett befintligt arbetsflöde
 * Växla ett befintligt arbetsflöde till ett automatiskt arbetsflöde
 
->[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445456/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Din tur
 

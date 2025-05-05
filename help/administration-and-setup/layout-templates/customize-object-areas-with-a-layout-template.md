@@ -26,4 +26,4 @@ I den här videon får du lära dig att:
 * Lägga till objekt på den vänstra panelmenyn
 * Ordna om objekt på panelmenyn
 
->[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432893/?quality=12&learn=on&enablevpops&captions=swe)
