@@ -1,6 +1,6 @@
 ---
 title: Förstå e-postaviseringar och korrekturmeddelanden
-description: Förstå skillnaden mellan e-postaviseringar och korrekturmeddelanden i  [!DNL  Workfront].
+description: Förstå skillnaden mellan e-postaviseringar och korrekturmeddelanden i  [!DNL &#x200B; Workfront].
 feature: Workfront Proof
 type: Tutorial
 role: User

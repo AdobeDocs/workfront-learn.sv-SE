@@ -1,6 +1,6 @@
 ---
 title: Fullständiga godkännanden
-description: Lär dig hur du identifierar ofullständiga godkännanden och löser dem så att du kan stänga ditt projekt i  [!DNL  Workfront].
+description: Lär dig hur du identifierar ofullständiga godkännanden och löser dem så att du kan stänga ditt projekt i  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management

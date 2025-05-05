@@ -49,9 +49,9 @@ Med den här rapporttypen kan du hantera och spåra versioner i [!DNL Workfront]
 
 Visningsalternativen innehåller information från [!UICONTROL dokumentversion], [!UICONTROL dokument], [!UICONTROL som anges av], [!UICONTROL dokumentets godkännandestatus], [!UICONTROL korrekturläsare] och [!UICONTROL dokumentleverantör].
 
-Grupperingar kan utföras av [!UICONTROL dokumentversion], [!UICONTROL som anges av ], [!UICONTROL bevis för godkännandestatus] eller korrekturägarinformation.
+Grupperingar kan utföras av [!UICONTROL dokumentversion], [!UICONTROL som anges av &#x200B;], [!UICONTROL bevis för godkännandestatus] eller korrekturägarinformation.
 
-Filtren innehåller [!UICONTROL dokumentversion], [!UICONTROL åtkomstnivå], [!UICONTROL dokument], [!UICONTROL som anges av ], [!UICONTROL bevis för godkännandestatus], [!UICONTROL korrekturskapare] och information om dokumentleverantör.
+Filtren innehåller [!UICONTROL dokumentversion], [!UICONTROL åtkomstnivå], [!UICONTROL dokument], [!UICONTROL som anges av &#x200B;], [!UICONTROL bevis för godkännandestatus], [!UICONTROL korrekturskapare] och information om dokumentleverantör.
 
 Du kan visa namnet på den korrekturfas som är aktiv för varje dokument i rapporten med den här kolumnen i en vy:
 

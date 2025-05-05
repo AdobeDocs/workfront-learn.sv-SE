@@ -1,6 +1,6 @@
 ---
 title: Hantera korrekturkommentarer
-description: Lär dig hur du hanterar korrekturkommentarer i [!DNL  Workfront] genom att tillämpa kommentaråtgärder, lösa kommentarer och filtrera kommentarskolumnen.
+description: Lär dig hur du hanterar korrekturkommentarer i [!DNL &#x200B; Workfront] genom att tillämpa kommentaråtgärder, lösa kommentarer och filtrera kommentarskolumnen.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -27,7 +27,7 @@ Korrekturåtgärder är en&quot;flagga&quot; eller&quot;etikett&quot; på en kom
 
 Du ansvarar t.ex. för att avgöra vilken av de korrigeringar som ska göras under granskningsprocessen som faktiskt ska utföras. Med en åtgärd kan du markera relevanta kommentarer och låta en designer eller redigerare veta vilka ändringar som ska göras. Den personen kan sedan använda en annan åtgärd för att ange att ändringarna har gjorts.
 
-![En bild av ett korrektur i korrekturläsaren med korrekturåtgärden [!UICONTROL  Att göra] markerad i kommentaren.](assets/manage-comments-2.png)
+![En bild av ett korrektur i korrekturläsaren med korrekturåtgärden [!UICONTROL &#x200B; Att göra] markerad i kommentaren.](assets/manage-comments-2.png)
 
 Om du inte ser åtgärder som listas i dina kommentarer har din organisation inte konfigurerat dem. Tala med din korrektursystemadministratör om du tycker att åtgärder är något som din organisation ska använda.
 

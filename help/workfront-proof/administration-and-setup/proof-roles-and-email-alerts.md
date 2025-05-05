@@ -1,6 +1,6 @@
 ---
 title: Bevis på roller och e-postaviseringar
-description: Lär dig hur du aktiverar korrekta korrekturroller och e-postaviseringar så att korrekturmottagare har tillgång till korrektur och synlighet för det arbete som utförs i  [!DNL  Workfront].
+description: Lär dig hur du aktiverar korrekta korrekturroller och e-postaviseringar så att korrekturmottagare har tillgång till korrektur och synlighet för det arbete som utförs i  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

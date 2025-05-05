@@ -23,7 +23,7 @@ ht-degree: 0%
 I den här videon får du lära dig:
 
 * Hur man kommunicerar framsteg med status
-* Varför status är viktig i [!DNL  Workfront]
+* Varför status är viktig i [!DNL &#x200B; Workfront]
 * Så här filtrerar du [!UICONTROL arbetslistan] för att se det färdiga arbetet
 
 >[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on&enablevpops)

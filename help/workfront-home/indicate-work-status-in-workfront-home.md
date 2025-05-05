@@ -1,6 +1,6 @@
 ---
 title: Ändra status för tilldelat arbete i [!UICONTROL Hem]
-description: Lär dig hur du ändrar status för tilldelningar för att ange att arbete pågår från sidan [!UICONTROL Hem]. Förstå varför status är viktig i  [!DNL  Workfront].
+description: Lär dig hur du ändrar status för tilldelningar för att ange att arbete pågår från sidan [!UICONTROL Hem]. Förstå varför status är viktig i  [!DNL &#x200B; Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig:
 
-* Syftet med status i [!DNL  Workfront]
+* Syftet med status i [!DNL &#x200B; Workfront]
 * Så här ändrar du status för arbetstilldelningar
 
 >[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops)

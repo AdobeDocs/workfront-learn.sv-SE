@@ -1,6 +1,6 @@
 ---
 title: Justera grupper och team efter strategin
-description: Lär dig hur du granskar och aktiverar föreslagna mål och överlappar och justerar kvartalsmål med [!DNL]   Mål].
+description: Lär dig hur du granskar och aktiverar föreslagna mål och överlappar och justerar kvartalsmål med    Mål&rbrack;.
 activity: use
 feature: Workfront Goals
 type: Tutorial

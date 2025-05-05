@@ -1,6 +1,6 @@
 ---
 title: Redigera ett korrekturarbetsflöde
-description: Lär dig hur du uppdaterar en korrekturdeadline, lägger till användare i ett befintligt arbetsflöde och växlar ett befintligt arbetsflöde till ett automatiskt arbetsflöde i  [!DNL  Workfront].
+description: Lär dig hur du uppdaterar en korrekturdeadline, lägger till användare i ett befintligt arbetsflöde och växlar ett befintligt arbetsflöde till ett automatiskt arbetsflöde i  [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

@@ -109,7 +109,7 @@ Skapa en uppgiftsvy med namnet&quot;Varaktighetstyper och vyn över uppgiftsbegr
 * [!UICONTROL Aktivitetsbegränsning]
 * [!UICONTROL Begränsningsdatum]
 
-Ändra [!UICONTROL fältformatet ] i kolumnerna [!UICONTROL Starta den] och [!UICONTROL Förfaller den ] så att både datum och tid visas.
+Ändra [!UICONTROL fältformatet &#x200B;] i kolumnerna [!UICONTROL Starta den] och [!UICONTROL Förfaller den &#x200B;] så att både datum och tid visas.
 
 ### Svar 3
 
@@ -117,7 +117,7 @@ Skapa en uppgiftsvy med namnet&quot;Varaktighetstyper och vyn över uppgiftsbegr
 
 1. Gå till listrutan **[!UICONTROL Visa]** i en projektuppgiftslista och välj **[!UICONTROL Ny vy]**.
 1. Ge din vy namnet&quot;Varaktighetstyper och vyn Begränsade uppgifter&quot;.
-1. Ta bort kolumnen [!UICONTROL  % färdigt].
+1. Ta bort kolumnen [!UICONTROL &#x200B; % färdigt].
 1. Klicka på **[!UICONTROL Lägg till kolumn]**.
 1. I fältet [!UICONTROL Visa i den här kolumnen] skriver du [!UICONTROL &quot;duration&quot;] och väljer sedan [!UICONTROL &quot;Planerad varaktighet&quot;] under fältkällan [!UICONTROL Aktivitet].
 1. Flytta den här kolumnen mellan kolumnerna [!UICONTROL Varaktighet] och [!UICONTROL Planera timmar].

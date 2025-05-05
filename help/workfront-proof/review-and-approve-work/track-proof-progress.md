@@ -1,6 +1,6 @@
 ---
 title: Spåra korrekturstatus
-description: Lär dig hur du använder [!UICONTROL SOCD]-indikatorer, korrekturförlopp och rapporter för att spåra förloppet för ett korrektur i  [!DNL  Workfront].
+description: Lär dig hur du använder [!UICONTROL SOCD]-indikatorer, korrekturförlopp och rapporter för att spåra förloppet för ett korrektur i  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -27,7 +27,7 @@ Om du vill visa korrekturstatus i [!DNL Workfront] måste du ha en plan-, arbets
 
 Få en översikt över hur korrekturet fortskrider genom gransknings- och godkännandeprocessen med hjälp av ikonerna [!UICONTROL SOCD] i listan [!UICONTROL Dokument] . De här ikonerna anger specifika åtgärder som vidtagits för korrekturet.
 
-![En bild av listan [!UICONTROL Dokument] i ett [!DNL  Workfront]-projekt med ikonerna [!UICONTROL SOCD] markerade.](assets/manage-proofs-socd.png)
+![En bild av listan [!UICONTROL Dokument] i ett [!DNL &#x200B; Workfront]-projekt med ikonerna [!UICONTROL SOCD] markerade.](assets/manage-proofs-socd.png)
 
 Ikonerna anger det arbete som utförts med ett korrektur från det att du skickar beviset till mottagarna tills de fattar ett beslut om beviset.
 
@@ -55,7 +55,7 @@ Om du vill veta hur varje enskild korrekturmottagare gör öppnar du korrekturar
 
 Korrekturstatusen baseras på statusen för scenens korrekturmottagare. Den övergripande korrekturstatusen visas på sidan [!UICONTROL Dokument] till höger om indikatorerna för [!UICONTROL SOCD] så att du enkelt kan se om du har något beslut om korrekturet.
 
-![En bild av listan [!UICONTROL Dokument] i ett [!DNL  Workfront]-projekt med den övergripande korrekturstatusen markerad.](assets/manage-proofs-overall-status.png)
+![En bild av listan [!UICONTROL Dokument] i ett [!DNL &#x200B; Workfront]-projekt med den övergripande korrekturstatusen markerad.](assets/manage-proofs-overall-status.png)
 
 Den här korrekturstatusen anger den övergripande statusen för beviset. Om till exempel två mottagare har godkänt korrekturet visas deras individuella status som [!UICONTROL Godkänd]. Den tredje mottagaren har dock inte fattat något beslut än, så personens status är [!UICONTROL Väntande]. Därför visas den övergripande statusen som [!UICONTROL Väntande].
 
@@ -75,11 +75,11 @@ Du kan också utnyttja rapportfunktionerna i [!DNL Workfront’s] för att spår
 
 En rapport om godkännande av korrektur hjälper dig att spåra utestående godkännanden för att säkerställa att deadlines hålls.
 
-![En bild av en rapport om godkännande av korrektur i [!DNL  Workfront].](assets/proof-approval-report.png)
+![En bild av en rapport om godkännande av korrektur i [!DNL &#x200B; Workfront].](assets/proof-approval-report.png)
 
 Med en dokumentversionsrapport kan du hantera och spåra korrekturversioner.
 
-![En bild av en dokumentversion i [!DNL  Workfront].](assets/document-version-report.png)
+![En bild av en dokumentversion i [!DNL &#x200B; Workfront].](assets/document-version-report.png)
 
 Vi rekommenderar att du samarbetar med din [!DNL Workfront]-konsult för att skapa rapporter som uppfyller organisationens krav. Vissa rapporter kräver att du är bekant med [!DNL Workfront’s]-textlägesrapportering.
 

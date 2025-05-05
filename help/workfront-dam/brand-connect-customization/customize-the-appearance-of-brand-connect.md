@@ -44,7 +44,7 @@ Dessa widgetar är tillgängliga:
 
 **B. Mapp** - Visa en mapp som innehåller markerade resurser. Klicka på ikonen Lägg till för att öppna [!UICONTROL resursväljaren] så att du kan välja en mapp. Assets i mappen är synligt för [!UICONTROL Brand Connect]-användare, men kan bara hämtas av dem som har behörighet.
 
-**C. Ljuslåda** - Visa en befintlig [!UICONTROL Ljuslåda ] . Resurserna i [!UICONTROL ljuslådan] visas för [!UICONTROL Brand Connect] -användare, men kan bara hämtas av dem som har behörighet.
+**C. Ljuslåda** - Visa en befintlig [!UICONTROL Ljuslåda &#x200B;] . Resurserna i [!UICONTROL ljuslådan] visas för [!UICONTROL Brand Connect] -användare, men kan bara hämtas av dem som har behörighet.
 
 **D. Varumärkesriktlinjer** - Visa Varumärkesriktlinjerna på hemsidan i stället för/utöver i det övre navigeringsfältet.
 

@@ -20,13 +20,13 @@ ht-degree: 0%
 
 *Det här avsnittet är avsett för [!DNL Workfront] systemadministratörer som ansvarar för att konfigurera Workfront-mål för sina användare.*
 
-För att garantera att organisationen går framåt snabbt måste du vara säker på att utförandet av arbetet är anpassat till företagets strategi. [!DNL   Goals] koordinerar strategi, mål och arbete för att driva verksamheten framåt i hela organisationen och leverera mätbara affärsresultat.
+För att garantera att organisationen går framåt snabbt måste du vara säker på att utförandet av arbetet är anpassat till företagets strategi. [!DNL &#x200B;  Goals] koordinerar strategi, mål och arbete för att driva verksamheten framåt i hela organisationen och leverera mätbara affärsresultat.
 
 Bästa praxis börjar med företagsmål på högsta nivå och går sedan vidare till grupp, team och individuella nivåer. Målen måste vara anpassade till, bidra till och stödja uppnåendet av företagsprioriteringar. I [!DNL Workfront] stöds mål av resultat eller aktiviteter som anger hur du uppnår dem.
 
 ## [!DNL Workfront Goals] checklista
 
-Följande villkor måste vara uppfyllda innan du kan komma åt [!DNL   Goals]:
+Följande villkor måste vara uppfyllda innan du kan komma åt [!DNL &#x200B;  Goals]:
 
 * Din organisation måste köpa en [!DNL Workfront Goals]-licens, förutom [!DNL Workfront]-licensen.
 * Din organisation måste använda det nya [!DNL Workfront]-gränssnittet. [!DNL Workfront Goals] är inte tillgängligt i det klassiska [!DNL Workfront]-gränssnittet.

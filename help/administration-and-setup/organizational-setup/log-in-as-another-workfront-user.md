@@ -41,7 +41,7 @@ Den här funktionen är användbar av flera olika anledningar:
 
 När du är inloggad visas ett meddelande högst upp på skärmen om vem du är inloggad som.
 
-![[!UICONTROL Inloggad som ]-meddelande högst upp i [!DNL Workfront]-fönstret](assets/admin-fund-log-in-as-2.png)
+![[!UICONTROL Inloggad som &#x200B;]-meddelande högst upp i [!DNL Workfront]-fönstret](assets/admin-fund-log-in-as-2.png)
 
 ## Uppdaterar flikspåraktivitet
 

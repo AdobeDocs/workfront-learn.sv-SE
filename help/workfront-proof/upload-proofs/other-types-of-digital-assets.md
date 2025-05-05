@@ -1,6 +1,6 @@
 ---
 title: Överföra ett videoklipp
-description: Lär dig hur du överför en video för korrektur i  [!DNL  Workfront].
+description: Lär dig hur du överför en video för korrektur i  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

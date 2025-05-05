@@ -1,6 +1,6 @@
 ---
 title: Godkänn arbete i [!UICONTROL Hem]
-description: Lär dig hur du söker efter projekt-, uppgifts-, utgåva- och korrekturbegäranden om godkännande i [!UICONTROL arbetslistan] och sedan godkänna eller avvisa arbetet i  [!DNL  Workfront].
+description: Lär dig hur du söker efter projekt-, uppgifts-, utgåva- och korrekturbegäranden om godkännande i [!UICONTROL arbetslistan] och sedan godkänna eller avvisa arbetet i  [!DNL &#x200B; Workfront].
 feature: Work Management
 type: Tutorial
 role: User

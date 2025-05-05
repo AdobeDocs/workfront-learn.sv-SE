@@ -1,6 +1,6 @@
 ---
 title: Spåra arbetets förlopp med projektstatistik
-description: Lär dig hur du använder projektmätningsdiagram för att spåra förloppet för projektarbete i  [!DNL  Workfront].
+description: Lär dig hur du använder projektmätningsdiagram för att spåra förloppet för projektarbete i  [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 thumbnail: 336667.jpeg

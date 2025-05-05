@@ -1,6 +1,6 @@
 ---
 title: Granska en webbplats med korrektur
-description: Lär dig hur du öppnar ett statiskt eller interaktivt korrektur av en webbplats i  [!DNL  Workfront]  och gör kommentarer.
+description: Lär dig hur du öppnar ett statiskt eller interaktivt korrektur av en webbplats i  [!DNL &#x200B; Workfront]  och gör kommentarer.
 activity: use
 feature: Workfront Proof
 type: Tutorial

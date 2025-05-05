@@ -45,7 +45,7 @@ Skicka en rapport till dig själv varje måndag kl. 5 som ett Excel-kalkylblad. 
 1. Ändra formatet till Excel.
 1. Ange **[!UICONTROL Upprepningar]** till [!UICONTROL Veckovis].
 1. Ange [!UICONTROL Time] till 5.
-1. Ange [!UICONTROL Upprepningar ] till måndag.
+1. Ange [!UICONTROL Upprepningar &#x200B;] till måndag.
 1. Klicka på **[!UICONTROL Spara]**.
 
 >[!NOTE]

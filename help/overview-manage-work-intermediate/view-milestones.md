@@ -1,6 +1,6 @@
 ---
 title: Visa milstolpar
-description: Lär dig hur du visar milstolpar i ett [!DNL  Workfront] projekt, och använd milstolpevyn i området [!UICONTROL Projekt] .
+description: Lär dig hur du visar milstolpar i ett [!DNL &#x200B; Workfront] projekt, och använd milstolpevyn i området [!UICONTROL Projekt] .
 activity: deploy
 feature: Work Management
 thumbnail: 335206.jpeg

@@ -1,6 +1,6 @@
 ---
 title: Uppdatera en begäran
-description: Lär dig hur du hittar de förfrågningar du har skickat och gör en uppdatering för dessa förfrågningar i  [!DNL  Workfront].
+description: Lär dig hur du hittar de förfrågningar du har skickat och gör en uppdatering för dessa förfrågningar i  [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Förstå korrekturinformation
-description: Gå djupare in på detaljerna bakom ett korrektur i [!DNL  Workfront] genom sammanfattningspanelen och sidan [!UICONTROL Dokumentinformation].
+description: Gå djupare in på detaljerna bakom ett korrektur i [!DNL &#x200B; Workfront] genom sammanfattningspanelen och sidan [!UICONTROL Dokumentinformation].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -47,7 +47,7 @@ Om du vill ha mer information om korrekturet klickar du på [!UICONTROL Dokument
 
 Då kommer du till sidan [!UICONTROL Dokumentinformation] och en mängd andra alternativ i den vänstra panelen.
 
-![En bild av korrekturets sida i [!DNL  Workfront].](assets/document-details.png)
+![En bild av korrekturets sida i [!DNL &#x200B; Workfront].](assets/document-details.png)
 
 Det är viktigt att komma ihåg att möjligheten att se information om korrekturläsningen beror på dina korrekturbehörigheter i [!DNL Workfront].
 
@@ -67,7 +67,7 @@ Med de här inställningarna kan du styra åtkomsten till själva korrekturet.
 
 ![En bild av [!UICONTROL inställningarna för korrektur av visningsprogram] från korrektursidan med alternativet [!UICONTROL Inställningar för språkkontroll] markerat på den vänstra panelmenyn.](assets/proofing-settings-on-details-page.png)
 
-* **[!UICONTROL Kräv inloggning. Det går inte att dela det här korrekturet med gästanvändare ] —** Beviset kan bara delas med personer som har en [!DNL Workfront]-korrekturlicens.
+* **[!UICONTROL Kräv inloggning. Det går inte att dela det här korrekturet med gästanvändare &#x200B;] —** Beviset kan bara delas med personer som har en [!DNL Workfront]-korrekturlicens.
 * **[!UICONTROL Kräv att beslut ska signeras elektroniskt] —** När du delar ett bevis kräver detta att mottagaren har språkbehörighet i [!DNL Workfront] och att de&quot;signerar&quot; korrekturläsaren elektroniskt genom att ange sitt korrekturlösenord när de fattar ett beslut om korrektur. (Obs! Språklösenordet skiljer sig från ditt [!DNL Workfront]-lösenord. Språklösenordet är inte lätt att komma åt, så de flesta mottagare känner inte till lösenordet.) Adobe rekommenderar att du pratar med din [!DNL Workfront]-konsult innan du använder den här funktionen.
 * **[!UICONTROL Lås korrektur när alla nödvändiga beslut fattas]—** Detta låser beviset till eventuella ytterligare kommentarer, svar, beslut osv. när varje beslut om beviset har fattats. Då låses hela korrekturversionen, inte bara ett visst steg i korrekturarbetsflödet.
 * **[!UICONTROL Tillåt hämtning av originalfilen] —** Korrekturmottagare kan hämta originalkällfilen för korrekturet från korrekturläsaren.

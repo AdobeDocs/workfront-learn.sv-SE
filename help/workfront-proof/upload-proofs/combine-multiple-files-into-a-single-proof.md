@@ -1,6 +1,6 @@
 ---
 title: Kombinera flera filer till ett enda korrektur
-description: Lär dig effektivisera korrekturläsningen genom att kombinera flera filer till ett enda korrektur i  [!DNL  Workfront].
+description: Lär dig effektivisera korrekturläsningen genom att kombinera flera filer till ett enda korrektur i  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

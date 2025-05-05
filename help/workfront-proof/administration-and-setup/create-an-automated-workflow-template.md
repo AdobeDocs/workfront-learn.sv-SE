@@ -23,7 +23,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig att:
 
-* Skapa en automatisk arbetsflödesmall för korrektur av [!DNL  Workfront]
+* Skapa en automatisk arbetsflödesmall för korrektur av [!DNL &#x200B; Workfront]
 * Tilldela korrekturmottagare
 * Ange en deadline för granskning och godkännandeprocess
 * Dela den automatiserade arbetsflödesmallen med andra

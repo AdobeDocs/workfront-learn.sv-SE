@@ -51,7 +51,7 @@ Slutet av kvartalet närmar sig och du vill se hur nyligen slutförda projekt fa
 1. Lägg till två filterregler på fliken **[!UICONTROL Filter]**:
 
    * [!UICONTROL Projekt] > [!UICONTROL Status motsvarar med] > [!UICONTROL Fullständigt]
-   * [!UICONTROL Projekt] >[!UICONTROL  Faktiskt slutförandedatum] > [!UICONTROL Sista kvartalet]
+   * [!UICONTROL Projekt] >[!UICONTROL &#x200B; Faktiskt slutförandedatum] > [!UICONTROL Sista kvartalet]
 
    ![En bild av skärmen där filter ska läggas till i en rapport](assets/chart-report-filters.png)
 

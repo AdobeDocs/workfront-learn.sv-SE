@@ -58,7 +58,7 @@ Sidan ![[!UICONTROL Uppdateringar] för en aktivitet som visar prenumeration](as
 
 Om du vill avbryta prenumerationen på en användare klickar du på bubblan igen för att öppna fönstret [!UICONTROL Abonnenter]. Klicka sedan på X bredvid personens namn. Användaren får inget meddelande om att han/hon har avbeställt prenumerationen.
 
-![[!UICONTROL Avbeställ ]-menyalternativ i ett projekt](assets/admin-fund-user-notifications-14.png)
+![[!UICONTROL Avbeställ &#x200B;]-menyalternativ i ett projekt](assets/admin-fund-user-notifications-14.png)
 
 <!--
 learn more URL: Subscribe to items in Workfront

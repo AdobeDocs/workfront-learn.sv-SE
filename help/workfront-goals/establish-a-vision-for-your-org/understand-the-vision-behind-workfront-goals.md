@@ -1,6 +1,6 @@
 ---
 title: Förstå visionen bakom [!UICONTROL Workfront-mål]
-description: Läs mer om  [!DNL Workfront Goals] in [!DNL  Workfront] från produktteamet.
+description: Läs mer om  [!DNL Workfront Goals] in [!DNL &#x200B; Workfront] från produktteamet.
 activity: use
 feature: Workfront Goals
 type: Tutorial

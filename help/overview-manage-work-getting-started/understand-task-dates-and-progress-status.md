@@ -1,6 +1,6 @@
 ---
 title: Förstå datumtyper och förloppsstatus
-description: Lär dig hur du visar olika datumtyper i [!DNL  Workfront] och använder förloppsstatus för att spåra arbetsförloppet.
+description: Lär dig hur du visar olika datumtyper i [!DNL &#x200B; Workfront] och använder förloppsstatus för att spåra arbetsförloppet.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg

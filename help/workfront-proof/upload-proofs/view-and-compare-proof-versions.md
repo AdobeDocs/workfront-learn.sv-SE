@@ -1,6 +1,6 @@
 ---
 title: Visa och jämföra korrekturversioner
-description: Lär dig hur du öppnar, identifierar, kommenterar, kommenterar och jämför korrekturversioner i  [!DNL  Workfront].
+description: Lär dig hur du öppnar, identifierar, kommenterar, kommenterar och jämför korrekturversioner i  [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

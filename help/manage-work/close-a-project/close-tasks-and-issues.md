@@ -1,6 +1,6 @@
 ---
 title: Stäng aktiviteter och ärenden
-description: Lär dig hur du ser till att aktiviteter och problem stängs innan du stänger ett projekt i  [!DNL  Workfront].
+description: Lär dig hur du ser till att aktiviteter och problem stängs innan du stänger ett projekt i  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management

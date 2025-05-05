@@ -1,6 +1,6 @@
 ---
 title: Granska och besvara korrekturkommentarer
-description: Lär dig hur du visar och svarar på korrekturkommentarer från korrekturläsaren och från avsnittet [!UICONTROL Uppdateringar] i [!DNL  Workfront].
+description: Lär dig hur du visar och svarar på korrekturkommentarer från korrekturläsaren och från avsnittet [!UICONTROL Uppdateringar] i [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

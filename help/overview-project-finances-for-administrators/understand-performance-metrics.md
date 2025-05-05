@@ -23,7 +23,7 @@ Två prestandamått som används av projektledare är [!UICONTROL Performance In
 
 **[!UICONTROL PIM]**
 
-Inställningarna för [!UICONTROL PIM] styr hur [!DNL Workfront] beräknar andra resultatmått för projekt, till exempel [!UICONTROL Kostnadsprestandaindex] ([!UICONTROL CPI]), [!UICONTROL Resultatindex för kostnadsschema] ([!UICONTROL CSI]), [!UICONTROL Schemaläggningsprestandaindex] ([!UICONTROL SPI]) och [!UICONTROL  15}Uppskattning vid slutförande] ([!UICONTROL EAC]).
+Inställningarna för [!UICONTROL PIM] styr hur [!DNL Workfront] beräknar andra resultatmått för projekt, till exempel [!UICONTROL Kostnadsprestandaindex] ([!UICONTROL CPI]), [!UICONTROL Resultatindex för kostnadsschema] ([!UICONTROL CSI]), [!UICONTROL Schemaläggningsprestandaindex] ([!UICONTROL SPI]) och [!UICONTROL &#x200B; 15&rbrace;Uppskattning vid slutförande] ([!UICONTROL EAC]).
 
 Alternativen för [!UICONTROL PIM] är timbaserade och kostnadsbaserade.
 

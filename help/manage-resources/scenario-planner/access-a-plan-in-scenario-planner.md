@@ -1,6 +1,6 @@
 ---
 title: Få åtkomst till en plan i [!UICONTROL scenarioplanen]
-description: Lär dig vilka  [!DNL  Workfront] behörigheter som krävs för att användare ska få åtkomst till planer i [!UICONTROL scenarioplanen].
+description: Lär dig vilka  [!DNL &#x200B; Workfront] behörigheter som krävs för att användare ska få åtkomst till planer i [!UICONTROL scenarioplanen].
 feature: Resource Management
 type: Tutorial
 role: Leader, User

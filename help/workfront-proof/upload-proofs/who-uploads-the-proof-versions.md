@@ -1,6 +1,6 @@
 ---
 title: Vem överför korrekturversionerna?
-description: Personen som ansvarar för att överföra korrekturversioner i  [!DNL  Workfront] kan variera. Lär dig av vanliga användningsfall för att identifiera den perfekta konfigurationen i din organisation.
+description: Personen som ansvarar för att överföra korrekturversioner i  [!DNL &#x200B; Workfront] kan variera. Lär dig av vanliga användningsfall för att identifiera den perfekta konfigurationen i din organisation.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

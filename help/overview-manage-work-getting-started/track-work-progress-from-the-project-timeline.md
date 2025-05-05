@@ -1,6 +1,6 @@
 ---
 title: Spåra förlopp från projekttidslinjen
-description: Lär dig hur du spårar arbetets förlopp från projekttidslinjen i  [!DNL  Workfront] med procent färdigt, status, tilldelningar eller begränsningar.
+description: Lär dig hur du spårar arbetets förlopp från projekttidslinjen i  [!DNL &#x200B; Workfront] med procent färdigt, status, tilldelningar eller begränsningar.
 activity: use
 team: Technical Marketing
 feature: Work Management

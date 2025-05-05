@@ -1,6 +1,6 @@
 ---
 title: Navigera till [!UICONTROL Pulse]-uppdateringsströmmen i [!DNL Goals]
-description: Lär dig navigera i [!UICONTROL Pulse]-uppdateringsströmmen i [!DNL]   Mål].
+description: Lär dig navigera i [!UICONTROL Pulse]-uppdateringsströmmen i    Mål&rbrack;.
 activity: use
 feature: Workfront Goals
 type: Tutorial

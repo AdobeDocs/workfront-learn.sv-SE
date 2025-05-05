@@ -1,6 +1,6 @@
 ---
 title: Uppdatera och granska ekonomi
-description: Lär dig hur du granskar ekonomisk information som är kopplad till ett projekt i  [!DNL  Workfront].
+description: Lär dig hur du granskar ekonomisk information som är kopplad till ett projekt i  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management

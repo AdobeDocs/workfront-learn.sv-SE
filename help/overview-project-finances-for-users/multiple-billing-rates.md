@@ -41,7 +41,7 @@ Med den nya funktionen för flera faktureringstaxor för [!DNL Workfront] kan pr
 
    ![En bild på hur du sparar en ny faktureringsfrekvens som gäller för hela projektet i [!DNL Workfront]](assets/project-finances-5.png)
 
-1. Om den nya faktureringstariffen endast gäller för en viss tidsperiod klickar du på knappen **[!UICONTROL Lägg till kurs]** . Fälten [!UICONTROL Faktureringshastighet 1 Slutdatum] och [!UICONTROL Faktureringshastighet 2] visas. Ange slutdatum för [!UICONTROL faktureringstakt 1]. Du kan inte ange ett startdatum för [!UICONTROL Faktureringshastighet ] eftersom systemet antar att det startade i början av projektet.
+1. Om den nya faktureringstariffen endast gäller för en viss tidsperiod klickar du på knappen **[!UICONTROL Lägg till kurs]** . Fälten [!UICONTROL Faktureringshastighet 1 Slutdatum] och [!UICONTROL Faktureringshastighet 2] visas. Ange slutdatum för [!UICONTROL faktureringstakt 1]. Du kan inte ange ett startdatum för [!UICONTROL Faktureringshastighet &#x200B;] eftersom systemet antar att det startade i början av projektet.
 
    ![En bild på hur du skapar en ny faktureringsfrekvens som gäller för en viss tidsperiod, med början i början av projektet i [!DNL Workfront]](assets/project-finances-6.png)
 
@@ -49,7 +49,7 @@ Med den nya funktionen för flera faktureringstaxor för [!DNL Workfront] kan pr
 
    * Ange standardfaktureringstakten för [!UICONTROL faktureringstariff 1].
    * Välj slutdatum för [!UICONTROL faktureringshastighet 1] ([!UICONTROL standardfaktureringshastighet]).
-   * Startdatumet för [!UICONTROL Faktureringshastighet ] anges automatiskt till dagen efter att [!UICONTROL faktureringshastighet 1] avslutas.
+   * Startdatumet för [!UICONTROL Faktureringshastighet &#x200B;] anges automatiskt till dagen efter att [!UICONTROL faktureringshastighet 1] avslutas.
    * Ange önskad faktureringstaxa i avsnittet [!UICONTROL Faktureringstakt 2].
    * Fortsätt att lägga till faktureringstariffer efter behov genom att klicka på knappen **[!UICONTROL Lägg till ränta]**.
    * När du är klar klickar du på **[!UICONTROL Spara]**.

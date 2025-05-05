@@ -1,6 +1,6 @@
 ---
 title: Förstå projektsidan
-description: Lär dig mer om de viktigaste funktionerna på projektsidan i [!DNL  Workfront] så att du kan planera och hantera dina projekt.
+description: Lär dig mer om de viktigaste funktionerna på projektsidan i [!DNL &#x200B; Workfront] så att du kan planera och hantera dina projekt.
 activity: use
 team: Technical Marketing
 feature: Work Management

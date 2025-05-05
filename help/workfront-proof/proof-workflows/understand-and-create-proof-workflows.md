@@ -1,6 +1,6 @@
 ---
 title: Förstå korrekturarbetsflöden som en del av projekttidslinjer
-description: Lär dig vilken information som ska samlas in för att skapa ett korrekturarbetsflöde och skillnaden mellan grundläggande och avancerade korrekturarbetsflöden i  [!DNL  Workfront].
+description: Lär dig vilken information som ska samlas in för att skapa ett korrekturarbetsflöde och skillnaden mellan grundläggande och avancerade korrekturarbetsflöden i  [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

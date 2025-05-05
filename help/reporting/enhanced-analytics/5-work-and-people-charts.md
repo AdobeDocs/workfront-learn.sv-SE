@@ -26,7 +26,7 @@ Välj den typ av analysdiagram som du vill visa - Arbete eller Personer - på de
 
 ## Arbetskartor
 
-![En bild på hur funktionen [!UICONTROL  Analytics] hittas i [!DNL Workfront Classic]](assets/section-1-1.png)
+![En bild på hur funktionen [!UICONTROL &#x200B; Analytics] hittas i [!DNL Workfront Classic]](assets/section-1-1.png)
 
 När du går till arbetsschemat visas som standard:
 

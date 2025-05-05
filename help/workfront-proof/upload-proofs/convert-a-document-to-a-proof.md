@@ -1,6 +1,6 @@
 ---
 title: Konvertera ett dokument till ett korrektur
-description: Lär dig hur du skapar ett korrektur av ett dokument som redan finns i  [!DNL  Workfront], lägger till ett arbetsflöde i ett korrektur och lägger till eller redigerar ett arbetsflöde när korrektur har skapats.
+description: Lär dig hur du skapar ett korrektur av ett dokument som redan finns i  [!DNL &#x200B; Workfront], lägger till ett arbetsflöde i ett korrektur och lägger till eller redigerar ett arbetsflöde när korrektur har skapats.
 activity: use
 feature: Workfront Proof
 type: Tutorial

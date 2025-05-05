@@ -1,6 +1,6 @@
 ---
 title: Svar på vanliga frågor om begärandeköer
-description: Få svar på vanliga frågor om begärandeköer i  [!DNL  Workfront].
+description: Få svar på vanliga frågor om begärandeköer i  [!DNL &#x200B; Workfront].
 feature: Work Management
 type: Tutorial
 role: Admin, User

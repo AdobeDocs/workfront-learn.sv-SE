@@ -1,6 +1,6 @@
 ---
 title: Navigera på projektsidan
-description: Lär dig hur du visar information om ett projekt, vilken information som visas i uppgiftslistan, var dokument ska överföras och hur du visar uppdateringshistoriken i  [!DNL  Workfront].
+description: Lär dig hur du visar information om ett projekt, vilken information som visas i uppgiftslistan, var dokument ska överföras och hur du visar uppdateringshistoriken i  [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 thumbnail: 335085.jpeg

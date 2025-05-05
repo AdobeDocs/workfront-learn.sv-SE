@@ -1,6 +1,6 @@
 ---
 title: Förstå diagramavsnittet
-description: Lär dig hur du läser och tolkar målhälsodiagrammet och målstatusdiagrammet i [!DNL]   Mål].
+description: Lär dig hur du läser och tolkar målhälsodiagrammet och målstatusdiagrammet i    Mål&rbrack;.
 activity: use
 feature: Workfront Goals
 type: Tutorial

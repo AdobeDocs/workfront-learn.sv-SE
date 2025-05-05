@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Planera ett projekt - granskning
 
-Kom igång snabbt med dina [!DNL  Workfront]-projekt genom att använda en projektmall. Planera sedan projektet genom att först fokusera på följande fem områden:
+Kom igång snabbt med dina [!DNL &#x200B; Workfront]-projekt genom att använda en projektmall. Planera sedan projektet genom att först fokusera på följande fem områden:
 
 1. Uppgifter
 1. Varaktighet

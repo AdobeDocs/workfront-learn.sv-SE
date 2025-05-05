@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Skicka en fil som deltagare
 
-När du har en färdig fil i [!DNL Workfront] kan du skicka den till [!UICONTROL  Workfront DAM] med några klick.
+När du har en färdig fil i [!DNL Workfront] kan du skicka den till [!UICONTROL &#x200B; Workfront DAM] med några klick.
 
 1. Logga in på [!DNL Workfront].
 1. Navigera till avsnittet **[!UICONTROL Dokument]** i [!DNL Workfront]-objektet som filen är kopplad till.

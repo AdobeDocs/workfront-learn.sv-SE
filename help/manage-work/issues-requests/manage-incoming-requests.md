@@ -1,6 +1,6 @@
 ---
 title: Hantera förfrågningar
-description: Lär dig hur du söker efter begäranden som har skickats in via instrumentpaneler, [!UICONTROL Hem], området [!UICONTROL Förfrågningar] eller [!UICONTROL Teams]-sidan i [!DNL  Workfront].
+description: Lär dig hur du söker efter begäranden som har skickats in via instrumentpaneler, [!UICONTROL Hem], området [!UICONTROL Förfrågningar] eller [!UICONTROL Teams]-sidan i [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
