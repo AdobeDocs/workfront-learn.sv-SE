@@ -32,7 +32,7 @@ I den här videon får du lära dig att:
 
 * Installera Microsoft Outlook-tillägget
 
->[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431663/?quality=12&learn=on&enablevpops&captions=swe)
 
 >[!IMPORTANT]
 >
