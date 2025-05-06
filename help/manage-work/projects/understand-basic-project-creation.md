@@ -1,6 +1,6 @@
 ---
 title: Förstå grundläggande projektskapande
-description: Lär dig hur du skapar, hanterar och slutför projekt effektivt, hanterar oväntade problem och utforskar nybörjarvänliga tips för att lära dig grunderna i projekthantering.
+description: Lär dig hur du skapar, hanterar och slutför projekt effektivt, hanterar oväntade problem och utforskar nybörjarvänliga tips för att lära dig grunderna i projekthantering. ​
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -25,7 +25,7 @@ ht-degree: 9%
 I den här videon förklaras hur du skapar och hanterar ett projekt från grunden. &#x200B; Det börjar med att skapa ett nytt projekt, byta namn på det och ange ett mål med en beskrivning, startdatum och måldatum. Projekt kan delas upp i aktiviteter, som är planerade arbeten med beräknade varaktigheter och tilldelningar. &#x200B; Aktiviteter kan ordnas efter varandra med hjälp av föregående aktiviteter, och projektstatusen kan ställas in på Aktuell för att meddela teamet och inkludera den i rapporter. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432338/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
 
 ## Viktiga uppgifter
 
