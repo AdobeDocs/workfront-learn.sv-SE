@@ -1,6 +1,6 @@
 ---
 title: Granska arbetet i [!DNL My Updates] eller [!DNL Home]
-description: '[!DNL  Workfront] har två platser att komma åt arbete som du tilldelats för granskning och godkännande - [!DNL My Updates] och [!DNL Home] '
+description: '[!DNL &#x200B; Workfront] har två platser att komma åt arbete som du tilldelats för granskning och godkännande - [!DNL My Updates] och [!DNL Home] '
 feature: Work Management
 type: Tutorial
 role: User
