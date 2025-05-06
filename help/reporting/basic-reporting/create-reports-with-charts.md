@@ -12,9 +12,9 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '595'
 ht-degree: 0%
 
 ---
@@ -73,15 +73,16 @@ Slutet av kvartalet närmar sig och du vill se hur nyligen slutförda projekt fa
 1. Lägg till två filterregler på fliken **[!UICONTROL Filter]**:
 
    * [!UICONTROL Projekt] > [!UICONTROL Status motsvarar med] > [!UICONTROL Fullständigt]
-   * [!UICONTROL Projekt] >[!UICONTROL &#x200B; Faktiskt slutförandedatum] > [!UICONTROL Sista kvartalet]
+   * [!UICONTROL Projekt] >[!UICONTROL  Faktiskt slutförandedatum] > [!UICONTROL Sista kvartalet]
 
    ![En bild av skärmen där filter ska läggas till i en rapport](assets/chart-report-filters.png)
 
 1. Välj **[!UICONTROL Kolumn]** som diagramtyp på fliken **[!UICONTROL Diagram]**.
-1. Välj [!UICONTROL Projekt] > [!UICONTROL Planerad kostnad] för den [!UICONTROL vänstra (Y) axeln].
-1. Välj [!UICONTROL Projekt] > [!UICONTROL Namn] för den [!UICONTROL undre (X) axeln].
-1. Klicka på knappen **[!UICONTROL Kombinationsdiagram]** och välj [!UICONTROL Projekt] > [!UICONTROL Verklig kostnad] i fältet **[!UICONTROL Värde]**.
-1. Klicka på pilen bredvid färgrutan för att ändra färgen [!UICONTROL Faktisk kostnad]. Välj en av färgerna som visas eller klicka på rutan i det nedre högra hörnet för att visa färgpaletten.
+1. Välj [!UICONTROL Planerad kostnad] för den [!UICONTROL vänstra (Y) axeln].
+1. Välj [!UICONTROL Namn] för den [!UICONTROL undre (X) axeln].
+1. Klicka på knappen **[!UICONTROL Kombinationsdiagram]** och välj [!UICONTROL Faktisk kostnad] i fältet **[!UICONTROL Värde]**.
+1. Välj Linje i fältet **[!UICONTROL Diagramtyp]**.
+1. Klicka på färgrutan om du vill ändra färgen [!UICONTROL Faktisk kostnad]. Välj en färg.
 1. Klicka på **[!UICONTROL Spara + stäng]**. När du uppmanas att ange ett rapportnamn kallar du det&quot;Planerad kontra faktisk kostnad per projekt slutfört förra kvartalet&quot;.
 
    ![En bild av skärmen som lägger till ett diagram i en rapport](assets/chart-report-chart.png)
