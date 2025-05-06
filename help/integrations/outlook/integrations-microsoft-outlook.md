@@ -36,5 +36,5 @@ I den här videon får du lära dig att:
 
 >[!IMPORTANT]
 >
->Om du inte hittar Workfront-tillägget enligt beskrivningen i videon kan din IT-avdelning behöva göra en del inställningar först. Detaljerade instruktioner finns i [Konfigurera Adobe Workfront för Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html).
+>Om du inte hittar Workfront-tillägget enligt beskrivningen i videon kan din IT-avdelning behöva göra en del inställningar först. Detaljerade instruktioner finns i [Konfigurera Adobe Workfront för Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html?lang=sv-SE).
 
