@@ -1,6 +1,6 @@
 ---
 title: Skapa en grundläggande gruppering
-description: Lär dig vad en gruppering är, hur du skapar en gruppering och hur du delar en gruppering med andra användare i Workfront.
+description: Workfront-grupperingar förbättrar projektorganisationen genom att användarna kan kategorisera listor baserat på poster som portföljer, program eller slutdatum, med anpassningsbara delnings- och hanteringsalternativ för effektivt samarbete.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,24 +9,30 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
+last-substantial-update: 2025-05-08T00:00:00Z
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 888021fa7d7160154a3a21c491c1d50c13650864
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
 
 # Skapa en grundläggande gruppering
 
-I den här videon får du lära dig:
+I den här videon beskrivs hur du skapar och hanterar grupperingar i Workfront för att ordna projektlistor effektivt. &#x200B; Grupperingar är ett av de tre huvudelementen för rapportering, tillsammans med filter och vyer, och de hjälper dig att ordna resultaten baserat på delad information. &#x200B;
+I den här självstudiekursen beskrivs hur du organiserar projektlistor för att effektivisera det dagliga arbetet och samarbetet. &#x200B;
 
-* Vilken grupp finns i Workfront
-* Skapa en gruppering
-* Och dela en gruppering med andra Workfront-användare
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/3449819/?quality=12&learn=on&captions=swe)
+## Viktiga uppgifter
+
+* **Syfte med grupperingar:** Grupperingar är ett viktigt rapportelement i Workfront som organiserar projektlistor baserat på delad information, till exempel slutförandedatum, portföljer eller program. &#x200B;
+* **Skapar grupperingar:** Du kan skapa anpassade grupperingar med upp till tre villkorsnivåer. &#x200B; Du kan till exempel gruppera projekt först efter portfölj och sedan efter program för att få en bättre organisation. &#x200B;
+* **Redigera och spara grupperingar:** Inbyggda grupperingar kan inte skrivas över, men du kan spara redigeringar som en ny gruppering. &#x200B; Anpassade grupperingar ska ha tydliga, beskrivande namn så att de blir lätta att identifiera. &#x200B;
+* **Delade grupperingar:** Grupperingar kan delas med andra användare, med standardbehörigheten &quot;visa&quot; som tillåter dem att använda och dela grupperingen, men inte redigera den. Behörigheterna &#x200B; Hantera tillåter redigering och borttagning. &#x200B;
+* **Om du tar bort grupperingar:** Om du tar bort en gruppering som du har skapat tas den även bort från listan med användare som du delade den med. &#x200B; Delade grupperingar visas för andra användare under delen Delat med mig. &#x200B;
 
 ## Skapa en grundläggande gruppering
 
@@ -48,9 +54,7 @@ Gruppera problemrapporten utifrån:
 1. Gå till menyn **[!UICONTROL Gruppering]** i en problemlistrapport och välj **[!UICONTROL Ny gruppering]**.
 1. Namnge din gruppering&quot;Begär kön, Köämne, Prioritet&quot;.
 1. Klicka på **[!UICONTROL Lägg till gruppering]**.
-1. I fältet [!UICONTROL First By]. Skriv&quot;projektnamn&quot; och välj sedan **[!UICONTROL Namn]** under Projektfältets källa.
-1. Klicka på **[!UICONTROL Lägg till en annan gruppering]**.
-1. I fältet [!UICONTROL Och sedan av] skriver du &quot;queue&quot; och väljer sedan **[!UICONTROL Name]** under fältkällan [!UICONTROL Queue Topic].
-1. Klicka på **[!UICONTROL Lägg till en annan gruppering]**.
-1. I fältet [!UICONTROL Och sedan av] skriver du&quot;priority&quot; och väljer sedan **[!UICONTROL Priority]** under fältkällan [!UICONTROL Issue].
+1. I fältet [!UICONTROL Gruppera efter]. Skriv&quot;projektnamn&quot; och välj sedan **[!UICONTROL Namn]** under Projektfältets källa.
+1. Klicka på **[!UICONTROL Lägg till en annan gruppering]**, skriv&quot;kö&quot; och välj **[!UICONTROL Namn]** under fältkällan [!UICONTROL Köämne].
+1. Klicka på **[!UICONTROL Lägg till en annan gruppering]**, skriv&quot;prioritet&quot; och välj **[!UICONTROL prioritet]** under fältkällan [!UICONTROL Problem].
 1. Klicka på **[!UICONTROL Spara gruppering]**
