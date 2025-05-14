@@ -2,7 +2,7 @@
 title: Välkommen till avancerad rapportering
 description: Lär dig hur du använder [!UICONTROL API-utforskaren] och textläget för att skapa avancerade filter, vyer och grupperingar som går utöver funktionerna i [!UICONTROL rapporteringsgränssnittet].
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 3409632.png
 type: Tutorial
 role: User
@@ -10,7 +10,7 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 0%
@@ -44,8 +44,8 @@ Innan du tittar på dessa självstudiekurser bör du ha en:
    * [[!UICONTROL Skapa anpassade rapporter och instrumentpaneler]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
    * [[!UICONTROL Skapa mellanliggande filter]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
 * Du bör också ha tagit dessa självstudiekurser:
-   * [[!UICONTROL Förstå det grundläggande textläget för vyer]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=sv-SE)
-   * [[!UICONTROL Förstå grundläggande textläge för grupperingar]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=sv-SE)
+   * [[!UICONTROL Förstå det grundläggande textläget för vyer]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en)
+   * [[!UICONTROL Förstå grundläggande textläge för grupperingar]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en)
 
 ## Målgrupper
 
@@ -55,4 +55,4 @@ Målgruppen för de här självstudiekurserna är [!UICONTROL Plan]-licensanvän
 
 Dessa självstudiekurser är inspelningar av en lektion som ges under en period av tre dagar i februari 2018. Du kan lägga märke till ett äldre användargränssnitt i videoklippen, men detta påverkar inte innehållets exakthet eller relevans.
 
-Du kommer också att höra några referenser till att skaffa ett testenhetskonto att öva i. Adobe Experience League tillhandahåller inga testenhetskonton, men oroa dig inte. Du kan öva på ditt produktionskonto. Rapporteringen handlar ju bara om att visa objekt i Workfront, inte om att skapa eller ta bort objekt. Förutom att själva skapa rapporterna.. Men förutom systemadministratören är du den enda som kan se de rapporter du skapar om du inte bestämmer dig för att dela dem.
+Du kommer också att höra några referenser till att skaffa ett testenhetskonto att öva i. Adobe Experience League tillhandahåller inte testenhetskonton, men oroa dig inte. Du kan öva på ditt produktionskonto. Rapporteringen handlar ju bara om att visa objekt i Workfront, inte om att skapa eller ta bort objekt. Förutom att själva skapa rapporterna.. Men förutom systemadministratören är du den enda som kan se de rapporter du skapar om du inte bestämmer dig för att dela dem.
