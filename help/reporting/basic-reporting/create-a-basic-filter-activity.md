@@ -1,6 +1,6 @@
 ---
 title: Skapa grundläggande filteraktiviteter
-description: I den här aktiviteten skapar du ett projektfilter med namnet"Projekt jag själv stänger den här månaden".
+description: I den här aktiviteten skapar du ett projektfilter med namnet"Alla projekt i marknadsföringsportföljen" och ett annat projektfilter med namnet"Projekt jag äger som stänger den här månaden".
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336807.jpeg
@@ -9,11 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8856
+last-substantial-update: 2025-05-15T00:00:00Z
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 0755d62240ab307d3759c47c4561264cb4baadab
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -32,13 +33,13 @@ Stegvisa instruktioner finns nedan.
 ![En bild av skärmen för att skapa ett nytt filter](assets/basic-filter-activity-1.png)
 
 1. Navigera till området [!UICONTROL Projekt] från [!UICONTROL Huvudmenyn]. Här visas en lista med projekt.
-1. Klicka på menyn **[!UICONTROL Filter]** och välj [!UICONTROL Äldre filter].
+1. Klicka på menyn **[!UICONTROL Filter]** och välj [!UICONTROL Äldre filter] om det inte redan är markerat.
 1. Välj **[!UICONTROL Nytt filter]**.
 1. Ge filtret namnet&quot;Alla projekt i marknadsföringsportföljen&quot;.
 1. Klicka på **[!UICONTROL Lägg till filterregel]**.
-1. I fältet [!UICONTROL Börja skriva fältnamn] skriver du [!UICONTROL portföljnamn]. Välj sedan [!UICONTROL Namn] under fältkällan [!UICONTROL Portfolio].
+1. Klicka på fältet **Välj ett fält** och börja skriva &quot;[!UICONTROL portföljnamn]&quot;. Välj sedan [!UICONTROL Namn] under fältkällan [!UICONTROL Portfolio].
 1. Låt operatorn [!UICONTROL Lika med] vara kvar.
-1. Skriv [!UICONTROL marketing] i fältet [!UICONTROL Börja skriva namn].
+1. Skriv [!UICONTROL marketing] i sökfältet.
 1. Välj [!UICONTROL Marketing Portfolio] om du har en portfölj med det namnet som du vill filtrera på. Om du inte bara använder funktionen för att skriva framför för att hitta den portfölj du vill ha.
 1. Klicka på **[!UICONTROL Spara filter]**.
 
@@ -48,26 +49,26 @@ I den här videon skapar du ett projektfilter med namnet&quot;Projekt jag stäng
 
 Stegvisa instruktioner finns nedan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443383/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
 
 ## Svar på aktivitet 2
 
-![En bild av skärmen för att skapa ett nytt filter](assets/basic-filter-activity-updated-6-15-21.png)
+![En bild av skärmen för att skapa ett nytt filter](assets/basic-filter-activity-2.png)
 
 1. Navigera till området [!UICONTROL Projekt] från [!UICONTROL Huvudmenyn]. Här visas en lista med projekt.
-1. Klicka på menyn **[!UICONTROL Filter]** och välj [!UICONTROL Äldre filter].
+1. Klicka på menyn **[!UICONTROL Filter]** och välj [!UICONTROL Äldre filter] om det inte redan är markerat.
 1. Välj **[!UICONTROL Nytt filter]**.
 1. Ge filtret namnet&quot;Projekt jag äger stänger den här månaden&quot;.
 1. Klicka på **[!UICONTROL Lägg till filterregel]**.
-1. Skriv &quot;owner&quot; i fältet [!UICONTROL Börja skriva fältnamn]. Välj sedan [!UICONTROL Ägar-ID] under fältkällan [!UICONTROL Projekt].
+1. Klicka på fältet **Markera ett fält** och börja skriva ordet &quot;Ägare&quot;. Klicka nu på ägar-ID under fältkällan [!UICONTROL Projekt].
 1. Låt operatorn [!UICONTROL Lika med] vara kvar.
-1. Skriv &quot;$$&quot; i fältet [!UICONTROL Börja skriva namn].
+1. Skriv $$ i sökfältet.
 1. Välj [!UICONTROL $$USER.ID]. Detta är jokertecknet för den inloggade användaren.
-1. Klicka på [!UICONTROL Lägg till filterregel] igen.
-1. I fältet [!UICONTROL Börja skriva fältnamn] börjar du skriva &quot;Är klar&quot;. Välj sedan [!UICONTROL Är slutförd] under Projektfältets källa.
+1. Klicka på Lägg till en annan filterregel.
+1. Klicka på fältet **Markera ett fält** och börja skriva ordet&quot;Är slutfört&quot;. Klicka nu på&quot;Är slutförd&quot; under fältkällan [!UICONTROL Projekt].
 1. Låt operatorn [!UICONTROL Lika med] vara kvar.
 1. Välj &quot;Falskt&quot;.
-1. Klicka på [!UICONTROL Lägg till filterregel] igen.
-1. I fältet [!UICONTROL Start typing field name] skriver du &quot;planerad&quot; och väljer sedan [!UICONTROL Planerad slutförandetid] under fältkällan [!UICONTROL Project].
+1. Klicka på Lägg till en annan filterregel igen.
+1. Klicka på fältet **Markera ett fält** och börja skriva ordet &quot;Planerad&quot;. Klicka nu på &quot;Planerat slutförandedatum&quot; under fältkällan [!UICONTROL Projekt].
 1. Ändra operatorn [!UICONTROL Lika med] till [!UICONTROL Den här månaden].
 1. Klicka på **[!UICONTROL Spara filter]**.
