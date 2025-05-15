@@ -49,7 +49,7 @@ I den här videon skapar du ett projektfilter med namnet&quot;Projekt jag stäng
 
 Stegvisa instruktioner finns nedan.
 
->[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443383/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Svar på aktivitet 2
 
