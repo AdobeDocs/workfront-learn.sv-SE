@@ -9,11 +9,12 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
+last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 39345609d988f5e625ec6bb78ed3be9f4dcdedc9
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -25,7 +26,15 @@ I den här videon får du lära dig:
 * När en matrisrapport kan användas
 * Och hur du skapar en matrisrapport
 
->[!VIDEO](https://video.tv.adobe.com/v/3448187/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+
+## Viktiga uppgifter
+
+* **Struktur för matrisrapport:** Matrisrapporter ordnar data i rader och kolumner, med automatiska rad- och kolumnsummor. &#x200B; De är idealiska för att spåra mätvärden som antal arbetade timmar, kostnader och intäkter. &#x200B;
+* **Filterinställningar:** Använd filter för att fokusera på specifika data, t.ex. timmar som arbetats under det sista kvartalet av användare från ett visst hemteam. &#x200B; &quot;Ägarfältskällan&quot; hjälper till att identifiera relevanta teammedlemmar. &#x200B;
+* **Grupperingsalternativ:** I vårt exempel grupperas rader efter &quot;ägarnamn&quot; (den person som arbetade med timmarna), medan kolumnerna grupperas efter &quot;timingdatum&quot; (per månad och vecka). &#x200B;
+* **Sammanfattade data:** Kolumner som timmar, faktiska kostnader och intäkter sammanfattas som standard, vilket säkerställer att summorna visas i matrisen. Dessa standardvärden kan vid behov stängas av. &#x200B;
+* **Diagramintegrering:** Matrisrapporter kan kompletteras med diagram för alternativ datavisualisering, med samma grupperingsinformation. Du kan ange matrisfliken eller diagramfliken som standardvy. &#x200B;
 
 ## Aktiviteter för att skapa en matrisrapport
 
