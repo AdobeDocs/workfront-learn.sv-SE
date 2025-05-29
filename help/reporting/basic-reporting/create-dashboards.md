@@ -9,11 +9,12 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
+last-substantial-update: 2025-05-28T00:00:00Z
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: eb6e0375169c5a171eee01053f9577394460fa11
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '646'
 ht-degree: 3%
 
 ---
@@ -23,7 +24,7 @@ ht-degree: 3%
 Videon innehåller en omfattande guide till hur du lär dig mer om och använder kontrollpaneler i Workfront.
 &#x200B;Det förklarar att en kontrollpanel är en samling rapporter som gör att användarna kan ordna och visa relaterade data på ett och samma ställe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449126/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
 ## Viktiga uppgifter
 
@@ -40,7 +41,7 @@ Videon innehåller en omfattande guide till hur du lär dig mer om och använder
 
 Skapa en [!UICONTROL kontrollpanel] med endast en rapport i den:&quot;Sökanteckningar i det här projektet&quot;. Detta är användbart om du snabbt vill hitta uppdateringar som gjorts i ett projekt, även om det finns tusentals uppdateringar att söka igenom. Detta söker efter uppdateringstrådar för att snabbt extrahera uppdateringar som uppfyller villkoren som du anger i uppmaningarna.
 
-Skapa den här rapporten genom att skapa en kopia av rapporten&quot;Sökanteckningar&quot; som du skapade i aktiviteten&quot;Skapa en anteckningsrapport&quot; (eller använd en annan rapport om du inte gjorde den aktiviteten).
+Skapa den här rapporten genom att skapa en kopia av rapporten&quot;Sökanteckningar&quot; som du skapade i aktiviteten&quot;Skapa en anteckningsrapport&quot;. Har du inte skapat den än? Klicka här om du vill se aktiviteten i självstudiekursen [Skapa en aktivitetsrapport](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 
 * Ta bort uppmaningen om projektnamn från kopian och byt namn på rapporten&quot;Sök anteckningar i det här projektet&quot;.
 * Namnge [!UICONTROL instrumentpanelen] &quot;Sökanteckningar&quot;.
@@ -49,7 +50,7 @@ Skapa den här rapporten genom att skapa en kopia av rapporten&quot;Sökanteckni
 
 ### Svar 1
 
-1. Kör rapporten som du skapade i aktiviteten Skapa en anteckningsrapport. Har du inte skapat den än? Klicka här om du vill se aktiviteten i självstudiekursen [Skapa en aktivitetsrapport](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+1. Kör rapporten som du skapade i aktiviteten Skapa en anteckningsrapport. Har du inte skapat den än? Klicka här om du vill se aktiviteten i självstudiekursen [Skapa en aktivitetsrapport](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 1. Klicka på **[!UICONTROL Rapportera åtgärder]** och välj **[!UICONTROL Kopiera]**. [!DNL Workfront] skapar en ny rapport med namnet&quot;Anteckningssökning (kopia)&quot;.
 1. Gå till **[!UICONTROL Rapportåtgärder]** och välj **[!UICONTROL Redigera]**. Klicka på **[!UICONTROL Rapportinställningar]** och ändra namnet till &quot;Sök anteckningar i det här projektet&quot;.
 1. Klicka på [!UICONTROL Rapportera frågor] och ta bort uppmaningen [!UICONTROL Projekt] > [!UICONTROL Namn] från listan.
@@ -61,7 +62,7 @@ Skapa den här rapporten genom att skapa en kopia av rapporten&quot;Sökanteckni
 
    Därefter ska du använda en genväg för att skapa en ny instrumentpanel och lägga till den här rapporten i den.
 
-1. Klicka på **[!UICONTROL Rapportera åtgärder]** och välj **[!UICONTROL Lägg till i instrumentpanelen]** > **[!UICONTROL Ny instrumentpanel]**.
+1. Klicka på **[!UICONTROL Rapportera åtgärder]** och välj **[!UICONTROL Lägg till i klassisk kontrollpanel]** > **[!UICONTROL Ny kontrollpanel]**.
 1. Dra rapporten &quot;Sök anteckningar i det här projektet&quot; till panelen **[!UICONTROL Layout]** .
 1. Observera att rapportens namn blir kontrollpanelens namn. Redigera namnet så att det bara är &quot;Sök anteckningar&quot;.
 
@@ -73,8 +74,8 @@ Skapa den här rapporten genom att skapa en kopia av rapporten&quot;Sökanteckni
 
    ![En bild av skärmen för att skapa en ny instrumentpanel](assets/add-custom-section.png)
 
-1. Gå till vilket projekt som helst. Klicka på ikonen **[!UICONTROL Lägg till anpassat avsnitt]** på den vänstra panelmenyn.
-1. I fältet **[!UICONTROL Lägg till en instrumentpanel]** skriver du&quot;Sökanteckningar&quot; och väljer [!UICONTROL instrumentpanelen] i listan.
-1. I fältet **[!UICONTROL Anpassad avsnittstitel]** skriver du &quot;Search Notes&quot;.
-1. Klicka på **[!UICONTROL Lägg till nytt avsnitt]**.
-1. På den vänstra panelmenyn hittar du Sök anteckningar. Klicka på punkterna till vänster om avsnittsnamnet och dra det till höger under Uppdateringar.
+1. Gå till vilket projekt som helst. Klicka på knappen **[!UICONTROL Lägg till en instrumentpanel]** på den vänstra panelmenyn.
+1. I fältet **[!UICONTROL Välj en instrumentpanel]** skriver du&quot;Sökanteckningar&quot; och väljer [!UICONTROL instrumentpanelen] i listan.
+1. I fältet **[!UICONTROL Namn på snabblänk]** skriver du&quot;Sök anteckningar&quot;.
+1. Klicka på **[!UICONTROL Lägg till]**.
+1. På den vänstra panelmenyn hittar du Sök anteckningar längst ned. Klicka på punkterna till vänster om namnet och dra det uppåt till höger nedanför Uppdateringar.
