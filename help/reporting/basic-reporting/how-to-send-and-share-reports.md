@@ -9,11 +9,12 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
+last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: f4cdb04795c8dc95339d2eb61594335759df6fbc
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -26,7 +27,16 @@ I den här videon får du lära dig:
 * Dela rapporter med vem som helst
 * Vad mottagarna kan se och göra med en Workfront-rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/3447816/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+
+## Viktiga uppgifter
+
+* **Skicka rapporter till externa användare:** Du kan skicka rapporter till icke-Workfront-användare genom att ange deras e-postadresser, vilket gör det enkelt att dela data utanför organisationen. &#x200B;
+* **Behörighetskontrollsynlighet:** Mottagarens vy av rapporten beror på vilka åtkomsträttigheter du anger, vilket garanterar datasäkerhet och lämplig synlighet. &#x200B;
+* **Upprepad leverans för ögonblicksbilder:** Schemalagda leveranser ger frysta ögonblicksbilder av data vid specifika tidpunkter, vilket är användbart för att spåra trender och underhålla en historik med projektdata. &#x200B;
+* **Dela rapporter med team:** Rapporter kan delas med personer, team eller jobbroller, och antingen ge behörighet att visa eller hantera. &#x200B; Delade rapporter visas i användaravsnittet &quot;Delat med mig&quot;. &#x200B;
+* **Offentlig delning och delning i hela systemet:** Rapporter kan delas via offentliga länkar för externa användare eller göras synliga i hela systemet för alla Workfront-användare, vilket ger flexibilitet vid datadelning.
+
 
 ## Rapporter om att skicka och dela
 
@@ -45,7 +55,7 @@ Skicka en rapport till dig själv varje måndag kl. 5 som ett Excel-kalkylblad. 
 1. Ändra formatet till Excel.
 1. Ange **[!UICONTROL Upprepningar]** till [!UICONTROL Veckovis].
 1. Ange [!UICONTROL Time] till 5.
-1. Ange [!UICONTROL Upprepningar &#x200B;] till måndag.
+1. Ange [!UICONTROL Upprepningar ] till måndag.
 1. Klicka på **[!UICONTROL Spara]**.
 
 >[!NOTE]
