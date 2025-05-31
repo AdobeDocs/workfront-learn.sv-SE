@@ -27,4 +27,4 @@ I den här videon får du lära dig:
 * Köra rapporten med åtkomsträttigheter för en viss användare
 * Så här ställer du in och använder rapportmeddelanden
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445867/?quality=12&learn=on&enablevpops&captions=swe)
