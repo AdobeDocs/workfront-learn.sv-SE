@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
+last-substantial-update: 2025-06-02T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '985'
 ht-degree: 0%
 
 ---
@@ -25,7 +26,7 @@ Lär dig några grundläggande navigeringstips när du loggar in på Workfront F
 ## Förutsättningar
 
 1. För den här övningen krävs en testkörning från Workfront. Du kan begära en genom att fylla i [det här formuläret](https://forms.office.com/r/f1J8HRGrNY). Om du inte kan komma åt formuläret skickar du ditt namn, din e-postadress och ditt företagsnamn till wfttstdr@adobe.com.
-1. Fusion-övningar förutsätter att du har sett genomgången video som motsvarar övningen. I det här fallet är det [Genomgång av inledande scenariodesign](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=sv-SE).
+1. Fusion-övningar förutsätter att du har sett genomgången video som motsvarar övningen. I det här fallet är det [Genomgång av inledande scenariodesign](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
 
 
 ## Översikt över övningar
@@ -42,7 +43,7 @@ Skapa ett nytt projekt i Workfront för varje rad i CSV-filen för projektlistan
    ![Designbild för inledande scenario 2](../12-exercises/assets/initial-scenario-design-2.png)
 
 1. På nästa sida söker du efter Workfront och väljer det programmet. Klicka sedan på Fortsätt.
-1. Längst upp till vänster på skärmen för scenariodesignern byter du namn på ditt scenario till&quot;Inledande cenariodesign&quot;
+1. Längst upp till vänster på skärmen för scenariodesignern byter du namn på ditt scenario till&quot;Utformning av inledande scenario&quot;
 1. Klicka på den tomma utlösarmodulen mitt på skärmen och välj Workfront-appen. Välj sedan modulen Hämta dokument.
 
    **Verifiera modulens anslutning till ditt Workfront-konto.**
@@ -55,7 +56,7 @@ Skapa ett nytt projekt i Workfront för varje rad i CSV-filen för projektlistan
 
    ![Designbild för inledande scenario 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Ange URL:en för **din Workfront-instans** och klicka sedan på Nästa.
+1. Ange URL:en för **ditt Workfront-testenhetskonto** och klicka sedan på Nästa.
 
    ![Designbild för inledande scenario 5](../12-exercises/assets/initial-scenario-design-5.png)
 
