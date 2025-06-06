@@ -8,26 +8,31 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '974'
 ht-degree: 0%
 
 ---
 
 # Skapa en grundvy
 
-I den här videon får du lära dig:
+I videon förklaras hur du skapar och anpassar vyer i Workfront för att visa specifik information om objekt i en lista, till exempel projekt, uppgifter, utgåvor och dokument. &#x200B; Med vyer kan användare visa information som namn, beskrivning, status och andra fält som är relevanta för objekten. &#x200B;
 
-* Vilken vy har Workfront?
-* Så här skapar och ändrar du en vy
-* Dela en vy med andra Workfront-användare
+I videon betonas flexibiliteten i vyerna i Workfront och den innehåller stegvisa instruktioner för att skapa, anpassa och hantera dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450242/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+
+## Viktiga uppgifter
+
+* **Anpassa vyer**: Användare kan redigera befintliga vyer eller skapa nya genom att lägga till, ta bort eller ordna om kolumner för att visa specifik information, till exempel projektstatus eller budget.
+* **Inline Editing**: Vissa fält i en listvy kan uppdateras direkt utan att enskilda objekt öppnas, vilket gör det snabbare att göra ändringar. &#x200B;
+* **Skapa vyer från grunden**: Användare kan utforma vyer för att uppfylla specifika behov, som att spåra projekthälsa, genom att lägga till relevanta kolumner som budget, faktisk kostnad och status. &#x200B;
+* **Vyer för delning och hantering**: Anpassade vyer kan delas med teammedlemmar för samarbete eller tas bort när de inte längre behövs.
 
 ## Aktiviteter för att skapa en grundvy
 
@@ -65,7 +70,7 @@ Håll pekaren över ikonerna i kolumnen [!UICONTROL Statusikoner] för att se va
 
 ### Aktivitet 2: Skapa en milstolpe-vy
 
-Om du använder milstolpar är den här vyn det enklaste sättet att se milstolpar efter namn och lägga till eller redigera dem med hjälp av redigering i rad.
+Om du använder milstolpar är den här vyn det enklaste sättet att se milstolpar efter namn i uppgiftslistan och lägga till eller ta bort dem från en uppgift med hjälp av redigering i rad.
 
 Skapa en uppgiftsvy med namnet&quot;Milstolpevy&quot; med följande kolumner:
 
@@ -86,7 +91,7 @@ Skapa en uppgiftsvy med namnet&quot;Milstolpevy&quot; med följande kolumner:
 1. Gå till listrutan **[!UICONTROL Visa]** i en projektuppgiftslista och välj **[!UICONTROL Ny vy]**.
 1. Ge din vy namnet&quot;Milstolpevy&quot;.
 1. Klicka på kolumnen [!UICONTROL Föregående] för att markera den.
-1. I fältet [!UICONTROL Visa i den här kolumnen] klickar du på X-ikonen i fältet [!UICONTROL Aktivitet >> Föregående], skriver [!UICONTROL milstolpe-namn] och klickar på [!UICONTROL Namn] i listan.
+1. I fältet [!UICONTROL Visa i den här kolumnen] klickar du på minusikonen i fältet [!UICONTROL Aktivitet >> Föregående], skriver [!UICONTROL milstolpe-namn] och klickar på [!UICONTROL Namn] i listan.
 1. Klicka på **[!UICONTROL Spara]**.
 
 ![En bild av en uppgiftslista med hjälp av en milstolpevy](assets/view-milestone-exercise-2.png)
@@ -109,7 +114,7 @@ Skapa en uppgiftsvy med namnet&quot;Varaktighetstyper och vyn över uppgiftsbegr
 * [!UICONTROL Aktivitetsbegränsning]
 * [!UICONTROL Begränsningsdatum]
 
-Ändra [!UICONTROL fältformatet &#x200B;] i kolumnerna [!UICONTROL Starta den] och [!UICONTROL Förfaller den &#x200B;] så att både datum och tid visas.
+Ändra [!UICONTROL fältformatet ] i kolumnerna [!UICONTROL Starta den] och [!UICONTROL Förfaller den ] så att både datum och tid visas.
 
 ### Svar 3
 
@@ -117,7 +122,7 @@ Skapa en uppgiftsvy med namnet&quot;Varaktighetstyper och vyn över uppgiftsbegr
 
 1. Gå till listrutan **[!UICONTROL Visa]** i en projektuppgiftslista och välj **[!UICONTROL Ny vy]**.
 1. Ge din vy namnet&quot;Varaktighetstyper och vyn Begränsade uppgifter&quot;.
-1. Ta bort kolumnen [!UICONTROL &#x200B; % färdigt].
+1. Ta bort kolumnen [!UICONTROL  % färdigt].
 1. Klicka på **[!UICONTROL Lägg till kolumn]**.
 1. I fältet [!UICONTROL Visa i den här kolumnen] skriver du [!UICONTROL &quot;duration&quot;] och väljer sedan [!UICONTROL &quot;Planerad varaktighet&quot;] under fältkällan [!UICONTROL Aktivitet].
 1. Flytta den här kolumnen mellan kolumnerna [!UICONTROL Varaktighet] och [!UICONTROL Planera timmar].
