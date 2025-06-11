@@ -25,7 +25,7 @@ I videon finns en stegvis guide om hur du skapar en anpassad rapport för att sp
 
 Den resulterande rapporten hjälper användarna att fokusera på sena uppgifter, ger insikter om beroenden och förenklar navigeringen till värdprojekten. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448346/?quality=12&learn=on&captions=swe)
 
 ## Viktiga uppgifter
 
