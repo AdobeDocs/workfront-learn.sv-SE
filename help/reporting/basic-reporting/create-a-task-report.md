@@ -1,6 +1,6 @@
 ---
 title: Skapa en uppgiftsrapport
-description: Lär dig hur du skapar en uppgiftsrapport med ett komplext filter och hittar de rapporter du skapar i Workfront. Aktivitet – skapa en anteckningsrapport med uppmaningar.
+description: Lär dig hur du skapar en uppgiftsrapport med ett komplext filter och hittar de rapporter du skapar i Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -8,32 +8,41 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
+last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
 workflow-type: tm+mt
-source-wordcount: '925'
-ht-degree: 2%
+source-wordcount: '1116'
+ht-degree: 0%
 
 ---
 
 # Skapa en uppgiftsrapport
 
-I den här videon får du lära dig:
+I videon finns en stegvis guide om hur du skapar en anpassad rapport för att spåra sena uppgifter som tilldelats den inloggade användaren. Det börjar med att förklara behovet av anpassade rapporter när befintliga filter, vyer eller inbyggda rapporter inte uppfyller specifika krav. &#x200B; Rapporten heter&quot;Sena uppgifter som jag tilldelats&quot; med en beskrivning tillagd för tydlighet. &#x200B;
 
-* Skapa en uppgiftsrapport med ett komplext filter
-* Hitta de rapporter du skapar
+Den resulterande rapporten hjälper användarna att fokusera på sena uppgifter, ger insikter om beroenden och förenklar navigeringen till värdprojekten. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448346/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+
+## Viktiga uppgifter
+
+* **Skapa anpassade rapporter:** Om befintliga filter och inbyggda rapporter inte uppfyller dina behov kan du skapa en anpassad rapport från början för att fokusera på specifika data, till exempel sena aktiviteter som du har tilldelats. &#x200B;
+* **Filterinställningar:** Använd filter för att definiera rapportvillkor, inklusive sena uppgifter, ofullständiga uppgifter, aktuella projekt och uppgifter som tilldelats den inloggade användaren. &#x200B;
+* **Kolumner för kontext:** Lägg till kolumner som &quot;Kan starta&quot; för att identifiera beroendeproblem och &quot;Projektnamn&quot; med hyperlänkar för enkel navigering till relaterade projekt. &#x200B;
+* **Sortering efter prioritet:** Sortera uppgifter efter kolumnen &quot;Förfaller den&quot; i stigande ordning för att prioritera de mest försenade uppgifterna högst upp i rapporten. &#x200B;
+* **Tillgänglighet:** Spara rapporten, fäst den eller markera den som en favorit för snabb åtkomst, vilket ger effektiv spårning och hantering av sena uppgifter.
+
 
 ## Aktiviteter som&quot;Skapa en uppgiftsrapport&quot;
 
 >[!TIP]
 >
 >Dela upp dina spatulor och mixa skålar och gör dig redo att prova recepten i vår [Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf). Inuti finns stegvisa instruktioner för 10 rapporter, klara att användas i din miljö idag.
->Vi har samlat in rapporter från kunderna och sammanställt dem i en lättsmält kokbok som du kan ta tillbaka och testa i ditt eget Workfront-kök.
->Dessa 10 rapporter kommer från kunder som är precis som du. Vi är skyldiga ett stort tack till de fantastiska kunder som delade en av sina favoritrapporter, som sprids ut över olika branscher, avdelningar, team, befattningar och alla i olika företag. Vissa rapporter är enkla (men mycket användbara), och vissa är mer komplexa för att ta dina rapporter till nästa nivå.
+>>Vi har samlat in rapporter från kunderna och sammanställt dem i en lättsmält kokbok som du kan ta tillbaka och testa i ditt eget Workfront-kök.
+>>Dessa 10 rapporter kommer från kunder som är precis som du. Vi är skyldiga ett stort tack till de fantastiska kunder som delade en av sina favoritrapporter, som sprids ut över olika branscher, avdelningar, team, befattningar och alla i olika företag. Vissa rapporter är enkla (men mycket användbara), och vissa är mer komplexa för att ta dina rapporter till nästa nivå.
 
 
 ### Aktivitet 1: Skapa en anteckningsrapport med uppmaningar
@@ -110,15 +119,15 @@ Ta med uppmaningar om följande:
 
 ### Aktivitet 2: Skapa en feedback från administratörsteamet
 
-Det här är en problemrapport som visar alla problem i en kön för feedback-begäranden som har skapats för systemadministratörer. Du kan se hur du skapar den här begärandekön i självstudiekursen [Skapa en kö för systemadministratörsfeedback](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=sv-SE).
+Det här är en problemrapport som visar alla problem i en kön för feedback-begäranden som har skapats för systemadministratörer. Du kan se hur du skapar den här begärandekön i självstudiekursen [Skapa en kö för systemadministratörsfeedback](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html).
 
-I den här rapporten används även ett anpassat formulär. Om du vill lära dig hur du skapar ett anpassat formulär kan du läsa självstudiekursen [Skapa och dela ett anpassat formulär](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=sv-SE).
+I den här rapporten används även ett anpassat formulär. Om du vill lära dig hur du skapar ett anpassat formulär kan du läsa självstudiekursen [Skapa och dela ett anpassat formulär](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html).
 
-Det anpassade formuläret ska skapas på följande sätt:
+Det anpassade formuläret ska ha objekttyperna Project och Issue och ska skapas enligt följande:
 
 Namn: Administratörsprocessfeedback
 
-1. Processtyp (nedrullningsbart fält)
+1. Processtyp (listruta med ett val)
    * åtkomstnivåer
    * godkännandeprocess (endast globalt)
    * e-postmeddelanden
@@ -128,7 +137,7 @@ Namn: Administratörsprocessfeedback
    * påminnelsemeddelanden
    * begärandekö
 1. Processnamn (textfält med en rad)
-1. Processklass (listrutefält)
+1. Processkvalitet (listruta med ett val)
    * 1 - helt värdelös
    * 2 - inte särskilt användbar
    * 3 - bra men kunde vara bättre
