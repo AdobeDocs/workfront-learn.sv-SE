@@ -8,12 +8,13 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 4f82fb7be6bed149036f0218038f927ef57e67f4
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -29,7 +30,7 @@ I den här videon får du lära dig att:
 
 >[!TIP]
 >
->Använd fältkällan och namnet för Tilldelningsanvändare >> ID när du skapar filter som tittar på information om uppgifter eller ärenden.  Med det här alternativet kan du titta på alla   användare som tilldelats uppgiften eller utgåvan, inte bara ägaren eller den primära tilldelaren.
+>Använd fältkällan och namnet för Tilldelningsanvändare >> ID när du skapar filter som tittar på information om uppgifter eller ärenden.  Det här alternativet söker efter alla användare som har tilldelats uppgiften eller utgåvan, inte bara&quot;ägaren&quot; eller den primära tilldelade personen.
 
 >[!TIP]
 >
@@ -44,7 +45,7 @@ I den här videon får du lära dig att:
 
 ### Aktivitet 1
 
-Du har lite extra tid den här veckan, så du vill se om det finns någon i ditt team som kan behöva lite hjälp med sina uppdrag. Skapa ett uppgiftsfilter för att hitta aktiviteter som förfaller den här veckan och som inte har slutförts.
+Du har lite extra tid den här veckan, så du vill se om det finns någon i ditt team som kan behöva lite hjälp med sina uppdrag. Skapa ett uppgiftsfilter för att hitta uppgifter som har tilldelats ditt hemteam och som ska utföras den här veckan och som inte har slutförts än.
 
 ### Svar 1
 
