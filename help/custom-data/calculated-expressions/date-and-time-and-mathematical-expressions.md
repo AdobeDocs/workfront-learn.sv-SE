@@ -46,5 +46,5 @@ Workfront-kunder använder vanligtvis dessa två matematiska uttrycksuppsättnin
 
 >[!NOTE]
 >
->En fullständig lista över uttryck och mer information om vart och ett finns på dokumentationssidan för [Beräknade datameddelanden](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions).
+>En fullständig lista över uttryck och mer information om vart och ett finns på dokumentationssidan för [Beräknade datameddelanden](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions).
 
