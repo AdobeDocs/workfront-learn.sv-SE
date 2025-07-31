@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 382df5f0f590df73db9e7d3c708aa3606f750210
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -44,4 +44,7 @@ Workfront-kunder använder vanligtvis dessa två matematiska uttrycksuppsättnin
 * SUB, SUM, DIV, PROD
 * ROUND
 
-<b>Obs!</b> En fullständig lista över uttryck och mer information om vart och ett finns på dokumentationssidan för beräknade datamängder.
+>[!NOTE]
+>
+>En fullständig lista över uttryck och mer information om vart och ett finns på dokumentationssidan för [Beräknade datameddelanden](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions).
+
