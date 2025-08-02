@@ -41,7 +41,7 @@ I den här videon får du lära dig:
 * Vad kamelfodral är
 * Vissa grundläggande textlägen för plug and play som du kan använda i rapportfiltren
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470327/?quality=12&learn=on&captions=swe)
 
 ## &quot;Förstå grundläggande textläge för filter&quot;-aktiviteter
 
