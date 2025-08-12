@@ -1,6 +1,6 @@
 ---
 title: Grundläggande textläge för grupperingar
-description: Lär dig vilket textläge som är, vilket kameraläge som är och ett grundläggande textläge för"plug and play" som du kan använda i dina grupperingar i Workfront.
+description: Lär dig mer om textläge, kamelläge och grundläggande textläge som du kan använda i rapportgrupperingar i Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -8,12 +8,13 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -22,24 +23,24 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Förstå rapportelement](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=sv-SE)
->* [Förstå rapportkomponenter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=sv-SE)
->* [Skapa en grundläggande gruppering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=sv-SE)
+>* [Förstå rapportelement](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [Förstå rapportkomponenter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [Skapa en grundläggande gruppering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
 
 
 >[!TIP]
 >
->* För att få en mer ingående förståelse för textläget rekommenderar vi att du tittar på den inspelade webbinarihändelsen [Fråga experten - Introduktion till textlägesrapportering](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=sv-SE), som är en timme lång.
->* Om du vill veta mer om textläge rekommenderar vi att du tittar på självstudiekurserna [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=sv-SE) som tillsammans är fem och en halv timmars långa.
+>* För att få en mer ingående förståelse för textläget rekommenderar vi att du tittar på den inspelade webbinarihändelsen [Fråga experten - Introduktion till textlägesrapportering](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), som är en timme lång.
+>* Om du vill veta mer om textläge rekommenderar vi att du tittar på självstudiekurserna [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) som tillsammans är fem och en halv timmars långa.
 >* Klicka här för att komma åt [[!UICONTROL API-utforskaren]](https://developer.adobe.com/workfront/api-explorer/)
 
 I den här videon får du lära dig:
 
 * Vilket textläge är
 * Vad kamelfodral är
-* Vissa grundläggande textlägen för plug and play som du kan använda i dina grupperingar
+* Vissa _textlägeskodblock_ som du kan använda i rapportgrupperingarna
 
->[!VIDEO](https://video.tv.adobe.com/v/3428983/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
 ## Förstå grundläggande textläge för grupperingar
 
