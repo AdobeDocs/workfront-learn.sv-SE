@@ -1,9 +1,9 @@
 ---
 user-guide-description: Självstudiekurser om Workfront
-source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
+source-git-commit: 9a84c73e0915b4d29a6d8314aa0b251f103ecaad
 workflow-type: tm+mt
-source-wordcount: '2275'
-ht-degree: 0%
+source-wordcount: '2281'
+ht-degree: 1%
 
 ---
 
@@ -204,7 +204,7 @@ ht-degree: 0%
       + [Förstå den nya filterupplevelsen](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [Skapa grundläggande filteraktiviteter](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Skapa en enkel rapport](/help/reporting/basic-reporting/create-a-simple-report.md)
-      + [Skapa en uppgiftsrapport](/help/reporting/basic-reporting/create-a-task-report.md)
+      + [Skapa en ny aktivitetsrapport](/help/reporting/basic-reporting/create-a-task-report.md)
       + [Kopiera en rapport](/help/reporting/basic-reporting/copy-a-report.md)
       + [Skapa rapporter med diagram](/help/reporting/basic-reporting/create-reports-with-charts.md)
       + [Skapa en matrisrapport](/help/reporting/basic-reporting/create-a-matrix-report.md)
@@ -316,6 +316,7 @@ ht-degree: 0%
    + [Skapa och hantera tabellvyer](/help/workfront-planning/create-and-manage-table-views.md)
    + [Skapa och hantera tidslinjevyer](/help/workfront-planning/create-and-manage-timeline-views.md)
    + [Koppla posttyper](/help/workfront-planning/connect-record-types.md)
+   + [Skapa ett formulär för posttypsbegäran](/help/workfront-planning/create-a-record-type-request-form.md)
    + [Fördelar med Workfront Planning for UX Design Teams](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Integreringar {#integrations}
@@ -323,10 +324,10 @@ ht-degree: 0%
       + [Integrera med Creative Cloud med Adobe Workfront plugins](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Konfigurerar integreringen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=sv-SE)
-      + [Mappar metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=sv-SE)
-      + [Skickar dokument och länkar resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=sv-SE)
-      + [Behåller versionshistorik](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=sv-SE)
+      + [Konfigurerar integreringen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [Mappar metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [Skickar dokument och länkar resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [Behåller versionshistorik](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [Förbättra arbetsflödet med G Suite-integrering](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -338,13 +339,13 @@ ht-degree: 0%
       + [Installera Microsoft Outlook-tillägget](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Adobe Workfront för Microsoft Teams - översikt](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=sv-SE)
-      + [Installera Adobe Workfront för Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=sv-SE)
-      + [Öppna Adobe Workfront från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=sv-SE)
-      + [Söka efter och dela Adobe Workfront-objekt i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=sv-SE)
-      + [Skapa Adobe Workfront-uppgifter från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=sv-SE)
-      + [Skicka in Adobe Workfront-begäranden från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=sv-SE)
-      + [Hantera Adobe Workfront-meddelanden i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=sv-SE)
+      + [Adobe Workfront för Microsoft Teams - översikt](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [Installera Adobe Workfront för Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [Öppna Adobe Workfront från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [Söka efter och dela Adobe Workfront-objekt i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [Skapa Adobe Workfront-uppgifter från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [Skicka in Adobe Workfront-begäranden från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [Hantera Adobe Workfront-meddelanden i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [Förstå Workfront för [!UICONTROL Slack]](/help/integrations/slack/introduction-to-workfront-for-slack.md)
