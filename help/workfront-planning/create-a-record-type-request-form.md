@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Effektivisera arbetet genom att lära dig hur man skapar skräddarsydda ansökningsblanketter för att organisera arbetsmomenten, samla in viktig information och effektivisera teamet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471080/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471085/?learn=on&enablevpops&captions=swe)

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig mer om problemstatus och de bästa sätten att använda dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472969/?quality=12&learn=on&enablevpops&captions=swe)
 
 ## Viktiga uppgifter
 
