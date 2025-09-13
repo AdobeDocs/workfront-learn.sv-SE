@@ -34,8 +34,8 @@ Det första du behöver göra innan du kan skapa en **rapport** på arbetsytan �
 >[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops)
 
 **Mer information finns i följande hjälpartiklar:**
-[Paneler på arbetsytan - översikt](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Skapa en KPI-rapport på en Canvas Dashboard ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[Paneler på arbetsytan - översikt](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Skapa en KPI-rapport på en Canvas Dashboard ](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

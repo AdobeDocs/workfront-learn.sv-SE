@@ -24,7 +24,7 @@ Funktionen Kontrollpaneler på arbetsytan är ett annat sätt att skapa kontroll
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
 
-Mer information finns i artikeln [Översikt över kontrollpaneler på arbetsytan](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
+Mer information finns i artikeln [Översikt över kontrollpaneler på arbetsytan](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
 
 ## Rekommenderade självstudiekurser i detta ämne
 
