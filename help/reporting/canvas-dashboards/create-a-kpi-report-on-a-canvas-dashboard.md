@@ -11,9 +11,9 @@ jira: KT-18769
 last-substantial-update: 2025-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 5e6a2d66335017a27eb67d40d99479786a41efe2
+source-git-commit: 9f5a6ba3ad6e4aa0af2b3bc18522777c646ae6f3
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -34,5 +34,10 @@ Det första du behöver göra innan du kan skapa en **rapport** på arbetsytan �
 >[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops)
 
 **Mer information finns i följande hjälpartiklar:**
-[Paneler på arbetsytan - översikt](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Skapa en KPI-rapport på en Canvas Dashboard ](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[Paneler på arbetsytan - översikt](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Skapa en KPI-rapport på en Canvas Dashboard ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+
+## Rekommenderade självstudiekurser i detta ämne
+
+* [Introduktion till arbetsytans kontrollpaneler](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [Skapa en tabellrapport på en arbetsytans kontrollpanel](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
