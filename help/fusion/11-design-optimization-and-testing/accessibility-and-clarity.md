@@ -73,4 +73,4 @@ Markera kryssrutan Använd i guiden om du vill lägga till instruktioner som är
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/sv/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

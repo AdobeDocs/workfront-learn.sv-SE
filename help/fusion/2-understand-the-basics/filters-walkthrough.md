@@ -49,4 +49,4 @@ Denna övning bygger på vad du lärde dig under genomgången, men lösningen ti
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/sv/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
