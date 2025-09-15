@@ -30,7 +30,7 @@ Använd scenariot&quot;Introduktion till upprepning&quot; som du skapade i den s
 
 Workfront rekommenderar att du tittar på genomgången av videon innan du försöker återskapa övningen i din egen miljö.
 
->[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428977/?quality=12&learn=on&enablevpops&captions=swe)
 
 
 
