@@ -11,7 +11,7 @@ level: Beginner
 jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: b57236354534f5f2cede5aec308a3210ed1aa2e1
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 9%
@@ -60,6 +60,6 @@ Utmaningarna är för dem som vill prova något som inbegriper andra koncept som
 
 Du får stegvisa instruktioner som hjälper dig igenom genomgången.
 
-[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=sv-SE)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
 Det finns också en [Workfront Fusion 2.0-community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) där du kan ställa frågor.

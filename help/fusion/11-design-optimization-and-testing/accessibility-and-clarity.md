@@ -10,7 +10,7 @@ level: Beginner
 jira: KT-11037
 recommendations: noDisplay,catalog
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 0%
@@ -61,7 +61,7 @@ Gå sedan till det övre högra hörnet, klicka på Alternativ och välj Skapa s
 
 ### Skapa en mall
 
-Du kan skapa en mall i avsnittet Teammallar. Mallen som du skapar är tillgänglig för dig och ditt team, men när du klickar på knappen Publish kan du dela den med personer utanför ditt team.
+Du kan skapa en mall i avsnittet Teammallar. Mallen som du skapar är tillgänglig för dig och ditt team, men när du klickar på knappen Publicera kan du dela den med personer utanför ditt team.
 
 ![En bild av ett scenario med felhantering](assets/design-optimization-and-testing-7.png)
 
@@ -73,4 +73,4 @@ Markera kryssrutan Använd i guiden om du vill lägga till instruktioner som är
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=sv-SE)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
