@@ -1,8 +1,8 @@
 ---
 user-guide-description: Självstudiekurser om Workfront
-source-git-commit: 062a7f3576c4d5af02b04340e9763a82a9b8c721
+source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
 workflow-type: tm+mt
-source-wordcount: '2314'
+source-wordcount: '2322'
 ht-degree: 1%
 
 ---
@@ -243,6 +243,7 @@ ht-degree: 1%
       + [Introduktion till arbetsytans kontrollpaneler](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [Skapa en KPI-rapport på en arbetsytans kontrollpanel](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
       + [Skapa en tabellrapport på en arbetsytans kontrollpanel](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
+      + [Lägga till villkorsstyrd formatering i en Canvas Dashboard-rapport](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
 
 
 + Hantera resurser {#manage-resources}
@@ -332,10 +333,10 @@ ht-degree: 1%
       + [Integrera med Creative Cloud med Adobe Workfront plugins](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Konfigurerar integreringen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=sv-SE)
-      + [Mappar metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=sv-SE)
-      + [Skickar dokument och länkar resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=sv-SE)
-      + [Behåller versionshistorik](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=sv-SE)
+      + [Konfigurerar integreringen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [Mappar metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [Skickar dokument och länkar resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [Behåller versionshistorik](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [Förbättra arbetsflödet med G Suite-integrering](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -347,13 +348,13 @@ ht-degree: 1%
       + [Installera Microsoft Outlook-tillägget](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Adobe Workfront för Microsoft Teams - översikt](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=sv-SE)
-      + [Installera Adobe Workfront för Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=sv-SE)
-      + [Öppna Adobe Workfront från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=sv-SE)
-      + [Söka efter och dela Adobe Workfront-objekt i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=sv-SE)
-      + [Skapa Adobe Workfront-uppgifter från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=sv-SE)
-      + [Skicka in Adobe Workfront-begäranden från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=sv-SE)
-      + [Hantera Adobe Workfront-meddelanden i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=sv-SE)
+      + [Adobe Workfront för Microsoft Teams - översikt](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [Installera Adobe Workfront för Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [Öppna Adobe Workfront från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [Söka efter och dela Adobe Workfront-objekt i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [Skapa Adobe Workfront-uppgifter från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [Skicka in Adobe Workfront-begäranden från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [Hantera Adobe Workfront-meddelanden i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [Förstå Workfront för [!UICONTROL Slack]](/help/integrations/slack/introduction-to-workfront-for-slack.md)
