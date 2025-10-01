@@ -34,8 +34,8 @@ Det första du behöver göra innan du kan skapa en **rapport** på arbetsytan �
 >[!VIDEO](https://video.tv.adobe.com/v/3475381/?quality=12&learn=on&enablevpops)
 
 **Mer information finns i följande hjälpartiklar:**
-[Paneler på arbetsytan - översikt](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Redigera rapportfilter på en arbetsytans kontrollpanel](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
+[Paneler på arbetsytan - översikt](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Redigera rapportfilter på en arbetsytans kontrollpanel](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
 
 ## Rekommenderade självstudiekurser i detta ämne
 
