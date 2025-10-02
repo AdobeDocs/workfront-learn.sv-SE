@@ -27,7 +27,7 @@ I den här videon får du lära dig:
 * Hur man skapar en egen fråga i textläge
 * Några exempel som du kan använda i din rapportering
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470511/?quality=12&learn=on&captions=swe)
 
 ## Skapa anpassade uppmaningar
 

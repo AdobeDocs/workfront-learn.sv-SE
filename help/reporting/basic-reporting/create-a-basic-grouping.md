@@ -24,7 +24,7 @@ ht-degree: 0%
 I den här videon beskrivs hur du skapar och hanterar grupperingar i Workfront för att ordna projektlistor effektivt. &#x200B; Grupperingar är ett av de tre huvudelementen för rapportering, tillsammans med filter och vyer, och de hjälper dig att ordna resultaten baserat på delad information. &#x200B;
 I den här självstudiekursen beskrivs hur du organiserar projektlistor för att effektivisera det dagliga arbetet och samarbetet. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449819/?quality=12&learn=on&captions=swe)
 
 ## Viktiga uppgifter
 

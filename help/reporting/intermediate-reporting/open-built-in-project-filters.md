@@ -26,7 +26,7 @@ I den här videon får du lära dig att:
 * Granska de inbyggda projektfiltren och se hur de byggs
 * Skapa ett eget projektfilter med hjälp av det du lärt dig
 
->[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3469865/?quality=12&learn=on&captions=swe)
 
 ## Inbyggda projektfilter
 

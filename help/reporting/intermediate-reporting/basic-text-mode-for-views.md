@@ -41,7 +41,7 @@ I den här videon får du lära dig:
 * Vad kamelfodral är
 * Vissa _kodblock för textläge_ som du kan använda i dina rapportvyer
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432375/?quality=12&learn=on&captions=swe)
 
 ## Förstå grundläggande textläge för vyer
 

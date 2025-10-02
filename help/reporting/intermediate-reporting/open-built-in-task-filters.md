@@ -27,7 +27,7 @@ I den här videon kommer du att:
 * Läs mer om några användbara element för uppgiftsrapportering
 * Lär dig hur du skapar ett eget uppgiftsfilter
 
->[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3469593/?quality=12&learn=on&captions=swe)
 
 ## Inbyggda aktivitetsfilter
 

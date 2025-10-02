@@ -40,7 +40,7 @@ I den här videon får du lära dig:
 * Vad kamelfodral är
 * Vissa _textlägeskodblock_ som du kan använda i rapportgrupperingarna
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428983/?quality=12&learn=on&captions=swe)
 
 ## Förstå grundläggande textläge för grupperingar
 
