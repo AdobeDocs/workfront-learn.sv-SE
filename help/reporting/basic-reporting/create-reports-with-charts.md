@@ -12,7 +12,7 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '595'
 ht-degree: 0%
@@ -38,7 +38,7 @@ I videon förklaras hur du använder diagram för att visualisera data effektivt
 
 Videon visar hur diagram som cirkeldiagram och skiktade stapeldiagram kan ge insikter om uppgiftsdistribution och projektprestanda, vilket hjälper användarna att jämföra projekt och förstå uppgiftsförloppet visuellt. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3450018/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
 ## Viktiga uppgifter
 
@@ -73,7 +73,7 @@ Slutet av kvartalet närmar sig och du vill se hur nyligen slutförda projekt fa
 1. Lägg till två filterregler på fliken **[!UICONTROL Filter]**:
 
    * [!UICONTROL Projekt] > [!UICONTROL Status motsvarar med] > [!UICONTROL Fullständigt]
-   * [!UICONTROL Projekt] >[!UICONTROL &#x200B; Faktiskt slutförandedatum] > [!UICONTROL Sista kvartalet]
+   * [!UICONTROL Projekt] >[!UICONTROL  Faktiskt slutförandedatum] > [!UICONTROL Sista kvartalet]
 
    ![En bild av skärmen där filter ska läggas till i en rapport](assets/chart-report-filters.png)
 

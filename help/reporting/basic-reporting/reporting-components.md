@@ -12,7 +12,7 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: af53d11fcf3e81c8ea0176f4db9dcec77e9195ed
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 0%
@@ -29,7 +29,7 @@ I videon förklaras begreppet att rapportera komponenter i Workfront, vilket är
 * **Filterkvalificerare:** Definierar vilka värden som ska inkluderas eller exkluderas i en rapport, till exempel att aktiviteter med prioriteten &quot;high&quot; &#x200B; visas.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447025/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 
 ## Viktiga uppgifter
 
@@ -80,5 +80,5 @@ Exempel: Nytt, Aktuellt, $$TODAYbw, Beskrivning
 
 >[!TIP]
 >
->Mer information om fältnamn i Workfront finns i [ordlistan för Adobe Workfront-terminologi](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=sv-SE).
+>Mer information om fältnamn i Workfront finns i [ordlistan för Adobe Workfront-terminologi](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=en).
 

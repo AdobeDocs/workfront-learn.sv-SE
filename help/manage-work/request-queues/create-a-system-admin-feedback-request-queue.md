@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Skapa en begärandekö](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=sv-SE)
->* [Skapa ett begärandeflöde](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=sv-SE)
+>* [Skapa en begärandekö](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
+>* [Skapa ett begärandeflöde](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
 >* Du kan också redan skapa en begärandekö som använder en routningsregel och ett anpassat formulär.
 
 I videon finns en stegvis guide om hur du skapar en kö för feedback-begäranden för systemadministratörer.
@@ -34,7 +34,7 @@ I videon betonas vikten av användardeltagande och öppenhet i processuppgraderi
 &#x200B;Länkar till självstudiekurser för att skapa rapporter och anpassade formulär finns för ytterligare vägledning.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3450501/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 ## Viktiga uppgifter
 
@@ -45,9 +45,9 @@ I videon betonas vikten av användardeltagande och öppenhet i processuppgraderi
 * **Testning och tillgänglighet:** Kön testas med exempelbegäranden för att säkerställa funktionalitet. Det publiceras som en kö för hjälpbegäranden som är tillgänglig för alla användare, med en standardslutförandetid på 10 dagar.
 
 
-Mer information om hur du skapar den **feedback-rapport för administratörsteamet** som används i videon finns i **Skapa en feedback-rapport för administratörsteamet** i självstudiekursen [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) .
+Mer information om hur du skapar den **feedback-rapport för administratörsteamet** som används i videon finns i **Skapa en feedback-rapport för administratörsteamet** i självstudiekursen [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) .
 
-Om du vill lära dig hur du skapar ett anpassat formulär kan du läsa självstudiekursen [Skapa och dela ett anpassat formulär](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=sv-SE).
+Om du vill lära dig hur du skapar ett anpassat formulär kan du läsa självstudiekursen [Skapa och dela ett anpassat formulär](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html).
 
 ## Rekommenderade självstudiekurser i detta ämne
 

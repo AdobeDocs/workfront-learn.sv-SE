@@ -12,7 +12,7 @@ jira: KT-8863
 last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: f4cdb04795c8dc95339d2eb61594335759df6fbc
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -27,7 +27,7 @@ I den här videon får du lära dig:
 * Dela rapporter med vem som helst
 * Vad mottagarna kan se och göra med en Workfront-rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/3447816/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
 ## Viktiga uppgifter
 
@@ -55,7 +55,7 @@ Skicka en rapport till dig själv varje måndag kl. 5 som ett Excel-kalkylblad. 
 1. Ändra formatet till Excel.
 1. Ange **[!UICONTROL Upprepningar]** till [!UICONTROL Veckovis].
 1. Ange [!UICONTROL Time] till 5.
-1. Ange [!UICONTROL Upprepningar &#x200B;] till måndag.
+1. Ange [!UICONTROL Upprepningar ] till måndag.
 1. Klicka på **[!UICONTROL Spara]**.
 
 >[!NOTE]

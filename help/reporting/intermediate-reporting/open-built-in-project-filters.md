@@ -12,7 +12,7 @@ last-substantial-update: 2025-07-24T00:00:00Z
 jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: 56fb902f05d11c0fe4058f42f4f81ff50656dd28
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -26,7 +26,7 @@ I den här videon får du lära dig att:
 * Granska de inbyggda projektfiltren och se hur de byggs
 * Skapa ett eget projektfilter med hjälp av det du lärt dig
 
->[!VIDEO](https://video.tv.adobe.com/v/3469865/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
 ## Inbyggda projektfilter
 
