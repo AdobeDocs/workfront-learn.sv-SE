@@ -24,7 +24,7 @@ I videon förklaras hur du använder Workfront rapportelement - filter, vyer och
 
 I videon visas även hur du anpassar rapportelement och delar dem med andra. &#x200B; Med dessa verktyg kan användarna skräddarsy rapporter efter sina behov för bättre synlighet och hantering.
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447792/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Viktiga uppgifter
 

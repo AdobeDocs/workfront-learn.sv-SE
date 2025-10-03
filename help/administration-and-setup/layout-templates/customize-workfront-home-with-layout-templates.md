@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Lär dig att anpassa [!UICONTROL Hem]-området för dina användare så att du snabbt och enkelt kan komma åt, spåra, godkänna och uppdatera arbetet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432780/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 <br>
 </br>
@@ -37,4 +37,4 @@ I den här videon får du lära dig att:
 * Ta bort objekt från [!UICONTROL Hem]
 * Lägg till objekt i [!UICONTROL Hem]
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432316/?quality=12&learn=on&enablevpops=1&captions=swe)

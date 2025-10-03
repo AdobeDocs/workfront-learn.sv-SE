@@ -24,7 +24,7 @@ ht-degree: 0%
 
 I videon förklaras hur du skapar ett projekt från en mall. &#x200B; Om du har behörighet att öppna en mall kan du använda den som en genväg för att skapa ett projekt. &#x200B; Du gör detta genom att öppna mallen, öppna menyn med tre punkter och välja&quot;Skapa projekt&quot; &#x200B; Detta tar dig till en skärm där du kan redigera projektinformationen. &#x200B; Klicka på Skapa projekt när du är klar. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456017/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Viktiga uppgifter
 

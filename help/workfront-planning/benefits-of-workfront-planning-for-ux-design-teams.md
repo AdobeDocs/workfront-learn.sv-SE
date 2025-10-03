@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Läs om hur Workfront Planning effektiviserar UX-teamet genom att centralisera projektspårningen och anpassa designarbetet efter affärsmålen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452180/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452184/?learn=on&enablevpops=1&captions=swe)

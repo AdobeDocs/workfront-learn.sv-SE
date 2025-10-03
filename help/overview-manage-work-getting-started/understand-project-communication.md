@@ -30,7 +30,7 @@ I den här videon får du lära dig att kommunicera med alla projektintressenter
 * Problem
 * Rapporter
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428968/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 >[!TIP]
 >

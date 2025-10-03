@@ -30,7 +30,7 @@ I den här videon får du lära dig:
 * Så här beräknar du planerade timmar
 * Så här lägger du till planerade timmar till aktiviteter
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445337/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 
 ## Rekommenderade självstudiekurser och artiklar om detta ämne

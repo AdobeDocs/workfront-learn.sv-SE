@@ -28,7 +28,7 @@ I den här videon får du lära dig att:
 * Lägga till en milstolpe till en uppgift
 * Bästa tillvägagångssätt för att tillämpa milstolpar
 
->[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3430282/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 >[!TIP]
 >

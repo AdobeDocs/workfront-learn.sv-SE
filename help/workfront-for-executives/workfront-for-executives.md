@@ -79,7 +79,7 @@ I den här videon får du lära dig att:
 * Gör en förfrågan
 * Visa dina skickade begäranden
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3470907/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Objekt som väntar på ditt godkännande
 

@@ -27,7 +27,7 @@ I den här videon får du lära dig att:
 * Titta på och hantera ljusbord
 * Samarbeta i en ljuslåda
 
->[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454354/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Ljuslådor jämfört med mappar
 

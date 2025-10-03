@@ -24,7 +24,7 @@ ht-degree: 0%
 
 I videon får du en översikt över hur du hanterar ett projekt när dess status har ändrats till&quot;Aktuell&quot; &#x200B;.
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445171/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Viktiga uppgifter
 

@@ -23,4 +23,4 @@ I den här videon får du lära dig att:
 
 * Godkänn via [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335119/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436359/?quality=12&learn=on&enablevpops=1&captions=swe)

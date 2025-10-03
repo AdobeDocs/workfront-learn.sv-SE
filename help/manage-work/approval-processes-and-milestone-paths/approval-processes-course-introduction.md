@@ -20,4 +20,4 @@ ht-degree: 0%
 
 I den här videon får du lära dig hur godkännandeprocesser kan förenkla och automatisera granskningsprocessen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335224/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436404/?quality=12&learn=on&enablevpops=1&captions=swe)

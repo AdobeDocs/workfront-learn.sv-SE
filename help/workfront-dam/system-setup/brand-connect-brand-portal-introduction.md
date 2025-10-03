@@ -26,7 +26,7 @@ I den här videon får du lära dig att:
 * Ange förfallodatum för enskilda resurser
 * Redigera resursinställningar
 
->[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431627/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Resursmappar
 

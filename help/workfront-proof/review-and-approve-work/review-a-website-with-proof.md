@@ -26,7 +26,7 @@ I den här videon får du lära dig att:
 * Göra kommentarer på ett statiskt korrektur av en webbplats
 * Göra kommentarer på ett interaktivt korrektur av en webbplats
 
->[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445966/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 <!--
 ## Learn more

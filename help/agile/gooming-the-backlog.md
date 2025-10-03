@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Lär dig hur du delar upp artiklar i mindre delar, prioriterar om artiklar i eftersläpningen och märker att artiklarna är klara att läggas in i en upprepning.
 
->[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428936/?quality=12&learn=on&enablevpops=1&captions=swe)

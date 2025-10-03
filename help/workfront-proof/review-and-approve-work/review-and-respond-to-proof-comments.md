@@ -26,4 +26,4 @@ I den här videon får du lära dig att:
 * Visa korrekturkommentarer i avsnittet [!UICONTROL Uppdateringar]
 * Svara på en korrekturkommentar i avsnittet [!UICONTROL Uppdateringar]
 
->[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438657/?quality=12&learn=on&enablevpops=1&captions=swe)

@@ -26,7 +26,7 @@ I den här videon får du lära dig att:
 * Tagga användare på [!DNL Workfront] uppdateringar
 * Svara på befintliga uppdateringar
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445281/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Tips för att uppdatera arbetet i [!UICONTROL Hem]
 

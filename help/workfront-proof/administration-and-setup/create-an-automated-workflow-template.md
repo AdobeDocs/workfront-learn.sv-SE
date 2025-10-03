@@ -28,7 +28,7 @@ I den här videon får du lära dig att:
 * Ange en deadline för granskning och godkännandeprocess
 * Dela den automatiserade arbetsflödesmallen med andra
 
->[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454255/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Aktivera ytterligare steg
 

@@ -27,7 +27,7 @@ I den här videon får du lära dig att:
 * Samarbeta med en ljuslåda
 * Dela innehållet i en ljuslåda
 
->[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432179/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Mappar jämfört med ljusbord
 

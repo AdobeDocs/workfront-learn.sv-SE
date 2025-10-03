@@ -25,7 +25,7 @@ I den här videon får du lära dig att:
 * Godkänn eller avvisa arbete
 * Granska ett korrektur
 
->[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447911/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 <!--
 learn more URLs

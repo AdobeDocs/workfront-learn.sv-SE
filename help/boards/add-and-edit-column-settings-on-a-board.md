@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du lägger till och redigerar kolumninställningar på en rityta.
 
->[!VIDEO](https://video.tv.adobe.com/v/347332/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428955/?quality=12&learn=on&enablevpops=1&captions=swe)

@@ -25,7 +25,7 @@ I den här videon får du lära dig:
 
 * Så här jämför du projekt baserat på inloggade användare, ändringar av uppgiftsstatus och slutförda uppgifter
 
->[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437440/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Jämför projektarbete
 

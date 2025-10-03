@@ -23,7 +23,7 @@ ht-degree: 0%
 
 I videon förklaras funktionen Styrelsevisning i Workfront, som är ett annat sätt att visa och hantera projektuppgifter. &#x200B; I vyn Styrelse visas uppgifter som kort på en panel i Kanban-stil, vilket gör att användare kan sortera, gruppera och flytta uppgifter inom eller mellan kolumner. &#x200B; När du flyttar en uppgift uppdateras dess status automatiskt, vilket återspeglas i uppgiftslistevyn. &#x200B; Användarna kan skapa nya kort som genererar nya uppgifter i projektet och redigera eller tilldela dem direkt i vyn Styrelse. &#x200B; Kolumner och kort kan konfigureras och uppgifter kan sekventieras med föregående aktiviteter i uppgiftslistvyn.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432419/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Viktiga uppgifter
 

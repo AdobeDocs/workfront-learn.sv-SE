@@ -26,4 +26,4 @@ I den här videon får du lära dig att:
 * Tilldela layoutmallar till användare, grupper och team
 * Styr vilka som får hantera åtkomsten till layoutmallar
 
->[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432334/?quality=12&learn=on&enablevpops=1&captions=swe)

@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 * Hur korrekturläsare kan dra nytta av arbetsflödesmallar
 * Hur man börjar planera vilka mallar man ska skapa
 
->[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441301/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 <!--
 Learn More Icon

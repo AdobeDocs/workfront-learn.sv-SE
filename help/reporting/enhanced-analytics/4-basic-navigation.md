@@ -29,4 +29,4 @@ I den här videon ser du:
 * En översikt över arbetsscheman
 * En översikt över persondiagram
 
->[!VIDEO](https://video.tv.adobe.com/v/335057/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436392/?quality=12&learn=on&enablevpops=1&captions=swe)

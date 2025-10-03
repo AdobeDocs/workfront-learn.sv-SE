@@ -22,7 +22,7 @@ I den här videon kommer du att:
 
 * Få en introduktion till kursen [!UICONTROL Workfront DAM]
 
->[!VIDEO](https://video.tv.adobe.com/v/335227/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436905/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 <!-- Learn more graphic & links to documentation articles
 * Accessing help for Workfront DAM

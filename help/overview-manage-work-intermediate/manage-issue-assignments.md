@@ -31,7 +31,7 @@ I den här videon får du lära dig att:
 * Uppdatera förloppet för problem
 * Uppdatera utgivningsstatus
 
->[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446959/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

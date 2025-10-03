@@ -24,7 +24,7 @@ I den här videon får du lära dig mer om:
 * Grupper
 * Team
 
->[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444278/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 Innan du börjar finns det några nyckeltermer att känna till när du utforskar användarorganisationer i [!DNL Workfront].
 

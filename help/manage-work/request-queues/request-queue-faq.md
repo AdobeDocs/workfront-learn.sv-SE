@@ -24,7 +24,7 @@ På fliken [!UICONTROL Köinformation] i kön/projektet för din begäran kontro
 
 I den här videon finns mer information:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434160/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 **Jag gav användarna åtkomst till kön, men nu kan de även se begärandeköprojektet. Varför?**
 
@@ -62,7 +62,7 @@ Du kan komma åt fält i fälten **[!UICONTROL Konverterat problem]** och **[!UI
 
 I den här videon finns mer information:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434180/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 
 **Vilket är det bästa sättet att filtrera efter begärandeköer i en rapport?**
@@ -73,7 +73,7 @@ Om ditt projektfilter innehåller **Kö>>Är offentlig>>Inte lika med>>Ingen** v
 
 I den här videon finns mer information:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434334/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 **Är det en bra idé att skapa en anpassad status för begärandekön?**
 

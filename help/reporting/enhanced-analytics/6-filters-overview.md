@@ -27,7 +27,7 @@ I den här videon får du lära dig:
 * Lägga till ett filter med ett anpassat formulär
 * Filtreringstips
 
->[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439641/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 >[!NOTE]
 >

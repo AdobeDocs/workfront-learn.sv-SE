@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Ett bibliotek med utbildningsvideor och artiklar som hjälper dig att förstå Workfront funktioner och inställningar bättre.  Här finns en samling bästa praxis, kurser och andra resurser som hjälper både dig och din organisation att lyckas med Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428921/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 <!-- 
 

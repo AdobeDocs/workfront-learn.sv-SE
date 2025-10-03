@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig koppla ihop posttyper i Workfront Planning för att effektivisera arbetsflöden, öka klarheten och förbättra teamets ansvar och effektivitet. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3463802/?learn=on&enablevpops=1&captions=swe)

@@ -25,7 +25,7 @@ ht-degree: 0%
 I videon förklaras hur du spårar projektförloppet med hjälp av Project Metrics. &#x200B; Den visar hur du kommer åt fliken Metrisk i den vänstra panelen i ett projekt, som kan behöva rullas och klicka på Visa fler. I KPI-området högst upp visas viktiga resultatindikatorer, t.ex. slutförda, ofullständiga och försenade uppgifter. &#x200B; Användarna kan klicka på indikatorer för att visa specifika uppgifter och använda diagram för att gruppera uppgifter eller ärenden efter status eller prioritet. &#x200B; När du hovrar över spalter visas antal, och diagrammet visar förhållandet mellan fullständiga och ofullständiga uppgifter eller utgåvor. &#x200B; Mätvärden kan också visa uppgifter per tilldelad baserat på deras status (fullständig, ofullständig, kommande eller försenad). &#x200B; Inställningar för visning av mätvärden sparas för framtida besök. &#x200B; Slutligen visar videon hur du exporterar måttsidan som en PNG-fil med knappen Exportera. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439174/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Viktiga uppgifter
 

@@ -28,7 +28,7 @@ I den här videon får du lära dig:
 * Så här loggar du ett problem
 * Bästa tillvägagångssätt för problemhantering
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446570/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

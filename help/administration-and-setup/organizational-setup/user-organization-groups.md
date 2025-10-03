@@ -27,7 +27,7 @@ I den här videon får du lära dig att:
 * Associera en grupp
 * Skapa och associera undergrupper
 
->[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432871/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Gruppadministratörer
 

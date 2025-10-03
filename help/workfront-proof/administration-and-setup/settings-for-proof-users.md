@@ -29,7 +29,7 @@ I den här videon får du lära dig att:
 * Justera korrekturinställningar för användare i [!DNL &#x200B; Workfront]
 * Justera korrekturinställningar för användare i korrekturinställningar
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432926/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 <!--
 Lean More URLs

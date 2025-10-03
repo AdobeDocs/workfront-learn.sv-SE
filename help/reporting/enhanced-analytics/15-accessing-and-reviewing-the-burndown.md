@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 * Åtkomst till nedladdningsschemat
 * Hur du förstår förhållandet mellan återstående timmar, projektvillkor och hastighet för ett projekt
 
->[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438888/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Spåra projektets hastighet
 

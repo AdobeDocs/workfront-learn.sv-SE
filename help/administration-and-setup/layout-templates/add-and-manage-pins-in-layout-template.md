@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig vad ett stift är och hur du fäster viktiga eller relevanta sidor för en uppsättning användare med hjälp av layoutmallar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428943/?quality=12&learn=on&enablevpops=1&captions=swe)

@@ -25,7 +25,7 @@ I videon får du vägledning om hur du effektivt planerar ett projekt i Workfron
 
 I videon betonas vikten av realistiska tidslinjer, teamtillgänglighet och korrekt planering för att skapa en stark grund för projektframgångar. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448571/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Viktiga uppgifter
 

@@ -25,7 +25,7 @@ I den här videon får du lära dig:
 * Värdet för loggningstid
 * Så här loggar du tid för arbetstilldelningar
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438602/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Tips för att logga arbetstider på arbetet i [!DNL Home]
 

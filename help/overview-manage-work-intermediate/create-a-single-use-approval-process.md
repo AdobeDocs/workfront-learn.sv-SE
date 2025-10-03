@@ -27,7 +27,7 @@ I båda fallen, när objektets status ändras till en som anges i godkännandepr
 
 I den här videon får du lära dig hur du skapar en global godkännandeprocess och en godkännandeprocess för ett projekt, en uppgift eller ett problem med en enstaka användning.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434691/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 >[!TIP]
 >

@@ -26,4 +26,4 @@ I den här videon får du lära dig:
 * Så här skapar du jobbroller.
 * Så här använder du jobbroller för användare så att de kan tilldelas till rätt arbete.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452430/?quality=12&learn=on&enablevpops=1&captions=swe)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig vad en tagg är och varför den är användbar samt hur du skapar, tar bort, lägger till och tar bort taggar.
 
->[!VIDEO](https://video.tv.adobe.com/v/346807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428961/?quality=12&learn=on&enablevpops=1&captions=swe)

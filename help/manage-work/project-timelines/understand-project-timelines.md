@@ -28,7 +28,7 @@ Det här lär du dig:
 * Olika vyer i Workfront, t.ex. standardvyn för planering och statusvyn för övervakning av förloppet, som innehåller flaggor för förlopp, kommentarer, dokument, ärenden, godkännanden, kritisk sökväg och milstolpar. Senaste aktivitet kan spåras för att visa uppdateringar och anteckningar.
 * Schemaläggningen kan göras från ett startdatum eller ett avslutsdatum, där Workfront beräknar motsvarande datum baserat på aktivitetens varaktighet och föregående aktiviteter. I videon rekommenderas schemaläggning från ett startdatum för viktiga slutförandedatum för att tillåta en viss frånkoppling. Uppgiftsbegränsningar som&quot;så snart som möjligt&quot; och&quot;så sent som möjligt&quot; omfattas också, vilket visar hur de påverkar schemaläggningen av uppgifter. Anpassade vyer kan skapas för att visa begränsningar för aktiviteter.
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435839/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 >[!IMPORTANT]
 >

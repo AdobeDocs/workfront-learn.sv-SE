@@ -17,4 +17,4 @@ ht-degree: 0%
 
 I den här videon får du lära dig hur du kan använda [!DNL &#x200B; Workfront] med en granskningslicens.
 
->[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438690/?quality=12&learn=on&enablevpops=1&captions=swe)

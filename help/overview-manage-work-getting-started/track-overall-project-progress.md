@@ -30,7 +30,7 @@ I den här videon får du lära dig att följa upp projektförloppet med:
 * Öppna problem
 * Kolumnen Villkorsuppdatering
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447414/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

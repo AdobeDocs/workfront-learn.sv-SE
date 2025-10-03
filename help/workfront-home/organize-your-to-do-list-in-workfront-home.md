@@ -31,7 +31,7 @@ I den här videon får du lära dig att:
 * Identifiera arbeten som är klara att starta
 * Acceptera arbetstilldelningar
 
->[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445082/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 >[!NOTE]
 >

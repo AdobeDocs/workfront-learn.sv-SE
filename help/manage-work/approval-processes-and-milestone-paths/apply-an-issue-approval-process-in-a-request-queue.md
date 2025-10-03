@@ -31,7 +31,7 @@ ht-degree: 0%
 I videon förklaras hur du tillämpar en standardprocess för godkännande när du skapar en begärandekö. &#x200B; När en begäran skapas börjar den med statusen&quot;Nytt - Väntar på godkännande&quot; och ett meddelande om godkännande skickas till den utsedda godkännaren. &#x200B; Om det godkänns ändras statusen till&quot;Nytt&quot;, vilket innebär att tilldelade personer kan börja arbeta. &#x200B; Om statusen avvisas kan den felaktigt återställas till&quot;Nytt&quot; på grund av ett vanligt fel i konfigurationen av godkännandeprocessen. &#x200B;
 I videon visas att godkännandeprocessen aktiveras när statusen är&quot;Nytt&quot;, som är standard för nya begäranden. &#x200B; Om det avvisas ändras statusen till den tidigare statusen som standard, vilket inte är idealiskt för nya begäranden. &#x200B; Du bör istället välja en annan status, till exempel &quot;Won&#39;t Resolve&quot;. &#x200B; I videon visas även att det inte finns någon&quot;Avvisad&quot;-status som standard, men en systemadministratör kan skapa en om det behövs. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3455028/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Viktiga uppgifter
 

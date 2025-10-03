@@ -34,7 +34,7 @@ I den här videon får du lära dig att:
 * Hitta ett utkast till en begäran
 * Se de tre senaste begärandesökvägarna
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3470907/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

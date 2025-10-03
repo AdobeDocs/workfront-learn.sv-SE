@@ -27,7 +27,7 @@ För godkännanden kan användare delegera dem via widgeten Väntar på mitt god
 Delegerade godkännanden är markerade i systemet och visar vem som har delegerat dem och till vem. &#x200B; Uppdateringar som rör godkännanden visas på fliken Uppdatera och systemaktiviteten kan visas på fliken Systemaktivitet. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446380/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Viktiga uppgifter
 

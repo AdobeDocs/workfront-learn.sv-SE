@@ -28,7 +28,7 @@ I den här videon får du lära dig mer om:
 * Procent färdigt
 * Status för förlopp
 
->[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438212/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 
 ## Rekommenderade självstudiekurser i detta ämne

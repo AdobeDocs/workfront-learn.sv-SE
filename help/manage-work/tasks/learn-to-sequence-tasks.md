@@ -27,7 +27,7 @@ I videon visas hur du ställer in föregångare för nya uppgifter, vilket säke
 &#x200B;I rapporten betonas vikten av att ha praktiska kontakter med föregångare för att förstå hur de påverkar projekttidslinjerna och man rekommenderar att man använder varaktighet och föregångare för effektiv projektplanering.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447324/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Viktiga uppgifter
 

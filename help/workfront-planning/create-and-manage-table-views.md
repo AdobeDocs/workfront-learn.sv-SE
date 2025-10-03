@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig att skapa, hantera och anpassa registervyer för posttyper i Adobe Workfront Planning för att förbättra projektorganisationen och samarbetet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448000/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448139/?learn=on&enablevpops=1&captions=swe)

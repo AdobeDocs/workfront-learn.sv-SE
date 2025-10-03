@@ -30,7 +30,7 @@ I den här videon förklaras hur du söker efter och hanterar begäranden i Work
 * Anpassade rapporter och kontrollpaneler
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441658/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Viktiga uppgifter
 

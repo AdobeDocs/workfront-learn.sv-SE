@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 * Varför status är viktig i [!DNL &#x200B; Workfront]
 * Så här filtrerar du [!UICONTROL arbetslistan] för att se det färdiga arbetet
 
->[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444289/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 
 ## Två andra sätt att ange att arbetet är klart

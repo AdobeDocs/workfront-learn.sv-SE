@@ -28,7 +28,7 @@ I den här videon får du lära dig:
 * Hitta olösta godkännanden av uppgifter och hantera dem
 * Så här hittar du olösta godkännanden och hanterar dem
 
->[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439428/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

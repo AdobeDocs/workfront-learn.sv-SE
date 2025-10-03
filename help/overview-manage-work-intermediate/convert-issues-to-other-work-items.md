@@ -23,7 +23,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig hur du konverterar ett problem eller en förfrågan till en uppgift.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445434/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 >[!NOTE]
 >

@@ -31,7 +31,7 @@ I videon förklaras hur du granskar och godkänner digitalt arbete med widgeten&
 
 I videon betonas flexibiliteten i granskning och godkännande av arbete, med möjlighet att lägga till kommentarer och ange ändringar efter behov. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444950/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Viktiga uppgifter
 

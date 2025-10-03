@@ -27,4 +27,4 @@ I den här videon får du lära dig:
 * Ändra datumintervall
 * Hur man jämför KPI:er med två olika filter sida vid sida
 
->[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440251/?quality=12&learn=on&enablevpops=1&captions=swe)

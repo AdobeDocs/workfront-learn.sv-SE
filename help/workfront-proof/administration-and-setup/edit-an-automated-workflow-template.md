@@ -44,7 +44,7 @@ Varje steg i ett automatiserat arbetsflöde har ett eget avsnitt där du kan än
 
 I den här videon visas några av de ändringar du kan göra i [!UICONTROL arbetsflödet] . Se punktlistan under den här videon som visar dessa inställningar.
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432617/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 Här är korrekturmallsändringarna som du kan göra i avsnittet [!UICONTROL Arbetsflöde]:
 

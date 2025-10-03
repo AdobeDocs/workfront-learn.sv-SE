@@ -28,7 +28,7 @@ I den här videon får du lära dig:
 * Så här undviker du oavsiktligt att ta med **icke** projektgruppsmedlemmar i ett mallprojektteam.
 * Redigera mallprojektteamet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441554/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

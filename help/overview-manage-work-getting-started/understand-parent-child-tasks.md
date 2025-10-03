@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 
 * Så här struktureras uppgifter i ett [!DNL Workfront]-projekt
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445600/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

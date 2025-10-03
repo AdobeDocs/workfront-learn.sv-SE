@@ -30,7 +30,7 @@ I den här videon får du lära dig att:
 * Kopiera ett befintligt projekt
 * Importera en [!DNL Microsoft Project]-fil
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432176/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

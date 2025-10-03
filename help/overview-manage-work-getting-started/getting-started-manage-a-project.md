@@ -29,7 +29,7 @@ I den här videon får du lära dig:
 * Detaljgranska aktivitetsinformationen
 * Kommunicera med intressenter
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445171/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

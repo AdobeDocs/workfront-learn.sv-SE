@@ -32,7 +32,7 @@ I videon betonas vikten av effektiv kommunikation för att projektet ska lyckas 
 
 Videon visar hur Workfront förenklar kommunikation, uppgiftshantering och rapportering och ser till att all projektrelaterad information är tillgänglig och ordnad. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428968/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 >[!TIP]
 >

@@ -26,7 +26,7 @@ I den här videon får du lära dig att:
 * Ta bort filter, vyer och grupperingar
 * Lägga till filter, vyer och grupperingar
 
->[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432913/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Ange standardinställningar för listan
 

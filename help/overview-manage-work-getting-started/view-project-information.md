@@ -28,7 +28,7 @@ I den här videon får du lära dig hur du använder filter, vyer och gruppering
 * Information om aktivitetsnivå
 * Information om ärendenivå
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453070/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

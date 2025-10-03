@@ -26,7 +26,7 @@ I den här videon får du lära dig att:
 * Gör egna uppdateringar på godkännandebegäranden
 * Hitta Workfront-meddelanden
 
->[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440145/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 <!--
 learn more URLS

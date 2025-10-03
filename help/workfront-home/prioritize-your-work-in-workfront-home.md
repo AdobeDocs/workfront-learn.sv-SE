@@ -25,4 +25,4 @@ I den här videon får du lära dig att:
 * Markera arbete som prioriteringstilldelningar
 * Filtrera [!UICONTROL arbetslistan] så att endast prioritetsarbete visas
 
->[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438536/?quality=12&learn=on&enablevpops=1&captions=swe)

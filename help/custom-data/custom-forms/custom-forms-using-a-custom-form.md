@@ -23,4 +23,4 @@ ht-degree: 0%
 
 I den här videon får du lära dig att bifoga en anpassad från till objekt i Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431644/?quality=12&learn=on&enablevpops=1&captions=swe)

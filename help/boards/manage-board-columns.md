@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Ta reda på hur du redigerar, lägger till, ordnar om och tar bort kolumner på en rityta.
 
->[!VIDEO](https://video.tv.adobe.com/v/346570/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428959/?quality=12&learn=on&enablevpops=1&captions=swe)

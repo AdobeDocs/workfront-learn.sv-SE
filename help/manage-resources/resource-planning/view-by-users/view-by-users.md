@@ -26,4 +26,4 @@ I den här videon kommer du att:
 * Lär dig hur resursinformation visas i den här vyn
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443810/?quality=12&learn=on&enablevpops=1&captions=swe)

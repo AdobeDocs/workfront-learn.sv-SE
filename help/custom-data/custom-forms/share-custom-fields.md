@@ -23,5 +23,5 @@ ht-degree: 0%
 
 I den här videon får du lära dig hur du avgör vilka som kan visa och/eller redigera ett anpassat fält.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432949/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446546/?quality=12&learn=on&enablevpops=1&captions=swe)
 

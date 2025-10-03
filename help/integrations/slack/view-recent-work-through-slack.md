@@ -23,4 +23,4 @@ I den här videon får du lära dig att:
 
 * Visa senaste arbete via [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435930/?quality=12&learn=on&enablevpops=1&captions=swe)

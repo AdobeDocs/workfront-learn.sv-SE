@@ -22,7 +22,7 @@ ht-degree: 0%
 I videon finns en självstudiekurs om hur du skapar uppgifter i ett Workfront-projekt. Självstudiekursen innehåller både långa metoder och praktiska kortkommandon. Det är flexibelt att skapa uppgifter och ger tips för effektiv uppgiftshantering.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428973/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Viktiga uppgifter
 

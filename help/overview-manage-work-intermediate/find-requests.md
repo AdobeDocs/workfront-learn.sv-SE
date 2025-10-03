@@ -33,7 +33,7 @@ Du får lära dig att hitta dessa förfrågningar på följande platser:
 * I en anpassad kontrollpanel
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441658/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 
 ## Rekommenderade självstudiekurser i detta ämne

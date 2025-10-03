@@ -27,7 +27,7 @@ I den här videon får du lära dig att:
 * Göra kommentarer och markeringar i en version
 * Jämför den aktuella versionen med en tidigare version av filen
 
->[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446900/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 <!--
 ## Learn more

@@ -25,7 +25,7 @@ I den här videon får du lära dig:
 * Syftet med status i [!DNL &#x200B; Workfront]
 * Så här ändrar du status för arbetstilldelningar
 
->[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443434/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Börja jämfört med att jobba på det
 

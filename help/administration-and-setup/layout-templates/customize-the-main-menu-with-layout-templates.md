@@ -27,4 +27,4 @@ I den här videon får du lära dig att:
 * Lägg till objekt på [!UICONTROL huvudmenyn]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432306/?quality=12&learn=on&enablevpops=1&captions=swe)

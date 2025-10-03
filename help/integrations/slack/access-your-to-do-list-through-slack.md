@@ -23,4 +23,4 @@ I den här videon får du lära dig att:
 
 * Åtkomst till din att göra-lista i [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335118/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437924/?quality=12&learn=on&enablevpops=1&captions=swe)

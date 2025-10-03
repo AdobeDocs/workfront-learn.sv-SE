@@ -27,7 +27,7 @@ Workfront rekommenderar att du använder varaktigheter och föregångare för at
 &#x200B;Korrekta varaktigheter är avgörande för effektiv projektplanering och resurshantering.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449347/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Viktiga uppgifter
 

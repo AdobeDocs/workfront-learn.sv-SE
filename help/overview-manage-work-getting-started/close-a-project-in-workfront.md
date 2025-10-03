@@ -26,7 +26,7 @@ I den här videon får du lära dig mer om:
 * Varför det är viktigt att ha uppdaterade data
 * Frågor du kan ställa som hjälp att förbättra framtida projekt
 
->[!VIDEO](https://video.tv.adobe.com/v/335096/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445467/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 <!--
 This video is confusing. We have heard multiple complaints that it doesn't show how to actually change the project to Complete. "Change the project status to complete" covers the same material in more depth and clarity, so we've removed this tutorial from the TOC and redirected it's URL to point to "Change the project status to complete".

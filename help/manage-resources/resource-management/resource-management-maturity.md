@@ -32,7 +32,7 @@ Vissa av er kanske är längre på vägen till behärskning av resurshantering �
 
 ## Fyra faser av mognad för resurshantering
 
->[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431658/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 
 ## Vart ska du gå härifrån?

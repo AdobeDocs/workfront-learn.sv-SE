@@ -30,7 +30,7 @@ I den här videon får du lära dig:
 * Lite om uppgifter och problem
 * Bästa tillvägagångssätt för att börja med att skapa projekt
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432338/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

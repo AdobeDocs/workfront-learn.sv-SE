@@ -25,4 +25,4 @@ I den här videon får du lära dig:
 
 * Hur ni kan ge rekommendationer som hjälper er att arbeta effektivare
 
->[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438833/?quality=12&learn=on&enablevpops=1&captions=swe)

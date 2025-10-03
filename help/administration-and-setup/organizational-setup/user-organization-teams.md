@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 * Så här använder du funktionsövergripande team
 * Skapa och associera team
 
->[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432881/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Skapa team
 

@@ -35,4 +35,4 @@ I den här videon kommer du att:
 * Söka efter och visa resurser
 * Upptäck hur mappstrukturen påverkar resursorganisation och åtkomst
 
->[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431629/?quality=12&learn=on&enablevpops=1&captions=swe)

@@ -35,6 +35,6 @@ I den här videon får du lära dig:
 * Skapa en föregångare för flera projekt
 * Spåra föregående projekt i rapporter
 
->[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428950/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 Om du vill veta mer om hur du skapar vyn **Föregångare och efterföljare** för flera projekt och rapporten **Föregångare och efterföljare** för flera projekt som används i videon kan du titta i självstudiekursen [Förstå grundläggande textläge för vyer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=sv-SE) och vara säker på att du använder de nödvändiga självstudiekurserna som finns där, om du behöver det.

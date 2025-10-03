@@ -25,7 +25,7 @@ I den här videon får du lära dig att:
 * Överför en ny version av ett korrektur
 * Använda ett korrekturarbetsflöde på versionen
 
->[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441855/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Överför en version från korrekturläsaren
 

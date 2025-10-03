@@ -55,7 +55,7 @@ Videon innehåller en omfattande guide om hur du skapar projekt i Workfront på 
 
 I videon betonas Workfront flexibilitet när det gäller att skapa projekt med hjälp av mallar, skrapor, kopiering eller import som passar olika användarbehov. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432176/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Viktiga uppgifter
 

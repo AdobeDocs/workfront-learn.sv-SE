@@ -29,7 +29,7 @@ I den här videon ser du fördelarna med:
 * Skapa anpassade&quot;lektionsrapporter&quot;
 * Skapa ett&quot;lektionsprojekt&quot;
 
->[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441016/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

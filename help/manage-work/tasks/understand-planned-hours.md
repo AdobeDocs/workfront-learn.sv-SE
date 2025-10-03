@@ -27,7 +27,7 @@ Planerade arbetstider är avgörande för resurshantering i Workfront, vilket g�
 De hjälper också till att spåra arbetstid, förbättra framtida uppskattningar och förtydliga förväntningarna med medarbetarna.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445337/?quality=12&learn=on&enablevpops=1&captions=swe)
 
 
 ## Viktiga uppgifter
