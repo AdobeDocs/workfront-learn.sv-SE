@@ -1,6 +1,6 @@
 ---
 title: Anpassa objektområden med en layoutmall
-description: Lär dig hur du använder en layoutmall för att lägga till, ta bort och ordna om objekt på den vänstra panelmenyn i  [!DNL  Workfront].
+description: Lär dig hur du använder en layoutmall för att lägga till, ta bort och ordna om objekt på den vänstra panelmenyn i  [!DNL &#x200B; Workfront].
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing

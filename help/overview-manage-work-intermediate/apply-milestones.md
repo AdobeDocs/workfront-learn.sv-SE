@@ -1,6 +1,6 @@
 ---
 title: Använd milstolpar
-description: Lär dig hur du använder milstolpesökvägar i ett [!DNL  Workfront] projekt och associerar nyckelaktiviteter som milstolpesteg i projektet.
+description: Lär dig hur du använder milstolpesökvägar i ett [!DNL &#x200B; Workfront] projekt och associerar nyckelaktiviteter som milstolpesteg i projektet.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial

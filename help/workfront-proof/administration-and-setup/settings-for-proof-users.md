@@ -1,6 +1,6 @@
 ---
 title: Inställningar för korrekturläsare
-description: Lär dig hur du avgör vilka  [!DNL  Workfront] användare som får en språklicens och sedan justerar användarinställningarna i både [!DNL Workfront]  och i bakomliggande inställningar.
+description: Lär dig hur du avgör vilka  [!DNL &#x200B; Workfront] användare som får en språklicens och sedan justerar användarinställningarna i både [!DNL Workfront]  och i bakomliggande inställningar.
 activity: use
 type: Tutorial
 feature: Workfront Proof
@@ -20,13 +20,13 @@ ht-degree: 0%
 
 # Inställningar för korrekturläsare
 
-Innan du börjar skapa användare i [!DNL  Workfront] är det bäst att låta de globala [!DNL Workfront]- och korrektursysteminställningarna vara slutförda. Vissa av dessa inställningar gäller för användarprofilerna när de skapas. Men oroa dig inte om du inte har fått dessa uppsättningar innan vissa användare skapades ... du kan redigera inställningarna för varje enskild användarprofil.
+Innan du börjar skapa användare i [!DNL &#x200B; Workfront] är det bäst att låta de globala [!DNL Workfront]- och korrektursysteminställningarna vara slutförda. Vissa av dessa inställningar gäller för användarprofilerna när de skapas. Men oroa dig inte om du inte har fått dessa uppsättningar innan vissa användare skapades ... du kan redigera inställningarna för varje enskild användarprofil.
 
 
 I den här videon får du lära dig att:
 
 * Bestäm vilka användare som får en korrekturlicens
-* Justera korrekturinställningar för användare i [!DNL  Workfront]
+* Justera korrekturinställningar för användare i [!DNL &#x200B; Workfront]
 * Justera korrekturinställningar för användare i korrekturinställningar
 
 >[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)

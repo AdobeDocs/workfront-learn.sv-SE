@@ -1,6 +1,6 @@
 ---
 title: Justera dina mål
-description: Lär dig navigera på sidan [!UICONTROL Måljustering] i [!DNL}   Mål].
+description: Lär dig navigera på sidan [!UICONTROL Måljustering] i [!DNL &rbrace;   Mål].
 activity: use
 feature: Workfront Goals
 type: Tutorial

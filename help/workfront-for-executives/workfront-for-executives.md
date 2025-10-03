@@ -58,7 +58,7 @@ Med en kontrollpanel kan chefer granska saker som&quot;Kostnader, intäkter och 
 
 Rapporterna i Workfront kan bidra till att öka personalens ansvar. Nyckeln till att utnyttja rapporter är att skapa ett tydligt arbetsflöde för hur organisationen använder dem. Se till att alla har en tydlig förståelse för vilka rapporter som används för att mäta framgång.
 
-![Exempel på rapporter i en instrumentpanel i Workfront ](assets/workfront-4-executives-3.png)
+![Exempel på rapporter i en instrumentpanel i Workfront &#x200B;](assets/workfront-4-executives-3.png)
 
 Exempel på rapporter på en Dashboard i Workfront
 

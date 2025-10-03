@@ -1,6 +1,6 @@
 ---
 title: Logga och granska timmar
-description: Registrera utestående timmar och granska loggade timmar innan du stänger ett projekt i  [!DNL  Workfront].
+description: Registrera utestående timmar och granska loggade timmar innan du stänger ett projekt i  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management

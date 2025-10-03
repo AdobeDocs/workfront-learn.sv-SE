@@ -1,6 +1,6 @@
 ---
 title: Överföra ett bevis för en webbplats
-description: Lär dig hur du överför en webbplats som ett statiskt och interaktivt korrektur i  [!DNL  Workfront].
+description: Lär dig hur du överför en webbplats som ett statiskt och interaktivt korrektur i  [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

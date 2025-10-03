@@ -1,6 +1,6 @@
 ---
 title: Överför en korrekturversion
-description: Lär dig hur du överför en ny version av ett korrektur och använder ett korrekturarbetsflöde för versionen i  [!DNL  Workfront].
+description: Lär dig hur du överför en ny version av ett korrektur och använder ett korrekturarbetsflöde för versionen i  [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

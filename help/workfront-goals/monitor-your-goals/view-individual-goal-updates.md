@@ -1,6 +1,6 @@
 ---
 title: Visa individuella måluppdateringar i  [!DNL Workfront Goals]
-description: Lär dig hur du visar dina individuella mål i uppdateringsströmmen [!UICONTROL Pulse] i [!DNL]   Mål].
+description: Lär dig hur du visar dina individuella mål i uppdateringsströmmen [!UICONTROL Pulse] i    Mål&rbrack;.
 activity: use
 feature: Workfront Goals
 type: Tutorial

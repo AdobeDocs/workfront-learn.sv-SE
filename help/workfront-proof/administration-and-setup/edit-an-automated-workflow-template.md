@@ -1,6 +1,6 @@
 ---
 title: Redigera en automatiserad arbetsflödesmall
-description: Lär dig hur du ändrar en befintlig arbetsflödesmall för automatisk korrektur i  [!DNL  Workfront].
+description: Lär dig hur du ändrar en befintlig arbetsflödesmall för automatisk korrektur i  [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -60,7 +60,7 @@ Här är korrekturmallsändringarna som du kan göra i avsnittet [!UICONTROL Arb
 
 Under [!UICONTROL Delad med] visas korrekturanvändare som kan använda mallen. Ta bort personer som inte längre behöver använda mallen genom att klicka på menyn med tre punkter längst till höger om namnet och välja [!UICONTROL Ta bort].
 
-![[!UICONTROL Delad med ]-lista](assets/proof-system-setups-edit-template-shared-with.png)
+![[!UICONTROL Delad med &#x200B;]-lista](assets/proof-system-setups-edit-template-shared-with.png)
 
 Du kan dock inte lägga till personer i delningslistan från det här avsnittet. Det gör du genom att gå tillbaka till det övre delen av mallinformationsfönstret och klicka på knappen [!UICONTROL Dela mall] .
 

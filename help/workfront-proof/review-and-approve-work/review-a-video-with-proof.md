@@ -1,6 +1,6 @@
 ---
 title: Granska en video med korrektur
-description: Lär dig hur du justerar visningsinställningar och lägger till tidsstämplade kommentarer i en video med språkkontroll i  [!DNL  Workfront].
+description: Lär dig hur du justerar visningsinställningar och lägger till tidsstämplade kommentarer i en video med språkkontroll i  [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

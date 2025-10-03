@@ -1,6 +1,6 @@
 ---
 title: Logga arbetstider på arbetet i [!UICONTROL Hem]
-description: Lär dig hur du loggar tid för arbetstilldelningar i  [!DNL  Workfront]. Förstå varför loggningstid kan behövas i din organisation.
+description: Lär dig hur du loggar tid för arbetstilldelningar i  [!DNL &#x200B; Workfront]. Förstå varför loggningstid kan behövas i din organisation.
 feature: Work Management
 type: Tutorial
 role: User

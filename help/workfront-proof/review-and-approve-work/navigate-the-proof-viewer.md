@@ -1,6 +1,6 @@
 ---
 title: Navigera i korrekturläsaren
-description: Lär dig hur du flyttar runt ett korrektur, zoomar in/ut i innehållet, använder miniatyrbildskolumnen, filtrerar korrekturkommentarer och mycket mer i  [!DNL  Workfront] korrekturläsaren.
+description: Lär dig hur du flyttar runt ett korrektur, zoomar in/ut i innehållet, använder miniatyrbildskolumnen, filtrerar korrekturkommentarer och mycket mer i  [!DNL &#x200B; Workfront] korrekturläsaren.
 activity: use
 feature: Workfront Proof
 type: Tutorial

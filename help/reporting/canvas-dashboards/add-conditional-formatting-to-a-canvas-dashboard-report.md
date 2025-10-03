@@ -36,7 +36,7 @@ Det första du behöver göra innan du kan skapa en **rapport** på arbetsytan �
 
 **Mer information finns i följande hjälpartiklar:**
 [Paneler på arbetsytan - översikt](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Skapa en tabellrapport på en arbetsytans kontrollpanel ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[Skapa en tabellrapport på en arbetsytans kontrollpanel &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

@@ -1,6 +1,6 @@
 ---
 title: Dela ett projekt
-description: Lär dig hur du delar ett projekt så att intressenter och andra som är intresserade av projektet kan få insyn i det arbete som utförs med  [!DNL  Workfront].
+description: Lär dig hur du delar ett projekt så att intressenter och andra som är intresserade av projektet kan få insyn i det arbete som utförs med  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management

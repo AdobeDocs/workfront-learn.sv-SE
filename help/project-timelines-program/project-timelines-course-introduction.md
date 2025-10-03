@@ -1,6 +1,6 @@
 ---
 title: Introduktion till projekttidslinjer
-description: Lär dig vilka element - till exempel datumtyper och uppgiftsbegränsningar - som används när du skapar och hanterar projekttidslinjer i  [!DNL  Workfront].
+description: Lär dig vilka element - till exempel datumtyper och uppgiftsbegränsningar - som används när du skapar och hanterar projekttidslinjer i  [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 type: Tutorial
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Projekttidslinjer: Introduktion till kurser
 
-I den här videon får du lära dig vilka element - t.ex. datumtyper och uppgiftsbegränsningar - som används när du skapar och hanterar projekttidslinjer i [!DNL  Workfront].
+I den här videon får du lära dig vilka element - t.ex. datumtyper och uppgiftsbegränsningar - som används när du skapar och hanterar projekttidslinjer i [!DNL &#x200B; Workfront].
 
 >[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops=1)

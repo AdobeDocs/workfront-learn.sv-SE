@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Precis som de flesta andra funktioner i Workfront har du tillgång till [!UICONTROL Förbättrad analys] på huvudmenyn. Men [!UICONTROL Analytics] finns inte på huvudmenyn som standard.
 
-![En bild av huvudmenyn ](assets/analytics-on-main-menu.png)
+![En bild av huvudmenyn &#x200B;](assets/analytics-on-main-menu.png)
 
 Om du inte ser det där måste system- eller gruppadministratören lägga till det åt dig. De gör det i en layoutmall. I videon nedan förklaras hur.
 

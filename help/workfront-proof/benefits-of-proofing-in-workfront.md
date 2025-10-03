@@ -1,6 +1,6 @@
 ---
 title: Lär dig fördelarna med korrektur
-description: Lär dig vad korrektur är och fördelarna med att använda digitalt korrektur i  [!DNL  Workfront].
+description: Lär dig vad korrektur är och fördelarna med att använda digitalt korrektur i  [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof,Get Started with Workfront
 type: Tutorial
@@ -29,7 +29,7 @@ I den här videon får du lära dig:
 
 ## Korrekturterminologi
 
-Innan du börjar dyka upp i korrekturinställningar i [!DNL  Workfront] bör du bekanta dig med den korrekturspecifika terminologi som används. De här termerna används ofta i hela kursen.
+Innan du börjar dyka upp i korrekturinställningar i [!DNL &#x200B; Workfront] bör du bekanta dig med den korrekturspecifika terminologi som används. De här termerna används ofta i hela kursen.
 
 * **Korrektur -** Digital version av en fil som kan granskas, markeras och godkännas med [!DNL Workfront's] korrekturläsaren.
 * **Korrekturarbetsflöde -** Processen att skapa, dirigera och hantera ett korrektur i [!DNL Workfront]. Stegen som följs för att slutföra dessa åtgärder.

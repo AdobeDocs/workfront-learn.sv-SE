@@ -37,7 +37,7 @@ Inställningarna längst ned i fönstret för korrekturöverföring är valfria,
 ![En bild av fönstret [!UICONTROL Nytt korrektur]med [!UICONTROL sceninställningarna] markerade.](assets/additional-proof-workflow-settings.png)
 
 * **[!UICONTROL Lås fas] —** Detta förhindrar att personer i det här arbetsflödessteget kan kommentera eller ändra beslut efter att de har slutfört sitt arbetsflöde.
-* **[!UICONTROL Överför primära beslutsrättigheter till ] —** Snabba upp korrekturprocessen genom att utse en primär beslutsfattare. När det är inställt tolkar [!DNL Workfront] den här personens bevisbeslut som beslutet. När personen väl har fattat sitt beslut är skedet över och inga andra beslut behövs.
+* **[!UICONTROL Överför primära beslutsrättigheter till &#x200B;] —** Snabba upp korrekturprocessen genom att utse en primär beslutsfattare. När det är inställt tolkar [!DNL Workfront] den här personens bevisbeslut som beslutet. När personen väl har fattat sitt beslut är skedet över och inga andra beslut behövs.
 * **[!UICONTROL Kräv endast ett beslut för det här steget] —** Ett annat sätt att effektivisera korrekturläsningen är att bara kräva ett beslut för korrekturet. När detta är aktiverat, oavsett hur många godkännare ni har i det skedet, är det här steget färdigt när någon av dem har fattat ett beslut.
 * **[!UICONTROL Gör det här steget privat] —** Som standard är kommentarer om korrektur synliga för alla i alla faser. Förhindra att mottagare av korrektur i andra stadier ser kommentarer som gjorts under det här steget genom att klicka i rutan.
 

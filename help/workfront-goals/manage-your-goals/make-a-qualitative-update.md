@@ -1,6 +1,6 @@
 ---
 title: Gör en kvalitativ uppdatering i  [!DNL Workfront Goals]
-description: Lär dig hur du gör en kvalitativ eller skriven uppdatering i [!DNL]   Mål].
+description: Lär dig hur du gör en kvalitativ eller skriven uppdatering i    Mål&rbrack;.
 activity: use
 feature: Workfront Goals
 type: Tutorial

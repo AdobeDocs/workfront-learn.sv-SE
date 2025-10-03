@@ -1,6 +1,6 @@
 ---
 title: Konvertera en aktivitet till ett justerat mål
-description: Lär dig konvertera en aktivitet eller ett resultat till ett justerat mål i [!DNL]   Mål].
+description: Lär dig konvertera en aktivitet eller ett resultat till ett justerat mål i    Mål&rbrack;.
 activity: use
 feature: Workfront Goals
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Organisera din att göra-lista i [!DNL Workfront] [!UICONTROL Hem]
-description: Lär dig hur du filtrerar och sorterar tilldelat arbete, identifierar arbete som är klart att starta och godkänner arbetstilldelningar i  [!DNL  Workfront].
+description: Lär dig hur du filtrerar och sorterar tilldelat arbete, identifierar arbete som är klart att starta och godkänner arbetstilldelningar i  [!DNL &#x200B; Workfront].
 feature: Work Management
 type: Tutorial
 role: User

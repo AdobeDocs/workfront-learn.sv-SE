@@ -1,6 +1,6 @@
 ---
 title: Prioritera arbete i [!UICONTROL Hem]
-description: Lär dig hur du markerar objekt i [!UICONTROL arbetslistan] som prioritetstilldelningar på hemsidan. Filtrera sedan listan för att se ditt prioriterade arbete i  [!DNL  Workfront].
+description: Lär dig hur du markerar objekt i [!UICONTROL arbetslistan] som prioritetstilldelningar på hemsidan. Filtrera sedan listan för att se ditt prioriterade arbete i  [!DNL &#x200B; Workfront].
 feature: Work Management
 type: Tutorial
 role: User

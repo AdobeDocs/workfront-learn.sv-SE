@@ -1,6 +1,6 @@
 ---
 title: Introduktion till kurs
-description: Lär dig hur du använder ett projekts budget, spårar kostnader och intäkter och hanterar utgifter i  [!DNL  Workfront].
+description: Lär dig hur du använder ett projekts budget, spårar kostnader och intäkter och hanterar utgifter i  [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 type: Tutorial

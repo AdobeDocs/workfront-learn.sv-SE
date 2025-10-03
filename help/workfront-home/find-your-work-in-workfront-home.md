@@ -1,6 +1,6 @@
 ---
 title: Hitta arbetsuppdrag i [!UICONTROL Hem]
-description: Lär dig hur du hittar inkommande och befintligt arbete som du har tilldelats i [!UICONTROL  ]. Granska sedan uppdragsinformationen.
+description: Lär dig hur du hittar inkommande och befintligt arbete som du har tilldelats i [!UICONTROL &#x200B; &#x200B;]. Granska sedan uppdragsinformationen.
 feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
