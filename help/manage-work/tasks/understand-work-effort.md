@@ -12,7 +12,7 @@ jira: KT-10153
 last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 I videon förklaras hur du använder funktionen Arbete i Workfront för att beräkna planerade timmar för uppgifter när exakta uppskattningar är svåra att fastställa.
 Här visas hur du kan skapa en anpassad arbetsinsats för att effektivisera uppgiftshanteringen genom att lägga till relevanta kolumner som Arbetsinsats, Planerade timmar och Varaktighetstyp
 
->[!VIDEO](https://video.tv.adobe.com/v/3447403/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 
@@ -35,7 +35,7 @@ Här visas hur du kan skapa en anpassad arbetsinsats för att effektivisera uppg
 * **Skapa en anpassad arbetsinsats:** Användare kan skapa en anpassad arbetsinsats för att enkelt hantera och redigera inställningar för arbetsinsats. &#x200B; Detta innebär att du lägger till kolumner för Arbetsinsats och andra relevanta fält, som Planerade timmar eller Typ av varaktighet. &#x200B;
 
 
-Mer information om [!UICONTROL Arbetsinsats] finns i artikeln [Översikt över arbetsinsatser](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=sv-SE).
+Mer information om [!UICONTROL Arbetsinsats] finns i artikeln [Översikt över arbetsinsatser](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en).
 
 
 ## Rekommenderade självstudiekurser i detta ämne

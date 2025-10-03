@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 9%
+ht-degree: 12%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 9%
 I den här videon förklaras hur du skapar och hanterar ett projekt från grunden. &#x200B; Det börjar med att skapa ett nytt projekt, byta namn på det och ange ett mål med en beskrivning, startdatum och måldatum. Projekt kan delas upp i aktiviteter, som är planerade arbeten med beräknade varaktigheter och tilldelningar. &#x200B; Aktiviteter kan ordnas efter varandra med hjälp av föregående aktiviteter, och projektstatusen kan ställas in på Aktuell för att meddela teamet och inkludera den i rapporter. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432338/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

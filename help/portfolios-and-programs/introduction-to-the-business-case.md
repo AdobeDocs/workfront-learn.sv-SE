@@ -12,7 +12,7 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 I videon förklaras vikten av ett affärsärende inom projektledning. Det betonar att det blir lättare för cheferna att analysera och prioritera projekt som konkurrerar om samma resurser om de ska fylla i affärsplanen noggrant. &#x200B; När ärendet är klart ändras projektets status till&quot;Begärt&quot; och resultatet beräknas för jämförelsen i Portfolio Optimization Tool. &#x200B; Inget av fälten är obligatoriskt, men mer detaljerad information förbättrar beslutsfattandet. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3442848/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

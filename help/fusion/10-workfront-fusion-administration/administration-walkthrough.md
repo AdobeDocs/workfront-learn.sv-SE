@@ -11,7 +11,7 @@ jira: KT-9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -32,13 +32,13 @@ I den här videon får du lära dig:
 * Så här skapar du team
 * Så här bjuder du in användare till en organisation och ett team
 
->[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
->Om din organisation har anslutit sig till Adobe Admin Console kan du läsa [Lägga till användare i Adobe Workfront Fusion via Adobe Admin Console](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html?lang=sv-SE).
+>Om din organisation har anslutit sig till Adobe Admin Console kan du läsa [Lägga till användare i Adobe Workfront Fusion via Adobe Admin Console](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html).
 
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/sv/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 0365d4500823639edc167ab296efcb8b0b2291ad
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 I videon får du en översikt över hur du hanterar ett projekt när dess status har ändrats till&quot;Aktuell&quot; &#x200B;.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445171/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

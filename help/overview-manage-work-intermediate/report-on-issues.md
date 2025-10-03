@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10072
 hide: true
 exl-id: baee5681-8bf5-4f69-8f5f-e8b1a50724f6
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -28,7 +28,7 @@ I den här videon får du lära dig att skapa:
 * En projektrapport med konverterad utleveransinformation
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops=1)
 
 
 ## Rekommenderade självstudiekurser i detta ämne

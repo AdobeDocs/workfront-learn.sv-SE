@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Klicka på Kopiera projekt för att slutföra &#x200B;
 Problem kan inte kopieras direkt under den här processen eftersom de inte betraktas som planerade arbeten. &#x200B; Om du vill kopiera problem går du till fliken Problem, markerar önskade problem och använder alternativet Kopiera till för att överföra dem till det nya projektet. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456042/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

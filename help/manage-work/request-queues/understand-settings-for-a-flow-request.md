@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -30,7 +30,7 @@ I videon förklaras förfrågningsflödet i Workfront, med fokus på köhanterin
 
 Genom att besvara dessa frågor kan användarna effektivt planera och konfigurera sin kö i Workfront. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3441909/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

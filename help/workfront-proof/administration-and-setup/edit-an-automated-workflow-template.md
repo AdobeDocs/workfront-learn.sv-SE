@@ -1,6 +1,6 @@
 ---
 title: Redigera en automatiserad arbetsflödesmall
-description: Lär dig hur du ändrar en befintlig arbetsflödesmall för automatisk korrektur i  [!DNL &#x200B; Workfront].
+description: Lär dig hur du ändrar en befintlig arbetsflödesmall för automatisk korrektur i  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,7 +12,7 @@ last-substantial-update: 2024-08-08T00:00:00Z
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Varje steg i ett automatiserat arbetsflöde har ett eget avsnitt där du kan än
 
 I den här videon visas några av de ändringar du kan göra i [!UICONTROL arbetsflödet] . Se punktlistan under den här videon som visar dessa inställningar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432617/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
 
 Här är korrekturmallsändringarna som du kan göra i avsnittet [!UICONTROL Arbetsflöde]:
 
@@ -60,7 +60,7 @@ Här är korrekturmallsändringarna som du kan göra i avsnittet [!UICONTROL Arb
 
 Under [!UICONTROL Delad med] visas korrekturanvändare som kan använda mallen. Ta bort personer som inte längre behöver använda mallen genom att klicka på menyn med tre punkter längst till höger om namnet och välja [!UICONTROL Ta bort].
 
-![[!UICONTROL Delad med &#x200B;]-lista](assets/proof-system-setups-edit-template-shared-with.png)
+![[!UICONTROL Delad med ]-lista](assets/proof-system-setups-edit-template-shared-with.png)
 
 Du kan dock inte lägga till personer i delningslistan från det här avsnittet. Det gör du genom att gå tillbaka till det övre delen av mallinformationsfönstret och klicka på knappen [!UICONTROL Dela mall] .
 

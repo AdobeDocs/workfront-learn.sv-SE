@@ -1,6 +1,6 @@
 ---
 title: Förstå datumtyper och förloppsstatus
-description: Lär dig hur du visar olika datumtyper i [!DNL &#x200B; Workfront] och använder förloppsstatus för att spåra arbetsförloppet.
+description: Lär dig hur du visar olika datumtyper i [!DNL  Workfront] och använder förloppsstatus för att spåra arbetsförloppet.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8782
 hide: true
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -25,7 +25,7 @@ I den här videon får du lära dig att:
 * Välj en vy för att jämföra [!DNL Workfront's] olika datumtyper
 * Använd förloppsstatus för att spåra arbetets förlopp
 
->[!VIDEO](https://video.tv.adobe.com/v/3436611/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

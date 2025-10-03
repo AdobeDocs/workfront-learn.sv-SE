@@ -12,7 +12,7 @@ jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -35,12 +35,12 @@ Fusion är en tilläggsprodukt som ingår i vissa Workfront-paket och inte i and
 
 För att kunna göra vad som helst i Fusion måste ni vara i ett team inom en organisation. Din Fusion-systemadministratör skapar team i din organisation och bjuder in användare till ett eller flera team.
 
-Din Fusion-systemadministratör skickar en ny användarinbjudan, som består av två e-postmeddelanden. När du har fått båda e-postmeddelandena följer du instruktionerna i [Logga in som ny användare](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/log-in-as-a-new-user.html?lang=sv-SE).
+Din Fusion-systemadministratör skickar en ny användarinbjudan, som består av två e-postmeddelanden. När du har fått båda e-postmeddelandena följer du instruktionerna i [Logga in som ny användare](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/log-in-as-a-new-user.html?lang=en).
 
 Om du är administratör för Fusion-system vill du läsa följande självstudiekurser för att lära dig hur du skapar team och lägger till nya användare.
 
-* [Förstå organisationer, team och användare](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=sv-SE)
-* [Administrationsgenomgång](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=sv-SE)
+* [Förstå organisationer, team och användare](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=en)
+* [Administrationsgenomgång](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=en)
 
 ## Introduktion och teknikstrategi
 
@@ -50,4 +50,4 @@ I den här videon ser du:
 * Funktioner i Fusion core och designer
 * Ett Fusion-exempel
 
->[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on&enablevpops=1)

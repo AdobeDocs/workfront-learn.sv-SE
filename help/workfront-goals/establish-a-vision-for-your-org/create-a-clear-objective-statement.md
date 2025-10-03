@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 0%
@@ -24,7 +24,7 @@ I den här videon får du lära dig att:
 * Skapa ett tydligt objektivt uttalande, eller befälhavarens avsikt
 * Skriv tydliga mål för företag och organisationer
 
->[!VIDEO](https://video.tv.adobe.com/v/335186/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335186/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Your turn graphic

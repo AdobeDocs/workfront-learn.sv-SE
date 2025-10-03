@@ -13,9 +13,9 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 I videon förklaras hur du spårar projektförloppet med hjälp av Project Metrics. &#x200B; Den visar hur du kommer åt fliken Metrisk i den vänstra panelen i ett projekt, som kan behöva rullas och klicka på Visa fler. I KPI-området högst upp visas viktiga resultatindikatorer, t.ex. slutförda, ofullständiga och försenade uppgifter. &#x200B; Användarna kan klicka på indikatorer för att visa specifika uppgifter och använda diagram för att gruppera uppgifter eller ärenden efter status eller prioritet. &#x200B; När du hovrar över spalter visas antal, och diagrammet visar förhållandet mellan fullständiga och ofullständiga uppgifter eller utgåvor. &#x200B; Mätvärden kan också visa uppgifter per tilldelad baserat på deras status (fullständig, ofullständig, kommande eller försenad). &#x200B; Inställningar för visning av mätvärden sparas för framtida besök. &#x200B; Slutligen visar videon hur du exporterar måttsidan som en PNG-fil med knappen Exportera. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439174/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

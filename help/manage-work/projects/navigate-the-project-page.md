@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '803'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Navigera på projektsidan
 
-I den här videon får du en översikt över hur du navigerar och hanterar projektsidan i Workfront. &#x200B; Viktiga funktioner:
+I den här videon får du en översikt över hur du navigerar och hanterar projektsidan i Workfront. &#x200B; Viktiga funktioner inkluderar:
 
 * **Projekthuvud:** Visar viktig information, t.ex. Procent färdigt, Projektledare, planerat slutförandedatum, projektvillkor och status. &#x200B; Statusen hjälper till att spåra projektets fas och utlöser meddelanden. &#x200B;
 * **Navigering i sidled:** Visar projektets placering i organisationens program och portfölj, med klickbara länkar för enkel navigering. &#x200B;
@@ -33,7 +33,7 @@ I den här videon får du en översikt över hur du navigerar och hanterar proje
 * **Avsnitt för dokument:** Möjliggör överföring och hantering av projektrelaterade filer och korrektur. &#x200B; Dokument som är kopplade till uppgifter kan sammanfogas till projektnivån för enkel åtkomst. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

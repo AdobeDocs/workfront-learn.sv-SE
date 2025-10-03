@@ -13,7 +13,7 @@ jira: KT-8774
 hide: true
 doc-type: video
 exl-id: d4e4a273-f712-4104-8c6b-ab7d29175451
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 
 * Så här struktureras uppgifter i ett [!DNL Workfront]-projekt
 
->[!VIDEO](https://video.tv.adobe.com/v/3445600/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

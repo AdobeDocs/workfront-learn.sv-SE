@@ -11,7 +11,7 @@ thumbnail: 335081.jpeg
 jira: KT-8767
 exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Lär dig att anpassa [!UICONTROL Hem]-området för dina användare så att du snabbt och enkelt kan komma åt, spåra, godkänna och uppdatera arbetet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432780/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on&enablevpops=1)
 
 <br>
 </br>
@@ -37,4 +37,4 @@ I den här videon får du lära dig att:
 * Ta bort objekt från [!UICONTROL Hem]
 * Lägg till objekt i [!UICONTROL Hem]
 
->[!VIDEO](https://video.tv.adobe.com/v/3432316/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on&enablevpops=1)

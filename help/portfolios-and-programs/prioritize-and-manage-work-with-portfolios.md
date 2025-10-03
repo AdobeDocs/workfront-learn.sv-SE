@@ -12,7 +12,7 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -25,7 +25,7 @@ I videon förklaras hur du använder Portfolio Optimization Tool i Workfront fö
 
 I videon betonas vikten av att slutföra affärsärenden för exakta jämförelser och den innehåller stegvisa instruktioner för att optimera och hantera projektprioriteringar effektivt. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446279/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

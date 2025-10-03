@@ -10,7 +10,8 @@ level: Intermediate
 jira: KT-1880
 last-substantial-update: 2025-08-25T00:00:00Z
 doc-type: video
-source-git-commit: 7be0b8cce9cba04927d6704d0009b482bbcf4b41
+exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '682'
 ht-degree: 0%
@@ -23,9 +24,9 @@ EXISTS-filter är avancerade textlägesfilter, som gör att vi kan kringgå 2 ta
 
 I den här videon får du lära dig hur du skapar ett EXISTS-filter för att se&quot;Korrekturgodkännanden för aktuella projekt&quot; i en rapport om korrekturgodkännanden.
 
-En mer ingående genomgång av hur funktionen EXISTS fungerar finns i [Skapa komplexa textlägesfilter med hjälp av EXISTS-programsatser](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) .
+En mer ingående genomgång av hur funktionen EXISTS fungerar finns i [Skapa komplexa textlägesfilter med hjälp av EXISTS-programsatser](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) .
 
->[!VIDEO](https://video.tv.adobe.com/v/3471207/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## EXISTS-filterexempel
 

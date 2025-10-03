@@ -12,7 +12,7 @@ last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -25,7 +25,7 @@ I videon beskrivs hur du spårar övergripande projektförlopp med hjälp av oli
 
 I videon betonas vikten av regelbundna uppdateringar av teammedlemmar och proaktiv problemhantering för att säkerställa korrekt spårning och att projektet slutförs i tid. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447414/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

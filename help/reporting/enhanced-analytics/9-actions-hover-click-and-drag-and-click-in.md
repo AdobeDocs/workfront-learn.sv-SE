@@ -12,7 +12,7 @@ jira: KT-8722
 recommendations: noDisplay,catalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 0%
@@ -27,7 +27,7 @@ I den här videon får du lära dig:
 * Skapa en tidsram i ett diagram
 * Hur man lägger in ytterligare diagram
 
->[!VIDEO](https://video.tv.adobe.com/v/3438569/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops=1)
 
 ## Klicka på ett diagram för mer information
 
@@ -52,4 +52,4 @@ Om du klickar i vissa delar av ett diagram visas ytterligare diagram eller en up
 
 ![En bild med blå skuggade rutor](assets/blue-shaded-boxes.png)
 
-Mer information finns i [Förstå visualisering av aktivitet per team](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=sv-SE).
+Mer information finns i [Förstå visualisering av aktivitet per team](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en).

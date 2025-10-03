@@ -12,9 +12,9 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ I videon får du vägledning om hur du effektivt planerar ett projekt i Workfron
 
 I videon betonas vikten av realistiska tidslinjer, teamtillgänglighet och korrekt planering för att skapa en stark grund för projektframgångar. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448571/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

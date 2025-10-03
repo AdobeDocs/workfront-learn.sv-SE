@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: kt-13080
 doc-type: video
 exl-id: a2c1c2eb-a872-4718-a5ec-7a4532d1510f
-source-git-commit: e0ae6eaacc03980ad53c0471681211f76dfaff26
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -26,4 +26,4 @@ I den här videon får du lära dig att:
 * Skapa och redigera filter
 * Staplingsfilter
 
->[!VIDEO](https://video.tv.adobe.com/v/3428946/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops=1)

@@ -12,7 +12,7 @@ jira: KT-8808
 recommendations: noDisplay,catalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
@@ -31,7 +31,7 @@ I videon förklaras hur du granskar och godkänner digitalt arbete med widgeten&
 
 I videon betonas flexibiliteten i granskning och godkännande av arbete, med möjlighet att lägga till kommentarer och ange ändringar efter behov. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3444950/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

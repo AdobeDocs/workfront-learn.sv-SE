@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10147
 hide: true
 exl-id: 9875748d-21d4-4902-96b1-ab84d8c0f7d6
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -30,13 +30,13 @@ I den här videon får du lära dig att kommunicera med alla projektintressenter
 * Problem
 * Rapporter
 
->[!VIDEO](https://video.tv.adobe.com/v/3428968/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
->Om du vill skapa anteckningssökrapporten som visas i videon läser du aktiviteten i självstudiekursen [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=sv-SE).
+>Om du vill skapa anteckningssökrapporten som visas i videon läser du aktiviteten i självstudiekursen [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en).
 >
->Om du vill lägga till anteckningssökrapporten på projektpanelen läser du aktiviteten i självstudiekursen [Skapa instrumentpaneler](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=sv-SE).
+>Om du vill lägga till anteckningssökrapporten på projektpanelen läser du aktiviteten i självstudiekursen [Skapa instrumentpaneler](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en).
 
 ## Rekommenderade självstudiekurser i detta ämne
 

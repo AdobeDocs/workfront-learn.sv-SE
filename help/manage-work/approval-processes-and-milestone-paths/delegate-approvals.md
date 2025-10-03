@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -27,7 +27,7 @@ För godkännanden kan användare delegera dem via widgeten Väntar på mitt god
 Delegerade godkännanden är markerade i systemet och visar vem som har delegerat dem och till vem. &#x200B; Uppdateringar som rör godkännanden visas på fliken Uppdatera och systemaktiviteten kan visas på fliken Systemaktivitet. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446380/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

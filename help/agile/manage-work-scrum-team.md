@@ -8,7 +8,7 @@ jira: KT-10872
 thumbnail: 346282.jpeg
 exl-id: 50773b9b-8f64-4aed-bd44-3a43026bd085
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Hantera arbetet som ett Scrum-team
 
-Nu när ni har skapat ert Creative Marketing-teamet kan ni ta ett steg in i skorna på scrommästaren för att se hur deras upplevelser ser ut.
+Nu när du har skapat ett Creative Marketing-teamet kan du ta steget in i skorna på scrummastern och se hur deras upplevelser ser ut.
 
 Som trumf är ditt mål att avgöra vad ditt team behöver arbeta med först. Du organiserar artiklarna i eftersläpningen enligt den prioritet som produktägaren har. Om teamet har tagit emot gruppförfrågningar från projekt eller begärandeköer visas de redan i eftersläpningen. Du kan även behöva lägga till artiklar som inte specifikt hör till ett projekt som redan finns i Adobe Workfront.
 
@@ -30,7 +30,7 @@ I den här videon får du lära dig att:
 
 I den här videon får du lära dig hur du skapar ett smidigt teameftersläpningsprojekt och skapar en ny berättelse.
 
->[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on&enablevpops=1)
 
 Agile-teamet kommer att slå ihop eftersläpningen. Det betyder i princip tre saker.
 

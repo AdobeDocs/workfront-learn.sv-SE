@@ -11,7 +11,7 @@ last-substantial-update: 2025-06-18T00:00:00Z
 thumbnail: understand-the-calendar-interface.png
 jira: KT-10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
-source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -35,4 +35,4 @@ I den här videon får du lära dig mer om:
 * Sammanfattningsinformation
 * Och hur du skapar ett ad hoc-kalenderobjekt
 
->[!VIDEO](https://video.tv.adobe.com/v/3438763/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops=1)

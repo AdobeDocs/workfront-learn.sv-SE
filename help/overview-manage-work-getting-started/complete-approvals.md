@@ -1,6 +1,6 @@
 ---
 title: Fullständiga godkännanden
-description: Lär dig hur du identifierar ofullständiga godkännanden och löser dem så att du kan stänga ditt projekt i  [!DNL &#x200B; Workfront].
+description: Lär dig hur du identifierar ofullständiga godkännanden och löser dem så att du kan stänga ditt projekt i  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,7 +14,7 @@ jira: KT-10134
 hide: true
 exl-id: 5bf6a8cb-7c4d-4b2e-a5e4-cc3bf7c6ca82
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -28,7 +28,7 @@ I den här videon får du lära dig:
 * Hitta olösta godkännanden av uppgifter och hantera dem
 * Så här hittar du olösta godkännanden och hanterar dem
 
->[!VIDEO](https://video.tv.adobe.com/v/3439428/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

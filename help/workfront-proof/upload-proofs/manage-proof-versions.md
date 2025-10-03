@@ -1,6 +1,6 @@
 ---
 title: Hantera korrekturversioner
-description: Lär dig hur du hittar information om när ett korrektur överfördes, hämtar alla versioner av ett korrektur och tar bort en korrekturversion i  [!DNL &#x200B; Workfront].
+description: Lär dig hur du hittar information om när ett korrektur överfördes, hämtar alla versioner av ett korrektur och tar bort en korrekturversion i  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,7 +11,7 @@ thumbnail: 335137.png
 jira: KT-8837
 exl-id: 5121b112-2b17-44f4-8e36-1ce4eb9898f8
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -26,7 +26,7 @@ I den här videon får du lära dig att:
 * Hämta alla versioner av ett korrektur
 * Ta bort en korrekturversion
 
->[!VIDEO](https://video.tv.adobe.com/v/3438646/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

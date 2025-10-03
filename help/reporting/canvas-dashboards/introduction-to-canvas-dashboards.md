@@ -12,7 +12,7 @@ last-substantial-update: 2025-09-09T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 344982c0-b7e8-4fac-bcb0-ee6b20b81dec
-source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 Funktionen Kontrollpaneler på arbetsytan är ett annat sätt att skapa kontrollpaneler i Workfront. Det finns för närvarande i General Beta, vilket innebär att alla Workfront-kunder kan använda funktionen om de är inskrivna i betaversionen. En systemadministratör måste göra registreringen. Den här videon visar hur de gör.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474024/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
 
-Mer information finns i artikeln [Översikt över kontrollpaneler på arbetsytan](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
+Mer information finns i artikeln [Översikt över kontrollpaneler på arbetsytan](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
 
 ## Rekommenderade självstudiekurser i detta ämne
 

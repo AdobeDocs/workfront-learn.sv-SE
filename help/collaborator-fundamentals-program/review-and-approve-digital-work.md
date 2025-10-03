@@ -6,7 +6,7 @@ type: Tutorial
 team: Technical Marketing
 jira: KT-8808
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
@@ -22,7 +22,7 @@ I den här videon får du lära dig att:
 * Godkänn dokument
 * Godkänn korrektur
 
->[!VIDEO](https://video.tv.adobe.com/v/3444950/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS

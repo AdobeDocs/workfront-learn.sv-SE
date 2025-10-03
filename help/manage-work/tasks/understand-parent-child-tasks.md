@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 I den här videon förklaras uppgiftsstrukturen i Workfront. Uppgifter är viktiga komponenter i ett projekt och representerar de arbetsobjekt som behövs för att slutföra. &#x200B; I videon betonas vikten av att organisera arbetsuppgifterna korrekt som ett viktigt steg i projektplaneringen och projektledningen. Det visar hur du börjar arbeta med uppgifter och förklarar relationen mellan överordnade och underordnade uppgifter.
 &#x200B;Överordnade uppgifter fungerar som organisatörer, grupperar projektet i faser, faser eller milstolpar och är inte tilldelade enskilda personer. Underordnade uppgifter, eller underuppgifter, representerar åtgärdbart arbete som tilldelats gruppmedlemmar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445600/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

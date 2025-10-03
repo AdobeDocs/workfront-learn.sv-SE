@@ -13,7 +13,7 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -27,7 +27,7 @@ I videon visas hur du ställer in föregångare för nya uppgifter, vilket säke
 &#x200B;I rapporten betonas vikten av att ha praktiska kontakter med föregångare för att förstå hur de påverkar projekttidslinjerna och man rekommenderar att man använder varaktighet och föregångare för effektiv projektplanering.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447324/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

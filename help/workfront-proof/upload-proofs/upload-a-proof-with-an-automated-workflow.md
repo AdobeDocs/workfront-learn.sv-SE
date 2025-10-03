@@ -11,7 +11,7 @@ thumbnail: 335133.png
 jira: KT-8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '579'
 ht-degree: 0%
@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 * Tillämpa ett arbetsflöde med en korrekturmall
 * Så här skapar du ett automatiskt arbetsflöde från grunden
 
->[!VIDEO](https://video.tv.adobe.com/v/3453013/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on&enablevpops=1)
 
 
 
@@ -37,7 +37,7 @@ Inställningarna längst ned i fönstret för korrekturöverföring är valfria,
 ![En bild av fönstret [!UICONTROL Nytt korrektur]med [!UICONTROL sceninställningarna] markerade.](assets/additional-proof-workflow-settings.png)
 
 * **[!UICONTROL Lås fas] —** Detta förhindrar att personer i det här arbetsflödessteget kan kommentera eller ändra beslut efter att de har slutfört sitt arbetsflöde.
-* **[!UICONTROL Överför primära beslutsrättigheter till &#x200B;] —** Snabba upp korrekturprocessen genom att utse en primär beslutsfattare. När det är inställt tolkar [!DNL Workfront] den här personens bevisbeslut som beslutet. När personen väl har fattat sitt beslut är skedet över och inga andra beslut behövs.
+* **[!UICONTROL Överför primära beslutsrättigheter till ] —** Snabba upp korrekturprocessen genom att utse en primär beslutsfattare. När det är inställt tolkar [!DNL Workfront] den här personens bevisbeslut som beslutet. När personen väl har fattat sitt beslut är skedet över och inga andra beslut behövs.
 * **[!UICONTROL Kräv endast ett beslut för det här steget] —** Ett annat sätt att effektivisera korrekturläsningen är att bara kräva ett beslut för korrekturet. När detta är aktiverat, oavsett hur många godkännare ni har i det skedet, är det här steget färdigt när någon av dem har fattat ett beslut.
 * **[!UICONTROL Gör det här steget privat] —** Som standard är kommentarer om korrektur synliga för alla i alla faser. Förhindra att mottagare av korrektur i andra stadier ser kommentarer som gjorts under det här steget genom att klicka i rutan.
 

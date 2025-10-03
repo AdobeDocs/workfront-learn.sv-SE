@@ -12,7 +12,7 @@ last-substantial-update: 2024-06-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 I videon betonas vikten av kommunikation inom projektledning och vikten av att frågor är ett viktigt verktyg för att underlätta kommunikation. &#x200B; Den förklarar skillnaden mellan uppdateringar och problem och noterar att problemen är bättre lämpade för arbete som behöver tilldelas, spåras och lösas innan ett projekt kan slutföras. &#x200B; I videon finns en stegvis guide om hur du loggar problem. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446570/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

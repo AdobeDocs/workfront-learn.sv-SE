@@ -11,7 +11,7 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '727'
 ht-degree: 0%
@@ -32,7 +32,7 @@ När du vet vad som förväntas kan du komma igång med att granska ett korrektu
 
 När en mediefil är klar för granskning och godkännande får du ett e-postmeddelande.
 
-![En bild på ett nytt korrekturmeddelande som begär granskning och godkännande av två korrektur i [!DNL &#x200B; Workfront].](assets/new-proof-emails.png)
+![En bild på ett nytt korrekturmeddelande som begär granskning och godkännande av två korrektur i [!DNL  Workfront].](assets/new-proof-emails.png)
 
 Det är viktigt att komma ihåg att den här korrekturlänken är unik för dig. Om du delar länken med någon taggas alla kommentarer och markeringar de gör med ditt namn.
 
@@ -63,7 +63,7 @@ Du kan också hitta korrektur att granska på en [!DNL Workfront]-kontrollpanel 
 
 Om du vanligtvis arbetar med projekt, aktiviteter eller problem i [!DNL Workfront] kanske du föredrar att öppna korrekturet direkt från avsnittet [!DNL Documents] i det objektet.
 
-![En bild av avsnittet [!UICONTROL Dokument] hittades i en [!DNL &#x200B; Workfront]-aktivitet med länken [!UICONTROL Öppna korrektur]markerad.](assets/open-proof-from-documents.png)
+![En bild av avsnittet [!UICONTROL Dokument] hittades i en [!DNL  Workfront]-aktivitet med länken [!UICONTROL Öppna korrektur]markerad.](assets/open-proof-from-documents.png)
 
 1. Klicka på namnet på projektet, aktiviteten eller utgåvan.
 2. Klicka på [!UICONTROL Dokument] på den vänstra panelmenyn på objektets sida.
@@ -90,7 +90,7 @@ I den här videon får du lära dig att:
 * Svara på en korrekturkommentar
 * Godkänn eller avvisa ett korrektur
 
->[!VIDEO](https://video.tv.adobe.com/v/335141/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335141/?quality=12&learn=on&enablevpops=1)
 
 <!--
 #### Learn more

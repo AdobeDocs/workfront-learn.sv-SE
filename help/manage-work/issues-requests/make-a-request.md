@@ -13,7 +13,7 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Videon innehåller en detaljerad guide om hur du gör och hanterar förfrågningar inom Workfront. Här beskrivs hur du skapar en begäran. Börja med att välja&quot;Begäranden&quot; på huvudmenyn och klicka på knappen&quot;Ny begäran&quot;. &#x200B; Användarna kan välja en frågetyp bland anpassade köer som är anpassade efter organisationens arbetsflöden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470907/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

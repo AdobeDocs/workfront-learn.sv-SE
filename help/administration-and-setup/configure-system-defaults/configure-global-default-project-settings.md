@@ -11,7 +11,7 @@ thumbnail: 335065.png
 jira: KT-8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
@@ -30,7 +30,7 @@ I den här videon får du lära dig att:
 * Ange globala projektinställningar
 * Skapa och använda scheman
 
->[!VIDEO](https://video.tv.adobe.com/v/3428981/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops=1)
 
 ## Globala inställningar och inställningar för gruppprojekt, aktiviteter och ärenden
 

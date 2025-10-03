@@ -11,7 +11,7 @@ thumbnail: 335170.jpeg
 jira: KT-8907
 exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
@@ -25,7 +25,7 @@ I den här videon kommer du att:
 * Se [!UICONTROL Visa efter projekt]vy
 * Lär dig hur resursinformation visas i den här vyn
 
->[!VIDEO](https://video.tv.adobe.com/v/3431633/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops=1)
 
 För alternativet Visa efter projekt är standardvärdet att visa kolumnen Budgeterad, som tar upp det uppskattade antalet resurser som behövs för ett projekt från ett affärsärende, om det har fyllts i. Det innebär också att kolumnen Netto som standard använder siffrorna från kolumnen Budgeterad för att ange hur många resurser som finns kvar.
 

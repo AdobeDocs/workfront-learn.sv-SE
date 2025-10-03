@@ -12,7 +12,7 @@ jira: KT-8729
 recommendations: noDisplay,catalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -25,7 +25,7 @@ I den här videon får du lära dig:
 
 * Läs Flight-planen
 
->[!VIDEO](https://video.tv.adobe.com/v/3439014/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops=1)
 
 ## Flygplanskarta
 
@@ -72,4 +72,4 @@ Om du anger Status för projektet kan det vara:
 
 >[!NOTE]
 >
->Villkoren kan anpassas efter din miljö, så du kan hitta fler än tre alternativ eller så kan namnen skilja sig från de ovan. Mer information om hur du anpassar villkor finns i artikeln [Skapa eller redigera ett anpassat villkor](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=sv-SE).
+>Villkoren kan anpassas efter din miljö, så du kan hitta fler än tre alternativ eller så kan namnen skilja sig från de ovan. Mer information om hur du anpassar villkor finns i artikeln [Skapa eller redigera ett anpassat villkor](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en).

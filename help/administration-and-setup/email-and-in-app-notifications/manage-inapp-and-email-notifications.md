@@ -12,10 +12,10 @@ thumbnail: 10095.jpeg
 jira: KT-10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 last-substantial-update: 2025-01-09T00:00:00Z
-source-git-commit: 3f02a9fd7fc4cd2b19e26047473a88758c0a5d1f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 81%
+ht-degree: 90%
 
 ---
 
@@ -23,5 +23,5 @@ ht-degree: 81%
 
 Lär dig hur användare kan styra vilka aviseringar i appar och e-postmeddelanden de får så att de får relevanta och användbara e-postmeddelanden om deras arbete.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442811/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3442786/?quality=12&learn=on&enablevpops=1)
 

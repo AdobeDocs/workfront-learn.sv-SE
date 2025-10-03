@@ -1,6 +1,6 @@
 ---
 title: Navigera på projektsidan
-description: Lär dig hur du visar information om ett projekt, vilken information som visas i uppgiftslistan, var dokument ska överföras och hur du visar uppdateringshistoriken i  [!DNL &#x200B; Workfront].
+description: Lär dig hur du visar information om ett projekt, vilken information som visas i uppgiftslistan, var dokument ska överföras och hur du visar uppdateringshistoriken i  [!DNL  Workfront].
 activity: use
 feature: Work Management
 thumbnail: 335085.jpeg
@@ -14,7 +14,7 @@ jira: KT-8771
 hide: true
 doc-type: video
 exl-id: be4a5529-08ce-4cce-abb7-b4352629e6bd
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 0%
@@ -30,7 +30,7 @@ I den här videon lär du dig:
 * Var ska dokument laddas upp?
 * Så här visar du uppdateringshistoriken
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga delar av projektsidan
 
@@ -48,7 +48,7 @@ Projektsidan innehåller många funktioner som hjälper dig att hantera arbetet.
 8. **[!UICONTROL Villkor]:** [!UICONTROL Villkor] är en visuell representation av hur projektet fortskrider. [!DNL Workfront] kan automatiskt konfigurera [!UICONTROL Villkor] baserat på förloppsstatusen för aktiviteterna i projektet. Eller så kan [!UICONTROL Villkor] anges manuellt via projektinformationen.
 9. **[!UICONTROL Status]:** [!UICONTROL Status] anger var projektet står i processen: är projektet fortfarande planerat, pågår eller är projektet färdigt.
 10. **[!UICONTROL Ny aktivitet]:** Klicka för att skapa en aktivitet i projektet. Uppgiften genereras längst ned i listan.
-11. **[!UICONTROL Exportera]:** Exportera uppgiftslistan eller markerade uppgifter till en PDF, kalkylblad eller tabbavgränsad fil.
+11. **[!UICONTROL Exportera]:** Exportera uppgiftslistan eller markerade uppgifter till en PDF-, kalkylblads- eller tabbavgränsad fil.
 12. **Vänster panelmeny:** Navigera till annan information om projektet med den vänstra panelen. Klicka på ikonen Uppgift längst upp för att komprimera panelen om du behöver lite mer utrymme på skärmen. Dra och släpp ikonerna så att du kan arbeta effektivt. De alternativ du ser anges av din [!DNL Workfront]-systemadministratör.
 13. **Uppgiftslista:** Uppgiftslistan innehåller alla aktiviteter som ingår i din projektplan. Vilken information som visas för varje uppgift avgörs av den valda vyn.
 14. **Panelen Sammanfattning:** Här kan du snabbt se information om den valda aktiviteten. Klicka på ikonen för den sammanfattande panelen för att öppna eller stänga den.

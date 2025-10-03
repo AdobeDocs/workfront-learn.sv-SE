@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 I videon förklaras de sista stegen för att göra ett projekt live genom att ändra dess status till&quot;aktuell&quot; &#x200B;. Innan du gör det lägger den vikt vid att granska projektelement, inklusive aktivitetsnamn, varaktighet, planerade timmar, föregående aktiviteter, start- och slutdatum samt tilldelningar, för att säkerställa att allt är korrekt och korrekt inställt. &#x200B; När projektet är öppet får projektledaren meddelanden som baseras på globala och personliga inställningar, och projektet visas i rapporter och filter för aktiva projekt. &#x200B; Det här är den officiella början av arbetet. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3438988/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
-source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -32,9 +32,9 @@ I den här videon får du lära dig att:
 
 * Installera Microsoft Outlook-tillägget
 
->[!VIDEO](https://video.tv.adobe.com/v/3431663/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >
->Om du inte hittar Workfront-tillägget enligt beskrivningen i videon kan din IT-avdelning behöva göra en del inställningar först. Detaljerade instruktioner finns i [Konfigurera Adobe Workfront för Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html?lang=sv-SE).
+>Om du inte hittar Workfront-tillägget enligt beskrivningen i videon kan din IT-avdelning behöva göra en del inställningar först. Detaljerade instruktioner finns i [Konfigurera Adobe Workfront för Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html).
 

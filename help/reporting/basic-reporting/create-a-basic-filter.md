@@ -12,7 +12,7 @@ jira: kt-8857
 last-substantial-update: 2025-04-30T00:00:00Z
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
-source-git-commit: af53d11fcf3e81c8ea0176f4db9dcec77e9195ed
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 I den här videon förklaras hur du skapar och använder filter i Workfront för att anpassa listrapporter baserat på specifika kriterier. &#x200B; Med filter kan användare begränsa listorna, t.ex. uppgifter, projekt eller dokument, genom att definiera villkor. &#x200B; Endast objekt som matchar filtervillkoren och som är tillgängliga för den inloggade användaren visas i listan. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

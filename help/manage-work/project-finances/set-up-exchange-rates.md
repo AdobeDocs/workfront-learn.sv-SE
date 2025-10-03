@@ -13,7 +13,7 @@ exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 I videon finns en guide om hur du hanterar valutor i Workfront system för finansiell spårning. &#x200B; Det förklarar att standardvalutan är USD, men att ytterligare valutor kan ställas in globalt eller för enskilda projekt och jobbroller.
 I videon betonas att systemet inte har aktuella valutakurser, så användarna måste skaffa dem externt. &#x200B; När de är inställda blir växelkurserna standard för projekt eller jobbroller, men uppdateras inte automatiskt. Användare med rätt behörighet måste uppdatera dem manuellt. &#x200B; När man har ställt in valutor kan man skapa nya projekt och välja bland de tillgängliga valutaalternativen, med möjlighet att anpassa valutakurserna för enskilda projekt. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

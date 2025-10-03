@@ -13,7 +13,7 @@ last-substantial-update: 2024-04-02T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -35,6 +35,6 @@ Om du inte ser det där måste system- eller gruppadministratören lägga till d
 I den här videon får du lära dig hur system- och gruppadministratörer ger åtkomst till [!UICONTROL Analytics] i Workfront.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on&enablevpops=1)
 
 Alla som har en Workfront-licens (i [!UICONTROL Workfront Business]-planer eller senare) har tillgång till [!UICONTROL Analytics] när den har lagts till i layoutmallen som de har tilldelats. Du kan dock bara se projekt och användarinformation om det är tillåtet enligt din Workfront åtkomstnivå och delningsbehörigheterna för specifika projekt och användare.

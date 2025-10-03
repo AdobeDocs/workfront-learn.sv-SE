@@ -12,7 +12,7 @@ last-substantial-update: 2024-07-24T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 0%
@@ -29,7 +29,7 @@ I videon får du en stegvis guide om hur du skapar två typer av rapporter för 
 I videon betonas hur du anpassar kolumner och filter för att skräddarsy rapporterna efter specifika behov, vilket gör det enklare att hantera och lösa problem effektivt. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

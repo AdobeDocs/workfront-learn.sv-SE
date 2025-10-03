@@ -1,6 +1,6 @@
 ---
 title: Logga arbetstider på arbetet i [!UICONTROL Hem]
-description: Lär dig hur du loggar tid för arbetstilldelningar i  [!DNL &#x200B; Workfront]. Förstå varför loggningstid kan behövas i din organisation.
+description: Lär dig hur du loggar tid för arbetstilldelningar i  [!DNL  Workfront]. Förstå varför loggningstid kan behövas i din organisation.
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -25,7 +25,7 @@ I den här videon får du lära dig:
 * Värdet för loggningstid
 * Så här loggar du tid för arbetstilldelningar
 
->[!VIDEO](https://video.tv.adobe.com/v/3438602/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops=1)
 
 ## Tips för att logga arbetstider på arbetet i [!DNL Home]
 

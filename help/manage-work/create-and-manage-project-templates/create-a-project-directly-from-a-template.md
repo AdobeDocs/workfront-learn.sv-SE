@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
-source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 I videon förklaras hur du skapar ett projekt från en mall. &#x200B; Om du har behörighet att öppna en mall kan du använda den som en genväg för att skapa ett projekt. &#x200B; Du gör detta genom att öppna mallen, öppna menyn med tre punkter och välja&quot;Skapa projekt&quot; &#x200B; Detta tar dig till en skärm där du kan redigera projektinformationen. &#x200B; Klicka på Skapa projekt när du är klar. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3456017/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

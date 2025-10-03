@@ -13,7 +13,7 @@ jira: KT-13737
 doc-type: video
 hide: true
 exl-id: 1ed29279-3452-49db-976a-157e4ed4c678
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Föregångare mellan projekt är ett enkelt sätt att skapa samband mellan aktiv
 
 >[!PREREQUISITES]
 >
->* [Lär dig att sekvensera uppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=sv-SE)
+>* [Lär dig att sekvensera uppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
 >* Eller så är du redan bekväm med att använda föregående i dina projekt
 
 
@@ -36,6 +36,6 @@ I den här videon får du lära dig:
 * Skapa en föregångare för flera projekt
 * Spåra föregående projekt i rapporter
 
->[!VIDEO](https://video.tv.adobe.com/v/3428950/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
 
-Om du vill veta mer om hur du skapar vyn **Föregångare och efterföljare** för flera projekt och rapporten **Föregångare och efterföljare** för flera projekt som används i videon kan du titta i självstudiekursen [Förstå grundläggande textläge för vyer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=sv-SE) och vara säker på att du använder de nödvändiga självstudiekurserna som finns där, om du behöver det.
+Om du vill veta mer om hur du skapar vyn **Föregångare och efterföljare** för flera projekt och rapporten **Föregångare och efterföljare** för flera projekt som används i videon kan du titta i självstudiekursen [Förstå grundläggande textläge för vyer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en) och vara säker på att du använder de nödvändiga självstudiekurserna som finns där, om du behöver det.

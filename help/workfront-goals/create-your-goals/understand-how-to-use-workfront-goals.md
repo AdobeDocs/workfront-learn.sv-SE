@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8888
 exl-id: 08cdc3de-dc45-4273-b17b-90ae753613c6
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '32'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# [!DNL Workfront Goals] - översikt
+# [!DNL Workfront Goals] Översikt
 
 I den här videon får du lära dig att:
 
@@ -24,4 +24,4 @@ I den här videon får du lära dig att:
 * Navigera i diagram
 * Navigera till måljustering
 
->[!VIDEO](https://video.tv.adobe.com/v/3431646/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12&learn=on&enablevpops=1)

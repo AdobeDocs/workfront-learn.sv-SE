@@ -13,7 +13,7 @@ exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 I videon förklaras vilken roll en systemadministratör har när det gäller att hantera åtkomst till ekonomisk information i Workfront. &#x200B; Administratören styr åtkomsten via åtkomstnivåer. &#x200B;
 I videon betonas att användare bara kan använda sin ekonomiska åtkomst till projekt de skapar eller till projekt där någon med ekonomisk åtkomst har delat den med sig.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

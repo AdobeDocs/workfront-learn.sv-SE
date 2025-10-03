@@ -11,7 +11,7 @@ thumbnail: 335071.png
 jira: KT-8762
 exl-id: 2a8e6306-36e2-4058-b9ab-e3fb37e6cfe3
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 * Så här använder du funktionsövergripande team
 * Skapa och associera team
 
->[!VIDEO](https://video.tv.adobe.com/v/3432881/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops=1)
 
 ## Skapa team
 
@@ -44,11 +44,11 @@ Team kan också skapas och inställningar upprättas via [!UICONTROL Teams] i [!
 
 När teamet har skapats redigerar du inställningarna genom att markera teamet i listan och klicka på [!UICONTROL Teaminställningar] till höger i fönstret.
 
-Justera inställningarna, till exempel för att tilldela en layoutmall, eller lägg till fler teammedlemmar. Du kan dessutom anpassa knappen [!UICONTROL Arbeta med &#x200B;] och knappen Klar som gruppen ska se om sina uppgifter och utfärda arbetstilldelningar.
+Justera inställningarna, till exempel för att tilldela en layoutmall, eller lägg till fler teammedlemmar. Du kan dessutom anpassa knappen [!UICONTROL Arbeta med ] och knappen Klar som gruppen ska se om sina uppgifter och utfärda arbetstilldelningar.
 
 ![[!UICONTROL Redigera team] fönster](assets/admin-fund-team-settings.png)
 
-Som standard anger knappen [!UICONTROL Arbeta på den] att du ska arbeta med uppgiften utan att ändra aktivitetens status till Pågår (eller motsvarande status). [!DNL Workfront] Om du vill att [!DNL Workfront] automatiskt ska ändra status ändrar du knappen [!UICONTROL Arbeta med &#x200B;] till en [!UICONTROL Start] -knapp. Markera bara rutan i teaminställningarna.
+Som standard anger knappen [!UICONTROL Arbeta på den] att du ska arbeta med uppgiften utan att ändra aktivitetens status till Pågår (eller motsvarande status). [!DNL Workfront] Om du vill att [!DNL Workfront] automatiskt ska ändra status ändrar du knappen [!UICONTROL Arbeta med ] till en [!UICONTROL Start] -knapp. Markera bara rutan i teaminställningarna.
 
 När du klickar på knappen [!UICONTROL Start] ändras aktivitetens eller ärendets status från Nytt, som är markerat i gruppinställningarna. [!DNL Workfront] loggar också ett faktiskt startdatum för aktiviteten.
 

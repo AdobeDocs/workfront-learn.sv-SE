@@ -12,7 +12,8 @@ jira: KT-17578
 last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+exl-id: 9200eeb4-db5d-45c1-9b17-28c6ca04de2d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 0%
@@ -23,14 +24,14 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Skapa ett begärandeflöde](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
->* [Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+>* [Skapa ett begärandeflöde](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
+>* [Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
 I videon förklaras hur du tillämpar en standardprocess för godkännande när du skapar en begärandekö. &#x200B; När en begäran skapas börjar den med statusen&quot;Nytt - Väntar på godkännande&quot; och ett meddelande om godkännande skickas till den utsedda godkännaren. &#x200B; Om det godkänns ändras statusen till&quot;Nytt&quot;, vilket innebär att tilldelade personer kan börja arbeta. &#x200B; Om statusen avvisas kan den felaktigt återställas till&quot;Nytt&quot; på grund av ett vanligt fel i konfigurationen av godkännandeprocessen. &#x200B;
 I videon visas att godkännandeprocessen aktiveras när statusen är&quot;Nytt&quot;, som är standard för nya begäranden. &#x200B; Om det avvisas ändras statusen till den tidigare statusen som standard, vilket inte är idealiskt för nya begäranden. &#x200B; Du bör istället välja en annan status, till exempel &quot;Won&#39;t Resolve&quot;. &#x200B; I videon visas även att det inte finns någon&quot;Avvisad&quot;-status som standard, men en systemadministratör kan skapa en om det behövs. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3455028/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 
@@ -46,4 +47,4 @@ I videon visas att godkännandeprocessen aktiveras när statusen är&quot;Nytt&q
 * [Delegera uppgifter, ärenden och godkännanden](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [Förstå gruppspecifika godkännandeprocesser](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Skapa ett begärandeflöde](/help/manage-work/request-queues/create-a-request-flow.md)
-* [Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+* [Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)

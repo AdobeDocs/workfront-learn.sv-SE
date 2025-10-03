@@ -12,7 +12,7 @@ last-substantial-update: 2025-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: e25e4a1a-474d-42c5-950c-0214339ac5a2
-source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -32,11 +32,11 @@ Det första du behöver göra innan du kan skapa en **rapport** på arbetsytan �
 
 [Introduktion till arbetsytans kontrollpaneler](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) visar hur du gör båda dessa steg för steg.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474846/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops=1)
 
 **Mer information finns i följande hjälpartiklar:**
-[Paneler på arbetsytan - översikt](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Skapa en KPI-rapport på en Canvas Dashboard ](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[Paneler på arbetsytan - översikt](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Skapa en KPI-rapport på en Canvas Dashboard ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

@@ -13,7 +13,7 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -27,7 +27,7 @@ I den här videon får du lära dig:
 * Så här delar du en projektmall som ger behörighet att aktivera och inaktivera den.
 * Så här aktiverar och inaktiverar du en projektmall.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444994/?quality=12&learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ I den här videon får du lära dig:
 
 ## Lär dig hur du skapar en anpassad vy för att se och redigera den aktiva statusen för projektmallar
 
-Om du vill skapa en projektmallsvy med en aktiv statuskolumn kan du läsa aktiviteten **Projektmallens aktiva statusvy** i [Skapa en grundvy](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
+Om du vill skapa en projektmallsvy med en aktiv statuskolumn kan du läsa aktiviteten **Projektmallens aktiva statusvy** i [Skapa en grundvy](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
 
 ## Rekommenderade självstudiekurser i detta ämne
 
