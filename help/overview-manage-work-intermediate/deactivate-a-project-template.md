@@ -32,7 +32,7 @@ I den här videon får du lära dig:
 
 ## Lär dig hur du skapar en anpassad vy för att se och redigera den aktiva statusen för projektmallar
 
-Om du vill skapa en projektmallsvy med en aktiv statuskolumn kan du läsa aktiviteten **Projektmallens aktiva statusvy** i [Skapa en grundvy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+Om du vill skapa en projektmallsvy med en aktiv statuskolumn kan du läsa aktiviteten **Projektmallens aktiva statusvy** i [Skapa en grundvy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=sv-SE).
 
 ## Rekommenderade självstudiekurser i detta ämne
 

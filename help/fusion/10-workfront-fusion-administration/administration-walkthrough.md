@@ -36,9 +36,9 @@ I den här videon får du lära dig:
 
 >[!NOTE]
 >
->Om din organisation har anslutit sig till Adobe Admin Console kan du läsa [Lägga till användare i Adobe Workfront Fusion via Adobe Admin Console](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html).
+>Om din organisation har anslutit sig till Adobe Admin Console kan du läsa [Lägga till användare i Adobe Workfront Fusion via Adobe Admin Console](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html?lang=sv-SE).
 
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/sv/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

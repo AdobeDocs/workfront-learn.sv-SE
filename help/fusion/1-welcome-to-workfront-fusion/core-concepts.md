@@ -38,7 +38,7 @@ I den här videon får du lära dig:
 
 Många av Workfront Fusion-användarna kommer till en punkt där de tänker på alla system de använder och frågar slutligen:&quot;Har Workfront Fusion kopplingar till ____?&quot; (Fyll i blanketten för de system du använder.)
 
-Det enklaste sättet att avgöra om Workfront Fusion har en färdig anslutning är att använda funktionen Lägg till app och söka efter en app efter namn. Du kan också kontrollera artikeln [Appar och deras moduler](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) på Experience League för att se en lista över program som Workfront Fusion kan ansluta till.
+Det enklaste sättet att avgöra om Workfront Fusion har en färdig anslutning är att använda funktionen Lägg till app och söka efter en app efter namn. Du kan också kontrollera artikeln [Appar och deras moduler](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=sv-SE) på Experience League för att se en lista över program som Workfront Fusion kan ansluta till.
 
 Kopplingar begränsas inte bara till apparna i den här artikeln. Om appen du vill arbeta med inte har någon fördefinierad anslutning kan du använda dessa moduler för att ansluta direkt till webbtjänsten:
 

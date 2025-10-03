@@ -30,7 +30,7 @@ I den här videon får du lära dig:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
-Mer information om [!UICONTROL Arbetsinsats] finns i artikeln [Översikt över arbetsinsatser](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en).
+Mer information om [!UICONTROL Arbetsinsats] finns i artikeln [Översikt över arbetsinsatser](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=sv-SE).
 
 ## Rekommenderade självstudiekurser i detta ämne
 

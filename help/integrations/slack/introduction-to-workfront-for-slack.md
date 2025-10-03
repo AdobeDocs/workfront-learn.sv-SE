@@ -27,5 +27,5 @@ I den här videon kommer du att:
 
 >[!NOTE]
 >
->Mer information om hur du konfigurerar [!UICONTROL Workfront för Slack] finns i [Adobe Workfront för Slack](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=en).
+>Mer information om hur du konfigurerar [!UICONTROL Workfront för Slack] finns i [Adobe Workfront för Slack](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=sv-SE).
 

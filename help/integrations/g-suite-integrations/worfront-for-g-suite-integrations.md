@@ -29,4 +29,4 @@ I den här videon får du lära dig att:
 
 ## Installera Adobe Workfront för G Suite
 
-Instruktioner om hur du installerar den senaste versionen finns i: [Installera Adobe Workfront för G Suite](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html).
+Instruktioner om hur du installerar den senaste versionen finns i: [Installera Adobe Workfront för G Suite](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html?lang=sv-SE).

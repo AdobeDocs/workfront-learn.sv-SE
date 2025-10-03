@@ -24,8 +24,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Skapa ett begärandeflöde](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
->* [Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+>* [Skapa ett begärandeflöde](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
+>* [Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
 I videon förklaras hur du tillämpar en standardprocess för godkännande när du skapar en begärandekö. &#x200B; När en begäran skapas börjar den med statusen&quot;Nytt - Väntar på godkännande&quot; och ett meddelande om godkännande skickas till den utsedda godkännaren. &#x200B; Om det godkänns ändras statusen till&quot;Nytt&quot;, vilket innebär att tilldelade personer kan börja arbeta. &#x200B; Om statusen avvisas kan den felaktigt återställas till&quot;Nytt&quot; på grund av ett vanligt fel i konfigurationen av godkännandeprocessen. &#x200B;
@@ -47,4 +47,4 @@ I videon visas att godkännandeprocessen aktiveras när statusen är&quot;Nytt&q
 * [Delegera uppgifter, ärenden och godkännanden](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [Förstå gruppspecifika godkännandeprocesser](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Skapa ett begärandeflöde](/help/manage-work/request-queues/create-a-request-flow.md)
-* [Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+* [Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)

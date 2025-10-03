@@ -33,9 +33,9 @@ Integrera Workfront med Creative Cloud för att hitta och uppdatera materialet d
 
 Du måste installera rätt plugin-program för det Adobe Creative Cloud-program du använder:
 
-* För Photoshop, se [Installera och öppna Adobe Workfront för Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
-* För XD, se [Installera och öppna Adobe Workfront för XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
-* För InDesign, Illustrator, Premiere Pro och After Effects, se [Installera och öppna Adobe Workfront för design och video](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
+* För Photoshop, se [Installera och öppna Adobe Workfront för Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=sv-SE&)
+* För XD, se [Installera och öppna Adobe Workfront för XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?lang=sv-SE&)
+* För InDesign, Illustrator, Premiere Pro och After Effects, se [Installera och öppna Adobe Workfront för design och video](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?lang=sv-SE&)
 
 >[!NOTE]
 >

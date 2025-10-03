@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Lär dig att sekvensera uppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
+>* [Lär dig att sekvensera uppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=sv-SE)
 >* Eller så är du redan bekväm med att använda föregående i dina projekt
 
 
@@ -39,8 +39,8 @@ I den här videon får du lära dig mer om:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
 
-Mer information om hur du använder föregående aktiviteter finns i [Använd föregående aktiviteter](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html).
+Mer information om hur du använder föregående aktiviteter finns i [Använd föregående aktiviteter](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=sv-SE).
 
-Mer information om uppgiftsbegränsningar finns i [Förstå och hantera varaktighetstyper och aktivitetsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
+Mer information om uppgiftsbegränsningar finns i [Förstå och hantera varaktighetstyper och aktivitetsbegränsningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=sv-SE).
 
-Mer information om föregångare mellan projekt finns i [Förstå föregångare mellan projekt](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html).
+Mer information om föregångare mellan projekt finns i [Förstå föregångare mellan projekt](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=sv-SE).

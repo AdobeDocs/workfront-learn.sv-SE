@@ -35,12 +35,12 @@ Fusion är en tilläggsprodukt som ingår i vissa Workfront-paket och inte i and
 
 För att kunna göra vad som helst i Fusion måste ni vara i ett team inom en organisation. Din Fusion-systemadministratör skapar team i din organisation och bjuder in användare till ett eller flera team.
 
-Din Fusion-systemadministratör skickar en ny användarinbjudan, som består av två e-postmeddelanden. När du har fått båda e-postmeddelandena följer du instruktionerna i [Logga in som ny användare](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/log-in-as-a-new-user.html?lang=en).
+Din Fusion-systemadministratör skickar en ny användarinbjudan, som består av två e-postmeddelanden. När du har fått båda e-postmeddelandena följer du instruktionerna i [Logga in som ny användare](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/log-in-as-a-new-user.html?lang=sv-SE).
 
 Om du är administratör för Fusion-system vill du läsa följande självstudiekurser för att lära dig hur du skapar team och lägger till nya användare.
 
-* [Förstå organisationer, team och användare](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=en)
-* [Administrationsgenomgång](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=en)
+* [Förstå organisationer, team och användare](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=sv-SE)
+* [Administrationsgenomgång](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=sv-SE)
 
 ## Introduktion och teknikstrategi
 

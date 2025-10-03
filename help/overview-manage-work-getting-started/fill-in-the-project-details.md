@@ -33,4 +33,4 @@ I den här videon får du lära dig mer om de vanligaste projektinställningarna
 * [Navigera på projektsidan](/help/manage-work/projects/navigate-the-project-page.md)
 * [Lär dig fyra sätt att skapa ett projekt](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Kom igång med projektplaneringen](/help/manage-work/projects/getting-started-plan-a-project.md)
-* [Redigera projekt](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)
+* [Redigera projekt](https://experienceleague.adobe.com/sv/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)
