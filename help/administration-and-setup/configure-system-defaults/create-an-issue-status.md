@@ -31,7 +31,7 @@ ht-degree: 0%
 1. Markera rutorna för den typ av problem som den här statusen kan användas med.
 1. Klicka på **[!UICONTROL Spara]**.
 
-![Nytt statusfönster på sidan [!UICONTROL Status] ](assets/admin-fund-create-issue-status.png)
+![Nytt statusfönster på sidan [!UICONTROL Status] &#x200B;](assets/admin-fund-create-issue-status.png)
 
 ## Utfärda status och gruppadministratörer
 
@@ -41,7 +41,7 @@ Gruppadministratörer kan redigera befintliga statusvärden om systemadministrat
 
 Systemadministratörer kan hantera status för grupper genom att markera gruppnamnet i det övre högra hörnet av fönstret [!UICONTROL Status] .
 
-![Menyn Grupplista på sidan [!UICONTROL Status] ](assets/admin-fund-change-group-master-list.png)
+![Menyn Grupplista på sidan [!UICONTROL Status] &#x200B;](assets/admin-fund-change-group-master-list.png)
 
 Gruppadministratörer kan klicka i avsnittet [!UICONTROL Grupper] i området [!UICONTROL Inställningar], öppna gruppen genom att klicka på namnet och sedan välja [!UICONTROL Status] på den vänstra panelmenyn. Se till att du väljer fliken Problem.
 

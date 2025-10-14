@@ -37,7 +37,7 @@ I sällsynta fall - som en oavsiktlig inmatning eller en testanvändare - kan en
 
 [!DNL Workfront] **strongly** rekommenderar att du inaktiverar en användare i stället för att ta bort en användare. Om du inaktiverar behålls användarinformationen i [!DNL Workfront], vilket kan behövas för korrekt rapportering, projekthantering osv. Om du har frågor om huruvida du ska inaktivera eller ta bort en användare, kan du kontakta din [!DNL Workfront]-konsult eller [!DNL Workfront] kundsupport.
 
-![Fler meny med alternativ på [!DNL Users] sida ](assets/admin-fund-adding-users-11.png)
+![Fler meny med alternativ på [!DNL Users] sida &#x200B;](assets/admin-fund-adding-users-11.png)
 
 ### Inaktivera eller ta bort en användare
 

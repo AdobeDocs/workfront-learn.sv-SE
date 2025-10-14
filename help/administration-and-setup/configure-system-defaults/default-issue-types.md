@@ -49,7 +49,7 @@ need URL in paragraph below
 
 Status för ett problem kan visas och ändras i [!UICONTROL Ärendeinformation]. Du kan även ändra utgåvan av en status i utgåvans sidhuvud längst till höger.
 
-![[!UICONTROL Status] i sidhuvudet och [!UICONTROL Ärendeinformation] sida ](assets/admin-fund-issue-details-status.png)
+![[!UICONTROL Status] i sidhuvudet och [!UICONTROL Ärendeinformation] sida &#x200B;](assets/admin-fund-issue-details-status.png)
 
 Du kan lägga till kolumnen [!UICONTROL Status] i en vy eller anpassad rapport, så att den blir synlig och snabb att ändra.
 

@@ -44,7 +44,7 @@ Genom att exportera granskningsloggdata kan systemadministratörer dela informat
 
 Granskningsloggar kan exporteras i en CSV-fil (kommaavgränsat värde) som kan öppnas i ett kalkylbladsprogram eller en vanlig textredigerare. Exporten är begränsad till 50 000 rader i taget, så använd filtren för att begränsa listan om summan överstiger 50 000.
 
-![[!UICONTROL Exportera] på [!UICONTROL Granskningsloggar] sida ](assets/admin-fund-audit-log-3.png)
+![[!UICONTROL Exportera] på [!UICONTROL Granskningsloggar] sida &#x200B;](assets/admin-fund-audit-log-3.png)
 
 <!--
 learn more URLs
