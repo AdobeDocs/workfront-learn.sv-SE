@@ -24,8 +24,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Skapa en begärandekö](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
->* [Skapa ett begärandeflöde](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
+>* [Skapa en begärandekö](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=sv-SE)
+>* [Skapa ett begärandeflöde](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=sv-SE)
 >* Du kan också redan skapa en begärandekö som använder en routningsregel och ett anpassat formulär.
 
 I videon finns en stegvis guide om hur du skapar en kö för feedback-begäranden för systemadministratörer.
@@ -45,9 +45,9 @@ I videon betonas vikten av användardeltagande och öppenhet i processuppgraderi
 * **Testning och tillgänglighet:** Kön testas med exempelbegäranden för att säkerställa funktionalitet. Det publiceras som en kö för hjälpbegäranden som är tillgänglig för alla användare, med en standardslutförandetid på 10 dagar.
 
 
-Mer information om hur du skapar den **feedback-rapport för administratörsteamet** som används i videon finns i **Skapa en feedback-rapport för administratörsteamet** i självstudiekursen [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) .
+Mer information om hur du skapar den **feedback-rapport för administratörsteamet** som används i videon finns i **Skapa en feedback-rapport för administratörsteamet** i självstudiekursen [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) .
 
-Om du vill lära dig hur du skapar ett anpassat formulär kan du läsa självstudiekursen [Skapa och dela ett anpassat formulär](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html).
+Om du vill lära dig hur du skapar ett anpassat formulär kan du läsa självstudiekursen [Skapa och dela ett anpassat formulär](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=sv-SE).
 
 ## Rekommenderade självstudiekurser i detta ämne
 
