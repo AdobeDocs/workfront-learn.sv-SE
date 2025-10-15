@@ -26,7 +26,7 @@ I den här videon får du lära dig:
 * När en matrisrapport kan användas
 * Och hur du skapar en matrisrapport
 
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3448187/?captions=swe&quality=12&learn=on&enablevpops=0)
 
 ## Viktiga uppgifter
 

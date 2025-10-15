@@ -41,7 +41,7 @@ I den här videon får du lära dig mer om:
 * Kamerafodral
 * Vissa _kodblock för textläge_ som du kan använda i rapportfiltren
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470327/?captions=swe&quality=12&learn=on&enablevpops=0)
 
 ## &quot;Förstå grundläggande textläge för filter&quot;-aktiviteter
 

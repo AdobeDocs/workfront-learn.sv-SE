@@ -25,7 +25,7 @@ I videon förklaras hur du skapar och använder filter med flera regler i Workfr
 Du kan också ändra filterlogiken till &quot;OR&quot;, som visar objekt som uppfyller något av villkoren.
 I videon visas även hur du skapar filter för åtgärder med filtergrupper. &#x200B; Du kan till exempel skapa två grupper: en för ofullständiga uppgifter som tilldelats det kreativa teamet som är sena och en annan för ofullständiga uppgifter som tilldelats det kreativa teamet som inte är tilldelade. &#x200B; Inom varje grupp gäller&quot;AND&quot;-logik, vilket innebär att alla villkor i gruppen måste vara uppfyllda. &#x200B; Logiken&quot;OR&quot; mellan grupper säkerställer att uppgifter som uppfyller villkoren för någon av grupperna visas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470697/?captions=swe&quality=12&learn=on&enablevpops=0)
 
 ## OR-filteraktivitet
 

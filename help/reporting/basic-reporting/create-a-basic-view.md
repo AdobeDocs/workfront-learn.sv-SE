@@ -25,7 +25,7 @@ I videon förklaras hur du skapar och anpassar vyer i Workfront för att visa sp
 
 I videon betonas flexibiliteten i vyerna i Workfront och den innehåller stegvisa instruktioner för att skapa, anpassa och hantera dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450242/?captions=swe&quality=12&learn=on&enablevpops=0)
 
 ## Viktiga uppgifter
 

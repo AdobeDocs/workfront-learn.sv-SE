@@ -29,7 +29,7 @@ I den här videon får du lära dig att:
 * Skapa ett anpassat datum med jokertecken, attribut, operatorer och modifierare
 * Skapa ett anpassat datumintervall med jokertecken
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3464543/?captions=swe&quality=12&learn=on&enablevpops=0)
 
 
 ## Skapa filter med datumbaserade jokertecken

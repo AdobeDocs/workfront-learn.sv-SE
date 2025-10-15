@@ -27,7 +27,7 @@ I den här videon får du lära dig:
 * Dela rapporter med vem som helst
 * Vad mottagarna kan se och göra med en Workfront-rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3447816/?captions=swe&quality=12&learn=on&enablevpops=0)
 
 ## Viktiga uppgifter
 

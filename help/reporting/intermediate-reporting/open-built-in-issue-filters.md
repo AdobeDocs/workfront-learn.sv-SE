@@ -27,7 +27,7 @@ I den här videon kommer du att:
 * Läs mer om några användbara element för problemrapportering
 * Lär dig hur du skapar ett eget problemfilter
 
->[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3469990/?captions=swe&quality=12&learn=on&enablevpops=0)
 
 
 ## Inbyggda problemfilter

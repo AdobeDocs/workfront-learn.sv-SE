@@ -27,7 +27,7 @@ I den här videon får du lära dig:
 * Vilken villkorlig formatering finns i en vy
 * Skapa och ändra villkorsstyrd formatering
 
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3445445/?captions=swe&quality=12&learn=on&enablevpops=0)
 
 
 ## Sammanfattning av villkorsstyrd formatering

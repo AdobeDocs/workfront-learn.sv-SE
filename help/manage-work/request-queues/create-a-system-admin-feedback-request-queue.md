@@ -34,7 +34,7 @@ I videon betonas vikten av användardeltagande och öppenhet i processuppgraderi
 &#x200B;Länkar till självstudiekurser för att skapa rapporter och anpassade formulär finns för ytterligare vägledning.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450501/?captions=swe&quality=12&learn=on&enablevpops=0)
 
 ## Viktiga uppgifter
 

@@ -26,7 +26,7 @@ I den här videon får du lära dig att:
 * Förstå varför du använder jokertecken
 * Skapa ett filter med ett användarbaserat jokertecken
 
->[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3464482/?captions=swe&quality=12&learn=on&enablevpops=0)
 
 >[!TIP]
 >
