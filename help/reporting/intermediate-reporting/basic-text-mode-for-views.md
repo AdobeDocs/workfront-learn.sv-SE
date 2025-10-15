@@ -452,7 +452,7 @@ valueformat=HTML
 width=150
 ```
 
-![En skärmbild som visar alla medlemmar i projektgruppen ](assets/all-resolve-project-team-members.png)
+![En skärmbild som visar alla medlemmar i projektgruppen &#x200B;](assets/all-resolve-project-team-members.png)
 
 ### Problem - Upprepning som visar alla team för problemets primära kontakt
 

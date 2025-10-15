@@ -41,8 +41,8 @@ Den resulterande rapporten hjälper användarna att fokusera på sena uppgifter,
 >[!TIP]
 >
 >Dela upp dina spatulor och mixa skålar och gör dig redo att prova recepten i vår [Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf). Inuti finns stegvisa instruktioner för 10 rapporter, klara att användas i din miljö idag.
->>Vi har samlat in rapporter från kunderna och sammanställt dem i en lättsmält kokbok som du kan ta tillbaka och testa i ditt eget Workfront-kök.
->>Dessa 10 rapporter kommer från kunder som är precis som du. Vi är skyldiga ett stort tack till de fantastiska kunder som delade en av sina favoritrapporter, som sprids ut över olika branscher, avdelningar, team, befattningar och alla i olika företag. Vissa rapporter är enkla (men mycket användbara), och vissa är mer komplexa för att ta dina rapporter till nästa nivå.
+>&#x200B;>Vi har samlat in rapporter från kunderna och sammanställt dem i en lättsmält kokbok som du kan ta tillbaka och testa i ditt eget Workfront-kök.
+>&#x200B;>Dessa 10 rapporter kommer från kunder som är precis som du. Vi är skyldiga ett stort tack till de fantastiska kunder som delade en av sina favoritrapporter, som sprids ut över olika branscher, avdelningar, team, befattningar och alla i olika företag. Vissa rapporter är enkla (men mycket användbara), och vissa är mer komplexa för att ta dina rapporter till nästa nivå.
 
 
 ### Aktivitet 1: Skapa en anteckningsrapport med uppmaningar
