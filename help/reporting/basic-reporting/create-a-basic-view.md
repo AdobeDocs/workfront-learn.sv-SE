@@ -12,7 +12,7 @@ last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '976'
 ht-degree: 0%
@@ -25,7 +25,7 @@ I videon förklaras hur du skapar och anpassar vyer i Workfront för att visa sp
 
 I videon betonas flexibiliteten i vyerna i Workfront och den innehåller stegvisa instruktioner för att skapa, anpassa och hantera dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450242/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0)
 
 ## Viktiga uppgifter
 
@@ -114,7 +114,7 @@ Skapa en uppgiftsvy med namnet&quot;Varaktighetstyper och vyn över uppgiftsbegr
 * [!UICONTROL Aktivitetsbegränsning]
 * [!UICONTROL Begränsningsdatum]
 
-Ändra [!UICONTROL fältformatet &#x200B;] i kolumnerna [!UICONTROL Starta den] och [!UICONTROL Förfaller den &#x200B;] så att både datum och tid visas.
+Ändra [!UICONTROL fältformatet ] i kolumnerna [!UICONTROL Starta den] och [!UICONTROL Förfaller den ] så att både datum och tid visas.
 
 ### Svar 3
 
@@ -122,7 +122,7 @@ Skapa en uppgiftsvy med namnet&quot;Varaktighetstyper och vyn över uppgiftsbegr
 
 1. Gå till listrutan **[!UICONTROL Visa]** i en projektuppgiftslista och välj **[!UICONTROL Ny vy]**.
 1. Ge din vy namnet&quot;Varaktighetstyper och vyn Begränsade uppgifter&quot;.
-1. Ta bort kolumnen [!UICONTROL &#x200B; % färdigt].
+1. Ta bort kolumnen [!UICONTROL  % färdigt].
 1. Klicka på **[!UICONTROL Lägg till kolumn]**.
 1. I fältet [!UICONTROL Visa i den här kolumnen] skriver du [!UICONTROL &quot;duration&quot;] och väljer sedan [!UICONTROL &quot;Planerad varaktighet&quot;] under fältkällan [!UICONTROL Aktivitet].
 1. Flytta den här kolumnen mellan kolumnerna [!UICONTROL Varaktighet] och [!UICONTROL Planera timmar].

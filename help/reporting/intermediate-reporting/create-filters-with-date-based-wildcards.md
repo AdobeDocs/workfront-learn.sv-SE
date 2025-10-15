@@ -12,7 +12,7 @@ last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -29,7 +29,7 @@ I den här videon får du lära dig att:
 * Skapa ett anpassat datum med jokertecken, attribut, operatorer och modifierare
 * Skapa ett anpassat datumintervall med jokertecken
 
->[!VIDEO](https://video.tv.adobe.com/v/3464543/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops=0)
 
 
 ## Skapa filter med datumbaserade jokertecken

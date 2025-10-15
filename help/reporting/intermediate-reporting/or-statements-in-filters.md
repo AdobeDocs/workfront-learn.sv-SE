@@ -12,7 +12,7 @@ jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 last-substantial-update: 2025-08-11T00:00:00Z
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -25,7 +25,7 @@ I videon förklaras hur du skapar och använder filter med flera regler i Workfr
 Du kan också ändra filterlogiken till &quot;OR&quot;, som visar objekt som uppfyller något av villkoren.
 I videon visas även hur du skapar filter för åtgärder med filtergrupper. &#x200B; Du kan till exempel skapa två grupper: en för ofullständiga uppgifter som tilldelats det kreativa teamet som är sena och en annan för ofullständiga uppgifter som tilldelats det kreativa teamet som inte är tilldelade. &#x200B; Inom varje grupp gäller&quot;AND&quot;-logik, vilket innebär att alla villkor i gruppen måste vara uppfyllda. &#x200B; Logiken&quot;OR&quot; mellan grupper säkerställer att uppgifter som uppfyller villkoren för någon av grupperna visas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470697/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0)
 
 ## OR-filteraktivitet
 

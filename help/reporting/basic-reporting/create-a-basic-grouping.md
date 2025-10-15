@@ -12,7 +12,7 @@ jira: KT-8853
 last-substantial-update: 2025-05-08T00:00:00Z
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 I den här videon beskrivs hur du skapar och hanterar grupperingar i Workfront för att ordna projektlistor effektivt. &#x200B; Grupperingar är ett av de tre huvudelementen för rapportering, tillsammans med filter och vyer, och de hjälper dig att ordna resultaten baserat på delad information. &#x200B;
 I den här självstudiekursen beskrivs hur du organiserar projektlistor för att effektivisera det dagliga arbetet och samarbetet. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3449819/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on&enablevpops=0)
 
 ## Viktiga uppgifter
 

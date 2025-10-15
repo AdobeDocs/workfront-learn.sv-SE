@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Lär dig skapa en projektmall från grunden och från ett befintligt projekt, oc
 * När mallen har skapats kan den användas för att skapa nya projekt. I videon visas hur du skapar ett nytt projekt från mallen, gör nödvändiga justeringar och lägger till uppgifter eller ändrar varaktigheten efter behov. &#x200B; Här visas också hur du tilldelar jobbroller till aktiviteter med hjälp av funktioner för resursplanering och planering. &#x200B;
 * I videon förklaras hur du sparar ett befintligt projekt som en ny mall, vilket möjliggör uppdateringar och förbättringar i arbetsflödet. &#x200B; Det betonar vikten av att hantera mallar för att undvika förvirring och säkerställa ett smidigt projektgenomförande. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
 ## Viktiga uppgifter
 

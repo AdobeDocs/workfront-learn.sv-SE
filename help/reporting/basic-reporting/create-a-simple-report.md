@@ -12,7 +12,7 @@ last-substantial-update: 2025-05-09T00:00:00Z
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
@@ -25,7 +25,7 @@ I den här videon förklaras hur du skapar och anpassar projektrapporter för at
 
 I videon betonas att anpassade rapporter behåller standardinställningarna, men tillfälliga ändringar kan göras när de visas. &#x200B; Rapporterna lagras i delen Mina rapporter, medan delade rapporter visas i &#x200B; Delade med mig. Rapporter som används ofta kan fästas eller markeras som favoriter så att de blir lätta att komma åt. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on&enablevpops=0)
 
 ## Viktiga uppgifter
 
