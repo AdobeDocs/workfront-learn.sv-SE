@@ -60,6 +60,6 @@ Utmaningarna är för dem som vill prova något som inbegriper andra koncept som
 
 Du får stegvisa instruktioner som hjälper dig igenom genomgången.
 
-[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/sv/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
 Det finns också en [Workfront Fusion 2.0-community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) där du kan ställa frågor.
