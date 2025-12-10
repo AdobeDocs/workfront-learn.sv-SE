@@ -26,5 +26,5 @@ Lär dig hur du tar bort, lägger till och ordnar om widgetar på hemsidan.
 
 >[!NOTE]
 >
-> Mer information om varje widget finns i artikeln [Kom igång med nytt hem i Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=en).
+> Mer information om varje widget finns i artikeln [Kom igång med nytt hem i Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=sv-SE).
 
