@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Lär dig hur du tar bort, lägger till och ordnar om widgetar på hemsidan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448977/?captions=swe&quality=12&learn=on&enablevpops=1)
 
 
 >[!NOTE]
