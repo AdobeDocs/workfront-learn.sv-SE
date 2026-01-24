@@ -98,7 +98,7 @@ Genom att gå igenom varje fas, och med hjälp av checklistan för den ärvda in
 </br>
 
 Ytterligare information finns nedan:
-* [Webbinarium: Tips för att ta över en ärvd instans](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
+* [Webbinarium: Tips för att ta över en ärvd instans](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?profile.language=sv)
 * [Definiera mål för din Workfront-implementering](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=sv-SE)
-* [Blogginlägg: Executive Sponsorship and Value to Leadership](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
-* [Blog Post: Introduktion till Adobe Workfront KPI:er](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
+* [Blogginlägg: Executive Sponsorship and Value to Leadership](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353?profile.language=sv)
+* [Blog Post: Introduktion till Adobe Workfront KPI:er](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001?profile.language=sv)
