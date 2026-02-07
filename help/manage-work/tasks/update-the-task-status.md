@@ -20,7 +20,7 @@ ht-degree: 0%
 
 I videon finns en självstudiekurs om hur, varför och hur ofta uppgiftsstatusen ska uppdateras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471171/?captions=swe&quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

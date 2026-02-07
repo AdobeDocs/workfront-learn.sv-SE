@@ -24,7 +24,7 @@ ht-degree: 0%
 I videon betonas vikten av kommunikation inom projektledning och vikten av att frågor är ett viktigt verktyg för att underlätta kommunikation. &#x200B; Den förklarar skillnaden mellan uppdateringar och problem och noterar att problemen är bättre lämpade för arbete som behöver tilldelas, spåras och lösas innan ett projekt kan slutföras. &#x200B; I videon finns en stegvis guide om hur du loggar problem. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446570/?captions=swe&quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

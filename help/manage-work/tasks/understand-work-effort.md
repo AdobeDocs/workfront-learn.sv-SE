@@ -24,7 +24,7 @@ ht-degree: 0%
 I videon förklaras hur du använder funktionen Arbete i Workfront för att beräkna planerade timmar för uppgifter när exakta uppskattningar är svåra att fastställa.
 Här visas hur du kan skapa en anpassad arbetsinsats för att effektivisera uppgiftshanteringen genom att lägga till relevanta kolumner som Arbetsinsats, Planerade timmar och Varaktighetstyp
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447403/?captions=swe&quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

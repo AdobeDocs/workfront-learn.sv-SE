@@ -25,7 +25,7 @@ I videon förklaras hur du använder Portfolio Optimization Tool i Workfront fö
 
 I videon betonas vikten av att slutföra affärsärenden för exakta jämförelser och den innehåller stegvisa instruktioner för att optimera och hantera projektprioriteringar effektivt. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446279/?captions=swe&quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

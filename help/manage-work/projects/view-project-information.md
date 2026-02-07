@@ -33,7 +33,7 @@ I den här videon får du en översikt över filter, vyer och grupperingar i Wor
 
 I videon framhävs anpassning och den innehåller länkar till självstudiekurser för vidare utbildning. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453070/?captions=swe&quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

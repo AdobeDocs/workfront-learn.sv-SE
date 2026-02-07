@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Videon innehåller en detaljerad guide om hur du gör och hanterar förfrågningar inom Workfront. Här beskrivs hur du skapar en begäran. Börja med att välja&quot;Begäranden&quot; på huvudmenyn och klicka på knappen&quot;Ny begäran&quot;. &#x200B; Användarna kan välja en frågetyp bland anpassade köer som är anpassade efter organisationens arbetsflöden.
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3470907/?captions=swe&quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

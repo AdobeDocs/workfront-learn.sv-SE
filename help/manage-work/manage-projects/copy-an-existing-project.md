@@ -27,7 +27,7 @@ Klicka på Kopiera projekt för att slutföra &#x200B;
 Problem kan inte kopieras direkt under den här processen eftersom de inte betraktas som planerade arbeten. &#x200B; Om du vill kopiera problem går du till fliken Problem, markerar önskade problem och använder alternativet Kopiera till för att överföra dem till det nya projektet. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456042/?captions=swe&quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 
