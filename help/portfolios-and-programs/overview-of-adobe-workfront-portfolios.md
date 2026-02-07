@@ -1,5 +1,5 @@
 ---
-title: Förstå portföljer
+title: Utforska portföljhantering och optimering
 description: Optimera projekturvalet i Workfront med Portfolio Optimizer, skapa portfolior med hanterad åtkomst, ordna projekt och program samt förbereda ärenden för välunderbyggda beslut.
 activity: use
 team: Technical Marketing
@@ -12,19 +12,19 @@ recommendations: noDisplay,catalog
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
 
-# Förstå portföljer
+# Utforska portföljhantering och optimering
 
 I videon förklaras portföljhanteringen och här fokuseras på hur chefer kan optimera projekturvalet för att passa företagets mål. &#x200B; Där introduceras begreppet portföljer som samlingar av projekt som konkurrerar om delade resurser, budgetar och tidsplaner. &#x200B; Chefer kan använda verktyg som Portfolio Optimizer för att jämföra projekt baserat på kriterier som arbete, utgifter, risk, avkastning och anpassning till portföljens mål. &#x200B; Att förbereda projekt för jämförelse innebär att skapa ett affärsfall för varje projekt. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442832/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Självstudiekurser om Workfront
 user-guide-description: Ett bibliotek med utbildningsvideor och artiklar som hjälper dig att förstå Workfront funktioner och inställningar bättre.
-source-git-commit: ecacc319b909a488a176ef69bc44de415470390d
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '2356'
-ht-degree: 1%
+source-wordcount: '2428'
+ht-degree: 0%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 1%
 
    + Godkännandeprocesser och milstolpar {#approval-processes-and-milestone-paths}
       + [Förstå gruppspecifika godkännandeprocesser](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-      + [Skapa milstolpar](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+      + [Skapa banor och steg för milstolpar](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
    + Systemprestanda och underhåll {#system-perfomance-and-maintenance}
       + [Ta hand om en befintlig Adobe Workfront-instans](/help/administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
@@ -105,44 +105,44 @@ ht-degree: 1%
 
 + Hantera arbete {#manage-work}
    + Projekt {#projects}
-      + [Förstå grundläggande projektskapande](/help/manage-work/projects/understand-basic-project-creation.md)
+      + [Skapa och hantera ett projekt från grunden](/help/manage-work/projects/understand-basic-project-creation.md)
       + [Navigera på projektsidan](/help/manage-work/projects/navigate-the-project-page.md)
-      + [Lär dig fyra sätt att skapa ett projekt](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [Fyll i projektinformationen](/help/manage-work/projects/fill-in-the-project-details.md)
-      + [Kom igång med projektplaneringen](/help/manage-work/projects/getting-started-plan-a-project.md)
+      + [Utforska fyra metoder för att skapa ett projekt](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [Fyll i viktig projektinformation](/help/manage-work/projects/fill-in-the-project-details.md)
+      + [Planera ett projekt effektivt i Workfront](/help/manage-work/projects/getting-started-plan-a-project.md)
       + [Ta ett projekt live](/help/manage-work/projects/take-a-project-live.md)
-      + [Kom igång med att hantera ett projekt](/help/manage-work/projects/getting-started-manage-a-project.md)
-      + [Hitta projekt](/help/manage-work/projects/find-projects.md)
-      + [Dela ett projekt](/help/manage-work/projects/share-a-project.md)
+      + [Hantera ett projekt med aktuell status](/help/manage-work/projects/getting-started-manage-a-project.md)
+      + [Hitta projekt effektivt](/help/manage-work/projects/find-projects.md)
+      + [Utbyt projekt effektivt i Workfront](/help/manage-work/projects/share-a-project.md)
       + [Förstå projektgruppen](/help/manage-work/projects/understand-the-project-team.md)
-      + [Förstå projektkommunikation](/help/manage-work/projects/understand-project-communication.md)
-      + [Visa projektinformation](/help/manage-work/projects/view-project-information.md)
+      + [Förbättra projektframgången genom effektiv kommunikation](/help/manage-work/projects/understand-project-communication.md)
+      + [Utforska filter, vyer och grupperingar för projekthantering](/help/manage-work/projects/view-project-information.md)
       + [Spåra projektets övergripande förlopp](/help/manage-work/projects/track-overall-project-progress.md)
       + [Spåra arbetets förlopp med projektstatistik](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
       + [Förstå [!UICONTROL Gantt]-vyn](/help/manage-work/projects/understand-the-gantt-view.md)
       + [Förstå vyn för [!UICONTROL anslagstavlan]](/help/manage-work/projects/understand-the-board-view.md)
 
    + Uppgifter {#tasks}
-      + [Skapa uppgifter](/help/manage-work/tasks/how-to-create-tasks.md)
-      + [Förstå överordnade-underordnade uppgifter](/help/manage-work/tasks/understand-parent-child-tasks.md)
-      + [Arbeta med uppgifter](/help/manage-work/tasks/work-with-tasks.md)
+      + [Skapa arbetsmoment effektivt i Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
+      + [Förstå relationer mellan överordnade och underordnade uppgifter](/help/manage-work/tasks/understand-parent-child-tasks.md)
+      + [Hantera uppgifter effektivt i Workfront](/help/manage-work/tasks/work-with-tasks.md)
       + [Tilldela uppgifter från projektplanen](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-      + [Uppdatera aktivitetsstatus](/help/manage-work/tasks/update-the-task-status.md)
+      + [Uppdatera aktivitetsstatus för korrekt rapportering](/help/manage-work/tasks/update-the-task-status.md)
       + [Förstå varaktigheter för uppgifter](/help/manage-work/tasks/understand-task-durations.md)
-      + [Lär dig att sekvensera uppgifter](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+      + [Effektiva sekvensuppgifter i Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
       + [Förstå planerade timmar](/help/manage-work/tasks/understand-planned-hours.md)
-      + [[!UICONTROL Arbetsinsats]](/help/manage-work/tasks/understand-work-effort.md)
+      + [Beräkna arbetstider med arbetsinsats](/help/manage-work/tasks/understand-work-effort.md)
 
    + Problem/förfrågningar {#issues-requests}
-      + [Hantera oplanerade arbeten](/help/manage-work/issues-requests/handle-unplanned-work.md)
-      + [Gör en förfrågan](/help/manage-work/issues-requests/make-a-request.md)
-      + [Söka efter och hantera förfrågningar](/help/manage-work/issues-requests/find-requests.md)
-      + [Hantera utleveranstilldelningar](/help/manage-work/issues-requests/manage-issue-assignments.md)
-      + [Uppdatera utgivningsstatus](/help/manage-work/tasks/update-the-issue-status.md)
-      + [Uppdatera en begäran](/help/manage-work/issues-requests/update-a-request.md)
+      + [Hantera oplanerade arbeten effektivt](/help/manage-work/issues-requests/handle-unplanned-work.md)
+      + [Skapa och hantera förfrågningar i Workfront](/help/manage-work/issues-requests/make-a-request.md)
+      + [Hitta och hantera förfrågningar effektivt](/help/manage-work/issues-requests/find-requests.md)
+      + [Hantera ärenden effektivt](/help/manage-work/issues-requests/manage-issue-assignments.md)
+      + [Uppdatera utleveransstatus effektivt](/help/manage-work/tasks/update-the-issue-status.md)
+      + [Uppdatera en begäran i Workfront](/help/manage-work/issues-requests/update-a-request.md)
       + [Konvertera ett problem/en begäran till ett projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
       + [Konvertera ett problem/en begäran till en uppgift](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [Rapportera problem](/help/manage-work/issues-requests/report-on-issues.md)
+      + [Skapa anpassade rapporter för problemhantering](/help/manage-work/issues-requests/report-on-issues.md)
 
    + Begäranköer {#request-queues}
       + [Förstå begärandeköer](/help/manage-work/request-queues/understand-request-queues.md)
@@ -153,36 +153,36 @@ ht-degree: 1%
       + [Svar på vanliga frågor om begärandeköer](/help/manage-work/request-queues/request-queue-faq.md)
 
    + Portföljer {#portfolios}
-      + [Förstå portföljer](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [Förstå [!UICONTROL affärsärendet]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Förstå [!UICONTROL Portfolio Optimizer]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [Utforska portföljhantering och optimering](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [Skapa ett omfattande affärsärende](/help/portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Optimera projektprioriteringarna med Portfolio Optimization Tool](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Godkännandeprocesser och milstolpar {#approval-processes-and-milestone-paths}
       + [Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Använda en godkännandeprocess i en begärandekö](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [Granska och godkänn digitalt arbete](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
-      + [Delegera uppgifter, ärenden och godkännanden](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [Använd milstolpar](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-      + [Visa milstolpar](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+      + [Delegera uppgifter, ärenden och godkännanden effektivt](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+      + [Använd milstolpe-banor för projekt och uppgifter](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [Visa milstolpar i dina projekt](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + Skapa och hantera projektmallar {#create-and-manage-project-templates}
-      + [Skapa en projektmall och lär dig mer om utkast](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [Skapa en projektmall och utforska utkast](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Skapa ett projekt direkt från en mall](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-      + [Dela en projektmall](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-      + [Kopiera ett befintligt projekt](/help/manage-work/manage-projects/copy-an-existing-project.md)
+      + [Dela en projektmall effektivt](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+      + [Kopiera ett befintligt projekt effektivt](/help/manage-work/manage-projects/copy-an-existing-project.md)
       + [Inaktivera en projektmall](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-      + [Redigera projektteamet i en projektmall](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+      + [Redigera projektteamet i en mall](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + Projekttidslinjer {#project-timelines}
-      + [Förstå projekttidslinjer](/help/manage-work/project-timelines/understand-project-timelines.md)
+      + [Se projekttidslinjer i Workfront](/help/manage-work/project-timelines/understand-project-timelines.md)
       + [Förstå datumtyper och förloppsstatus](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-      + [Spåra förlopp från projekttidslinjen](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+      + [Spåra förlopp med status för procent färdigt och förlopp](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + Stänga ett projekt {#close-a-project}
       + [Ändra projektstatus till slutförd](/help/manage-work/projects/change-the-project-status.md)
-      + [Fullständiga godkännanden](/help/manage-work/close-a-project/complete-approvals.md)
-      + [Överför resurser](/help/manage-work/close-a-project/upload-assets.md)
-      + [Spela in lektioner](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+      + [Lös uppgifter och utfärda godkännanden](/help/manage-work/close-a-project/complete-approvals.md)
+      + [Överföra och hantera projektresurser](/help/manage-work/close-a-project/upload-assets.md)
+      + [Spela in lärdomar för framtida projekt](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [Logga och granska timmar](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + Projektfinansiering för användare {#project-finances-users}
@@ -335,10 +335,10 @@ ht-degree: 1%
       + [Integrera med Creative Cloud med Adobe Workfront plugins](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Konfigurerar integreringen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=sv-SE)
-      + [Mappar metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=sv-SE)
-      + [Skickar dokument och länkar resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=sv-SE)
-      + [Behåller versionshistorik](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=sv-SE)
+      + [Konfigurerar integreringen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [Mappar metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [Skickar dokument och länkar resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [Behåller versionshistorik](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [Förbättra arbetsflödet med G Suite-integrering](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -350,13 +350,13 @@ ht-degree: 1%
       + [Installera Microsoft Outlook-tillägget](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Adobe Workfront för Microsoft Teams - översikt](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=sv-SE)
-      + [Installera Adobe Workfront för Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=sv-SE)
-      + [Öppna Adobe Workfront från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=sv-SE)
-      + [Söka efter och dela Adobe Workfront-objekt i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=sv-SE)
-      + [Skapa Adobe Workfront-uppgifter från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=sv-SE)
-      + [Skicka in Adobe Workfront-begäranden från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=sv-SE)
-      + [Hantera Adobe Workfront-meddelanden i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=sv-SE)
+      + [Adobe Workfront för Microsoft Teams - översikt](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [Installera Adobe Workfront för Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [Öppna Adobe Workfront från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [Söka efter och dela Adobe Workfront-objekt i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [Skapa Adobe Workfront-uppgifter från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [Skicka in Adobe Workfront-begäranden från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [Hantera Adobe Workfront-meddelanden i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [Förstå Workfront för [!UICONTROL Slack]](/help/integrations/slack/introduction-to-workfront-for-slack.md)

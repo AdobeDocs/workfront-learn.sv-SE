@@ -1,5 +1,5 @@
 ---
-title: Uppdatera en begäran
+title: Uppdatera en begäran i Workfront
 description: Förenkla hanteringen av förfrågningar i Workfront genom att använda filter för att hitta förfrågningar, effektivt uppdatera status och information, få tillgång till fullständig information och uppmuntra centraliserat samarbete för smidiga arbetsflöden.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,14 +13,14 @@ jira: KT-8807
 recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
 
-# Uppdatera en begäran
+# Uppdatera en begäran i Workfront
 
 I videon förklaras hur du söker efter och uppdaterar begäranden i Adobe Workfront. &#x200B; När du har skickat en begäran kan du lägga till information eller ställa frågor för att se till att den senaste informationen är tillgänglig för dem som arbetar med den. &#x200B; &#x200B;
 

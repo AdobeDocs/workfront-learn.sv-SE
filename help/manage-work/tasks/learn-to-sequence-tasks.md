@@ -1,5 +1,5 @@
 ---
-title: Lär dig att sekvensera uppgifter
+title: Effektiva sekvensuppgifter i Workfront
 description: Effektivisera projekthanteringen genom att definiera uppgiftsordningen med föregångare, ange tidslinjer genom varaktighet, förenkla sekvenser med hjälp av mallar, undvika manuella begränsningar och förfina kompetenser med övningar.
 activity: use
 feature: Work Management
@@ -13,21 +13,21 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
-# Lär dig att sekvensera uppgifter
+# Effektiva sekvensuppgifter i Workfront
 
 I videon förklaras hur du sekvenserar uppgifter i Workfront med föregångare och tidsperioder för att hantera projekttidslinjer effektivt.
 I videon visas hur du ställer in föregångare för nya uppgifter, vilket säkerställer sekventiell ordning och korrekta startdatum.
 &#x200B;I rapporten betonas vikten av att ha praktiska kontakter med föregångare för att förstå hur de påverkar projekttidslinjerna och man rekommenderar att man använder varaktighet och föregångare för effektiv projektplanering.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447324/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

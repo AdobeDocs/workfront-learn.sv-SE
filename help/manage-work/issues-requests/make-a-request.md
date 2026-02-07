@@ -1,5 +1,5 @@
 ---
-title: Gör en förfrågan
+title: Skapa och hantera förfrågningar i Workfront
 description: Förbättra effektiviteten i Workfront med smidig framtagning av förfrågningar, anpassningsbara arbetsflöden, automatisk lagring av utkast, spårnings- och filtreringsverktyg samt möjligheten att kopiera och återanvända förfrågningar.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
-# Gör en förfrågan
+# Skapa och hantera förfrågningar i Workfront
 
 Videon innehåller en detaljerad guide om hur du gör och hanterar förfrågningar inom Workfront. Här beskrivs hur du skapar en begäran. Börja med att välja&quot;Begäranden&quot; på huvudmenyn och klicka på knappen&quot;Ny begäran&quot;. &#x200B; Användarna kan välja en frågetyp bland anpassade köer som är anpassade efter organisationens arbetsflöden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470907/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

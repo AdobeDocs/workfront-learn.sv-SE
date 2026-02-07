@@ -1,5 +1,5 @@
 ---
-title: Lär dig fyra sätt att skapa ett projekt
+title: Utforska fyra metoder för att skapa ett projekt
 description: Se hur du effektivt kan skapa projekt i Workfront med hjälp av mallar, från scratch, kopiera befintliga projekt eller importera Microsoft Project-filer som är anpassade efter olika användarbehov.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 0%
 
 ---
 
-# Lär dig fyra sätt att skapa ett projekt
+# Utforska fyra metoder för att skapa ett projekt
 
 Videon innehåller en omfattande guide om hur du skapar projekt i Workfront på olika sätt:
 
@@ -55,7 +55,7 @@ Videon innehåller en omfattande guide om hur du skapar projekt i Workfront på 
 
 I videon betonas Workfront flexibilitet när det gäller att skapa projekt med hjälp av mallar, skrapor, kopiering eller import som passar olika användarbehov. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3432176/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

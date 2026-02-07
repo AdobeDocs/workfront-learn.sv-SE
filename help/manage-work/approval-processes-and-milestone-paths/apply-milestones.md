@@ -1,5 +1,5 @@
 ---
-title: Använd milstolpar
+title: Använd milstolpe-banor för projekt och uppgifter
 description: Lär dig hur du använder milstolpbanor i ett projekt och associerar viktiga uppgifter som milstolpsteg i projektet.
 feature: Work Management
 thumbnail: 335205.jpeg
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
-# Använd milstolpar
+# Använd milstolpe-banor för projekt och uppgifter
 
 I den här videon får du lära dig att:
 
@@ -28,7 +28,7 @@ I den här videon får du lära dig att:
 * Lägga till en milstolpe till en uppgift
 * Bästa tillvägagångssätt för att tillämpa milstolpar
 
->[!VIDEO](https://video.tv.adobe.com/v/3430282/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
@@ -37,5 +37,5 @@ I den här videon får du lära dig att:
 ## Rekommenderade självstudiekurser i detta ämne
 
 * [Visa milstolpar](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
-* [Skapa milstolpar](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+* [Använd milstolpe-banor för projekt och uppgifter](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 * [Vyaktivitet för milstolpe i Skapa en grundvy](/help/reporting/basic-reporting/create-a-basic-view.md)

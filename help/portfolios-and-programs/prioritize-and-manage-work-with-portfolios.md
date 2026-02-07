@@ -1,5 +1,5 @@
 ---
-title: Förstå [!UICONTROL Portfolio Optimizer]
+title: Optimera projektprioriteringarna med Portfolio Optimization Tool
 description: Optimera projekthanteringen i Workfront genom att fylla i affärsärenden för rättvisa jämförelser, filtrera projekt efter status, justera poängen dynamiskt, prioritera projekt effektivt och anpassa resursplaneringen efter portföljmålen.
 activity: use
 team: Technical Marketing
@@ -12,20 +12,20 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
-# Förstå [!UICONTROL Portfolio Optimizer]
+# Optimera projektprioriteringarna med Portfolio Optimization Tool
 
 I videon förklaras hur du använder Portfolio Optimization Tool i Workfront för att utvärdera och prioritera projekt i en portfölj. &#x200B; Det börjar med att skicka ett affärsärende för ett projekt, ändra dess status till&quot;begärt&quot; och aktivera alternativ för att godkänna eller avvisa det. &#x200B; Innan de godkänns kan de jämföra projektet med andra i portföljen med hjälp av verktyget Portfolio-optimering. &#x200B;
 
 I videon betonas vikten av att slutföra affärsärenden för exakta jämförelser och den innehåller stegvisa instruktioner för att optimera och hantera projektprioriteringar effektivt. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446279/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

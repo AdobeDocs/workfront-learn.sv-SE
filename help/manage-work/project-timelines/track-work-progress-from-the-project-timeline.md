@@ -1,5 +1,5 @@
 ---
-title: Spåra förlopp från projekttidslinjen
+title: Spåra förlopp med status för procent färdigt och förlopp
 description: Lär dig hur du spårar arbetets förlopp från projekttidslinjen genom att använda procent färdigt och förloppsstatus.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ level: Beginner
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# Spåra förlopp från projekttidslinjen
+# Spåra förlopp med status för procent färdigt och förlopp
 
 Se till att arbetsmomenten går som de ska för att klara deadlines.
 
@@ -29,7 +29,7 @@ I den här videon får du lära dig mer om:
 * Procent färdigt
 * Status för förlopp
 
->[!VIDEO](https://video.tv.adobe.com/v/3438212/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
 
 
 ## Rekommenderade självstudiekurser i detta ämne

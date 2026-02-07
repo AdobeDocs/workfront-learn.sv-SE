@@ -1,5 +1,5 @@
 ---
-title: Kopiera ett befintligt projekt
+title: Kopiera ett befintligt projekt effektivt
 description: Duplicera enkelt projekt genom att använda alternativet "Kopiera" på menyn med tre punkter, byta namn på och ange status till "Planera", kopiera egna data och formulär och överföra problemen separat via fliken Problem för skräddarsydda projektinställningar.
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
-# Kopiera ett befintligt projekt
+# Kopiera ett befintligt projekt effektivt
 
 I videon förklaras hur du kopierar ett projekt i stället för att använda en mall. &#x200B; Om du vill kopiera ett projekt öppnar du det önskade projektet, klickar på menyn med tre punkter bredvid projektnamnet och väljer &quot;Kopiera&quot; &#x200B;. I fönstret Kopiera projekt kan du byta namn på projektet och ändra dess status, vanligtvis till Planering, för att undvika att meddelanden skickas till tilldelade användare. &#x200B; Du kan välja om du vill kopiera tilldelningar, förlopp, anpassade data osv. &#x200B;
 Klicka på Kopiera projekt för att slutföra &#x200B;
 Problem kan inte kopieras direkt under den här processen eftersom de inte betraktas som planerade arbeten. &#x200B; Om du vill kopiera problem går du till fliken Problem, markerar önskade problem och använder alternativet Kopiera till för att överföra dem till det nya projektet. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456042/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

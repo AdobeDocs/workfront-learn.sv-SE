@@ -1,5 +1,5 @@
 ---
-title: Delegera uppgifter, ärenden och godkännanden
+title: Delegera uppgifter, ärenden och godkännanden effektivt
 description: Effektivisera delegeringsarbetsflödena genom att aktivera delegering av uppgifter och godkännanden i installationsprogrammet, använda knapparna Delegera och Delegera godkännande, ange e-postmeddelanden för tilldelningar och spåra uppdateringar och systemaktiviteter för tydlig tillsyn.
 activity: use
 feature: Approvals
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
-# Delegera uppgifter, ärenden och godkännanden
+# Delegera uppgifter, ärenden och godkännanden effektivt
 
 I videon förklaras hur du delegerar uppgifter, utgåvor och godkännanden. &#x200B; Om du vill aktivera delegering måste system- eller gruppadministratören aktivera funktionen i Inställningar under Projektinställningar. &#x200B; När den är aktiverad kan användare delegera alla sina uppgifter och utgåvor till en annan person under en angiven tidsperiod med knappen &quot;Delegera&quot; i widgeten Mina uppgifter. &#x200B; Delegering gäller både uppgifter och frågor tillsammans, och de måste tilldelas samma person. &#x200B; Delegeringar kan anges med eller utan ett slutdatum, och användare kan när som helst avbryta delegeringar manuellt. &#x200B;
 För godkännanden kan användare delegera dem via widgeten Väntar på mitt godkännande. &#x200B; Delegering gäller befintliga och nya godkännanden under den angivna tidsperioden, men endast för projekt, uppgifter och ärenden - inte för dokument, korrektur eller tidrapporter. &#x200B; Meddelanden för delegerade uppgifter, utgåvor och godkännanden kan aktiveras av administratören för att informera både den som delegerat uppgiften och den som delegerat den. &#x200B;
 Delegerade godkännanden är markerade i systemet och visar vem som har delegerat dem och till vem. &#x200B; Uppdateringar som rör godkännanden visas på fliken Uppdatera och systemaktiviteten kan visas på fliken Systemaktivitet. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446380/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

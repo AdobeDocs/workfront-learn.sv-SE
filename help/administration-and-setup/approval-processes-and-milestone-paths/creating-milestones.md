@@ -1,5 +1,5 @@
 ---
-title: Skapa en milstolpe-bana och milstolpe-steg
+title: Skapa banor och steg för milstolpar
 description: Lär dig vilka milstolpbanor som är, hur du skapar milstolpbanor och hur du lägger till milstolpsteg.
 feature: System Setup and Administration
 activity: deploy
@@ -10,14 +10,14 @@ role: Admin
 level: Intermediate
 exl-id: 1a742041-9a65-41cc-a03e-ba17b5b40135
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
-# Skapa en milstolpe-bana och milstolpe-steg
+# Skapa banor och steg för milstolpar
 
 I den här videon får du lära dig:
 

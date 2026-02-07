@@ -1,5 +1,5 @@
 ---
-title: Arbeta med uppgifter
+title: Hantera uppgifter effektivt i Workfront
 description: Förbättra uppgiftshanteringen med infogad redigering, säkerhetskopiering av papperskorgen för borttagna uppgifter, överordnad-underordnad strukturtillägg, duplicering av uppgifter samt intuitiva omorganiseringsverktyg som dra och släpp i Workfront.
 activity: use
 feature: Work Management
@@ -12,18 +12,18 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
-# Arbeta med uppgifter
+# Hantera uppgifter effektivt i Workfront
 
 Den här videon innehåller en detaljerad guide om hur du hanterar uppgifter i Workfront. Det fokuserar på effektiv uppgiftshantering, inklusive redigering, borttagning, tillägg, duplicering och omorganisering av uppgifter i en projektplan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448560/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

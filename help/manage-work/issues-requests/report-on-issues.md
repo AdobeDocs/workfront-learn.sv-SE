@@ -1,5 +1,5 @@
 ---
-title: Rapport om problem
+title: Skapa anpassade rapporter för problemhantering
 description: Lär dig hur du skapar anpassade rapporter för problem- och projekthantering, inklusive hur du centraliserar och spårar öppna problem, anpassar kolumner och filter samt optimerar projekt- och problemhantering.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-07-24T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
 
-# Rapportera problem
+# Skapa anpassade rapporter för problemhantering
 
 I videon får du en stegvis guide om hur du skapar två typer av rapporter för att hantera och spåra problem och projekt. &#x200B;
 

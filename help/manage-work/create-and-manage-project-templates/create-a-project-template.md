@@ -1,5 +1,5 @@
 ---
-title: Skapa en projektmall och lär dig mer om [!UICONTROL utkast]
+title: Skapa en projektmall och utforska utkast
 description: Lär dig skapa en projektmall från grunden och från ett befintligt projekt, och förstå hur [!UICONTROL utkast] kan ge dig tillgång till en värld av användbara projektmallar som skapats av Workfront experter.
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '633'
 ht-degree: 0%
 
 ---
 
-# Skapa en projektmall och lär dig mer om [!UICONTROL utkast]
+# Skapa en projektmall och utforska utkast
 
 
 Lär dig skapa en projektmall från grunden och från ett befintligt projekt, och förstå hur [!UICONTROL utkast] kan ge dig tillgång till en värld av användbara projektmallar som skapats av Workfront experter.

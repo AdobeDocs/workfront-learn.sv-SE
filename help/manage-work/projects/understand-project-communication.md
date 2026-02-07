@@ -1,5 +1,5 @@
 ---
-title: Förstå projektkommunikation
+title: Förbättra projektframgången genom effektiv kommunikation
 description: Förbättra projektframgången med effektiv kommunikation med intressenter, tydlighet i uppgifter, centraliserade diskussioner, korrekt statusrapportering och proaktiv problemlösning för att upprätthålla anpassning och effektivitet.
 activity: use
 team: Technical Marketing
@@ -12,16 +12,17 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
 
-# Förstå projektkommunikation
+# Förbättra projektframgången genom effektiv kommunikation
 
 I videon betonas vikten av effektiv kommunikation för att projektet ska lyckas och den innehåller strategier som säkerställer tydlighet och effektivitet i projektledningen. &#x200B; Några viktiga punkter:
+
 * **Intressentkommunikation:** Håll intressenter informerade om projektframsteg, problem och lösningar. &#x200B; Regelbundna uppdateringar som är skräddarsydda efter deras behov är viktiga. &#x200B;
 * **Uppgiftens klarhet:** Se till att teammedlemmarna förstår vad de gör för att undvika krypning och förvirring. &#x200B; Använd underuppgifter för tydlighet när du tilldelar flera personer till en uppgift. &#x200B;
 * **Centraliserad kommunikation:** Använd verktyg som Workfront för att lagra alla projektrelaterade diskussioner på ett och samma ställe. &#x200B; Meddelanden kan hjälpa teammedlemmarna att engagera sig i diskussioner. &#x200B;
@@ -32,13 +33,13 @@ I videon betonas vikten av effektiv kommunikation för att projektet ska lyckas 
 
 Videon visar hur Workfront förenklar kommunikation, uppgiftshantering och rapportering och ser till att all projektrelaterad information är tillgänglig och ordnad. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428968/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
->Om du vill skapa anteckningssökrapporten som visas i videon läser du aktiviteten i självstudiekursen [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+>Om du vill skapa anteckningssökrapporten som visas i videon läser du aktiviteten i självstudiekursen [Skapa en uppgiftsrapport](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 >
->Om du vill lägga till anteckningssökrapporten på projektpanelen läser du aktiviteten i självstudiekursen [Skapa instrumentpaneler](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=sv-SE#activity-1-create-a-dashboard).
+>Om du vill lägga till anteckningssökrapporten på projektpanelen läser du aktiviteten i självstudiekursen [Skapa instrumentpaneler](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard).
 
 ## Viktiga uppgifter
 

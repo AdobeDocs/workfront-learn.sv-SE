@@ -1,5 +1,5 @@
 ---
-title: Spela in lektioner
+title: Spela in lärdomar för framtida projekt
 description: Lär dig dra nytta av"lärdomar" när du stänger ett projekt.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ last-substantial-update: 2024-12-12T00:00:00Z
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# Spela in lektioner
+# Spela in lärdomar för framtida projekt
 
 I den här videon ser du fördelarna med:
 
@@ -29,7 +29,7 @@ I den här videon ser du fördelarna med:
 * Skapa anpassade&quot;lektionsrapporter&quot;
 * Skapa ett&quot;lektionsprojekt&quot;
 
->[!VIDEO](https://video.tv.adobe.com/v/3441016/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

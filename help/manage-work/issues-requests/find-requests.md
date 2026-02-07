@@ -1,5 +1,5 @@
 ---
-title: Söka efter och hantera begäranden
+title: Hitta och hantera förfrågningar effektivt
 description: Lär dig använda filter, hantera teamuppdrag, skapa anpassade rapporter och kontrollpaneler och förtydliga innebörden av"my" i olika sammanhang för effektiv begärandehantering.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
-# Söka efter och hantera förfrågningar
+# Hitta och hantera förfrågningar effektivt
 
 I den här videon förklaras hur du söker efter och hanterar begäranden i Workfront. &#x200B; Det omfattar fyra huvudområden:
 
@@ -30,7 +30,7 @@ I den här videon förklaras hur du söker efter och hanterar begäranden i Work
 * Anpassade rapporter och kontrollpaneler
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441658/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

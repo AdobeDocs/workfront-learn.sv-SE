@@ -1,5 +1,5 @@
 ---
-title: Visa projektinformation
+title: Utforska filter, vyer och grupperingar för projektledning
 description: Effektivisera projektarbetsflödena med anpassningsbara filter, detaljerade vyer, effektiva grupperingar, verktyg för uppgiftshantering och funktioner för ärendespårning för bättre organisation och tydlighet.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
 
-# Visa projektinformation
+# Utforska filter, vyer och grupperingar för projektledning
 
 I den här videon får du en översikt över filter, vyer och grupperingar i Workfront som hjälper användare att hantera och analysera projekt, uppgifter och problem på ett effektivt sätt. &#x200B; Några viktiga punkter:
 
@@ -33,7 +33,7 @@ I den här videon får du en översikt över filter, vyer och grupperingar i Wor
 
 I videon framhävs anpassning och den innehåller länkar till självstudiekurser för vidare utbildning. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3453070/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

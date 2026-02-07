@@ -1,5 +1,5 @@
 ---
-title: Förstå projekttidslinjer
+title: Se projekttidslinjer i Workfront
 description: Lär dig hur du tilldelar uppgifter, använder Gantt-scheman och funktioner för kritiska sökvägar, övervakar projekt via vyer, schemalägger aktiviteter effektivt och tillämpar begränsningar för optimal projektplanering.
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '705'
 ht-degree: 0%
 
 ---
 
-# Förstå projekttidslinjer
+# Se projekttidslinjer i Workfront
 
 Det här lär du dig:
 
@@ -28,7 +28,7 @@ Det här lär du dig:
 * Olika vyer i Workfront, t.ex. standardvyn för planering och statusvyn för övervakning av förloppet, som innehåller flaggor för förlopp, kommentarer, dokument, ärenden, godkännanden, kritisk sökväg och milstolpar. Senaste aktivitet kan spåras för att visa uppdateringar och anteckningar.
 * Schemaläggningen kan göras från ett startdatum eller ett avslutsdatum, där Workfront beräknar motsvarande datum baserat på aktivitetens varaktighet och föregående aktiviteter. I videon rekommenderas schemaläggning från ett startdatum för viktiga slutförandedatum för att tillåta en viss frånkoppling. Uppgiftsbegränsningar som&quot;så snart som möjligt&quot; och&quot;så sent som möjligt&quot; omfattas också, vilket visar hur de påverkar schemaläggningen av uppgifter. Anpassade vyer kan skapas för att visa begränsningar för aktiviteter.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435839/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >

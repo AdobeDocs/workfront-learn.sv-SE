@@ -1,5 +1,5 @@
 ---
-title: Kom igång med projektplaneringen
+title: Planera ett projekt effektivt i Workfront
 description: Effektivisera projektplaneringen genom att fokusera på nyckelfält, ange status till"Planering" med lämpliga vyer, välja realistiska startdatum och utnyttja schemaläggningslägen för korrekta tidslinjer.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -12,20 +12,20 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
 
-# Kom igång med projektplaneringen
+# Planera ett projekt effektivt i Workfront
 
 I videon får du vägledning om hur du effektivt planerar ett projekt i Workfront. &#x200B; Det betonar vikten av att lägga en stabil grund för att se till att projektet avslutas i tid och blir framgångsrikt. &#x200B; Viktiga steg är att förstå fem viktiga fält: Aktiviteter, Uppdrag, Varaktighet, Planerade timmar och Föregående. &#x200B; De här fälten gör att du kan göra snabba och korrekta justeringar i projektplanen. &#x200B;
 
 I videon betonas vikten av realistiska tidslinjer, teamtillgänglighet och korrekt planering för att skapa en stark grund för projektframgångar. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448571/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

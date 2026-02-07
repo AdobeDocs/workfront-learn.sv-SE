@@ -1,5 +1,5 @@
 ---
-title: Hantera utleveranstilldelningar
+title: Hantera ärenden effektivt
 description: Hantera problem effektivt i Workfront genom att använda intern redigering och arbetsbelastningsutjämnaren för tilldelningar, spåra och uppdatera framsteg, ändra problemstatus och följa teamspecifika arbetsflöden för smidig projektkörning.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
-# Hantera utleveranstilldelningar
+# Hantera ärenden effektivt
 
 Det är viktigt för projektledaren att hantera problem och de som ansvarar för att arbeta med dem.
 
@@ -30,7 +30,7 @@ I den här videon får du lära dig att:
 * Uppdatera förloppet för problem
 * Uppdatera utgivningsstatus
 
->[!VIDEO](https://video.tv.adobe.com/v/3446959/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

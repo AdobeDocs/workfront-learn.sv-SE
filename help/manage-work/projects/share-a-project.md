@@ -1,5 +1,5 @@
 ---
-title: Dela ett projekt
+title: Utbyt projekt effektivt i Workfront
 description: Förenkla projektdelningen i Workfront med automatiskt åtkomsträttigheter, flexibla alternativ, teambaserad hantering, malldelning och anpassningsbara systemstandarder för smidigt samarbete.
 activity: use
 team: Technical Marketing
@@ -12,36 +12,40 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
 
-# Dela ett projekt
+# Utbyt projekt effektivt i Workfront
 
 I videon förklaras hur du kan dela projekt effektivt i Workfront så att intressenter och medarbetare har den synlighet och åtkomst som krävs. &#x200B; Workfront förenklar delning genom att automatiskt tilldela rätt behörigheter baserat på roller:
 
 **Automatisk delning:**
+
 * Projektskapare har hanterade rättigheter att visa och redigera projektet, uppgifterna och problemen.
 * Arbetare som tilldelas till uppgifter får visningsrättigheter för hela projektet och medarbetarrättigheter för sina uppgifter.
 * Projektsponsorer kan visa projektet, medan resursansvariga kan hantera det, men inte ta bort det.
 
 **Manuell delning:**
+
 * Projekt kan delas med enskilda, team, jobbroller, grupper eller företag.
 * De bästa sätten är att skapa team där man kan dela med sig av innehållet och använda portfolior eller program för att ärva behörigheter i flera projekt.
 
 **Gruppdelning och malldelning:**
+
 * Med gruppredigering kan du göra delningsjusteringar för flera projekt. &#x200B;
 * Delningsinställningarna kan förkonfigureras i projektmallar för att spara tid. &#x200B;
 
 **Systemstandard:**
+
 * Systemadministratörer och gruppadministratörer kan ändra standardinställningar för delning, t.ex. att ge medverkarrättigheter till gruppmedlemmar som tilldelats aktiviteter.
 
 I videon betonas användningen av team och mallar för effektiv hantering av delning och även administratörernas roll när det gäller att anpassa delningsinställningarna.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428971/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

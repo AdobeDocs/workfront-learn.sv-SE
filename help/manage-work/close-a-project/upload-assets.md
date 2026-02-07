@@ -1,5 +1,5 @@
 ---
-title: Överför resurser
+title: Överföra och hantera projektresurser
 description: Överför dokument och korrektur till projektet innan du stänger det för att säkerställa att alla relevanta data är kopplade till projektet.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ last-substantial-update: 2024-12-02T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# Överför resurser
+# Överföra och hantera projektresurser
 
 I den här videon får du lära dig att:
 
@@ -29,7 +29,7 @@ I den här videon får du lära dig att:
 * Överföra ett dokument
 * Hitta utbildning i att ladda upp korrektur
 
->[!VIDEO](https://video.tv.adobe.com/v/3440374/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

@@ -1,5 +1,5 @@
 ---
-title: Fyll i projektinformationen
+title: Fyll i viktig projektinformation
 description: Optimera effektiviteten i projekthanteringen genom att använda beskrivande namn, ange lämpliga statusvärden, välja rätt schemaläge, utnyttja mallar och anpassade formulär samt hantera resurser med resurspooler och scheman.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-06-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 1%
 
 ---
 
-# Fyll i projektinformationen
+# Fyll i viktig projektinformation
 
 I den här videon får du lära dig mer om de vanligaste projektinställningarna som behövs när du skapar ett projekt.
 
@@ -41,4 +41,4 @@ I den här videon får du lära dig mer om de vanligaste projektinställningarna
 * [Navigera på projektsidan](/help/manage-work/projects/navigate-the-project-page.md)
 * [Lär dig fyra sätt att skapa ett projekt](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Kom igång med projektplaneringen](/help/manage-work/projects/getting-started-plan-a-project.md)
-* [Redigera projekt](https://experienceleague.adobe.com/sv/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)
+* [Redigera projekt](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)
