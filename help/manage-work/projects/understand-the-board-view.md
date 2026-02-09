@@ -1,6 +1,6 @@
 ---
 title: Utforska styrelsvyn för uppgiftshantering
-description: Effektivisera uppgiftshanteringen i Workfront med [!UICONTROL -gränssnittet för vyn ]Board [!DNL Kanban]  som erbjuder sortering, skapande, anpassning och smidig integrering med uppgiftslistevyn för effektiv projektorganisation.
+description: Effektivisera uppgiftshanteringen i Workfront med [!UICONTROL -gränssnittet för vyn &#x200B;]Board [!DNL Kanban]  som erbjuder sortering, skapande, anpassning och smidig integrering med uppgiftslistevyn för effektiv projektorganisation.
 activity: use
 team: Technical Marketing
 feature: Work Management
