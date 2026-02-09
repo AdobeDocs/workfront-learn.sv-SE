@@ -24,7 +24,7 @@ EXISTS-filter är avancerade textlägesfilter, som gör att vi kan kringgå 2 ta
 
 I den här videon får du lära dig hur du skapar ett EXISTS-filter för att se&quot;Korrekturgodkännanden för aktuella projekt&quot; i en rapport om korrekturgodkännanden.
 
-En mer ingående genomgång av hur funktionen EXISTS fungerar finns i [Skapa komplexa textlägesfilter med hjälp av EXISTS-programsatser](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) .
+En mer ingående genomgång av hur funktionen EXISTS fungerar finns i [Skapa komplexa textlägesfilter med hjälp av EXISTS-programsatser](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) .
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
