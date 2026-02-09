@@ -30,7 +30,7 @@ I videon förklaras förfrågningsflödet i Workfront, med fokus på köhanterin
 
 Genom att besvara dessa frågor kan användarna effektivt planera och konfigurera sin kö i Workfront. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441909/?captions=swe&quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

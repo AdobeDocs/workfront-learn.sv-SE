@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Lär dig snabbt skapa en ny rapport genom att kopiera och redigera en liknande rapport.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437049/?captions=swe&quality=12&learn=on&enablevpops=1)

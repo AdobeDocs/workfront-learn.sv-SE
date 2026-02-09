@@ -24,7 +24,7 @@ ht-degree: 3%
 Videon innehåller en omfattande guide till hur du lär dig mer om och använder kontrollpaneler i Workfront.
 &#x200B;Det förklarar att en kontrollpanel är en samling rapporter som gör att användarna kan ordna och visa relaterade data på ett och samma ställe.
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3449126/?captions=swe&quality=12&learn=on&enablevpops=0)
 
 ## Viktiga uppgifter
 

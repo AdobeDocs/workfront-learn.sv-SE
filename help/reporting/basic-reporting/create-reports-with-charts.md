@@ -38,7 +38,7 @@ I videon förklaras hur du använder diagram för att visualisera data effektivt
 
 Videon visar hur diagram som cirkeldiagram och skiktade stapeldiagram kan ge insikter om uppgiftsdistribution och projektprestanda, vilket hjälper användarna att jämföra projekt och förstå uppgiftsförloppet visuellt. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450018/?captions=swe&quality=12&learn=on&enablevpops=0)
 
 ## Viktiga uppgifter
 

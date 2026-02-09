@@ -40,7 +40,7 @@ I videon förklaras hur du använder Project Gantt Chart och Task Gantt Chart f�
 
 I videon betonas flexibiliteten i Gantt-scheman, vilket gör att användarna kan anpassa vyer och visa flera element samtidigt för bättre projekthantering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448010/?captions=swe&quality=12&learn=on&enablevpops=1)
 
 Du kan läsa mer online med artikeln [Kom igång med Gantt-schemat](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=sv-SE).
 

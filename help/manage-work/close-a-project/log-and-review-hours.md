@@ -27,7 +27,7 @@ I den här videon får du lära dig att:
 * Granska timmar som loggats till ett projekt
 * Godkänn projekttimmar vid behov
 
->[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441073/?captions=swe&quality=12&learn=on&enablevpops=1)
 
 ## Rekommenderade självstudiekurser i detta ämne
 
