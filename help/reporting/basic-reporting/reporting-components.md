@@ -1,5 +1,5 @@
 ---
-title: Förstå rapporteringskomponenter
+title: Utforska rapportkomponenterna i Workfront
 description: Workfront rapportkomponenter förbättrar datavisualiseringen med objektbaserade filter, dynamiska vyer, strukturerade grupperingar och jokerfunktioner för skräddarsydda insikter.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '537'
 ht-degree: 0%
 
 ---
 
-# Förstå rapporteringskomponenter
+# Utforska rapportkomponenterna i Workfront
 
 I videon förklaras begreppet att rapportera komponenter i Workfront, vilket är nödvändigt för att skapa filter, vyer och grupperingar. Nyckelkomponenterna är:
 
@@ -29,7 +29,7 @@ I videon förklaras begreppet att rapportera komponenter i Workfront, vilket är
 * **Filterkvalificerare:** Definierar vilka värden som ska inkluderas eller exkluderas i en rapport, till exempel att aktiviteter med prioriteten &quot;high&quot; &#x200B; visas.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447025/?captions=swe&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
 
 ## Viktiga uppgifter
 
@@ -80,5 +80,5 @@ Exempel: Nytt, Aktuellt, $$TODAYbw, Beskrivning
 
 >[!TIP]
 >
->Mer information om fältnamn i Workfront finns i [ordlistan för Adobe Workfront-terminologi](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=sv-SE).
+>Mer information om fältnamn i Workfront finns i [ordlistan för Adobe Workfront-terminologi](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=en).
 

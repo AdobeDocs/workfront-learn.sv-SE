@@ -1,5 +1,5 @@
 ---
-title: Skapa en begärandekö
+title: Skapa en begärandekö i Workfront
 description: Skapa effektiva Workfront-köer genom att definiera åtkomstbehörigheter, anpassa typer och fält av förfrågningar, aktivera kön och testa funktionaliteten för smidig hantering av projektförfrågningar.
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
 
-# Skapa en begärandekö
+# Skapa en begärandekö i Workfront
 
 I videon finns en stegvis guide om hur du skapar en begärandekö i Workfont. &#x200B; Videon avslutas med att visa hur man skickar en begäran med den nya kön, och visar processen för att ange uppgifter och verifiera överföringen på fliken&quot;Skickade begäranden&quot;. &#x200B;
 

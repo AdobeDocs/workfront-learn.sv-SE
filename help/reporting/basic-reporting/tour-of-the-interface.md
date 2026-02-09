@@ -1,5 +1,5 @@
 ---
-title: Förstå kalenderrapportgränssnittet
+title: Utforska kalenderrapportgränssnittet
 description: Lär dig mer om kalendergränssnittet, inklusive kalendergrupperingar, vyer och åtgärder.
 activity: use
 team: Technical Marketing
@@ -11,14 +11,14 @@ last-substantial-update: 2025-06-18T00:00:00Z
 thumbnail: understand-the-calendar-interface.png
 jira: KT-10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# Förstå kalenderrapportgränssnittet
+# Utforska kalenderrapportgränssnittet
 
 En kalenderrapport är en dynamisk rapport som visar arbete och ledig tid i en kalendervy. Du kan visa datuminformation i en kalenderrapport för följande objekt:
 
@@ -35,4 +35,4 @@ I den här videon får du lära dig mer om:
 * Sammanfattningsinformation
 * Och hur du skapar ett ad hoc-kalenderobjekt
 
->[!VIDEO](https://video.tv.adobe.com/v/3438763/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops=1)

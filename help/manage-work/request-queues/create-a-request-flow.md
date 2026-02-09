@@ -1,5 +1,5 @@
 ---
-title: Skapa ett begärandeflöde
+title: Skapa ett begärandeflöde i Workfront
 description: Optimera hanteringen av förfrågningar genom att skapa hanteringsregler för effektiva tilldelningar, organisera förfrågningar med kapslade ämnesgrupper, länka köämnen till arbetsflöden, testa funktionen för begärandeflöde och göra flexibla justeringar för att säkerställa exakthet och effektivitet.
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-# Skapa ett begärandeflöde
+# Skapa ett begärandeflöde i Workfront
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ I den här videon får du en stegvis guide om hur du skapar ett begärandeflöde
 I videon visas sedan hur du skapar köämnen, som är länkade till routningsregler, ämnesgrupper, anpassade formulär, godkännandeprocesser och standardtider.
 Slutligen visar videon hur du testar konfigurationen genom att skicka en begäran för att säkerställa att den dirigeras korrekt. &#x200B; Om det uppstår problem kan du justera kön. &#x200B; I videon betonas vikten av att verifiera strukturen och funktionaliteten i begärandeflödet för att säkerställa korrekt routning och organisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433826/?captions=swe&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
 ## Viktiga uppgifter
 

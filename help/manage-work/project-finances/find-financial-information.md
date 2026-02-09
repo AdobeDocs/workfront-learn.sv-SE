@@ -1,5 +1,5 @@
 ---
-title: Hitta ekonomisk information
+title: Få tillgång till och hantera ekonomisk information för projekt och uppgifter
 description: Lär dig hur du effektivt får tillgång till, analyserar och hanterar ekonomiska data för projekt och uppgifter, och kan täcka budgetar, intäkter, kostnader och resultatvärden på både projekt- och aktivitetsnivå.
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Hitta ekonomisk information
+# Få tillgång till och hantera ekonomisk information för projekt och uppgifter
 
 I videon förklaras hur du får tillgång till och hanterar ekonomisk information för projekt och uppgifter. &#x200B;Den ger en omfattande översikt över navigering och förståelse av ekonomiska data på både projekt- och aktivitetsnivå. &#x200B;
 

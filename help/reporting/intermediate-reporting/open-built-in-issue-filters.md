@@ -1,5 +1,5 @@
 ---
-title: Förstå inbyggda problemfilter
+title: Utforska inbyggda problemfilter
 description: Lär dig hur du granskar inbyggda problemfilter för att se hur de har skapats och hur du skapar ett eget problemfilter i Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
 
 ---
 
-# Förstå inbyggda problemfilter
+# Utforska inbyggda problemfilter
 
 I den här videon kommer du att:
 
@@ -27,7 +27,7 @@ I den här videon kommer du att:
 * Läs mer om några användbara element för problemrapportering
 * Lär dig hur du skapar ett eget problemfilter
 
->[!VIDEO](https://video.tv.adobe.com/v/3469990/?captions=swe&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0)
 
 
 ## Inbyggda problemfilter

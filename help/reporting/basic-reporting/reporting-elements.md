@@ -1,5 +1,5 @@
 ---
-title: Förstå rapportelement
+title: Utforska Workfront rapportelement
 description: Förbättra projektrapporteringen med anpassningsbara filter, vyer och grupperingar som förfinar listrapporter, organiserar data effektivt och möjliggör smidigt samarbete.
 activity: use
 feature: Reports and Dashboards
@@ -11,20 +11,20 @@ team: Technical Marketing
 jira: KT-8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
-# Förstå rapportelement
+# Utforska Workfront rapportelement
 
 I videon förklaras hur du använder Workfront rapportelement - filter, vyer och grupperingar - för att få tillgång till och finjustera värdefull information i listrapporter för projekt, uppgifter och andra objekt. &#x200B; Med filter kan du begränsa listorna baserat på särskilda kriterier, t.ex. visa endast aktiva projekt eller uppgifter som du har tilldelats. &#x200B; Vyer avgör vilken information som visas i kolumner och markerar specifika fält som intäkter och kostnader. &#x200B; Grupperingar organiserar listor baserat på kriterier som planerat slutförandedatum eller förloppsstatus.
 
 I videon visas även hur du anpassar rapportelement och delar dem med andra. &#x200B; Med dessa verktyg kan användarna skräddarsy rapporter efter sina behov för bättre synlighet och hantering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447792/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

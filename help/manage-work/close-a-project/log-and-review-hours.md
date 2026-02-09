@@ -1,5 +1,5 @@
 ---
-title: Logga och granska timmar
+title: Logga och granska projekttimmar
 description: Registrera utestående timmar och granska loggade timmar innan du stänger ett projekt.
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Logga och granska timmar
+# Logga och granska projekttimmar
 
 I den här videon får du lära dig att:
 
 * Granska timmar som loggats till ett projekt
 * Godkänn projekttimmar vid behov
 
->[!VIDEO](https://video.tv.adobe.com/v/3441073/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

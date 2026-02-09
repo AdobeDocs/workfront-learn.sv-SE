@@ -1,9 +1,9 @@
 ---
 user-guide-title: Självstudiekurser om Workfront
 user-guide-description: Ett bibliotek med utbildningsvideor och artiklar som hjälper dig att förstå Workfront funktioner och inställningar bättre.
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '2428'
+source-wordcount: '2483'
 ht-degree: 0%
 
 ---
@@ -119,8 +119,8 @@ ht-degree: 0%
       + [Utforska filter, vyer och grupperingar för projekthantering](/help/manage-work/projects/view-project-information.md)
       + [Spåra projektets övergripande förlopp](/help/manage-work/projects/track-overall-project-progress.md)
       + [Spåra arbetets förlopp med projektstatistik](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-      + [Förstå [!UICONTROL Gantt]-vyn](/help/manage-work/projects/understand-the-gantt-view.md)
-      + [Förstå vyn för [!UICONTROL anslagstavlan]](/help/manage-work/projects/understand-the-board-view.md)
+      + [Utforska Gantt-vyn för projekthantering](/help/manage-work/projects/understand-the-gantt-view.md)
+      + [Utforska styrelsvyn för uppgiftshantering](/help/manage-work/projects/understand-the-board-view.md)
 
    + Uppgifter {#tasks}
       + [Skapa arbetsmoment effektivt i Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
@@ -140,15 +140,15 @@ ht-degree: 0%
       + [Hantera ärenden effektivt](/help/manage-work/issues-requests/manage-issue-assignments.md)
       + [Uppdatera utleveransstatus effektivt](/help/manage-work/tasks/update-the-issue-status.md)
       + [Uppdatera en begäran i Workfront](/help/manage-work/issues-requests/update-a-request.md)
-      + [Konvertera ett problem/en begäran till ett projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Konvertera ett problem/en begäran till en uppgift](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Konvertera ett ärende eller en förfrågan till ett projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [Konvertera ett problem eller en förfrågan till en uppgift](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Skapa anpassade rapporter för problemhantering](/help/manage-work/issues-requests/report-on-issues.md)
 
    + Begäranköer {#request-queues}
-      + [Förstå begärandeköer](/help/manage-work/request-queues/understand-request-queues.md)
-      + [Skapa en begärandekö](/help/manage-work/request-queues/create-a-request-queue.md)
-      + [Förstå inställningarna för ett begärandeflöde](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-      + [Skapa ett begärandeflöde](/help/manage-work/request-queues/create-a-request-flow.md)
+      + [Utforska köer i Workfront](/help/manage-work/request-queues/understand-request-queues.md)
+      + [Skapa en begärandekö i Workfront](/help/manage-work/request-queues/create-a-request-queue.md)
+      + [Ordna dina inställningar för begäranflöde](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Skapa ett begärandeflöde i Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
       + [Skapa en kö för feedback från systemadministratörer](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Svar på vanliga frågor om begärandeköer](/help/manage-work/request-queues/request-queue-faq.md)
 
@@ -183,50 +183,50 @@ ht-degree: 0%
       + [Lös uppgifter och utfärda godkännanden](/help/manage-work/close-a-project/complete-approvals.md)
       + [Överföra och hantera projektresurser](/help/manage-work/close-a-project/upload-assets.md)
       + [Spela in lärdomar för framtida projekt](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-      + [Logga och granska timmar](/help/manage-work/close-a-project/log-and-review-hours.md)
+      + [Logga och granska projekttimmar](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + Projektfinansiering för användare {#project-finances-users}
-      + [Hitta ekonomisk information](/help/manage-work/project-finances/find-financial-information.md)
-      + [Uppdatera ekonomi](/help/manage-work/project-finances/update-and-review-finances.md)
-      + [Förstå flera faktureringsräntor](/help/manage-work/project-finances/multiple-billing-rates.md)
+      + [Få tillgång till och hantera ekonomisk information för projekt och uppgifter](/help/manage-work/project-finances/find-financial-information.md)
+      + [Uppdatera ekonomi för klientprojekt](/help/manage-work/project-finances/update-and-review-finances.md)
+      + [Anpassa faktureringsfrekvenser för jobbroller](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + Mellanliggande projekt {#intermediate-projects}
-      + [Förstå och hantera varaktighetstyper och uppgiftsbegränsningar](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-      + [Förstå föregångare inom projekt mellan olika projekt](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
-      + [Avancerade föregångare](/help/manage-work/intermediate-projects/advanced-predecessors.md)
+      + [Huvudvaraktighetstyper och uppgiftsbegränsningar](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [Upprätta beroenden med projektövergripande föregångare](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
+      + [Hantera avancerade aktivitetsberoenden](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
 + Rapportering {#reporting}
    + Grundläggande rapportering {#basic-reporting}
-      + [Förstå rapportelement](/help/reporting/basic-reporting/reporting-elements.md)
-      + [Förstå rapporteringskomponenter](/help/reporting/basic-reporting/reporting-components.md)
+      + [Utforska Workfront rapportelement](/help/reporting/basic-reporting/reporting-elements.md)
+      + [Utforska rapportkomponenterna i Workfront](/help/reporting/basic-reporting/reporting-components.md)
       + [Skapa en grundläggande gruppering](/help/reporting/basic-reporting/create-a-basic-grouping.md)
       + [Skapa en grundvy](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [Lägga till grundläggande villkorsstyrd formatering i en vy](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Skapa ett enkelt filter](/help/reporting/basic-reporting/create-a-basic-filter.md)
-      + [Förstå den nya filterupplevelsen](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
+      + [Utforska den nya filterupplevelsen](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [Skapa grundläggande filteraktiviteter](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Skapa en enkel rapport](/help/reporting/basic-reporting/create-a-simple-report.md)
-      + [Skapa en ny aktivitetsrapport](/help/reporting/basic-reporting/create-a-task-report.md)
-      + [Kopiera en rapport](/help/reporting/basic-reporting/copy-a-report.md)
-      + [Skapa rapporter med diagram](/help/reporting/basic-reporting/create-reports-with-charts.md)
+      + [Skapa en aktivitetsrapport för sena tilldelningar](/help/reporting/basic-reporting/create-a-task-report.md)
+      + [Kopiera och redigera en rapport](/help/reporting/basic-reporting/copy-a-report.md)
+      + [Visa data med diagram i rapporter](/help/reporting/basic-reporting/create-reports-with-charts.md)
       + [Skapa en matrisrapport](/help/reporting/basic-reporting/create-a-matrix-report.md)
-      + [Skapa instrumentpaneler](/help/reporting/basic-reporting/create-dashboards.md)
-      + [Skicka och dela rapporter](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
-      + [Förstå rapportinställningar](/help/reporting/basic-reporting/report-settings.md)
+      + [Skapa instrumentpaneler i Workfront](/help/reporting/basic-reporting/create-dashboards.md)
+      + [Skicka och dela rapporter effektivt](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
+      + [Utforska rapportinställningar och uppmaningar](/help/reporting/basic-reporting/report-settings.md)
 
    + Mellanliggande rapportering {#intermediate-reporting}
       + [Skapa filter med användarbaserade jokertecken](/help/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
       + [Skapa filter med datumbaserade jokertecken](/help/reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
       + [Skapa OR-programsatser i filter](/help/reporting/intermediate-reporting/or-statements-in-filters.md)
-      + [Förstå inbyggda projektfilter](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
-      + [Förstå inbyggda aktivitetsfilter](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
-      + [Förstå inbyggda problemfilter](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
-      + [Grundläggande textläge för filter](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
-      + [Förstå det grundläggande textläget för vyer](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
-      + [Grundläggande textläge för grupperingar](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
-      + [Skapa egna uppmaningar](/help/reporting/intermediate-reporting/custom-prompts.md)
-      + [Förstå EXISTS-filter](/help/reporting/intermediate-reporting/understand-exists-filters.md)
+      + [Utforska inbyggda projektfilter](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
+      + [Utforska inbyggda uppgiftsfilter](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
+      + [Utforska inbyggda problemfilter](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
+      + [Utforska det grundläggande textläget för filter i Workfront](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [Utforska det grundläggande textläget för vyer i Workfront](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
+      + [Utforska det grundläggande textläget för grupperingar i Workfront](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
+      + [Skapa egna uppmaningar i textläge](/help/reporting/intermediate-reporting/custom-prompts.md)
+      + [Skapa EXISTS-filter för komplexa rapporter](/help/reporting/intermediate-reporting/understand-exists-filters.md)
 
    + Avancerad rapportering {#advanced-reporting}
       + [Välkommen till avancerad rapportering](/help/reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -235,13 +235,13 @@ ht-degree: 0%
       + [Avancerad rapportering, del 3](/help/reporting/advanced-reporting/advanced-reporting-part-3.md)
 
    + Kalenderrapporter {#calendar-reports}
-      + [Förstå kalenderrapportgränssnittet](/help/reporting/basic-reporting/tour-of-the-interface.md)
+      + [Utforska kalenderrapportgränssnittet](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [Skapa en anpassad kalenderrapport](/help/reporting/basic-reporting/creating-custom-calendars.md)
-      + [Förstå ytterligare alternativ för kalenderrapporter](/help/reporting/basic-reporting/additional-calendar-options.md)
+      + [Utforska avancerade funktioner för kalenderrapporter](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [Aktivitet - Skapa en kalenderrapport](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Kontrollpaneler på arbetsytan {#canvas-dashboards}
-      + [Introduktion till arbetsytans kontrollpaneler](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+      + [Utforska arbetsytans kontrollpaneler i Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [Skapa en KPI-rapport på en arbetsytans kontrollpanel](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
       + [Skapa en diagramrapport på en Canvas-kontrollpanel](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
       + [Skapa en tabellrapport på en arbetsytans kontrollpanel](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
@@ -335,10 +335,10 @@ ht-degree: 0%
       + [Integrera med Creative Cloud med Adobe Workfront plugins](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Konfigurerar integreringen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=sv-SE)
-      + [Mappar metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=sv-SE)
-      + [Skickar dokument och länkar resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=sv-SE)
-      + [Behåller versionshistorik](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=sv-SE)
+      + [Konfigurerar integreringen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [Mappar metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [Skickar dokument och länkar resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [Behåller versionshistorik](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [Förbättra arbetsflödet med G Suite-integrering](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -350,13 +350,13 @@ ht-degree: 0%
       + [Installera Microsoft Outlook-tillägget](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Adobe Workfront för Microsoft Teams - översikt](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=sv-SE)
-      + [Installera Adobe Workfront för Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=sv-SE)
-      + [Öppna Adobe Workfront från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=sv-SE)
-      + [Söka efter och dela Adobe Workfront-objekt i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=sv-SE)
-      + [Skapa Adobe Workfront-uppgifter från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=sv-SE)
-      + [Skicka in Adobe Workfront-begäranden från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=sv-SE)
-      + [Hantera Adobe Workfront-meddelanden i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=sv-SE)
+      + [Adobe Workfront för Microsoft Teams - översikt](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [Installera Adobe Workfront för Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [Öppna Adobe Workfront från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [Söka efter och dela Adobe Workfront-objekt i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [Skapa Adobe Workfront-uppgifter från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [Skicka in Adobe Workfront-begäranden från Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [Hantera Adobe Workfront-meddelanden i Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [Förstå Workfront för [!UICONTROL Slack]](/help/integrations/slack/introduction-to-workfront-for-slack.md)

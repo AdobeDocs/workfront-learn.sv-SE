@@ -1,5 +1,5 @@
 ---
-title: Skicka och dela rapporter
+title: Skicka och dela rapporter effektivt
 description: Lär dig hur du skickar rapporter till användare, team eller e-postadresser, och hur du delar rapporter med vem som helst i Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8863
 last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
 
-# Skicka och dela rapporter
+# Skicka och dela rapporter effektivt
 
 I den här videon får du lära dig:
 
@@ -27,7 +27,7 @@ I den här videon får du lära dig:
 * Dela rapporter med vem som helst
 * Vad mottagarna kan se och göra med en Workfront-rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/3447816/?captions=swe&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
 
 ## Viktiga uppgifter
 
@@ -55,7 +55,7 @@ Skicka en rapport till dig själv varje måndag kl. 5 som ett Excel-kalkylblad. 
 1. Ändra formatet till Excel.
 1. Ange **[!UICONTROL Upprepningar]** till [!UICONTROL Veckovis].
 1. Ange [!UICONTROL Time] till 5.
-1. Ange [!UICONTROL Upprepningar &#x200B;] till måndag.
+1. Ange [!UICONTROL Upprepningar ] till måndag.
 1. Klicka på **[!UICONTROL Spara]**.
 
 >[!NOTE]

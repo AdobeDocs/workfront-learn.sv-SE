@@ -11,7 +11,8 @@ jira: KT-18770
 last-substantial-update: 2025-09-30T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+exl-id: 5be25b98-892e-4027-99fc-d03e2d6cc9cf
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -31,11 +32,11 @@ Det första du behöver göra innan du kan skapa en **rapport** på arbetsytan �
 
 [Introduktion till arbetsytans kontrollpaneler](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) visar hur du gör båda dessa steg för steg.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475385/?captions=swe&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3475381/?quality=12&learn=on&enablevpops=1)
 
 **Mer information finns i följande hjälpartiklar:**
-[Paneler på arbetsytan - översikt](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Redigera rapportfilter på en arbetsytans kontrollpanel](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
+[Paneler på arbetsytan - översikt](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Redigera rapportfilter på en arbetsytans kontrollpanel](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
 
 ## Rekommenderade självstudiekurser i detta ämne
 

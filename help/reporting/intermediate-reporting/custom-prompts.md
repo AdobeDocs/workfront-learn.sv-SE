@@ -1,5 +1,5 @@
 ---
-title: Skapa egna uppmaningar
+title: Skapa egna uppmaningar i textläge
 description: Lär dig vad en anpassad fråga är, hur du skapar en anpassad fråga i textläge och några exempel som du kan använda vid rapportering i Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-08-05T00:00:00Z
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# Skapa egna uppmaningar
+# Skapa egna uppmaningar i textläge
 
 I den här videon får du lära dig:
 
@@ -27,7 +27,7 @@ I den här videon får du lära dig:
 * Hur man skapar en egen fråga i textläge
 * Några exempel som du kan använda i din rapportering
 
->[!VIDEO](https://video.tv.adobe.com/v/3470511/?captions=swe&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0)
 
 ## Skapa anpassade uppmaningar
 

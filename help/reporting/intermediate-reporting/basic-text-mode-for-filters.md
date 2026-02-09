@@ -1,5 +1,5 @@
 ---
-title: Grundläggande textläge för filter
+title: Utforska det grundläggande textläget för filter i Workfront
 description: Lär dig mer om textläge, kamelläge och grundläggande textläge som du kan använda i rapportfilter i Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,26 +12,26 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
 
-# Grundläggande textläge för filter
+# Utforska det grundläggande textläget för filter i Workfront
 
 >[!PREREQUISITES]
 >
->* [Förstå rapportelement](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=sv-SE)
->* [Förstå rapportkomponenter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=sv-SE)
->* [Skapa ett enkelt filter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters.html?lang=sv-SE)
+>* [Förstå rapportelement](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [Förstå rapportkomponenter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [Skapa ett enkelt filter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters.html?lang=en)
 
 
 >[!TIP]
 >
 >* För att få en mer ingående förståelse för textläget rekommenderar vi att du tittar på den inspelade webbinarihändelsen [Fråga experten - Introduktion till textlägesrapportering](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting), som är en timme lång.
->* Om du vill veta mer om textläge rekommenderar vi att du tittar på självstudiekurserna [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=sv-SE) som tillsammans är fem och en halv timmars långa.
+>* Om du vill veta mer om textläge rekommenderar vi att du tittar på självstudiekurserna [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) som tillsammans är fem och en halv timmars långa.
 >* Klicka här för att komma åt [[!UICONTROL API-utforskaren]](https://developer.adobe.com/workfront/api-explorer/)
 
 
@@ -41,7 +41,7 @@ I den här videon får du lära dig mer om:
 * Kamerafodral
 * Vissa _kodblock för textläge_ som du kan använda i rapportfiltren
 
->[!VIDEO](https://video.tv.adobe.com/v/3470327/?captions=swe&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0)
 
 ## &quot;Förstå grundläggande textläge för filter&quot;-aktiviteter
 

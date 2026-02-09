@@ -1,6 +1,6 @@
 ---
-title: Förstå vyn för [!UICONTROL anslagstavlan]
-description: Effektivisera uppgiftshanteringen i Workfront med [!UICONTROL -gränssnittet för vyn &#x200B;]Board [!DNL Kanban]  som erbjuder sortering, skapande, anpassning och smidig integrering med uppgiftslistevyn för effektiv projektorganisation.
+title: Utforska styrelsvyn för uppgiftshantering
+description: Effektivisera uppgiftshanteringen i Workfront med [!UICONTROL -gränssnittet för vyn ]Board [!DNL Kanban]  som erbjuder sortering, skapande, anpassning och smidig integrering med uppgiftslistevyn för effektiv projektorganisation.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,18 +12,18 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
 
-# Förstå vyn för [!UICONTROL anslagstavlan]
+# Utforska styrelsvyn för uppgiftshantering
 
 I videon förklaras funktionen Styrelsevisning i Workfront, som är ett annat sätt att visa och hantera projektuppgifter. &#x200B; I vyn Styrelse visas uppgifter som kort på en panel i Kanban-stil, vilket gör att användare kan sortera, gruppera och flytta uppgifter inom eller mellan kolumner. &#x200B; När du flyttar en uppgift uppdateras dess status automatiskt, vilket återspeglas i uppgiftslistevyn. &#x200B; Användarna kan skapa nya kort som genererar nya uppgifter i projektet och redigera eller tilldela dem direkt i vyn Styrelse. &#x200B; Kolumner och kort kan konfigureras och uppgifter kan sekventieras med föregående aktiviteter i uppgiftslistvyn.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432419/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 

@@ -1,5 +1,5 @@
 ---
-title: Förstå [!UICONTROL Gantt]-vyn
+title: Utforska [!UICONTROL Gantt] -vyn för projekthantering
 description: Maximera projekteffektiviteten med Gantt-scheman, som erbjuder helbildsvisningar, förloppsspårning, milstolpe-hantering, föregående insikter och anpassningsbara alternativ för att effektivisera uppgifter och resurshantering.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
-# Förstå [!UICONTROL Gantt]-vyn
+# Utforska [!UICONTROL Gantt] -vyn för projekthantering
 
 I videon förklaras hur du använder Project Gantt Chart och Task Gantt Chart för att visualisera och hantera uppgifter och projekt effektivt. &#x200B; Gantt-scheman ger en helhetsbild av uppgifter, mallar och projekt och används ofta i portfolior för att förstå relationen mellan projekt, särskilt de som delar resurser. &#x200B;
 
@@ -40,9 +40,9 @@ I videon förklaras hur du använder Project Gantt Chart och Task Gantt Chart f�
 
 I videon betonas flexibiliteten i Gantt-scheman, vilket gör att användarna kan anpassa vyer och visa flera element samtidigt för bättre projekthantering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448010/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
-Du kan läsa mer online med artikeln [Kom igång med Gantt-schemat](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=sv-SE).
+Du kan läsa mer online med artikeln [Kom igång med Gantt-schemat](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=en).
 
 ## Viktiga uppgifter
 

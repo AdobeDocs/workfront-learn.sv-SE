@@ -1,5 +1,5 @@
 ---
-title: Förstå flera faktureringsräntor
+title: Anpassa faktureringsfrekvenser för jobbroller
 description: Anpassa och hantera faktureringsfrekvenser för jobbroller på projektnivå.
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
 
-# Förstå flera faktureringsräntor
+# Anpassa faktureringsfrekvenser för jobbroller
 
 I videon förklaras hur du hanterar och anpassar faktureringsfrekvenser för jobbroller i ett projekt. &#x200B;Det är flexibelt att fastställa flera faktureringssatser för samma roll och säkerställa korrekta tidsbaserade justeringar. &#x200B;
 

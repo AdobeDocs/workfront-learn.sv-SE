@@ -1,5 +1,5 @@
 ---
-title: Uppdatera ekonomi
+title: Uppdatera ekonomi för klientprojekt
 description: Effektivisera kostnadsuppföljning och fakturering genom att definiera taxor, tilldela kostnads- och intäktstyper till aktiviteter, hantera utgifter och skapa faktureringsposter. Workfront fakturerar inte själva.
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
 
 
-# Uppdatera ekonomi
+# Uppdatera ekonomi för klientprojekt
 
 Den här videon innehåller en detaljerad guide om spårningstid, utgifter och hur du skapar faktureringsposter för kundprojekt. &#x200B; Några viktiga punkter:
 

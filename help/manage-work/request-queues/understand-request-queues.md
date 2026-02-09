@@ -1,5 +1,5 @@
 ---
-title: Förstå begärandeköer
+title: Utforska köer i Workfront
 description: Effektivisera arbetet i Workfront med centraliserade köer för inlämning av material, effektiv köhantering och enkel åtkomst till inskickade begäranden för bättre arbetsflöden.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-# Förstå begärandeköer
+# Utforska köer i Workfront
 
 I den här videon förklaras konceptet med begärandeköer i Workfront, deras syfte och hur begäranden skickas och hanteras. &#x200B; Begärandeköer fungerar som en central plats för att skicka olika typer av förfrågningar. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447014/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 
