@@ -23,7 +23,7 @@ ht-degree: 0%
 Lär dig hur en administratör installerar en plan och hur en användare använder den. I det här exemplet ska vi installera&quot;Workfront Training for New Users&quot;-planen och använda de mallar och vyer som den skapar som en checklista för utbildning för att underlätta för användare i Workfront.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3479833/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3479838/?captions=swe&quality=12&learn=on&enablevpops=0)
 
 ## Viktiga uppgifter
 
