@@ -12,7 +12,7 @@ thumbnail: KT11038.png
 last-substantial-update: 2026-02-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 181f611224fc0a981008b04579aa9886594dc183
+source-git-commit: be157b67df534e0be0f58e8aa04a6646950541d0
 workflow-type: tm+mt
 source-wordcount: '1181'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Lär dig några grundläggande navigeringstips när du loggar in på Workfront F
 ## Förutsättningar
 
 1. För den här övningen krävs en testkörning från Workfront. Du kan begära en genom att fylla i [det här formuläret](https://forms.office.com/r/f1J8HRGrNY). Om du inte kan komma åt formuläret skickar du ditt namn, din e-postadress och ditt företagsnamn till wfttstdr@adobe.com.
-1. Fusion-övningar förutsätter att du har sett genomgången video som motsvarar övningen. I det här fallet är det [Genomgång av inledande scenariodesign](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=sv-SE).
+1. Fusion-övningar förutsätter att du har sett genomgången video som motsvarar övningen. I det här fallet är det [Genomgång av inledande scenariodesign](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
 
 
 ## Översikt över övningar
@@ -50,19 +50,19 @@ Skapa ett nytt projekt i Workfront för varje rad i CSV-filen för projektlistan
 
 1. Innan du kan ansluta till en Workfront-instans måste du först skapa en OAuth 2.0-anslutning i den Workfront-instansen. Om du vill logga in på Workfront-instansen går du till **Inställningar > System > OAuth2-program** och klickar på **Skapa appintegrering**.
 
-Fyll i formulärets första sida så som visas nedan och klicka på **Skapa**.
+   Fyll i formulärets första sida så som visas nedan och klicka på **Skapa**.
 
-![Designbild 3a för inledande scenario](../12-exercises/assets/initial-scenario-design-3a.png)
+   ![Designbild 3a för inledande scenario](../12-exercises/assets/initial-scenario-design-3a.png)
 
-När nästa skärm visas fyller du i fältet **Omdirigerings-URL:er** med följande URL:
+1. När nästa skärm visas fyller du i fältet **Omdirigerings-URL:er** med följande URL:
 
-`https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
+   `https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
-![Designbild för inledande scenario 3b](../12-exercises/assets/initial-scenario-design-3b.png)
+   ![Designbild för inledande scenario 3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
-Klicka sedan på knappen **Lägg till klienthemlighet** . Klienthemligheten visas. Kopiera den och spara den på en plats där du kan hämta den för ett framtida steg. Du kommer att behöva det i ditt Fusion-scenario. Kopiera och spara även **klient-ID** för ett framtida steg. När du är klar med kopieringen klickar du på **Spara** längst ned i programmet.
+1. Klicka sedan på knappen **Lägg till klienthemlighet** . Klienthemligheten visas. Kopiera den och spara den på en plats där du kan hämta den för ett framtida steg. Du kommer att behöva det i ditt Fusion-scenario. Kopiera och spara även **klient-ID** för ett framtida steg. När du är klar med kopieringen klickar du på **Spara** längst ned i programmet.
 
-![Designbild för inledande scenario 3c](../12-exercises/assets/initial-scenario-design-3c.png)
+   ![Designbild för inledande scenario 3c](../12-exercises/assets/initial-scenario-design-3c.png)
 
 1. I Fusion klickar du på knappen **Lägg till** för att skapa en anslutning till Workfront.
 
