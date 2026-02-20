@@ -8,14 +8,15 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
+last-substantial-update: 2026-02-19T00:00:00Z
 jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 10%
+source-wordcount: '130'
+ht-degree: 8%
 
 ---
 
@@ -35,7 +36,12 @@ I den här videon får du lära dig att:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
 
+## Här är den URL som ska klistras in i fältet **Omdirigerings-URL:er** när en OAuth-programintegrering skapas i testenhetsinstansen
+
+```
+https://app.workfrontfusion.com/oauth/cb/workfront-workfront
+```
 
 ## Vill du veta mer? Vi rekommenderar följande:
 
-[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/sv/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

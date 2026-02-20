@@ -9,12 +9,12 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
-last-substantial-update: 2025-06-02T00:00:00Z
+last-substantial-update: 2026-02-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
+source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '1181'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Lär dig några grundläggande navigeringstips när du loggar in på Workfront F
 ## Förutsättningar
 
 1. För den här övningen krävs en testkörning från Workfront. Du kan begära en genom att fylla i [det här formuläret](https://forms.office.com/r/f1J8HRGrNY). Om du inte kan komma åt formuläret skickar du ditt namn, din e-postadress och ditt företagsnamn till wfttstdr@adobe.com.
-1. Fusion-övningar förutsätter att du har sett genomgången video som motsvarar övningen. I det här fallet är det [Genomgång av inledande scenariodesign](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=sv-SE).
+1. Fusion-övningar förutsätter att du har sett genomgången video som motsvarar övningen. I det här fallet är det [Genomgång av inledande scenariodesign](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
 
 
 ## Översikt över övningar
@@ -48,19 +48,37 @@ Skapa ett nytt projekt i Workfront för varje rad i CSV-filen för projektlistan
 
    **Verifiera modulens anslutning till ditt Workfront-konto.**
 
-1. Om du vill skapa en anslutning för första gången klickar du på knappen Lägg till.
+1. Innan du kan ansluta till en Workfront-instans måste du först skapa en OAuth 2.0-anslutning i den Workfront-instansen. Om du vill logga in på Workfront-instansen går du till **Inställningar > System > OAuth2-program** och klickar på **Skapa appintegrering**.
 
-   ![Designbild för inledande scenario 3](../12-exercises/assets/initial-scenario-design-3.png)
+Fyll i formulärets första sida så som visas nedan och klicka på **Skapa**.
 
-1. Ge anslutningen ett namn, till exempel&quot;My Workfront 2020&quot;
+![Designbild 3a för inledande scenario](../12-exercises/assets/initial-scenario-design-3a.png)
 
-   ![Designbild för inledande scenario 4](../12-exercises/assets/initial-scenario-design-4.png)
+När nästa skärm visas fyller du i fältet **Omdirigerings-URL:er** med följande URL:
 
-1. Ange URL:en för **ditt Workfront-testenhetskonto** och klicka sedan på Nästa.
+`https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
-   ![Designbild för inledande scenario 5](../12-exercises/assets/initial-scenario-design-5.png)
+![Designbild för inledande scenario 3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
-1. Ange ditt lösenord och klicka på Logga in.
+Klicka sedan på knappen **Lägg till klienthemlighet** . Klienthemligheten visas. Kopiera den och spara den på en plats där du kan hämta den för ett framtida steg. Du kommer att behöva det i ditt Fusion-scenario. Kopiera och spara även **klient-ID** för ett framtida steg. När du är klar med kopieringen klickar du på **Spara** längst ned i programmet.
+
+![Designbild för inledande scenario 3c](../12-exercises/assets/initial-scenario-design-3c.png)
+
+1. I Fusion klickar du på knappen **Lägg till** för att skapa en anslutning till Workfront.
+
+   ![Designbild för inledande scenario 3d](../12-exercises/assets/initial-scenario-design-3d.png)
+
+1. Välj **Adobe Workfront-autentisering** som anslutningstyp och markera kryssrutan **Visa avancerade inställningar**. Klicka sedan på **Fortsätt**.
+
+   ![Designbild 4a](../12-exercises/assets/initial-scenario-design-4a.png) för inledande scenario
+
+1. Använd **klient-ID** och **klienthemlighet** som du sparade tidigare för att fylla i här. För **Autentiserings-URL** är det enklast att kopiera den standardautentiserings-URL som anges under fältet och ersätta `oauth.my` med `<domain name>.testdrive`. Klicka sedan på **Fortsätt**.
+
+   ![Designbild 5a](../12-exercises/assets/initial-scenario-design-5a.png) för inledande scenario
+
+1. Anslutningen bör autentiseras. Du kan behöva logga in på Workfront. Klicka på **Tillåt åtkomst**.
+
+   ![Designbild för inledande scenario 5b](../12-exercises/assets/initial-scenario-design-5b.png)
 
    **Anslutningen har upprättats. Ange dokument-ID för dokumentet som du vill hämta från Workfront.**
 
