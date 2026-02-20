@@ -34,7 +34,7 @@ I den här videon får du lära dig att:
 * Använda scenariodesignern
 * Skapa ett grundläggande scenario
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3480092/?captions=swe&quality=12&learn=on&enablevpops=1)
 
 **Här är den URL som ska klistras in i fältet &quot;Omdirigera URL:er&quot; när en OAuth-programintegrering skapas i testenhetsinstansen**
 
