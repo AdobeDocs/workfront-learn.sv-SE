@@ -40,9 +40,9 @@ Innan du tittar på dessa självstudiekurser bör du ha en:
 * En god förståelse för att använda anpassade formulär, särskilt beräknade anpassade fält.
 * En [!UICONTROL Plan]-licenstyp med behörighet att skapa rapporter och filter aktiverat.
 * Du borde ha gått dessa kurser:
-   * [[!UICONTROL Grundläggande rapportelement]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)
-   * [[!UICONTROL Skapa anpassade rapporter och instrumentpaneler]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
-   * [[!UICONTROL Skapa mellanliggande filter]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
+   * [[!UICONTROL Grundläggande rapportelement]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=sv-SE)
+   * [[!UICONTROL Skapa anpassade rapporter och instrumentpaneler]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=sv-SE)
+   * [[!UICONTROL Skapa mellanliggande filter]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=sv-SE)
 * Du bör också ha tagit dessa självstudiekurser:
    * [[!UICONTROL Förstå det grundläggande textläget för vyer]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=sv-SE)
    * [[!UICONTROL Förstå grundläggande textläge för grupperingar]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=sv-SE)
