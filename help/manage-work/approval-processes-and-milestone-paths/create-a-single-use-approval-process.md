@@ -1,6 +1,6 @@
 ---
-title: Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning
-description: Förbättra arbetsflödena för godkännande genom att utnyttja både globala godkännandeprocesser och godkännandeprocesser för enstaka användningsområden för uppgifter, projekt eller ärenden, implementera stegvisa godkännanden på flera nivåer och främja effektiviteten genom återanvändbarhet i projektmallar.
+title: Create and manage approval processes
+description: Enhance approval workflows by leveraging both global and single-use approval processes for tasks, projects, or issues, implementing multi-level staged approvals, and promoting efficiency through reusability in project templates.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -13,44 +13,44 @@ last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
 
-# Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning
+# Create and manage approval processes
 
-I videon förklaras hur du skapar och hanterar godkännandeprocesser för projekt, uppgifter eller problem, och skiljer mellan globala och fristående godkännandeprocesser.
-I videon visas hur du skapar godkännandeprocesser, ställer in godkännare, konfigurerar status och använder faser för godkännanden på flera nivåer.
-&#x200B;Den visar på flexibiliteten i både globala och fristående processer för effektiv hantering av godkännanden av uppgifter.
+The video explains how to create and manage approval processes for projects, tasks, or issues, distinguishing between global and single-use approval processes.
+The video demonstrates creating approval processes, setting approvers, configuring statuses, and using stages for multi-level approvals.
+&#x200B;It highlights the flexibility of both global and single-use processes for managing task approvals effectively.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434691/?quality=12&learn=on&enablevpops=1&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 ## Viktiga uppgifter
 
-* **Olika typer av godkännandeprocesser:** Det finns två typer: globala godkännandeprocesser (som delas mellan aktiviteter, projekt eller ärenden) och godkännandeprocesser för enstaka användning (som är specifika för en enstaka uppgift, projekt eller utgåva).
-* **Globala godkännandeprocesser:** Dessa skapas i avsnittet Inställningar > Processer > Godkännanden och kan aktiveras av specifika statusvärden. &#x200B; De kan omfatta flera godkännare eller stegvisa godkännanden.
-* **Godkännandeprocess för enstaka användning:** Dessa är objektspecifika och kan inte delas. &#x200B; De kan skapas från grunden eller genom att redigera en global godkännandeprocess och konvertera den.
-* **Godkännanden på flera nivåer:** Godkännandeprocesser kan omfatta flera godkännare samtidigt eller stegvis, vilket säkerställer sekventiella godkännanden innan nästa godkännare meddelas.
-* **Återanvändbarhet:** Godkännandeprocesser som bara används kan kopieras med uppgifter, projekt eller problem eller inkluderas i projektmallar, vilket gör det enkelt att replikera mellan projekt.
+* **Types of Approval Processes:** There are two types—global approval processes (shared across tasks, projects, or issues) and single-use approval processes (specific to a single task, project, or issue).
+* **Global Approval Processes:** These are created in the Setup > Processes > Approvals section and can be triggered by specific statuses. &#x200B; They can involve multiple approvers or staged approvals.
+* **Single-Use Approval Process:** These are object-specific and cannot be shared. &#x200B; They can be created from scratch or by editing a global approval process and converting it.
+* **Multi-Level Approvals:** Approval processes can include multiple approvers either simultaneously or in stages, ensuring sequential approvals before notifying the next approver.
+* **Reusability:** Single-use approval processes can be copied with tasks, projects, or issues or included in project templates, allowing for easy replication across projects.
 
 
 >[!TIP]
 >
->Du kan lägga till en enda godkännandeprocess för ett projekt eller en uppgift i en projektmall.
+>You can add a single use approval process for a project or task to a project template.
 
 >[!NOTE]
 >
->Du kan konfigurera ett enstaka godkännande av projekt och ärenden på samma sätt som beskrivs för uppgifter i videon.
+>You can set up a single use approval on projects and issues in the same way as described for tasks in the video.
 
 
 
 ## Rekommenderade självstudiekurser i detta ämne
 
-* [Delegera uppgifter, ärenden och godkännanden](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-* [Förstå gruppspecifika godkännandeprocesser](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-* [Skapa ett begärandeflöde](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Delegate tasks, issues, and approvals](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [Understand group-specific approval processes](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
+* [Create a request flow](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Använda en godkännandeprocess i en begärandekö](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 

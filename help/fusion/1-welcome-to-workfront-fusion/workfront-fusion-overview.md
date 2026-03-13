@@ -9,12 +9,13 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
+last-substantial-update: 2026-03-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 9%
+source-wordcount: '449'
+ht-degree: 8%
 
 ---
 
@@ -34,9 +35,9 @@ I vissa självstudiekurser skapar du ett nytt scenario från grunden. I andra sj
 
 ### Begär en Workfront testenhet
 
-För att kunna genomföra övningarna på Workfront Fusion Learning behöver du en testkörning från Workfront. Om du redan har en testkörning rekommenderar vi en ny.
+För att kunna genomföra övningarna i Workfront Fusion-självstudiekurserna behöver du en Workfront-aktiveringsmiljö, som även kallas **Workfront Test Drive**, under hela kursen. Om du redan har en testkörning rekommenderar vi en ny.
 
-Begär en testenhet genom att fylla i [det här formuläret](https://forms.office.com/r/f1J8HRGrNY). Om du inte kan komma åt formuläret skickar du ditt namn, din e-postadress och ditt företagsnamn till wfttstdr@adobe.com.
+Begär en testenhet genom att fylla i [det här formuläret](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg). När du fyller i formuläret uppmanas du att ange din **e-postadress för Adobe-certifieringsprofil**. Om du inte redan har en går du till [Adobe Certification-webbplatsen](https://certification.adobe.com/#) och skapar en användarprofil.
 
 ### Använd Workfront Fusion för övningar
 
@@ -60,6 +61,6 @@ Utmaningarna är för dem som vill prova något som inbegriper andra koncept som
 
 Du får stegvisa instruktioner som hjälper dig igenom genomgången.
 
-[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/sv/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion-dokumentation](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-Det finns också en [Workfront Fusion 2.0-community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=sv) där du kan ställa frågor.
+Det finns också en [Workfront Fusion 2.0-community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) där du kan ställa frågor.
