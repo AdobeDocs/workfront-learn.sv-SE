@@ -11,9 +11,9 @@ last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
-index: y
+index: true
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '943'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Starta din Workfront-resa genom att lära dig skapa och planera projekt. Workfro
 
 I den här självstudiekursen får du lära dig att skapa ett projekt, planera ett projekt, hantera ett projekt och stänga ett projekt.
 
-När du är klar med den här självstudiekursen rekommenderar vi [Hantera arbete - mellanliggande](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=sv-SE) för att ytterligare vässa dina kunskaper inom projektledning.
+När du är klar med den här självstudiekursen rekommenderar vi [Hantera arbete - mellanliggande](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html) för att ytterligare vässa dina kunskaper inom projektledning.
 
 >[!PREREQUISITES]
 >

@@ -5,8 +5,8 @@ feature: Work Management
 breadcrumb-title: Hantera arbete - mellanliggande
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -26,18 +26,18 @@ ht-degree: 0%
       + [Inaktivera en projektmall](deactivate-a-project-template.md)
       + [Redigera projektteamet i en projektmall](edit-the-project-team-in-a-project-template.md)
 
-   + Så här skapar och använder du godkännandeprocesser {#how-to-create-and-use-approval-processes}
+   + Skapa och använda godkännandeprocesser {#how-to-create-and-use-approval-processes}
       + [Skapa en global godkännandeprocess och en godkännandeprocess för enstaka användning](create-a-single-use-approval-process.md)
       + [Förstå gruppspecifika godkännandeprocesser](group-specific-approval-processes.md)
       + [Granska och godkänn digitalt arbete](review-and-approve-digital-work.md)
       + [Delegera uppgifter, ärenden och godkännanden](delegate-approvals.md)
 
-   + Så här skapar och använder du milstolpar {#how-to-create-and-use-milestones}
+   + Skapa och använda milstolpar {#how-to-create-and-use-milestones}
       + [Skapa milstolpar](creating-milestones.md)
       + [Använd milstolpar](apply-milestones.md)
       + [Visa milstolpar](view-milestones.md)
 
-   + Arbeta med problem {#how-to-work-with-issues}
+   + Så här arbetar du med problem {#how-to-work-with-issues}
       + [Hantera oplanerade arbeten](handle-unplanned-work.md)
       + [Gör en förfrågan](make-a-request.md)
       + [Söka efter och hantera förfrågningar](find-requests.md)
@@ -47,7 +47,7 @@ ht-degree: 0%
       + [Konvertera ett problem/en begäran till en uppgift](convert-issues-to-other-work-items.md)
       + [Rapportera problem](report-on-issues.md)
 
-   + Diggar djupare {#digging-deeper}
+   + Förvräng djupare {#digging-deeper}
       + [Förstå och hantera varaktighetstyper och uppgiftsbegränsningar](understand-and-manage-duration-types-and-task-constraints.md)
       + [Förstå föregångare inom projekt mellan olika projekt](understand-cross-project-predecessors.md)
       + [Avancerade föregångare](advanced-predecessors.md)

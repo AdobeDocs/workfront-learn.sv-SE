@@ -5,11 +5,11 @@ feature: Work Management
 breadcrumb-title: Hantera arbete - komma igång
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 0%
       + [Förstå [!UICONTROL Gantt]-vyn](understand-the-gantt-view.md)
       + [Förstå vyn för [!UICONTROL anslagstavlan]](understand-the-board-view.md)
 
-   + Stäng ett projekt {#close-a-project}
+   + Stänga ett projekt {#close-a-project}
       + [Ändra projektstatus till slutförd](change-the-project-status.md)
       + [Fullständiga godkännanden](complete-approvals.md)
       + [Överför resurser](upload-assets.md)
