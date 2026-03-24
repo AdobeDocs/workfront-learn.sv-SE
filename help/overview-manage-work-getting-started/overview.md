@@ -26,7 +26,7 @@ Starta din Workfront-resa genom att lära dig skapa och planera projekt. Workfro
 
 I den här självstudiekursen får du lära dig att skapa ett projekt, planera ett projekt, hantera ett projekt och stänga ett projekt.
 
-När du är klar med den här självstudiekursen rekommenderar vi [Hantera arbete - mellanliggande](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html) för att ytterligare vässa dina kunskaper inom projektledning.
+När du är klar med den här självstudiekursen rekommenderar vi [Hantera arbete - mellanliggande](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=sv-SE) för att ytterligare vässa dina kunskaper inom projektledning.
 
 >[!PREREQUISITES]
 >
